@@ -1,0 +1,448 @@
+1-O que são veículos?
+Veículos, são objetos produzido pela arte mecânica, com ou sem motor, destinado a transportar pessoas ou mercadorias.
+2-Como classificam os veículos?
+Os veículos classificam em automóveis e não automóveis.
+3-O que são veículos automóveis?
+Veículos automóveis, são veículo munido de motor de cilindrada superior a 50 cm3, que se movem pelos seus próprios meios.
+4-Como classificam os veículos automóveis?
+Os veículos automóveis classificam em: ligeiros, pesados e motociclos.
+5-O que são veículo automóveis ligeiros?
+ Veículo automóveis ligeiros, são veículo cuja a lotação, não excede 9 lugares incluindo condutor, e o peso bruto também não excede 3500 kg.
+6-Que tipo de automóveis ligeiro conheces?
+Os veículos automóveis ligeiros classificam em: ligeiro de passageiro, mercadoria, misto.
+7-O que são veículos automóveis pesados?
+Veículos automóveis pesados, são veículo cuja a lotação, excede 9 lugares incluindo condutor, e o seu peso bruto excede 3500 kg.
+8-Como classificam os veículos automóveis pesados?
+Os veículos automóveis pesados classificam em pesado de passageiros e pesado de mercadorias.
+9-O que são motociclos?
+Motociclo, são veículo munido de motor de cilindrada superior a 50 cm3, que não podemos considerar automóveis ligeiros.
+10-Como classificam os motociclos?
+Os motociclos classificam em simples e com carro lateral, (atualmente temos moto-carinhas)
+11-Qual lotação máxima para um motociclo simples?
+A lotação máxima para motociclo simples é de 2 lugares.
+12-Qual é a lotação máxima para um motociclo com carro lateral?
+A lotação máxima para motociclo com carro lateral é de 3 lugares.
+13-O que são ciclomotores?
+Ciclomotores, são veículos munido de motor de cilindrada inferior a 50 cm3.
+14-O que são hipomóveis?
+Hipomóveis, São veículo de tração animal.
+15-Porquê que os hipomóveis são considerados veículos de tração animal?
+Hipomóveis são considerados veículos de tração animal, porque movem pelo esforço de animal
+16-O que são velocípedes?
+Velocípedes, são veículos de duas ou mais roda acionadas por pedais e destinados a andar pelo esforço do condutor. Temos 3 tipos de velocípedes que são, velocípede simples, com dispositivo análogo e com motor auxiliar.
+17-Como classificam os velocípedes?
+Os velocípedes classificam em: simples, com dispositivo análogo, e com motor auxiliar.
+18-O que é um comboio de veículo?
+Comboio de veículo, é um conjunto de veículo formado por várias viaturas.
+19-O que são tratores!?
+Tratores, são veículos automóveis de grande esforço que não suporta carga útil.
+20-Como classificam os tratores?
+Os tratores classificam em tratores agrícolas e tratores de tração.
+21-Qual é o comprimento máximo para um veículo automóvel?
+O comprimento máximo para um veículo automóvel é de 12 metros sem reboque, se for com semirreboque é de 18.75 metros, e se for com reboque é de 22 metros.
+22-Qual é a largura máxima de um veículo automóvel?
+A largura máxima para um veículo automóvel é de 2.55 metros. Para veículo automóvel com caixa frigorífica, a largura máxima é de 2.60 metros.
+23-Qual é a altura máxima para um veículo automóvel?
+A altura máxima para um veículo automóvel é de 4 metros a começar de solo.
+24-Em que caso um veículo pode exceder a sua largura móvel!?
+Um veículo pode exceder a sua largura móvel, quando houver uma carga que não pode ser demolida. Tem que pedir uma autorização na secção da viação, só poderá exceder 25 cm sendo 12,5 cm para cada lado, só poderá transitar numa faixa de rodagem com uma largura que seja superior à 6 metros e acompanhado por um agente de autoridade.
+25-O que são semáforos?
+Semáforos, são sinal luminoso reguladores de trânsito.
+26-Quais são as cores das luzes de sinal luminoso regulador de trânsito?
+As cores das luzes de sinal luminoso reguladores do trânsito são: vermelha, verde e amarela.
+27-Para que serve a luz vermelha do sinal luminoso regulador de trânsito?
+A luz vermelha, obriga-nos a parar antes de atingir a zona protegida pelo sinal.
+28-Para que serve a luz verde sinal luminoso regulador de trânsito?
+A luz verde, indica-nos passagem livre.
+29-Para que serve a luz amarela constante sinal luminoso regulador de trânsito?
+A luz amarela constante, indica ao condutor se tiver tempo, deve parar com devida segurança antes de atingir a zona protegida pelo sinal, e se o condutor já estiver dentro da zona protegida pelo sinal deve seguir sem hesitação.
+
+30-Para que serve a luz amarela intermitente!?
+A luz amarela intermitente, indica ao condutor para atender as regras de prioridade.
+Ela só aparece quando o semáforo se encontra temporariamente suspenso, sendo assim alertando o condutor a necessidade de respeitar a regra de prioridade na ausência de qualquer outra sinalização.
+31-Quais são as luzes obrigatória num veículo automóvel?
+As luzes obrigatórias num veículo automóvel são, para frente luz máxima, média, mínima e indicadores de direção. Na retaguarda os mesmos indicadores de direção, luz de presença, luz de travagem e a luz de chapa matrícula que deve ser legível a 20 metros e visível a 150 metros.
+32-A que distância projeta uma luz máxima ou luz de estrada?
+A luz máxima projeta pelo menos 100 metros.
+33-A que distância projeta a luz média ou luz de cruzamento?
+A luz média projeta 30 metros.
+34-A que distância projeta uma luz mínima e a luz de presença?
+A luz mínima e a luz de presença não projetam, mas é visível a 150 metros.
+35-A que distância projeta uma luz de retaguarda?
+A luz de retaguarda, projeta 10 metros para o solo.
+36-Como devem ser utilizadas as luzes nas estradas e nas cidades!?
+Dentro das localidades bem iluminada, os médios. Os máximos nas localidades mal iluminadas e os médios quando se vai cruzar com outro veículo automóvel ou fazer ultrapassagem, nesse caso deve também utilizar os indicadores da direção.
+37-Como é regulada a velocidade nas estradas e nas cidades?
+A velocidade nas estradas e nas cidades, é regulada olhando a característica do veículo, a intensidade do trânsito, as condições da via, a segurança do condutor e a visibilidade da mesma.
+38-Quais são os sinais verticais que tu conheces?
+Os sinais verticais são, perigo, prescrição absoluta, e simples indicação.
+39-O que nos indica os sinais de prescrição absoluta?
+Os sinais de prescrição absoluta, indica-nos uma proibição e uma obrigação a cumprir.
+40-Que sinais gráficos conheces?
+Conheço os sinais gráficos verticais, e marcado no pavimento.
+41-Quais são os sinais marcado no pavimento que conheces?
+Os sinais marcados no pavimento que conheço são, linha contínua, linha descontínua, linha mista, linha transversal contínua, banda em zebra, setas de orientação e raias oblíquas.
+42-Para que serve a linha contínua?
+A linha contínua indica ao condutor para transitar sempre a sua direita, não podendo pisa-la ou transpô-la porque se encontra em local perigoso.
+
+
+43-Para que serve a linha descontinua?
+A linha descontínua indica ao condutor para transitar sempre a sua direita, só podendo pisa-lo ou transpô-lo para efeito de qualquer manobra.
+44-Para que serve a linha mista?
+A linha mista é junção da linha contínua mais a linha descontínua. Ela indica ao condutor, quer para efeito de qualquer manobra, o condutor deve pisar da linha descontínua para a linha contínua.
+45-Para que serve uma raia oblíquas?
+Raia oblíquas, serve para delimitar áreas perigosas existente dentro da faixa de rodagem.
+46-Para que serve a linha transversal contínua!?
+Linha transversal contínua, serve para marcar a travessia de piões na zona protegida pelo sinal.
+47-Quais são as cores que assinalam a faixa de rodagem?
+As cores que assinalam a faixa de rodagem são, vermelhas que assinala berma direita da faixa de rodagem; branca que assinala berma esquerda da faixa de rodagem; e amarela que assinala placa, obra, obstáculo, refúgio existente na faixa de rodagem.
+48-Para que serve a pré-sinalização de perigo?
+Pré-sinalização de perigo, serve para ser colocado na reta guarda do veículo, a uma distância de 30 metros para ser visível á 100 metros, pra efeito de carga e descarga, carga caída no pavimento, e avarias súbitas ou acidente. Se a distância de 30 metros não for visível á 100 metros, devemos colocá-lo numa distância que seja visível á 100 metros.
+49-Que cor tem a pré-sinalização de perigo!?
+Pré-sinalização de perigo pode ser de cor vermelha ou laranja.
+50-Que cor tem o sinal de reboque!?
+O sinal de reboque, tem cor azul e amarelo.
+51-Em caso de acidente como deve proceder o condutor?
+Em caso de acidente, o condutor deve primeiramente socorrer os feridos o mais rápido possível, e em seguida apresentar-se as autoridades.
+52-Onde é proibido buzinar?
+É proibido buzinar, dentro das localidades, pertos dos hospitais, creches, escolas, onde existe aglomeração de pessoas, e onde encontro o sinal de proibição de utilizar sinais sonoros.
+53-Como se deve estacionar veículo na via pública?
+Para estacionar veículo na via publica, verifico se local é próprio, e se não existe nenhuma sinalização indicando o contrário. Caso não, encosto o mais possível á direita. Se for a descer viro as rodas frente para os passeios e engreno na mudança de retaguarda, e se for a subir engreno na mudança de primeira. Também, se for num local de má visibilidade devemos deixar a luz de presença acesa e acionar o travão de mão antes de sair do veículo.
+54-O que entendes por velocidade?
+Velocidade, é o percurso feito por um móvel numa unidade de tempo.
+55-Como classifica a velocidade?
+A velocidade classifica-se em velocidade instantânea, velocidade média e velocidade excessiva.
+
+56-O que entendes por velocidade excessiva?
+Velocidade excessiva, é uma velocidade em que o condutor não consegue parar num espaço livre e visível a sua frente.
+
+57-O que entendes por visibilidade reduzida?
+Visibilidade reduzida, é sempre que o condutor não consegue avistar a faixa de rodagem em toda a sua largura, numa extensão de 50 metros.
+58-Qual a velocidade máxima para automóveis pesados!?
+As velocidades máximas para automóveis de mercadoria cujo o peso não excede 10.000 kg, dentro de uma localidade é de 50 km/h, fora de localidade é de 70 km/h. Quando o seu peso excede 10.000 kg, dentro de uma localidade a velocidade máxima é de 50 km/h e de 60 km/h fora da localidade.
+Para automóveis pesados de passageiro dentro da localidade a velocidade máxima é de 50 km/h, fora da localidade a velocidade máxima é de 70 km/h. exceto nas autoestradas que podem chegar aos 80 ou 90 km/h.
+Para tratores com ou sem reboque, dentro das localidades a velocidade máxima é de 30 km/h, fora das localidades a velocidade máxima é de 40 km/h.
+59-Para que servem os fusíveis?
+Os fusíveis, servem para evitar que a instalação elétrica se queime em caso de curto-circuito. Geralmente estão montados numa caixa. Há um fusível para cada curto-circuito.
+60-Qual é o tipo de lubrificante que se usa para diferencial e caixa de velocidade?
+O lubrificante usado para diferencial e caixa de velocidade é valvulina, ou seja, óleo 90 ou 140.
+61-Que instrumentos indicadores conhecem!?
+Os instrumentos indicadores são: Liquídometro, Amperímetro, Termómetro, manómetro de óleo, velocímetro, e conta rotação.
+Liquidómetro, serve para indicar nível de combustível existente no depósito.
+Termómetro, serve para indicar a temperatura do motor.
+Amperímetro, serve para indicar carga ou descarga na a bateria feita pelo o dínamo.
+Manómetro de óleo, serve para indicar a pressão que a bomba de óleo está a enviar a todos os pontos a lubrificar dentro motor. Nos carros de travão de ar comprimido existe um manómetro de ar, que serve para indicar a pressão de ar existente na botija.
+Velocímetro, serve para indicar a velocidade instantânea.
+Conta rotação, que indica a rotação do motor por minuto.
+62- Para que serve o liquidómetro?
+Liquidómetro, serve para indicar nível de combustível existente no depósito.
+63- Para que serve o amperímetro?
+Amperímetro, serve para indicar quando o dínamo faz carga ou descarga sobre a bateria.
+64- Para que serve termómetro?
+Termómetro, serve para indicar a temperatura do motor.
+65- Para que serve manómetro de óleo?
+Manómetro de óleo, serve para indicar a pressão que a bomba de óleo está a enviar a todos os pontos a lubrificar dentro motor. Nos carros de travão de ar comprimido existe um manómetro de ar, que serve para indicar a pressão de ar existente na botija.
+66-Se o motor parar por si só o quê que o condutor deve fazer!!?
+Se o motor para por si só, o condutor deve começar pelo o sistema de alimentação, verificando se há combustível no depósito e ver se chega ao carburador. Se não for o sistema de alimentação, verifica o sistema de inflamação, começando pela bateria, verificando se ela tem corrente e ver se chega as velas. Se não chega deve verificar o distribuidor, começando pelos platinados ver se estão sujos, apertado demais ou se o condensador está queimado. Se a corrente não chega ao distribuidor é porque as bobines estão queimadas.
+67-Se o condutor conduzir por muito tempo com pé sobre pedal de embreagem o que pode acontecer!!?
+Conduzir por muito tempo com pé sobre pedal de embreagem, obrigará o disco a fazer muito esforço, podendo assim queimar o disco, o carvão como também os rolamentos.
+68-Quando é que um veículo não automóvel tem prioridade?
+Um veículo não automóvel tem prioridade, quando o veículo circula numa via com prioridade ou uma via reservada.
+69-Como procede o condutor numa descida perigosa!?
+Numa descida perigosa, o condutor deve engrenar mudança de força e usar o motor com o travão.
+70-Como devemos circular com os veículos nas vias pública!?
+A circulação nas vias pública, deve ser feita pelo lado direito da faixa de rodagem perto das bermas ou passeios.
+71-Qual é a eficiência dos travões do veículo automóvel?
+Para obter a eficiência dos travões do veículo automóvel, devo multiplicar a velocidade por velocidade, e dividido por 100 se for com travão do pé, e dividido por 50 se for com travão de mão.
+72-Como deve preceder o condutor numa descida de forte inclinação?
+Numa descida de forte inclinação, o condutor deve engrenar o veículo a uma velocidade igual aquela que seja precisa para subir mesma rampa.
+73-O que entendes por veículo prioritários?
+Veículo prioritários, são todos aqueles que partem em missão de urgência ou socorro.
+74-O que é via?
+Via é o cenário onde o trânsito se desenrola.
+75-O que são vias públicas?
+Vias publicas, são todas as estradas, ruas e caminhos, onde circulam piões, animais e veículos que se fazem livremente com as prescrições resultantes do código de estrada e com algumas legislações complementares.
+76-Como classificam as vias públicas?
+As vias publicas classificam em: estradas, autoestradas, ruas e caminhos.
+77-O são autoestrada?
+Autoestrada, é uma via destinado ao tráfego rápido, com separação de correntes de trânsito, com acesso condicionado, sem cruzamento ao nível nem acesso a propriedades marginais e sinalizada como tal.
+78-O que não se pode fazer numa autoestrada?
+Numa autoestrada o condutor não pode parar, estacionar, marcha trás, fazer inversão de sentido de marcha, transitar a menos de 50 km/h, pisar na faixa separadora de trânsito, ensino de condução, transitar sem luz mesmo em caso de avaria.
+79-Nas autoestradas há cruzamentos?
+Sim, nas autoestradas, vamos encontrar cruzamento desnivelado através de ponte ou túneis.
+80-O que entendes por estrada?
+Estradas, são pequenas via de comunicação terrestre, destinado ao trânsito interurbano.
+81-O que são ruas?
+Ruas, são pequenas vias de comunicação terrestre, destinado ao trânsito dentro das localidades.
+82-O que entendes por caminhos?
+Caminhos, são pequenas vias de comunicação terrestre, destinado ao trânsito nas zonas rurais.
+83-Como classificam os caminhos?
+Caminhos classificam-se em: caminho proposto e caminho ver sinal.
+84-Em que caso se transita pela esquerda?
+Podemos transitar pela esquerda quando vamos efetuar uma ultrapassagem ou mudança de direção para esquerda numa via de sentido único.
+85-Para que lado deve ser contornado as placas ou obstáculos que encontramos no eixo da via?
+Devem ser contornados sempre pelo lado direito desde que não haja sinalização em contrário.
+86-O que entendes por marcha trás?
+Marcha trás é a manobra que se faz circulando de frente para trás.
+87-Como é feita marcha trás?
+Marcha trás é feita lentamente num menor trajeto possível.
+88-Como se classifica marcha trás?
+Manobras de recurso, manobra auxiliar de recurso numa passagem tem de recuar um dos auxiliares para estacionar.
+89-Onde é proibido fazer marcha trás?
+É proibido fazer marcha trás, nas curvas, cruzamento e entroncamentos, pontes, túneis, lombas e em todo locais de má visibilidade.
+90-Qual é a diferença entre marcha trás e a retaguarda?
+A diferença entre marcha trás e retaguarda, é que marcha trás é nome de manobra enquanto a retaguarda é nome de mudança.
+91-Qual é a distância que deves manter entre si e o veículo que circula a sua frente?
+Devo manter uma distância que me permite parar sem o perigo de embater no veículo que circula a minha frente, se o mesmo travar de repente.
+92-O que entendes por manobras perigosas?
+Manobras perigosas, são todas aquelas que podem causar perigo tanto ao condutor, como para restante dos utentes da via pública.
+93-O que entendes por ultrapassagem?
+Ultrapassagem, é passar para frente de um veículo em andamento.
+94-Por que lado é feita a ultrapassagem?
+Normalmente a ultrapassagem é feita pelo lado esquerdo, mas também podemos ultrapassar pelo lado direito quando o veículo que circula a nossa frente fizer o sinal de pisca á esquerda e nos deixa a direita livre. Também, podemos ultrapassar um carro elétrico em andamento, desde que não esteja parado para pegar ou largar passageiro, salvo se houver uma placa para refúgio de piões.
+95- Como procede o condutor para fazer ultrapassagem!?
+Primeiramente verifica se o local é próprio, e se não há nenhuma sinalização que me proíba. Depois disso avisa o condutor da frente a sua intenção, se for de dia usa sinal sonoro e se for de noite faz corte de luzes. Em seguida abro o sinal de pisca a esquerda e através do espelho retrovisor verifico na minha retaguarda sem não vem nenhum veículo com a mesma intensão. Caso não, acelero a marcha para esquerda e só retoma a minha direita depois de assegurar que não causo perigo ao veículo já ultrapassado.
+96-Como procede o condutor para fazer uma mudança de direção a esquerda!?
+Primeiramente verifica se o local é próprio, e se não há nenhuma sinalização que me proíba. Depois olha no espelho retrovisor se vem algum veículo com intenção de me ultrapassar, caso não abro o sinal de pisca a esquerda e aproximo do eixo da via se for uma via de dois sentidos, ou aproximo o mais possível a esquerda se for uma via de um sentido. Ao chegar no cruzamento ou entroncamento atende as regras de prioridade e faz a sua manobra mais perpendicular da direção que pretende seguir.
+97-O que entendes por prioridade de passagem?
+Prioridade de passagem é o direito de passar em primeiro lugar.
+98-Nos cruzamentos e entroncamentos quem tem o direito de passar em primeiro lugar?
+Nos cruzamentos e entroncamento, tem direito de passar em primeiro lugar todos aqueles que apresentam pela direita, ou os que tiverem a direita livre, com exceção de veículos não automóveis tais com veículo de tração animal, velocípedes, carros de mão e condutores de animais.
+99-Em que caso os veículos perdem prioridade mesmo que se apresentam pela direita?
+Quando depara com sinal de aproximação de estrada com prioridade, paragem obrigatória, a luz vermelha do sinal semáforos, quando o agente regulador do trânsito manda parar, ou quando pela esquerda apresentar veículos em missão de socorro ou emergência com a marcha devidamente assinalada, tais como ambulância, bombeiro, carro de polícia ou qualquer veículo que vá transportar doente ou feridos, ou também quando deparo com colunas militares ou militarizadas.
+100-Nos cruzamentos e entroncamentos em que caso o veículo tem prioridade mesmo apresentando pelo lado esquerdo!?
+Quando depara com sinal de via com prioridade, aproximação de estrada sem prioridade, perante luz verde de sinal luminoso, quando o agente regulador de trânsito manda avançar, quando ainda o condutor transporta doentes ou feridos com marcha devidamente assinalada, ou quando pela direita apresentam veículos não automóveis tais como, velocípedes, veículo de tração animal, carros de mão e condutor de animais.
+101-Quais são os documentos que nos habilitam conduzir?
+Os documentos que nos habilitam de conduzir são, carta de condução ou licença de condução.
+102- Quais são os documentos que devemos ter quando circulamos com os veículos automóveis na via pública?
+Para circular com os veículos na via publica, precisamos ter bilhete de identidade, carta de condução, livrete de veículo, registo de propriedade, imposto de circulação e apólice de seguro se tiver.
+103-Onde é proibido parar e estacionar?
+É proibido parar e estacionar, dentro das localidades a menos que 5 metros, fora da localidade a menos que 50 metros das curvas, pontes, tuneis, cruzamento ou entroncamentos, passagem de nível, passadeira para piões, locais de má visibilidade, e onde encontrar sinal de proibição de parar ou estacionar.
+104-Quais são acessórios para um veículo automóvel?
+Os acessórios de um veículo automóvel são, espelho retrovisor, cinto de segurança, pala para o sol, limpa para-brisas, sinal de pré-sinalização de perigo, chave de roda, macaco de elevação, e pneu suplente.
+105-Quais são os acessórios para um motociclo?
+Os acessórios para um motociclo são, capacete, luvas, botas, óculos, joelheiras, e espelho retrovisor lateral.
+106-Qual é o limite de peso bruto sobre o solo?
+O limite de peso bruto sobre o solo para aro pneumático é de 150 kg por centimetro^2, enquanto que para aro metálico é de 80 kg por centimetro^2.
+107-Com a carta de categoria B que veículos posso conduzir?
+Com a carta de categoria B, posso conduzir todos os veículos, cujo a lotação não excede 9 lugares incluindo o condutor, e o seu peso bruto não excede 3500 kg. Também, posso conduzir trator agrícola, desde que a sua tara não exceda 3500 kg, e se for com reboque o seu peso bruto não exceda a 6000 kg.
+108-Quais são os cuidados que o condutor deve ter antes de iniciar uma viagem?
+Antes de iniciar uma viagem, o condutor deve verificar a pressão do ar nos pneus, água no radiador, nível de óleo no motor, quantidade de combustível no depósito, óleo no travão, chave de roda, macaco de elevação, pneu suplente, e sinal de pré-sinalização de perigo.
+109-Quais são os fatores integrante na circulação rodoviária?
+Os fatores integrantes na circulação rodoviária são, o homem, a via e o veículo.
+O homem é o fator mais importante, e atua como: condutor, passageiro e pião.
+A via cenário onde o trânsito se desenrola.
+O veículo é o elo de ligação entre o condutor e a via.
+110-Qual dos três fatores integrante na circulação rodoviária é o mais importante?
+Na circulação rodoviária, o fator integrante mais importante é o homem.
+111-Qual é o papel do homem na circulação rodoviária?
+Na circulação rodoviária, o homem é um protagonista que atua na via desempenhando fundamentalmente três papéis: como condutor, como passageiro, e como pião.
+112-O que entendes por condutor!?
+Condutor, é um indivíduo responsável pelo comando de ações do veículo nas vias públicas.
+113-O que são peões?
+Os peões, são elemento de extrema fragilidade em relação ao veículo que circulam na via pública.
+114-Qual é o papel do veículo na circulação rodoviárias?
+O veículo, é o elo de ligação entre o condutor e a via.
+115-O que entendes por passagem de nível?
+Passagem de nível, é a interseção da estrada rodoviária e a estrada ferroviária.
+116-Quais são os sinais que vamos encontrar ao iniciar uma autoestrada?
+Ao iniciar uma autoestrada, vamos encontrar os sinais de existência de uma autoestrada, sinal de trânsito proibido para piões animais e para todo o veículo que não seja automóvel ou motociclos, sinal de cedência de passagem e o sinal de velocidade mínima obrigatória.
+117-Como estão constituídas as vias públicas?
+As vias publicas estão constituídas por passeios, bermas, e faixa de rodagem.
+118-Para que servem os passeios?
+Passeio, é uma parte da via pública destinado a trânsito de piões.
+119-Para que serve a faixa de rodagem?
+A faixa de rodagem é uma parte de via pública destinado ao trânsito de veículos.
+120- Por onde entramos e saímos numa autoestrada?
+Entramos e saímos numa autoestrada através de ramais do acesso.
+121-Em que caso deve o condutor utilizar os sinais óticos?
+O condutor deve utilizar os sinais óticos na ausência de indicadores de direção.
+122-Onde é colocado o sinal de reboque?
+O sinal de reboque, é colocado na parte superior do tejadilho do veículo.
+123-Quanto tipo de agente conhece?
+Conheço dois tipos de agente, que são, regulador de trânsito e fiscalizador de trânsito.
+124-Quantas ordens nos dão um agente regulador de trânsito?
+Os agentes reguladores de trânsito nos dão duas ordens: parar e avançar.
+125-A que distância deve ser colocado o sinal de perigo um do outro?
+A distância que deve-se colocar os sinais de perigo um do outro varia entre 150 metros á 300 metros.
+126-Perante o sinal de existência de um hospital qual é o sinal que entra imediatamente em vigor?
+Perante o sinal de existência de um hospital, entra imediatamente em vigor o sinal de proibição de utilizar sinais sonoros.
+127-O que entende por cruzamento ao nível?
+Cruzamento ao nível, é a junção de duas ou mais vias rodoviárias que se cruzam ao mesmo nível.
+128-O que entendes por eixo da via?
+Eixo da via, é uma linha imaginária ou materializada que divide a faixa de rodagem em duas lados iguais.
+129- Em que caso o condutor aproxima o eixo da via?
+O condutor aproxima-se do eixo da via, quando se pretende mudar de direção à esquerda numa via de dois sentidos.
+130-Quantos tipos de travão conheces?
+Conheço três tipos de travão, que são, travão hidráulico, travão mecânico e travão de ar comprimido.
+131- Quais são as modalidades de travão que conheces?
+As modalidades de travão são, travão de mão ou estacionamento, travão de pé ou serviço.
+132-Como deve proceder o condutor para retroceder numa autoestrada!?
+Para retroceder em uma autoestrada, o condutor deve continuar até encontrar um nó de ligação, que lhe permite entrar ou sair numa autoestrada através de ramais de acesso.
+133-Quantas matrículas têm um carro?
+O carro tem apenas uma matrícula, e duas chapas de matrículas (uma chapa á frente do veículo e outra atrás).
+134-Como deve ser feita a circulação de trânsito fora das localidades?
+A circulação de trânsito deve ser feita sempre pelo lado direito, só podendo ocupar a faixa mais esquerda, quando pretende mudar de direção para esquerda ou fazer uma ultrapassagem.
+135-Porquê que o trânsito de veículo é feito pelo lado direito?
+O trânsito de veículo é feito pelo lado direito, para evitar acidentes.
+136-Em que caso pode-se utilizar os passeios?
+Pode-se utilizar os passeios, apenas quando o mesmo dá acesso a nossa residência.
+137-Qual é a idade mínima para conduzir?
+- Para os motociclos, as idades mínimas são de 18 anos.
+- Para automóveis, ligeiros as idades mínimas são de 18 anos.
+- Para automóveis, pesados as idades mínimas são de 21 anos.
+- Para ciclomotores, as idades mínimas são de 16 anos.
+138-Quais são as categorias de veículo que conheces?
+- Categoria A: motociclos.
+- Categoria B: automóveis ligeiros.
+- Categoria C: automóvel pesado de mercadoria.
+- Categoria D: automóvel pesado de passageiro.
+- Categoria E: Reboque.
+139-O que entendes por tara?
+A tara é o peso real do veículo.
+140-O que é peso bruto?
+Peso bruto é o peso do veículo mais a carga máxima, que um veículo está autorizado a transportar.
+Peso total é o peso de veículo mais o peso da carga a sendo transportado no momento.
+141-Qual é a peça mais estúpida do veículo?
+A peça mais estupida do veículo é o condutor.
+142-Como deve ser feita uma descarga num veículo automóvel?
+O condutor deve fazer a descarga num veículo automóvel, num lugar permitido de modo a não criar embaraço no trânsito.
+143- O que são vias equiparadas?
+Vias equiparadas, são vias semelhantes a uma autoestrada reservadas ao trânsito de automóvel e motociclo.
+144-Porquê que um ciclomotor não pode circular numa autoestrada?
+Ciclomotor não pode circular numa autoestrada, porque a sua cilindrada é inferior a 50 centímetro cúbico.
+145-O que entendes por acesso condicionado?
+Acesso condicionado, são todos acessos permitido aos veículos automóveis, desde que não sejam tratores.
+146-O que é um reboque?
+Reboque é um veículo não automóvel destinado a atrelar um veículo automóvel.
+147-Quais são as funções da luz de presença?
+As funções da luz de presença, são de marcar a presença e a dimensão do veículo.
+148-O condutor a sair de uma autoestrada vai deparar com que via?
+Ao sair de uma autoestrada, o condutor irá deparar com uma via de dois sentidos.
+149- Quantos sinais de cedência de passagem conhecem?
+Eu conheço 12 sinais de cedência de passagem. 7 em que eu ganho passagem e 5 que eu perco passagem.
+150-Qual é a função de placa separadora?
+A placa separadora, serve para separar a via em duas partes iguais.
+151-Quem deve conduzir os veículos automóveis nas vias públicas?
+Só podem conduzir um veículo automóvel na via pública, todos aqueles que estiverem legalmente habilitados para conduzir.
+152-Em que caso um veículo está autorizado a transportar explosivos?
+Para transportar explosivos, deve pedir duas autorizações, uma da PSP e outra da direção de transporte e portos. Deve possuir dois extintores de incêndio em bom estado de funcionamento. Deve ainda possuir uma bandeira preta que deve ser colocado na parte superior de tejadilho, de noite essa mesma bandeira deve ser substituída por uma faixa preta num dos faróis máximo do lado esquerdo. O condutor não deve fumar nem permitir que outros fumem. <break time="1s"/> Não deve fazer travagens bruscas nem guinadas com a direção. Se for de caixa aberta não deve andar mais de 30 km/h, e se for de caixa fechada não deve andar a mais de 40 km/h. O condutor não deve parar junto das escolas, creches, hospitais, também, não deve parar nas bombas de combustíveis, bocas-de-incêndio, casa de espetáculos, nas fábricas quando está em funcionamento, e outros estabelecimentos semelhante quando sinalizado, e deve possuir também outras autorizações para transitar de noite.
+153-Como deve proceder o condutor ao cruzar com outro veículo?
+Ao cruzar com outro veículo, o condutor deve encostar o mais possível a sua direita, e moderar a velocidade. Se for de noite, ele deve mudar de luz máxima para luz média, se o condutor não corresponder, deves mudar de luz média para luz mínima, e parar o veículo automóvel, para não provocar acidente.
+154-O que é lotação?
+Lotação, é o número máximo de pessoas que um veículo está autorizado a transportar.
+155-Para que serve bafómetro?
+Bafómetro, serve para indicar a taxa de álcool no sangue (T.A.S) do condutor.
+156-Para que serve um parquímetro?
+Parquímetro, serve para indicar o tempo que um veículo está estacionado, num parque de estacionamento.
+157-Para que serve um tacógrafo?
+Tacógrafo, serve para registrar o tempo de repouso do condutor ou também indicar a velocidade instantânea.
+
+
+
+
+
+
+
+2001-Com a carta de pesado de mercadoria que veículo posso conduzir?
+Com a carta de pesado de mercadoria posso conduzir todos os automóveis pesados com exceção aos pesados de passageiros e motociclo.
+2002-Qual a diferença entre paragem e estacionamento?
+A diferença entre paragem e estacionamento é que paragem consiste em uma simples imobilização para lagar e receber passageiro ou mercadoria, e o condutor deve estar pronto para retornar a marcha.
+Estacionamento, é uma simples imobilização que não consiste em parar.
+
+2003-O que é inversão de marcha!?
+Inversão de marcha, é a manobra que consiste em colocar o veículo no sentido oposto da marcha em que seguia.
+2004-O que é cruzamento do veículo?
+Cruzamento do veículo, é a aproximação de dois veículos em sentidos oposto.
+2005-Qual a idade mínima para transportar crianças nos veículos?
+A idade mínima para transportar criança afrente do veículo é de 7 anos, no motociclo é de 12 anos.
+2005.1-O que é trânsito!?
+Trânsito é a circulação de pessoas, animais e veículos nas vias publica.
+2006-O que entendes por código de estrada!?
+Código de estrada, consiste em conjunto de leis, regras, e sinalização que regulam o trânsito nas vias pública.
+2007-O que entendes por rodas motoras?
+Rodas motoras, são aquelas que recebem a força do motor.
+2009-O que é encandeamento?
+Encandeamento, consiste em perda momentânea da visão.
+2010-Qual é a hierarquia dos sinais do trânsito?
+Na hierarquia dos sinais do trânsito encontramos.
+1º lugar, agente regulador do trânsito.
+2º lugar, sinalização temporária.
+3º lugar, a sinalização de mensagem variável.
+4º lugar, a sinalização luminosa.
+5º lugar, a sinalização vertical.
+6º lugar, a sinalização de marcas rodoviárias.
+7º lugar, a regra geral do trânsito.
+2011-Qual é a velocidade máxima para os automóveis pesado de passageiro nas autoestradas?
+A velocidade máxima para automóveis pesado de passageiro nas autoestradas é de 90 km por hora.
+2012-Em que caso o condutor deve reduzir a velocidade!?
+A velocidade deve ser especialmente reduzida dentro das localidades junto das escolas, jardins, creches, hospitais, onde existe aglomeração de pessoas, e todos os locais de má visibilidade tais como, cruzamento, entroncamento, pontes túneis e lombas.
+2013-O que nos diz o sinal de via com prioridade?
+O sinal de via com prioridade diz ao condutor, que ele goza de prioridade em todos os sucessivos cruzamento e entroncamento, até encontrar o sinal de fim de via com prioridade.
+2014-Perante o sinal aproximação de pavimento escorregadio como deve proceder o condutor!!?
+Perante aproximação do pavimento escorregadio, o condutor deve afrouxar a marcha, transitar com máxima precaução, evitar travagem brusca ou enginadas com direção e em caso de necessidade utilizar correntes de neve nas rodas motoras.
+2015-Como podem ser as luzes amarelas dos semáforos?
+A luzes amarelas dos semáforos podem ser constantes ou intermitentes.
+2016-O que é um entroncamento?
+Entroncamento, é a junção ou bifurcação de duas vias no qual uma delas não se prolonga.
+2017-Quantos tipos de passagem de nível conhecem?
+Existem dois tipos de passagem de nível, com guarda e sem guarda.
+2018-O que é velocidade instantânea!?
+Velocidade instantânea, é a variação da velocidade durante o percurso, ou seja, é a velocidade do momento que é medida pelo velocímetro.
+2019-O que entendes por velocidade média!?
+Velocidade média, é o percurso feito a dividir pelo tempo gasto.
+2020-O que entendes por rotunda!?
+Rotundas, são placas formadas por cruzamento ou entroncamento por onde o trânsito se processa no sentido giratório.
+2021-Em que circunstância deve o condutor utilizar os sinais gestuais?
+Devem ser utilizados quando o veículo tiver problema nos indicadores de direção e são feitos com o braço do próprio condutor.
+2022-Qual é a velocidade máxima e mínima nas autoestradas?
+Nas autoestradas, a velocidade máxima é de 120 km/h e a velocidade mínima é de 50 km/h.
+2023-Quem são os agentes de trânsito?
+Os agentes de trânsito, são órgão especializados para regular e fiscalizar o trânsito.
+2024-Como classifica as rodas nos veículos!?
+A roda nos veículos classifica-se em rodas motoras e rodas diretrizes.
+Roda motora, é aquela que recebe a força do motor.
+Roda diretriz, é aquela que recebe a orientação de direção.
+2025-O que são rodas diretrizes?
+Rodas diretrizes, são aquelas que recebem a orientação da direção.
+2026-Em quais sinais indica-nos as velocidades máxima e mínima!?
+A velocidade mínima obrigatória vem dentro dos sinais de obrigação, enquanto que as velocidades máxima vem dentro dos sinais de proibição ou recomendações.
+2027-Quais os outros nomes para as luzes?
+Os outros nomes para as luzes dos veículos, seriam.
+Luz máxima, pode ser também chamada de luz de estrada ou luz de longo alcance.
+Luz mínima, pode ser também chamada de luz de presença.
+2028-Quais são os tipos de visão que conheces?
+A visão classifica-se em visão cromática, visão periférica e visão em profundidade. Dentre essas visões a mais importante é visão em profundidade.
+2029-O que entendes por visão cromática?
+Visão cromática, é a capacidade de distinguir as cores.
+2030-O que entendes por visão em profundidades?
+Visão em profundidade, é a capacidade de avaliar as distâncias a que estão os objetos.
+2031-O que entendes por visão periférica?
+Visão periférica, é a propriedade da visão de perceber o que está fora do foco principal de visão, ou seja, é a capacidade de ver o que está ao nosso lado caso estejamos a olhar para frente.
+2032-Porque motivo o sinal STOP possuí aquele formato distinto?
+O formato do sinal de STOP é para torna-lo facilmente conhecido.
+2033-Qual a diferença entre o sinal de sentido proibido e trânsito proibido?
+A diferença entre o sentido proibido e trânsito proibido, é que, sentido proibido permitimos circular no sentido oposto ao sinal, enquanto que trânsito proibido indica a proibição em qualquer sentido naquela via.
+2034-Quais os sinais não são temporais mesmo com fundo amarelo?
+Os sinais não temporais mesmo com fundo amarelo são o sinal de via com prioridade e fim de via com prioridade.
+2035-O que entendes pro um corredor de circulação!!?
+Corredor de circulação, é uma parte de via publica destinada a uma determinada espécie de veículo.
+2036-Quais as modalidades de condução que conheces!!?
+As modalidades de condução que conheço são, prática, técnica e teórica.
+2037-Porquê a inversão de marcha deve ser executada de forma rápida?
+A inversão de marcha deve ser executada de forma rápida por ser uma manobra perigosa e ocupar toda a largura da faixa de rodagem.
+2038-Quais são as consequências de um estacionamento abusivo?
+Um estacionamento abusivo dá direito ao bloqueio ou remoção de veículo, e exigirá o pagamento de coima para a recuperação do mesmo.
+2039-Para que serve a linha contínua dupla!?
+A linha contínua indica ao condutor para transitar sempre a sua direita, não podendo pisa-la ou transpô-la porque se encontra em local muito perigoso.
+2049-O que entendes por via de trânsito?
+Via de trânsito, é zona longitudinal da faixa de rodagem ou parte da via destinada à circulação de uma única fila de veículos.
+2050-O que entendes por bermas?
+Bermas, é a parte de via publica, não destinada a trânsito de veículos, e que ladeia a via pública.
+2051-Qual é a diferença entre vias de aceleração e vais de abrandamento?
+A diferença existente entre vias de aceleração e vias de abrandamento, é que vias de aceleração permite entrada a uma autoestrada, enquanto que via de abrandamento permite saída de uma autoestrada.
+2052-Por onde devem circular automóvel de mercadorias e veículos longos nas auto-estradas?
+Nas auto-estradas, tanto os automóveis de mercadoria quanto os automóveis cujo cumprimento é superior a 7 metros só podem circular nas duas primeiras vias mais a direita.
+
+
+

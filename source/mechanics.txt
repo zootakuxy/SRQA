@@ -1,0 +1,248 @@
+1-O que é motor?
+O motor, é o órgão que transforma a sua energia mecânica em cinética.
+2-Em quantas partes está dividida o motor e quais são?
+O motor divide-se em 3 partes, que são:
+- A Cabeça
+- O Bloco cilindro
+- O Cárter
+3-Para que serve cárter?
+O cárter, serve para armazenar o óleo do motor.
+4-Quantos tipos de cárter conheces?
+Conheço dois tipos de cárter que são:
+Cárter superior e cárter inferior
+5- Quantos tipos de motor conheces e quais são?
+Conheço dois tipos de motor, que são.
+- Motor diesel.
+- Motor de explosão.
+6-Quantos tipos de motor diesel conheces?
+Conheço 3 tipos de motor diesel. Que são,
+- De alta compreensão;
+- De média compreensão;
+- De baixa compreensão
+7-O que é um motor diesel de alta compreensão?
+Motor diesel de alta compreensão, é um motor que não necessita de qualquer tipo de vela. É um motor que no primeiro tempo admite o ar, no segundo tempo comprime o ar, no terceiro tempo dá-se uma injeção que provoca uma violenta combustão, e no quarto tempo dá se escapamento de gases queimado.
+8-O que é um motor diesel de média compreensão?
+Motor diesel de média compreensão, é um motor que precisa de vela incandescente, para ajudar a pôr o motor a trabalhar na sua fase inicial de trabalho.
+9-O que é um motor diesel de baixa compreensão ou semi-diesel?
+O motor diesel de baixa compreensão ou semi-diesel, é um motor que possui dois sistemas: um de inflamação e outro de injeção. Para começar a trabalhar utiliza o sistema de inflamação, e ao fim de quente passa para o sistema de injeção ou gasóleo.
+10-Quantos tipos de motor de explosão conheces e quais são?
+Conheço dois tipos de motor de explosão, que são;
+-Motor de explosão de 4 tempos;
+-Motor de explosão de 2 tempos;
+11-Qual é a diferença entre motor de explosão de 4 tempos e motor de explosão de 2 tempos?
+A diferença entre motor de explosão de 4 tempo e motor de explosão de 2 tempo, é que um motor de explosão de 4 tempos possui válvulas enquanto que um motor de explosão de 2 tempos não possui válvulas, mas existem umas janelas nas camisas dos cilindros que fazem as mesmas vezes das válvulas.
+12-Qual é a diferença entre o motor diesel e o motor de explosão?
+A diferença existente entre motor diesel e motor de explosão, é que o motor diesel possui sistema de injeção enquanto o motor de explosão possui sistema de inflamação.
+13-Quais são as peças que compõem o sistema de inflamação?
+As peças que compõem o sistema de inflamação são:
+- Bateria;
+- Bobine;
+- Distribuidor;
+- E vela
+14- Para que serve a bateria?
+A bateria, é um acumulador de energia que serve para fornecer corrente elétrica a todo órgão que dela necessita.
+15-Em quantas partes se divide a bateria?
+A bateria divide-se em três partes, que são;
+- Placa positiva e negativa;
+- Separadores;
+- Bornes
+16-Para que serve a bobine?
+ A bobine, serve para transformar a corrente de baixa tensão em alta tensão.
+17-De que se compõe uma bobine?
+A bobine compõe-se de um núcleo de ferro macio, dois rolamentos sendo, um primário e um secundário e três polos sendo dois laterais e um central. Um lateral que recebe a corrente de baixa tensão vindo da bateria e o outro que leva a mesma corrente de baixa tensão à dispositivo de rotura, polo central que leva a corrente de alta tensão ao distribuidor.
+18-Para que serve o distribuidor?
+O distribuidor, serve para distribuir corrente as velas.
+19-De que se compõe um distribuidor?
+Um distribuidor, compõe-se da tampa, carvão, sector metálico, rotor, um platinado fixo e um platinado móvel, condensador e excêntrico.
+20-Para que serve o condensador?
+O condensador, serve para amortecer a corrente e evitar que os palatinados se queimem. Compõe-se de dois enrolamentos de lâmina de chumbo isolado por um papel parafinado.
+21-Para que serve dispositivo de rotura?
+Dispositivo de rotura, serve para saltar faísca de alta tensão para as velas.
+22-De que se compõe o dispositivo de rotura?
+O dispositivo de rotura está composto por platinado fixo, platinado móvel, condensador e um excêntrico colocado no veio vertical do distribuidor.
+23-Quais são as peças que fazem parte de sistema de alimentação?
+- Dispositivo de combustível;
+- Bomba mecânica ou elétrica de combustível;
+- Carburador.
+24-Para que serve depósito de combustível?
+O depósito de combustível, serve para armazenar combustível.
+24.1 - Para que serve a bomba mecânica ou elétrica de combustível?
+Bomba mecânica ou elétrica de combustível, serve para chupar o combustível do depósito e enviar ao carburador.
+25-De que se compõe uma bomba mecânica ou elétrica de combustível?
+A bomba mecânica ou elétrica de combustível, esta composto por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas sendo uma de entrada e outra de saída de combustível.
+26-Para que serve carburador?
+O carburador, serve para transformar o combustível líquido numa mistura inflamável por ação de corrente de alta tensão.
+27-Em quantas partes está dividida o carburador?
+O carburador se divide em duas partes sendo;
+- Depósito de nível constante;
+- Câmara de carburação;
+28-De que se compõe um depósito de nível constante?
+Depósito de nível constante, compõe-se por uma agulha e uma boia.
+29-De que se compõe uma câmara de carburação?
+Uma câmara de carburação, compõe-se por gicler máximo, gicler mínimo, parafuso de afinação do ar e borboleta de aceleração.
+30-O carburador assenta ou fica apertada aonde?
+O carburador assenta sobre o coletor de admissão, que serve para admitir mistura gasosa.
+31-Quantos tipos de coletor conheces?
+Conheço dois tipos de coletor, que são, coletor de admissão e coletor de escape.
+32-Para que serve coletor de admissão?
+Coletor de admissão, serve para admitir a mistura gasosa.
+33-Para que serve o coletor de escape?
+Coletor de escape, serve para expelir gases queimados.
+34-Qual é a peça que está em cima do carburador?
+A peça que está em cima do carburador é o filtro do ar, que serve para purificar o ar que entra dentro do carburador.
+
+35-Quais são as avarias do carburador?
+As avarias que podemos encontrar no carburado são, Boia furada, agulha a vedar mal, gicleres entupidos, borboleta presa, junta danificada e parafuso de afinação do ar a vedar mal.
+36- De que peça compõe o motor?
+O motor é composto por seguintes peças, válvula, pistões, bielas, veio excêntrico, cambota, engrenagem de distribuição e bomba de óleo.
+37-Quais são peças que compõe o sistema de injeção?
+O sistema de injeção é composto por bomba injetora, injetores, bomba mecânica ou elétrica de combustível e filtro.
+38-Para que serve uma bomba injetora?
+Bomba injetora, é um órgão que serve para distribuir gasóleo aos injetores.
+39-De que se compõe uma bomba injetora?
+Uma bomba injetora é composta por corpo da bomba, veio de ressalto e tantos elementos como cilindro compõe o motor.
+40-Para que servem os injetores?
+Os injetores, serve para pulverizar o gasóleo nas câmaras de combustão.
+41- De que se compõe um injetor?
+Um injetor é composto de corpo de injetor, um bico com agulha e um dispositivo de afinação com um parafuso, uma porca e uma mola.
+42- Quais são as peças que fazem parte de sistema de arrefecimento ou refrigeração?
+As peças que fazem parte de sistema de arrefecimento ou refrigeração são, bomba de água, radiador, ventilador, termostato.
+43-Para que serve bomba de água?
+A bomba de água, serve para tirar água quente e levar água fria.
+44-De que se compõe uma bomba de água?
+Corpo de bomba, mola, veio com rolamento, turbina e impanque.
+45-Para que serve o ventilador?
+O ventilador serve para arrefecer a água que encontra dentro de radiador.
+46-Quais são as peças que fazem parte de sistema eléctrico?
+Dínamo, motor de arranque.
+47-O que é um dínamo?
+O dínamo é um gerador de corrente contínua.
+48-Para que serve dínamo?
+Serve para fornecer corrente para carregar a bateria.
+49-De que se compõe um dínamo?
+Corpo induzido, indutor, coletor e escova de carvão.
+50 -Para que serve um motor de arranque?
+Serve para pôr o motor em funcionamento na sua fase inicial de trabalho.
+51-De que se compõe o motor de arranque?
+Corpo induzido, indutor, coletor, escova de cobre e uma união bendix.
+52-Para que serve a união bendix?
+Serve para rodar volante do motor.
+53-Quais são as peças que compõe o sistema de transmissão?
+O sistema de transmissão é composta por: embreagem, caixa de velocidade veio de transmissão, e diferencial.
+54-Para que serve a embreagem?
+Serve para ligar e desligar o motor aos órgãos de transmissão
+55- De que se compõe uma embreagem?
+Um prato com mola, um disco metálico forrado em ambos os lados, rolamento ou carvão, garfo ou forquilha.
+56-Para que serve caixa de velocidade?
+A caixa de velocidade serve para variar a velocidade consuante a rotação do motor.
+57-De que se compõe uma caixa de velocidade?
+Veio primário, veio secundário e um intermediário, tantos carretos como de velocidade que  se compõe a a mesma, um carreto para marcha trás, rolamentos, casquilhos, roletes, e por vezes sincronizador.
+58-Para que serve o diferencial ?
+Srve para transformar o movimento rectilíneo em movimento transversal e permitir que as rodas de fora nas curvas dê mais volta que as de dentro, evitando desgaste  e derrapagem de pneus.
+59- De que se compõe um diferencial?
+Pinhão de ataque, roda de coroa, duas meia concha, cruzetas, dois planetários e dois ou quatro satélites.
+60-Para que serve o veio de transmissão?
+Serve para transmitir o movimento da caixa de velocidade ao diferencial.
+61-De que se compõe o veio de transmissão?
+Compõe-se de veio propriamente dito, juntas elástica e cardans.
+62-Para que serve a junta elástica?
+Serve para aumentar  e diminuir o veio de comprimento conforme a regulação do terreno.
+63-Para que serve os cardans?
+Serve para evitar que o veio de transmissão torça ou parta.
+64-Para que servem as válvulas?
+As válvulas servem para fazer os tempos de motor.
+65-De que se compõe uma válvula?
+Compõe-se de cabeça e haste.
+66-Para que servem os pistões?
+Os pistões servem para transformar a energia calorífica em enegia mecânica.
+67-Em quantas partes se divide um piston?
+Em duas partes: cabeça e saia.
+Nas saias vamos encontrar alguns rasgos que servem para assegurar os segmentos, porém existem dois tipos de segmentos: segmento de óleo e segmento de compeensão, o segmento de óleo é escuro e de ferro fundido e o segmento de  compreenssão é brilhante e de aço.
+68-Para que servem as bielas?
+As bielas servem para fazer ligação da cambota aos pistões.
+69-Em quantas partes  se divide as bielas?
+As bielas divide-se em 3 partes: cabeça com chapéu, corpo e pé.
+70-Para que serve a cabeça com chapéu?
+Cabeça com chapéu é  a parte que fica ligada a cambota.
+71-Para que serve o pé da biela?
+Pé é a parte que fica ligado aos pistões através de covilha ou covilhão.
+72-O que é uma cambota?
+É um veio de aço com diversas manivelas que está apoiada no bronze e apertada por chumaceira, ela recebe o movimento dos pistões através da bielas, na ponta de frente encontramos dente de lobo, que serve para engrenar o engate para o arranque manual, existe ainda um carreto condutor que serve  para ligar o carreto conduzido por veio excêntrico e na base vamos encontrar o volante do motor.
+73-O que é um veio excêntrico?
+É um veio de aço com diversos ressaltos que  serve para fazer abrir e fechar as válvulas através de tuches, fazendo funcionar a bomba de óleo e a bomba mecânica de combustível.
+74-O que entendes por rodas motrizes?
+São aquelas que recebem o esforço do motor.
+75-O que entendes por roda directrizes?
+São aquelas que são orientadas pela direcção.
+76-Para que servem as mangas de eixo?
+Servem para apoiar os cubos das rodas motrizes e geralmente estão fixadas na ponta do eixo de frente.
+77-Quantos tipos de travão conheces?
+Conheço três tipos de travão: mecânico hidráulico, ar comprimido.
+78-Quantos tipos de arrefecimento conheces?
+Conheço dois tipos: por ar e por água..
+79-Para que serve a vela de ingnição?
+Serve para reproduzir as faíscas eléctricas que inflamam a mistura gasosa comprimida na câmara de explosão.
+80-Para que serve o sincronizador?
+Serve pra suavizar o trabalho na caixa de velocidade.
+81-Para que serve um servo-freio?
+Serve para auxiliar o condutor na travagem, e tornar mais suave o seu trabalho.
+82- Qual a ordem de um motor de 4 cilindros?
+1-3-4-2.
+83-Qual a ordem de um motor de 6 cilindros?
+1-5-3-6-2-4.
+84-Qual a ordem de um motor de 8 cilindros?
+1-8-3-6-7-2-5-4.
+85-Para que servem os fusíveis?
+Os fusíveis servem para evitar que as instalações elétrica se queimem em caso de curto-circuito, geralmente estão montados numa caixa e há um fusível para cada curto-cicuito.
+86-De que se compõe um travão  hidráulico?
+Pedal de travão, bomba central, tubagem da condução do óleo as rodas,  cilindros e maxilas.
+87-De que se compõe um travão mecânico?
+Pedal de travão, tirantes que aciona numas alavancas, excênticos e maxilas.
+88-De que se compõe um travão de ar comprimido?
+Um compreensor de ar que aspira o ar da atmosfera e envia-a para uma botija, pedal de travão, tirante que acionam um dispositivo de de válvulas que dá passagem  ao ar das botijas, tirantes que acionam as alavancas, excêntricos e maxilas.
+89-Que espécie de óleo se usa para um motor?
+Para um motor nós utilizamos óleo 40.
+90-Quais são os cuidados que um condutor deve ter antes de iniciar uma viagem?
+Antes de iniciar uma viagem o condutor deve verificar: a pressão do ar dos pneus, água do radiador, o nível de óleo do motor, a quantidade de combustível no depósito, óleo dos travões, chave de roda, macaco de elevação, pneu suplente e o sinal de pré-sinalização de perigo.
+91-Se o condutor conduz por muito tempo com o pé em cima do pedal de embreagem, o que pode acontecer?
+Obriga o disco de embreagem a fazer muito esforço, podendo assim queimar  tanto o disco como os rolamento ou carvão.
+92-Quais são os orgãos móveis de motor?
+Embolo, biela, pistom, cambota, volante.
+93-Quais são os õrgãos fixos de motor?
+Tampa de culatra, culatra, junta de culatra, bloco de cilindro e carter.
+94-Onde engatam os semi-eixos?
+Os semi-eixos engatam em : uma ponta nos cubos das rodas, e outras ponta nos planetários.
+95-Para que serve o martelo balanceira?
+Quando bate em cima das válvulas faz abrir e fechar as mesma com o funcionamento de subir e descer dos  êmbolos, para permitir a entrada da mistura gasosa no motor de explosão e no motor diesel permitir a entrada de ar no cilindro.
+96-Qquantos tipos de arrefecimentos conheces?
+Conheço dois: por bomba e por termo cifão.
+97-De que se compõe cubos das rodas diretrizes?
+Um redentor, dois rolamento, um separado, uma anilha e uma porca. Pertence ao sistema de direção.
+98-Para que serve a bomba de óleo?
+Serve para fazer passar óleo por todos os pontos que necessitam de lubrificação dentro do motor.
+99-De que se compõe a bomba de óleo?
+Compõe-se por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base.
+100-Quais são as possíveis avrias avarias da bomba de óleo?
+Bomba danificada, veio partido, carretos presos e filtro com impureza.
+101-Como podemos descobrir a avaria na bomba de óleo?
+Através de manómetro de óleo ou uma lâmpada piloto  instalada no tabileu. Sendo assim com avaria da mesma, não podemos seguir a marcha porque o motor pode gripar ou calcinar. A bomba de óleo pertence ao sistema de lubrificaçãao.
+102-Quantos dentes têm um carreto condutor?
+O carreto condutor tem metades dos dentes de um carreto conduzido.
+103-De que se compõe a engrenagem de distribuição do motor?
+Compõe-se por dois carretos, um carretos que está preso preso a cambota e um conduzido que está ligado ao veio excêntrico.
+104-Para que serve o volante de motor?
+Serve para vencer os pontos mortos do motor. Em sua volta é encontrado o carreto cramalheira, que serve para receber o lançamento  do motor de arranque por meio de carreto bendix.
+105-Para que serve um Conjuntor/ Disjuntor ou Regulador de voltagem?
+Serve para regular a corrente do dínamo a bateria e evitar a que a bateria descarregue sobre o dínamo. 
+106- De que se compõe um Conjuntor/ Disjuntor ou Regulador de voltagem?
+Compõe-se por dois platinados, sendo  um fixo e outro móvel, uma mola, um núcleo de ferro macio e dois enrolamento de fio. Esta peça pertence ao sistema eléctrico do motor.
+107- Qual diferença entre o dínamo e o motor de arranque?
+A diferença é que o dínamo é gerador de corrente contínua para carregar a bateria, enquanto que o motor de arranque é um consumidor de corrente na fase inicial de trabalho, o dínamo possui enrolamento de fio mais finos que o motor de arranque; o dínamo possui escova de carvão e o motor de arranque  possui escova de cobre e uma união de bendix.
+108-Qual é a diferença entre o dínamo e o alternador?
+A diferença é que o dínamo carrega bateria quando o carro está em movimento, enquanto que o alternador carrega a bateria quando o carro estiver em relantim.
+109-Se o motor parar por si sem motivos justificados, como deve preceder o condutor?
+Deve primeiramente ver o sistema de alimentação, começando pelo depósito de combustível vê se há combustível e vê se o mesmo chega ao carburador. Se não for falta de alimentação verificar o sistema de inflamação, começando pela bateria vê se ela tem corrente e vê se chega as velas, sendo não, deve verificar o distribuidor, começando pelos platinados vê se estão sujos ou apertados demais ou condensador queimado, se a corrente não chega ao distribuidor é porque a bobine está queimada.
+110-Quantos tipos de arrefecimento por ar conheces?
+Conheço dois tipos: por turbina e por lâmina.
+111- Qual é o instrumento que podemos medir o nível do óleo do motor?
+Podemos medir o óleo do motor com vareta gradual.
