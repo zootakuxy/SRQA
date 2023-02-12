@@ -1742,7 +1742,7 @@
     answer: '\nA inversão de marcha deve ser executada de forma rápida por ser uma manobra perigosa e ocupar toda a largura da faixa de rodagem.',
     number: 2037,
     type: 'theoretic',
-    change: true,
+    change: false,
     converted: true,
   },
   {

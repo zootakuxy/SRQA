@@ -22,8 +22,10 @@ export function id3Question( fileDirection:FileDirections, question:Question ){
         };
 
         let typeChar  = type[ 0 ].toUpperCase();
+        let title = `${ typeChar }${ (question.number+"").padStart( 3, "0" )} ${ question.question }`;
+        console.log( title );
         let tag:Tags = {
-            title: `${ typeChar }${ (question.number+"").padStart( 3, "0" )} ${question.question}`,
+            title: title,
             artist: "Daniel Costa",
             trackNumber: `${question.number}/${Track[type]}`,
             album: `Trânsito Aulas ${ Label[type] }`,

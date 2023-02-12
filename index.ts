@@ -76,7 +76,7 @@ let next = ()=>{
     let _next = _sources.shift();
     if( !_next ) return;
     // language=file-reference
-    converter( _next, Path.join( __dirname, "./audios" ) ).then( () => {
+    converter( _next, Path.join( __dirname, "./audios" ),  Path.join( __dirname, "./audios-raw" )).then( () => {
         next();
     });
 }

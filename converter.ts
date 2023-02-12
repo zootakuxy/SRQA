@@ -14,7 +14,7 @@ export type FileDirections = {
     audioFileOf( question:Question,  type:"Q&A"|"Question"|"Response"|"Important" ):string
     rawFileOf( question:Question,  type:"Q&A"|"Question"|"Response"|"Important" ):string
 }
-export function fileDirections( source:Source, audioFolder ):FileDirections{
+export function fileDirections( source:Source, audioFolder, rawFolder ):FileDirections{
     return {
         audioFileOf( question:Question,  type:"Q&A"|"Question"|"Response"|"Important" ){
             let fileName = `${type} - ${( question.number+"").padStart(3, "0") } - ${ question.question }.mp3`;
@@ -47,16 +47,16 @@ export function fileDirections( source:Source, audioFolder ):FileDirections{
                 Response: "Answerer",
                 Important: "Q&A"
             }
-            rawFile = Path.join( audioFolder, type, `${LabelType[type]} - ${ source.name }`, fileName );
+            rawFile = Path.join( rawFolder, type, `${LabelType[type]} - ${ source.name }`, fileName );
             return rawFile;
         }
     }
 }
 
 
-export function converter( source:Source, audioFolder:string  ){
+export function converter( source:Source, audioFolder:string, rawFolder:string ){
 
-    let fdir = fileDirections( source, audioFolder );
+    let fdir = fileDirections( source, audioFolder, rawFolder );
 
     return new Promise( ( resolve ) => {
 
