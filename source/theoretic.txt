@@ -2,8 +2,8 @@
 Veículos, são objetos produzido pela arte mecânica, com ou sem motor, destinado a transportar pessoas ou mercadorias.
 2-Como classificam os veículos?
 Os veículos classificam em automóveis e não automóveis.
-3-O que são veículos automóveis?
-Veículos automóveis, são veículo munido de motor de cilindrada superior a 50 cm3, que se movem pelos seus próprios meios.
+3-O que são veículos automóveis!?
+Veículos automóveis, são veículo munido de motor de cilindrada superior a 50 cm3, que se movem pelos seus próprios meios com auxílio do condutor.
 4-Como classificam os veículos automóveis?
 Os veículos automóveis classificam em: ligeiros, pesados e motociclos.
 5-O que são veículo automóveis ligeiros?
@@ -34,7 +34,7 @@ Velocípedes, são veículos de duas ou mais roda acionadas por pedais e destina
 Os velocípedes classificam em: simples, com dispositivo análogo, e com motor auxiliar.
 18-O que é um comboio de veículo?
 Comboio de veículo, é um conjunto de veículo formado por várias viaturas.
-19-O que são tratores!?
+19-O que são tratores?
 Tratores, são veículos automóveis de grande esforço que não suporta carga útil.
 20-Como classificam os tratores?
 Os tratores classificam em tratores agrícolas e tratores de tração.
@@ -44,7 +44,7 @@ O comprimento máximo para um veículo automóvel é de 12 metros sem reboque, s
 A largura máxima para um veículo automóvel é de 2.55 metros. Para veículo automóvel com caixa frigorífica, a largura máxima é de 2.60 metros.
 23-Qual é a altura máxima para um veículo automóvel?
 A altura máxima para um veículo automóvel é de 4 metros a começar de solo.
-24-Em que caso um veículo pode exceder a sua largura móvel!?
+24-Em que caso um veículo pode exceder a sua largura móvel?
 Um veículo pode exceder a sua largura móvel, quando houver uma carga que não pode ser demolida. Tem que pedir uma autorização na secção da viação, só poderá exceder 25 cm sendo 12,5 cm para cada lado, só poderá transitar numa faixa de rodagem com uma largura que seja superior à 6 metros e acompanhado por um agente de autoridade.
 25-O que são semáforos?
 Semáforos, são sinal luminoso reguladores de trânsito.
@@ -92,7 +92,7 @@ A linha descontínua indica ao condutor para transitar sempre a sua direita, só
 A linha mista é junção da linha contínua mais a linha descontínua. Ela indica ao condutor, quer para efeito de qualquer manobra, o condutor deve pisar da linha descontínua para a linha contínua.
 45-Para que serve uma raia oblíquas?
 Raia oblíquas, serve para delimitar áreas perigosas existente dentro da faixa de rodagem.
-46-Para que serve a linha transversal contínua!?
+46-Para que serve a linha transversal contínua?
 Linha transversal contínua, serve para marcar a travessia de piões na zona protegida pelo sinal.
 47-Quais são as cores que assinalam a faixa de rodagem?
 As cores que assinalam a faixa de rodagem são, vermelhas que assinala berma direita da faixa de rodagem; branca que assinala berma esquerda da faixa de rodagem; e amarela que assinala placa, obra, obstáculo, refúgio existente na faixa de rodagem.
@@ -142,9 +142,9 @@ Amperímetro, serve para indicar quando o dínamo faz carga ou descarga sobre a 
 Termómetro, serve para indicar a temperatura do motor.
 65- Para que serve manómetro de óleo?
 Manómetro de óleo, serve para indicar a pressão que a bomba de óleo está a enviar a todos os pontos a lubrificar dentro motor. Nos carros de travão de ar comprimido existe um manómetro de ar, que serve para indicar a pressão de ar existente na botija.
-66-Se o motor parar por si só o quê que o condutor deve fazer!!?
+66-Se o motor parar por si só o quê que o condutor deve fazer!?
 Se o motor para por si só, o condutor deve começar pelo o sistema de alimentação, verificando se há combustível no depósito e ver se chega ao carburador. Se não for o sistema de alimentação, verifica o sistema de inflamação, começando pela bateria, verificando se ela tem corrente e ver se chega as velas. Se não chega deve verificar o distribuidor, começando pelos platinados ver se estão sujos, apertado demais ou se o condensador está queimado. Se a corrente não chega ao distribuidor é porque as bobines estão queimadas.
-67-Se o condutor conduzir por muito tempo com pé sobre pedal de embreagem o que pode acontecer!!?
+67-Se o condutor conduzir por muito tempo com pé sobre pedal de embreagem o que pode acontecer!?
 Conduzir por muito tempo com pé sobre pedal de embreagem, obrigará o disco a fazer muito esforço, podendo assim queimar o disco, o carvão como também os rolamentos.
 68-Quando é que um veículo não automóvel tem prioridade?
 Um veículo não automóvel tem prioridade, quando o veículo circula numa via com prioridade ou uma via reservada.
@@ -208,7 +208,7 @@ Primeiramente verifica se o local é próprio, e se não há nenhuma sinalizaç�
 Prioridade de passagem é o direito de passar em primeiro lugar.
 98-Nos cruzamentos e entroncamentos quem tem o direito de passar em primeiro lugar?
 Nos cruzamentos e entroncamento, tem direito de passar em primeiro lugar todos aqueles que apresentam pela direita, ou os que tiverem a direita livre, com exceção de veículos não automóveis tais com veículo de tração animal, velocípedes, carros de mão e condutores de animais.
-99-Em que caso os veículos perdem prioridade mesmo que se apresentam pela direita?
+99-Em que caso os veículos perdem prioridade mesmo que se apresentam pela direita!?
 Quando depara com sinal de aproximação de estrada com prioridade, paragem obrigatória, a luz vermelha do sinal semáforos, quando o agente regulador do trânsito manda parar, ou quando pela esquerda apresentar veículos em missão de socorro ou emergência com a marcha devidamente assinalada, tais como ambulância, bombeiro, carro de polícia ou qualquer veículo que vá transportar doente ou feridos, ou também quando deparo com colunas militares ou militarizadas.
 100-Nos cruzamentos e entroncamentos em que caso o veículo tem prioridade mesmo apresentando pelo lado esquerdo!?
 Quando depara com sinal de via com prioridade, aproximação de estrada sem prioridade, perante luz verde de sinal luminoso, quando o agente regulador de trânsito manda avançar, quando ainda o condutor transporta doentes ou feridos com marcha devidamente assinalada, ou quando pela direita apresentam veículos não automóveis tais como, velocípedes, veículo de tração animal, carros de mão e condutor de animais.
@@ -357,7 +357,7 @@ Cruzamento do veículo, é a aproximação de dois veículos em sentidos oposto.
 2005-Qual a idade mínima para transportar crianças nos veículos?
 A idade mínima para transportar criança afrente do veículo é de 7 anos, no motociclo é de 12 anos.
 2005.1-O que é trânsito!?
-Trânsito é a circulação de pessoas, animais e veículos nas vias publica.
+Trânsito é a circulação de pessoas, animais e veículos nas vias pública.
 2006-O que entendes por código de estrada!?
 Código de estrada, consiste em conjunto de leis, regras, e sinalização que regulam o trânsito nas vias pública.
 2007-O que entendes por rodas motoras?
@@ -379,8 +379,9 @@ A velocidade máxima para automóveis pesado de passageiro nas autoestradas é d
 A velocidade deve ser especialmente reduzida dentro das localidades junto das escolas, jardins, creches, hospitais, onde existe aglomeração de pessoas, e todos os locais de má visibilidade tais como, cruzamento, entroncamento, pontes túneis e lombas.
 2013-O que nos diz o sinal de via com prioridade?
 O sinal de via com prioridade diz ao condutor, que ele goza de prioridade em todos os sucessivos cruzamento e entroncamento, até encontrar o sinal de fim de via com prioridade.
+
 2014-Perante o sinal aproximação de pavimento escorregadio como deve proceder o condutor!!?
-Perante aproximação do pavimento escorregadio, o condutor deve afrouxar a marcha, transitar com máxima precaução, evitar travagem brusca ou enginadas com direção e em caso de necessidade utilizar correntes de neve nas rodas motoras.
+Ao avistar o sinal de aproximação de pavimento escorregadio, o condutor deve afrouxar ou abrandar a marcha, conduzir com máxima precaução, evitar travagem brusca ou ignada com direção e em caso de necessidade utilizar correntes de neve nas rodas motoras.
 2015-Como podem ser as luzes amarelas dos semáforos?
 A luzes amarelas dos semáforos podem ser constantes ou intermitentes.
 2016-O que é um entroncamento?
@@ -411,8 +412,8 @@ A velocidade mínima obrigatória vem dentro dos sinais de obrigação, enquanto
 Os outros nomes para as luzes dos veículos, seriam.
 Luz máxima, pode ser também chamada de luz de estrada ou luz de longo alcance.
 Luz mínima, pode ser também chamada de luz de presença.
-2028-Quais são os tipos de visão que conheces?
-A visão classifica-se em visão cromática, visão periférica e visão em profundidade. Dentre essas visões a mais importante é visão em profundidade.
+2028-Quais são os tipos de visão que conheces!?
+A visão classifica-se em visão cromática, visão periférica, visão em profundidade, visão em túnel e visão noturna. Dentre essas visões a mais importante é visão em profundidade.
 2029-O que entendes por visão cromática?
 Visão cromática, é a capacidade de distinguir as cores.
 2030-O que entendes por visão em profundidades?
@@ -427,22 +428,52 @@ A diferença entre o sentido proibido e trânsito proibido, é que, sentido proi
 Os sinais não temporais mesmo com fundo amarelo são o sinal de via com prioridade e fim de via com prioridade.
 2035-O que entendes pro um corredor de circulação!!?
 Corredor de circulação, é uma parte de via publica destinada a uma determinada espécie de veículo.
-2036-Quais as modalidades de condução que conheces!!?
+2036-Quais as modalidades de condução que conheces?
 As modalidades de condução que conheço são, prática, técnica e teórica.
 2037-Porquê a inversão de marcha deve ser executada de forma rápida?
 A inversão de marcha deve ser executada de forma rápida por ser uma manobra perigosa e ocupar toda a largura da faixa de rodagem.
 2038-Quais são as consequências de um estacionamento abusivo?
 Um estacionamento abusivo dá direito ao bloqueio ou remoção de veículo, e exigirá o pagamento de coima para a recuperação do mesmo.
-2039-Para que serve a linha contínua dupla!?
-A linha contínua indica ao condutor para transitar sempre a sua direita, não podendo pisa-la ou transpô-la porque se encontra em local muito perigoso.
-2049-O que entendes por via de trânsito?
+2039-Para que serve a linha contínua dupla ou linha adjacente!?
+A linha contínua dupla ou linha adjacente, indica ao condutor para transitar sempre a sua direita, não podendo pisa-la ou transpô-la porque se encontra em local muito perigoso.
+2049-O que entendes por via de trânsito!?
 Via de trânsito, é zona longitudinal da faixa de rodagem ou parte da via destinada à circulação de uma única fila de veículos.
-2050-O que entendes por bermas?
+2050-O que entendes por bermas!?
 Bermas, é a parte de via publica, não destinada a trânsito de veículos, e que ladeia a via pública.
-2051-Qual é a diferença entre vias de aceleração e vais de abrandamento?
+2051-Qual é a diferença entre vias de aceleração e vais de abrandamento!?
 A diferença existente entre vias de aceleração e vias de abrandamento, é que vias de aceleração permite entrada a uma autoestrada, enquanto que via de abrandamento permite saída de uma autoestrada.
-2052-Por onde devem circular automóvel de mercadorias e veículos longos nas auto-estradas?
-Nas auto-estradas, tanto os automóveis de mercadoria quanto os automóveis cujo cumprimento é superior a 7 metros só podem circular nas duas primeiras vias mais a direita.
+2052-Por onde devem circular automóvel de mercadorias e veículos longos nas autoestradas!?
+Nas autoestradas, tanto os automóveis de mercadoria quanto os automóveis cujo cumprimento é superior a 7 metros só podem circular nas duas primeiras vias mais a direita.
+2051-O que são Lombas Redutoras de Velocidades ou lomba materializada!?
+Lombas Redutoras de Velocidades ou lomba materializada, são secção elevada da faixa de rodagem construída em toda sua largura, com carácter não temporário, com objetivo de obrigar os condutores a praticarem uma velocidade mais reduzida.
+
+
+//Novas perguntas extraídas na aula do dia 13-02-2023
+2052-Quando um veículo sede passagem para um navio!?
+Um veículo sede passagem para um navio, perante uma ponte movel suspensa.
+2053-Quantos tipos de lombas existem!?
+Existe dois tipos de lombas, lombas natural e lombas materializadas.
+2054-Quais o outro nome que podemos chamar a linha continua dupla!?
+O outro nome que podemos chamar a linha continua dupla seria linha adjacente.
+2055-O que a linha continua de cor amarela diz ao condutor!?
+A linha continua amarela diz ao condutor que ele está proibido de parar ou estacionar.
+2056-O que a linha descontinua de cor amarela diz ao condutor!?
+A linha continua de cor amarela, diz ao condutor que ele pode parrar, mas não pode estacionar.
+2057-Quando o sinal de pré-sinalização de perigo não é obrigatório!?
+O sinal de pré-sinalização de perigo não é obrigatório quando o condutor conseguir remover o veículo dentro da faixa de rodagem ou quando o veículo é visível em uma distância de 100 metros.
+2058-Qual o nome do líquido que se coloca na bateria líquida!?
+O nome do líquido que se coloca dentro da bateria líquida é água destilada.
+2059-O que nos diz o sinal de aproximação de descida perigosa com inclinação de 10%!?
+O sinal de aproximação de descida perigosa com inclinação de 10%, indica ao condutor que a cada 100 metros percorrido o veículo desce 10 metros de inclinação.
+2060-O que entendes por atender a regra de prioridade!?
+Atender a regra de prioridade, significa que o condutor tem de ceder a passagem para todos os veículos que se encontra a sua direita ou os que vão em missão de socorro ou emergência com a marcha devidamente assinalada, com exceção dos veículos não automóveis tais como, veículo de tração animal, velocípede, caros de mão e condutores de animais.
+2061-O que entendes por visão em túnel!?
+Visão em túnel, consiste na perda do campo visual lateral dentro dos tuneis.
+2062-O que entendes por visão noturna!?
+Visão noturna, é a qual o condutor conduz com ajuda das luzes do veículo.
+// 2063- Espaço disponível para adicionar pergunta
+2064-Quais são os sinais que os veículos nos dão quando tem problema com embreagem!?
+O condutor deve saber tem problema com embreagem, através do cheiro queimado ou também quando a velocidade do veículo não corresponder o barrulho emitido pelo motor.
 
 
 
