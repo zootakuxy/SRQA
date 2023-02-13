@@ -47,7 +47,7 @@ export function freetts(language:string, voice:string, text:string, audioFileNam
                     console.log( "response.data", response.data );
                     return setTimeout( ()=>{
                         _convert( attempts );
-                    });
+                    }, 1000 * ( 5 * Math.random() ));
                 }
 
                 let audioId = response.data.id;

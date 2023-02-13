@@ -16,6 +16,7 @@
     "json5": "^2.2.3",
     "node-id3": "^0.2.5",
     "normalize-text": "^2.4.1",
-    "source-map-support": "^0.5.21"
+    "source-map-support": "^0.5.21",
+    "wav-file-info": "^0.0.10"
   }
 }

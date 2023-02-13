@@ -25,6 +25,8 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
             line = line.trim();
             if( line.length < 1 ) return;
 
+            if( line.startsWith("//") || line.startsWith("##") ) return;
+
             let index = Number( line.split("-")[ 0 ] );
             let endAsQuestion = line.endsWith("?");
             let isQuestion = Number.isFinite( index )
@@ -68,10 +70,12 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
             }
 
             questionsList.forEach( value => {
+                value.question = value.question.trim();
+                value.answer = value.answer.trim();
                 let findQuestion = last.find( value1 => value1.number === value.number );
                 value.change = !findQuestion
-                    || findQuestion.question !== value.question
-                    || findQuestion.answer !== value.answer;
+                    || findQuestion.question.trim() !== value.question.trim()
+                    || findQuestion.answer.trim() !== value.answer.trim();
 
                 value.converted = !!findQuestion && findQuestion.converted && !value.change;
             });

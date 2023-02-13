@@ -42,13 +42,22 @@ export function id3Question( fileDirection:FileDirections, question:Question ){
         }
 
         tag.genre= `Question`;
-        NodeID3.write({...tag}, fileDirection.audioFileOf( question, "Question" ), ()=>{
+        return NodeID3.write({ ...tag }, fileDirection.audioFileOf( question, "Question" ), ()=>{
             tag.genre = "Answerer";
-            NodeID3.write({...tag}, fileDirection.audioFileOf( question, "Response" ), () =>{
+            NodeID3.write({ ...tag }, fileDirection.audioFileOf( question, "Response" ), () =>{
                 tag.genre = "Q&A";
-                NodeID3.write({...tag}, fileDirection.audioFileOf( question, "Q&A" ), ()=>{
-                    console.log( "[id3] create metadata of", question.number)
-                    resolve( "ID3" );
+                NodeID3.write({ ...tag }, fileDirection.audioFileOf( question, "Q&A" ), ()=>{
+
+                    if( question.important ){
+                        tag.album="🔥🔥🔥";
+                        return NodeID3.write( { ...tag }, fileDirection.audioFileOf( question, "Important" ), () => {
+                            console.log( "[id3] create metadata of", question.number)
+                            return resolve( "ID3" );
+                        })
+                    } else {
+                        console.log( "[id3] create metadata of", question.number)
+                        return resolve( "ID3" );
+                    }
                 });
             });
         });
