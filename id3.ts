@@ -41,13 +41,14 @@ export function id3Question( fileDirection:FileDirections, question:Question ){
             }
         }
 
-        tag.genre= `Question`;
-        return NodeID3.write({ ...tag }, fileDirection.audioFileOf( question, "Question" ), ()=>{
-            tag.genre = "Answerer";
-            NodeID3.write({ ...tag }, fileDirection.audioFileOf( question, "Response" ), () =>{
+        // tag.genre= `Question`;
+        // NodeID3.write({ ...tag }, fileDirection.audioFileOf( question, "Question" ), ()=>{
+        //
+        //     tag.genre = "Answerer";
+        //     NodeID3.write({ ...tag }, fileDirection.audioFileOf( question, "Response" ), () =>{
+
                 tag.genre = "Q&A";
                 NodeID3.write({ ...tag }, fileDirection.audioFileOf( question, "Q&A" ), ()=>{
-
                     if( question.important ){
                         tag.album="🔥🔥🔥";
                         return NodeID3.write( { ...tag }, fileDirection.audioFileOf( question, "Important" ), () => {
@@ -60,6 +61,6 @@ export function id3Question( fileDirection:FileDirections, question:Question ){
                     }
                 });
             });
-        });
-    });
+    //     });
+    // });
 }

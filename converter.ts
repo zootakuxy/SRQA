@@ -71,8 +71,8 @@ export function converter( source:Source, audioFolder:string, rawFolder:string )
                 if( !_current ) return resolve( source );
                 let convert = _current.change
                     || !_current.converted
-                    || !fs.existsSync( fdir.audioFileOf( _current, "Question" ))
-                    || !fs.existsSync( fdir.audioFileOf( _current, "Response" ))
+                    // || !fs.existsSync( fdir.audioFileOf( _current, "Question" ))
+                    // || !fs.existsSync( fdir.audioFileOf( _current, "Response" ))
                     || !fs.existsSync( fdir.audioFileOf( _current, "Q&A" ))
                 ;
                 let workName = `Convert question ${ _current.number } from ${ source.name } `;
@@ -85,23 +85,23 @@ export function converter( source:Source, audioFolder:string, rawFolder:string )
 
                 let voice = isPair? source.configs.translate.voice2 : source.configs.translate.voice1;
 
-                let text;
+                let text, audioFile, rawFile;
 
-                text = `<break time="1s"/>${_current.question}<break time="15s"/>`;
-                let audioFile = fdir.audioFileOf( _current, "Question" );
-                let rawFile = fdir.rawFileOf( _current, "Question" );
-                ttsManager.convert( source.configs.translate.language, voice, _current.question, audioFile,  `${ workName } ... CREATED QUESTION` ).then( rawQuestion => {
-                    if( !rawQuestion ) return resolve( false );
-
-                    fs.mkdirSync( Path.dirname( rawFile ), { recursive: true } );
-                    fs.writeFileSync( rawFile, rawQuestion );
-
-                    audioFile = fdir.audioFileOf( _current, "Response" );
-                    rawFile = fdir.rawFileOf( _current, "Response" );
-                    ttsManager.convert( source.configs.translate.language, voice, _current.answer, audioFile, `${workName} ... CREATED ANSWER` ).then( rawAnswer => {
-                        if( !rawAnswer ) return resolve( false );
-                        fs.mkdirSync( Path.dirname( rawFile ), { recursive: true } );
-                        fs.writeFileSync( rawFile, rawAnswer );
+                // text = `<break time="1s"/>${_current.question}<break time="15s"/>`;
+                // audioFile = fdir.audioFileOf( _current, "Question" );
+                // rawFile = fdir.rawFileOf( _current, "Question" );
+                // ttsManager.convert( source.configs.translate.language, voice, _current.question, audioFile,  `${ workName } ... CREATED QUESTION` ).then( rawQuestion => {
+                //     if( !rawQuestion ) return resolve( false );
+                //
+                //     fs.mkdirSync( Path.dirname( rawFile ), { recursive: true } );
+                //     fs.writeFileSync( rawFile, rawQuestion );
+                //
+                //     audioFile = fdir.audioFileOf( _current, "Response" );
+                //     rawFile = fdir.rawFileOf( _current, "Response" );
+                //     ttsManager.convert( source.configs.translate.language, voice, _current.answer, audioFile, `${workName} ... CREATED ANSWER` ).then( rawAnswer => {
+                //         if( !rawAnswer ) return resolve( false );
+                //         fs.mkdirSync( Path.dirname( rawFile ), { recursive: true } );
+                //         fs.writeFileSync( rawFile, rawAnswer );
 
                         text = `<break time="1s"/>${_current.question}<break time="10s"/>\n${_current.answer}<break time="5s"/>`;
 
@@ -117,8 +117,8 @@ export function converter( source:Source, audioFolder:string, rawFolder:string )
 
                             next( _current );
                         })
-                    })
-                });
+                    // })
+                // });
             };
 
             let next = ( _preview:Question )=>{
