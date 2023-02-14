@@ -340,10 +340,6 @@ Tacógrafo, serve para registrar o tempo de repouso do condutor ou também indic
 
 
 
-
-
-
-
 2001-Com a carta de pesado de mercadoria que veículo posso conduzir?
 Com a carta de pesado de mercadoria posso conduzir todos os automóveis pesados com exceção aos pesados de passageiros e motociclo.
 2002-Qual a diferença entre paragem e estacionamento?
@@ -444,13 +440,9 @@ Bermas, é a parte de via publica, não destinada a trânsito de veículos, e qu
 A diferença existente entre vias de aceleração e vias de abrandamento, é que vias de aceleração permite entrada a uma autoestrada, enquanto que via de abrandamento permite saída de uma autoestrada.
 2052-Por onde devem circular automóvel de mercadorias e veículos longos nas autoestradas!?
 Nas autoestradas, tanto os automóveis de mercadoria quanto os automóveis cujo cumprimento é superior a 7 metros só podem circular nas duas primeiras vias mais a direita.
-2051-O que são Lombas Redutoras de Velocidades ou lomba materializada!?
-Lombas Redutoras de Velocidades ou lomba materializada, são secção elevada da faixa de rodagem construída em toda sua largura, com carácter não temporário, com objetivo de obrigar os condutores a praticarem uma velocidade mais reduzida.
 
 
 //Novas perguntas extraídas na aula do dia 13-02-2023
-2052-Quando um veículo sede passagem para um navio!?
-Um veículo sede passagem para um navio, perante uma ponte movel suspensa.
 2053-Quantos tipos de lombas existem!?
 Existe dois tipos de lombas, lombas natural e lombas materializadas.
 2054-Quais o outro nome que podemos chamar a linha continua dupla!?
@@ -471,9 +463,10 @@ Atender a regra de prioridade, significa que o condutor tem de ceder a passagem 
 Visão em túnel, consiste na perda do campo visual lateral dentro dos tuneis.
 2062-O que entendes por visão noturna!?
 Visão noturna, é a qual o condutor conduz com ajuda das luzes do veículo.
-// 2063- Espaço disponível para adicionar pergunta
+2063-O que são Lombas Redutoras de Velocidades ou lomba materializada!?
+Lombas Redutoras de Velocidades ou lomba materializada, são secção elevada da faixa de rodagem construída em toda sua largura, com carácter não temporário, com objetivo de obrigar os condutores a praticarem uma velocidade mais reduzida.
+
 2064-Quais são os sinais que os veículos nos dão quando tem problema com embreagem!?
 O condutor deve saber tem problema com embreagem, através do cheiro queimado ou também quando a velocidade do veículo não corresponder o barrulho emitido pelo motor.
-
-
-
+2065-Quando um veículo sede passagem para um navio!?
+Um veículo sede passagem para um navio, perante uma ponte movel suspensa.

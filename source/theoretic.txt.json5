@@ -2,7 +2,7 @@
   {
     important: 0,
     question: 'O que são veículos?',
-    answer: '\nVeículos, são objetos produzido pela arte mecânica, com ou sem motor, destinado a transportar pessoas ou mercadorias.',
+    answer: 'Veículos, são objetos produzido pela arte mecânica, com ou sem motor, destinado a transportar pessoas ou mercadorias.',
     number: 1,
     type: 'theoretic',
     change: false,
@@ -11,16 +11,16 @@
   {
     important: 0,
     question: 'Como classificam os veículos?',
-    answer: '\nOs veículos classificam em automóveis e não automóveis.',
+    answer: 'Os veículos classificam em automóveis e não automóveis.',
     number: 2,
     type: 'theoretic',
     change: false,
     converted: true,
   },
   {
-    important: 0,
+    important: 1,
     question: 'O que são veículos automóveis?',
-    answer: '\nVeículos automóveis, são veículo munido de motor de cilindrada superior a 50 cm3, que se movem pelos seus próprios meios.',
+    answer: 'Veículos automóveis, são veículo munido de motor de cilindrada superior a 50 cm3, que se movem pelos seus próprios meios com auxílio do condutor.',
     number: 3,
     type: 'theoretic',
     change: false,
@@ -29,7 +29,7 @@
   {
     important: 0,
     question: 'Como classificam os veículos automóveis?',
-    answer: '\nOs veículos automóveis classificam em: ligeiros, pesados e motociclos.',
+    answer: 'Os veículos automóveis classificam em: ligeiros, pesados e motociclos.',
     number: 4,
     type: 'theoretic',
     change: false,
@@ -38,7 +38,7 @@
   {
     important: 0,
     question: 'O que são veículo automóveis ligeiros?',
-    answer: '\nVeículo automóveis ligeiros, são veículo cuja a lotação, não excede 9 lugares incluindo condutor, e o peso bruto também não excede 3500 kg.',
+    answer: 'Veículo automóveis ligeiros, são veículo cuja a lotação, não excede 9 lugares incluindo condutor, e o peso bruto também não excede 3500 kg.',
     number: 5,
     type: 'theoretic',
     change: false,
@@ -47,7 +47,7 @@
   {
     important: 0,
     question: 'Que tipo de automóveis ligeiro conheces?',
-    answer: '\nOs veículos automóveis ligeiros classificam em: ligeiro de passageiro, mercadoria, misto.',
+    answer: 'Os veículos automóveis ligeiros classificam em: ligeiro de passageiro, mercadoria, misto.',
     number: 6,
     type: 'theoretic',
     change: false,
@@ -56,7 +56,7 @@
   {
     important: 0,
     question: 'O que são veículos automóveis pesados?',
-    answer: '\nVeículos automóveis pesados, são veículo cuja a lotação, excede 9 lugares incluindo condutor, e o seu peso bruto excede 3500 kg.',
+    answer: 'Veículos automóveis pesados, são veículo cuja a lotação, excede 9 lugares incluindo condutor, e o seu peso bruto excede 3500 kg.',
     number: 7,
     type: 'theoretic',
     change: false,
@@ -65,7 +65,7 @@
   {
     important: 0,
     question: 'Como classificam os veículos automóveis pesados?',
-    answer: '\nOs veículos automóveis pesados classificam em pesado de passageiros e pesado de mercadorias.',
+    answer: 'Os veículos automóveis pesados classificam em pesado de passageiros e pesado de mercadorias.',
     number: 8,
     type: 'theoretic',
     change: false,
@@ -74,7 +74,7 @@
   {
     important: 0,
     question: 'O que são motociclos?',
-    answer: '\nMotociclo, são veículo munido de motor de cilindrada superior a 50 cm3, que não podemos considerar automóveis ligeiros.',
+    answer: 'Motociclo, são veículo munido de motor de cilindrada superior a 50 cm3, que não podemos considerar automóveis ligeiros.',
     number: 9,
     type: 'theoretic',
     change: false,
@@ -83,7 +83,7 @@
   {
     important: 0,
     question: 'Como classificam os motociclos?',
-    answer: '\nOs motociclos classificam em simples e com carro lateral, (atualmente temos moto-carinhas)',
+    answer: 'Os motociclos classificam em simples e com carro lateral, (atualmente temos moto-carinhas)',
     number: 10,
     type: 'theoretic',
     change: false,
@@ -92,7 +92,7 @@
   {
     important: 0,
     question: 'Qual lotação máxima para um motociclo simples?',
-    answer: '\nA lotação máxima para motociclo simples é de 2 lugares.',
+    answer: 'A lotação máxima para motociclo simples é de 2 lugares.',
     number: 11,
     type: 'theoretic',
     change: false,
@@ -101,7 +101,7 @@
   {
     important: 0,
     question: 'Qual é a lotação máxima para um motociclo com carro lateral?',
-    answer: '\nA lotação máxima para motociclo com carro lateral é de 3 lugares.',
+    answer: 'A lotação máxima para motociclo com carro lateral é de 3 lugares.',
     number: 12,
     type: 'theoretic',
     change: false,
@@ -110,7 +110,7 @@
   {
     important: 0,
     question: 'O que são ciclomotores?',
-    answer: '\nCiclomotores, são veículos munido de motor de cilindrada inferior a 50 cm3.',
+    answer: 'Ciclomotores, são veículos munido de motor de cilindrada inferior a 50 cm3.',
     number: 13,
     type: 'theoretic',
     change: false,
@@ -119,7 +119,7 @@
   {
     important: 0,
     question: 'O que são hipomóveis?',
-    answer: '\nHipomóveis, São veículo de tração animal.',
+    answer: 'Hipomóveis, São veículo de tração animal.',
     number: 14,
     type: 'theoretic',
     change: false,
@@ -128,7 +128,7 @@
   {
     important: 0,
     question: 'Porquê que os hipomóveis são considerados veículos de tração animal?',
-    answer: '\nHipomóveis são considerados veículos de tração animal, porque movem pelo esforço de animal',
+    answer: 'Hipomóveis são considerados veículos de tração animal, porque movem pelo esforço de animal',
     number: 15,
     type: 'theoretic',
     change: false,
@@ -137,7 +137,7 @@
   {
     important: 0,
     question: 'O que são velocípedes?',
-    answer: '\nVelocípedes, são veículos de duas ou mais roda acionadas por pedais e destinados a andar pelo esforço do condutor. Temos 3 tipos de velocípedes que são, velocípede simples, com dispositivo análogo e com motor auxiliar.',
+    answer: 'Velocípedes, são veículos de duas ou mais roda acionadas por pedais e destinados a andar pelo esforço do condutor. Temos 3 tipos de velocípedes que são, velocípede simples, com dispositivo análogo e com motor auxiliar.',
     number: 16,
     type: 'theoretic',
     change: false,
@@ -146,7 +146,7 @@
   {
     important: 0,
     question: 'Como classificam os velocípedes?',
-    answer: '\nOs velocípedes classificam em: simples, com dispositivo análogo, e com motor auxiliar.',
+    answer: 'Os velocípedes classificam em: simples, com dispositivo análogo, e com motor auxiliar.',
     number: 17,
     type: 'theoretic',
     change: false,
@@ -155,16 +155,16 @@
   {
     important: 0,
     question: 'O que é um comboio de veículo?',
-    answer: '\nComboio de veículo, é um conjunto de veículo formado por várias viaturas.',
+    answer: 'Comboio de veículo, é um conjunto de veículo formado por várias viaturas.',
     number: 18,
     type: 'theoretic',
     change: false,
     converted: true,
   },
   {
-    important: 1,
+    important: 0,
     question: 'O que são tratores?',
-    answer: '\nTratores, são veículos automóveis de grande esforço que não suporta carga útil.',
+    answer: 'Tratores, são veículos automóveis de grande esforço que não suporta carga útil.',
     number: 19,
     type: 'theoretic',
     change: false,
@@ -173,7 +173,7 @@
   {
     important: 0,
     question: 'Como classificam os tratores?',
-    answer: '\nOs tratores classificam em tratores agrícolas e tratores de tração.',
+    answer: 'Os tratores classificam em tratores agrícolas e tratores de tração.',
     number: 20,
     type: 'theoretic',
     change: false,
@@ -182,7 +182,7 @@
   {
     important: 0,
     question: 'Qual é o comprimento máximo para um veículo automóvel?',
-    answer: '\nO comprimento máximo para um veículo automóvel é de 12 metros sem reboque, se for com semirreboque é de 18.75 metros, e se for com reboque é de 22 metros.',
+    answer: 'O comprimento máximo para um veículo automóvel é de 12 metros sem reboque, se for com semirreboque é de 18.75 metros, e se for com reboque é de 22 metros.',
     number: 21,
     type: 'theoretic',
     change: false,
@@ -191,7 +191,7 @@
   {
     important: 0,
     question: 'Qual é a largura máxima de um veículo automóvel?',
-    answer: '\nA largura máxima para um veículo automóvel é de 2.55 metros. Para veículo automóvel com caixa frigorífica, a largura máxima é de 2.60 metros.',
+    answer: 'A largura máxima para um veículo automóvel é de 2.55 metros. Para veículo automóvel com caixa frigorífica, a largura máxima é de 2.60 metros.',
     number: 22,
     type: 'theoretic',
     change: false,
@@ -200,16 +200,16 @@
   {
     important: 0,
     question: 'Qual é a altura máxima para um veículo automóvel?',
-    answer: '\nA altura máxima para um veículo automóvel é de 4 metros a começar de solo.',
+    answer: 'A altura máxima para um veículo automóvel é de 4 metros a começar de solo.',
     number: 23,
     type: 'theoretic',
     change: false,
     converted: true,
   },
   {
-    important: 1,
+    important: 0,
     question: 'Em que caso um veículo pode exceder a sua largura móvel?',
-    answer: '\nUm veículo pode exceder a sua largura móvel, quando houver uma carga que não pode ser demolida. Tem que pedir uma autorização na secção da viação, só poderá exceder 25 cm sendo 12,5 cm para cada lado, só poderá transitar numa faixa de rodagem com uma largura que seja superior à 6 metros e acompanhado por um agente de autoridade.',
+    answer: 'Um veículo pode exceder a sua largura móvel, quando houver uma carga que não pode ser demolida. Tem que pedir uma autorização na secção da viação, só poderá exceder 25 cm sendo 12,5 cm para cada lado, só poderá transitar numa faixa de rodagem com uma largura que seja superior à 6 metros e acompanhado por um agente de autoridade.',
     number: 24,
     type: 'theoretic',
     change: false,
@@ -218,7 +218,7 @@
   {
     important: 0,
     question: 'O que são semáforos?',
-    answer: '\nSemáforos, são sinal luminoso reguladores de trânsito.',
+    answer: 'Semáforos, são sinal luminoso reguladores de trânsito.',
     number: 25,
     type: 'theoretic',
     change: false,
@@ -227,7 +227,7 @@
   {
     important: 0,
     question: 'Quais são as cores das luzes de sinal luminoso regulador de trânsito?',
-    answer: '\nAs cores das luzes de sinal luminoso reguladores do trânsito são: vermelha, verde e amarela.',
+    answer: 'As cores das luzes de sinal luminoso reguladores do trânsito são: vermelha, verde e amarela.',
     number: 26,
     type: 'theoretic',
     change: false,
@@ -236,7 +236,7 @@
   {
     important: 0,
     question: 'Para que serve a luz vermelha do sinal luminoso regulador de trânsito?',
-    answer: '\nA luz vermelha, obriga-nos a parar antes de atingir a zona protegida pelo sinal.',
+    answer: 'A luz vermelha, obriga-nos a parar antes de atingir a zona protegida pelo sinal.',
     number: 27,
     type: 'theoretic',
     change: false,
@@ -245,7 +245,7 @@
   {
     important: 0,
     question: 'Para que serve a luz verde sinal luminoso regulador de trânsito?',
-    answer: '\nA luz verde, indica-nos passagem livre.',
+    answer: 'A luz verde, indica-nos passagem livre.',
     number: 28,
     type: 'theoretic',
     change: false,
@@ -254,7 +254,7 @@
   {
     important: 0,
     question: 'Para que serve a luz amarela constante sinal luminoso regulador de trânsito?',
-    answer: '\nA luz amarela constante, indica ao condutor se tiver tempo, deve parar com devida segurança antes de atingir a zona protegida pelo sinal, e se o condutor já estiver dentro da zona protegida pelo sinal deve seguir sem hesitação.',
+    answer: 'A luz amarela constante, indica ao condutor se tiver tempo, deve parar com devida segurança antes de atingir a zona protegida pelo sinal, e se o condutor já estiver dentro da zona protegida pelo sinal deve seguir sem hesitação.',
     number: 29,
     type: 'theoretic',
     change: false,
@@ -263,7 +263,7 @@
   {
     important: 1,
     question: 'Para que serve a luz amarela intermitente?',
-    answer: '\nA luz amarela intermitente, indica ao condutor para atender as regras de prioridade.\nEla só aparece quando o semáforo se encontra temporariamente suspenso, sendo assim alertando o condutor a necessidade de respeitar a regra de prioridade na ausência de qualquer outra sinalização.',
+    answer: 'A luz amarela intermitente, indica ao condutor para atender as regras de prioridade.\nEla só aparece quando o semáforo se encontra temporariamente suspenso, sendo assim alertando o condutor a necessidade de respeitar a regra de prioridade na ausência de qualquer outra sinalização.',
     number: 30,
     type: 'theoretic',
     change: false,
@@ -272,7 +272,7 @@
   {
     important: 0,
     question: 'Quais são as luzes obrigatória num veículo automóvel?',
-    answer: '\nAs luzes obrigatórias num veículo automóvel são, para frente luz máxima, média, mínima e indicadores de direção. Na retaguarda os mesmos indicadores de direção, luz de presença, luz de travagem e a luz de chapa matrícula que deve ser legível a 20 metros e visível a 150 metros.',
+    answer: 'As luzes obrigatórias num veículo automóvel são, para frente luz máxima, média, mínima e indicadores de direção. Na retaguarda os mesmos indicadores de direção, luz de presença, luz de travagem e a luz de chapa matrícula que deve ser legível a 20 metros e visível a 150 metros.',
     number: 31,
     type: 'theoretic',
     change: false,
@@ -281,7 +281,7 @@
   {
     important: 0,
     question: 'A que distância projeta uma luz máxima ou luz de estrada?',
-    answer: '\nA luz máxima projeta pelo menos 100 metros.',
+    answer: 'A luz máxima projeta pelo menos 100 metros.',
     number: 32,
     type: 'theoretic',
     change: false,
@@ -290,7 +290,7 @@
   {
     important: 0,
     question: 'A que distância projeta a luz média ou luz de cruzamento?',
-    answer: '\nA luz média projeta 30 metros.',
+    answer: 'A luz média projeta 30 metros.',
     number: 33,
     type: 'theoretic',
     change: false,
@@ -299,7 +299,7 @@
   {
     important: 0,
     question: 'A que distância projeta uma luz mínima e a luz de presença?',
-    answer: '\nA luz mínima e a luz de presença não projetam, mas é visível a 150 metros.',
+    answer: 'A luz mínima e a luz de presença não projetam, mas é visível a 150 metros.',
     number: 34,
     type: 'theoretic',
     change: false,
@@ -308,7 +308,7 @@
   {
     important: 0,
     question: 'A que distância projeta uma luz de retaguarda?',
-    answer: '\nA luz de retaguarda, projeta 10 metros para o solo.',
+    answer: 'A luz de retaguarda, projeta 10 metros para o solo.',
     number: 35,
     type: 'theoretic',
     change: false,
@@ -317,7 +317,7 @@
   {
     important: 1,
     question: 'Como devem ser utilizadas as luzes nas estradas e nas cidades?',
-    answer: '\nDentro das localidades bem iluminada, os médios. Os máximos nas localidades mal iluminadas e os médios quando se vai cruzar com outro veículo automóvel ou fazer ultrapassagem, nesse caso deve também utilizar os indicadores da direção.',
+    answer: 'Dentro das localidades bem iluminada, os médios. Os máximos nas localidades mal iluminadas e os médios quando se vai cruzar com outro veículo automóvel ou fazer ultrapassagem, nesse caso deve também utilizar os indicadores da direção.',
     number: 36,
     type: 'theoretic',
     change: false,
@@ -326,7 +326,7 @@
   {
     important: 0,
     question: 'Como é regulada a velocidade nas estradas e nas cidades?',
-    answer: '\nA velocidade nas estradas e nas cidades, é regulada olhando a característica do veículo, a intensidade do trânsito, as condições da via, a segurança do condutor e a visibilidade da mesma.',
+    answer: 'A velocidade nas estradas e nas cidades, é regulada olhando a característica do veículo, a intensidade do trânsito, as condições da via, a segurança do condutor e a visibilidade da mesma.',
     number: 37,
     type: 'theoretic',
     change: false,
@@ -335,7 +335,7 @@
   {
     important: 0,
     question: 'Quais são os sinais verticais que tu conheces?',
-    answer: '\nOs sinais verticais são, perigo, prescrição absoluta, e simples indicação.',
+    answer: 'Os sinais verticais são, perigo, prescrição absoluta, e simples indicação.',
     number: 38,
     type: 'theoretic',
     change: false,
@@ -344,7 +344,7 @@
   {
     important: 0,
     question: 'O que nos indica os sinais de prescrição absoluta?',
-    answer: '\nOs sinais de prescrição absoluta, indica-nos uma proibição e uma obrigação a cumprir.',
+    answer: 'Os sinais de prescrição absoluta, indica-nos uma proibição e uma obrigação a cumprir.',
     number: 39,
     type: 'theoretic',
     change: false,
@@ -353,7 +353,7 @@
   {
     important: 0,
     question: 'Que sinais gráficos conheces?',
-    answer: '\nConheço os sinais gráficos verticais, e marcado no pavimento.',
+    answer: 'Conheço os sinais gráficos verticais, e marcado no pavimento.',
     number: 40,
     type: 'theoretic',
     change: false,
@@ -362,7 +362,7 @@
   {
     important: 0,
     question: 'Quais são os sinais marcado no pavimento que conheces?',
-    answer: '\nOs sinais marcados no pavimento que conheço são, linha contínua, linha descontínua, linha mista, linha transversal contínua, banda em zebra, setas de orientação e raias oblíquas.',
+    answer: 'Os sinais marcados no pavimento que conheço são, linha contínua, linha descontínua, linha mista, linha transversal contínua, banda em zebra, setas de orientação e raias oblíquas.',
     number: 41,
     type: 'theoretic',
     change: false,
@@ -371,7 +371,7 @@
   {
     important: 0,
     question: 'Para que serve a linha contínua?',
-    answer: '\nA linha contínua indica ao condutor para transitar sempre a sua direita, não podendo pisa-la ou transpô-la porque se encontra em local perigoso.',
+    answer: 'A linha contínua indica ao condutor para transitar sempre a sua direita, não podendo pisa-la ou transpô-la porque se encontra em local perigoso.',
     number: 42,
     type: 'theoretic',
     change: false,
@@ -380,7 +380,7 @@
   {
     important: 0,
     question: 'Para que serve a linha descontinua?',
-    answer: '\nA linha descontínua indica ao condutor para transitar sempre a sua direita, só podendo pisa-lo ou transpô-lo para efeito de qualquer manobra.',
+    answer: 'A linha descontínua indica ao condutor para transitar sempre a sua direita, só podendo pisa-lo ou transpô-lo para efeito de qualquer manobra.',
     number: 43,
     type: 'theoretic',
     change: false,
@@ -389,7 +389,7 @@
   {
     important: 0,
     question: 'Para que serve a linha mista?',
-    answer: '\nA linha mista é junção da linha contínua mais a linha descontínua. Ela indica ao condutor, quer para efeito de qualquer manobra, o condutor deve pisar da linha descontínua para a linha contínua.',
+    answer: 'A linha mista é junção da linha contínua mais a linha descontínua. Ela indica ao condutor, quer para efeito de qualquer manobra, o condutor deve pisar da linha descontínua para a linha contínua.',
     number: 44,
     type: 'theoretic',
     change: false,
@@ -398,16 +398,16 @@
   {
     important: 0,
     question: 'Para que serve uma raia oblíquas?',
-    answer: '\nRaia oblíquas, serve para delimitar áreas perigosas existente dentro da faixa de rodagem.',
+    answer: 'Raia oblíquas, serve para delimitar áreas perigosas existente dentro da faixa de rodagem.',
     number: 45,
     type: 'theoretic',
     change: false,
     converted: true,
   },
   {
-    important: 1,
+    important: 0,
     question: 'Para que serve a linha transversal contínua?',
-    answer: '\nLinha transversal contínua, serve para marcar a travessia de piões na zona protegida pelo sinal.',
+    answer: 'Linha transversal contínua, serve para marcar a travessia de piões na zona protegida pelo sinal.',
     number: 46,
     type: 'theoretic',
     change: false,
@@ -416,7 +416,7 @@
   {
     important: 0,
     question: 'Quais são as cores que assinalam a faixa de rodagem?',
-    answer: '\nAs cores que assinalam a faixa de rodagem são, vermelhas que assinala berma direita da faixa de rodagem; branca que assinala berma esquerda da faixa de rodagem; e amarela que assinala placa, obra, obstáculo, refúgio existente na faixa de rodagem.',
+    answer: 'As cores que assinalam a faixa de rodagem são, vermelhas que assinala berma direita da faixa de rodagem; branca que assinala berma esquerda da faixa de rodagem; e amarela que assinala placa, obra, obstáculo, refúgio existente na faixa de rodagem.',
     number: 47,
     type: 'theoretic',
     change: false,
@@ -425,7 +425,7 @@
   {
     important: 0,
     question: 'Para que serve a pré-sinalização de perigo?',
-    answer: '\nPré-sinalização de perigo, serve para ser colocado na reta guarda do veículo, a uma distância de 30 metros para ser visível á 100 metros, pra efeito de carga e descarga, carga caída no pavimento, e avarias súbitas ou acidente. Se a distância de 30 metros não for visível á 100 metros, devemos colocá-lo numa distância que seja visível á 100 metros.',
+    answer: 'Pré-sinalização de perigo, serve para ser colocado na reta guarda do veículo, a uma distância de 30 metros para ser visível á 100 metros, pra efeito de carga e descarga, carga caída no pavimento, e avarias súbitas ou acidente. Se a distância de 30 metros não for visível á 100 metros, devemos colocá-lo numa distância que seja visível á 100 metros.',
     number: 48,
     type: 'theoretic',
     change: false,
@@ -434,7 +434,7 @@
   {
     important: 1,
     question: 'Que cor tem a pré-sinalização de perigo?',
-    answer: '\nPré-sinalização de perigo pode ser de cor vermelha ou laranja.',
+    answer: 'Pré-sinalização de perigo pode ser de cor vermelha ou laranja.',
     number: 49,
     type: 'theoretic',
     change: false,
@@ -443,7 +443,7 @@
   {
     important: 1,
     question: 'Que cor tem o sinal de reboque?',
-    answer: '\nO sinal de reboque, tem cor azul e amarelo.',
+    answer: 'O sinal de reboque, tem cor azul e amarelo.',
     number: 50,
     type: 'theoretic',
     change: false,
@@ -452,7 +452,7 @@
   {
     important: 0,
     question: 'Em caso de acidente como deve proceder o condutor?',
-    answer: '\nEm caso de acidente, o condutor deve primeiramente socorrer os feridos o mais rápido possível, e em seguida apresentar-se as autoridades.',
+    answer: 'Em caso de acidente, o condutor deve primeiramente socorrer os feridos o mais rápido possível, e em seguida apresentar-se as autoridades.',
     number: 51,
     type: 'theoretic',
     change: false,
@@ -461,7 +461,7 @@
   {
     important: 0,
     question: 'Onde é proibido buzinar?',
-    answer: '\nÉ proibido buzinar, dentro das localidades, pertos dos hospitais, creches, escolas, onde existe aglomeração de pessoas, e onde encontro o sinal de proibição de utilizar sinais sonoros.',
+    answer: 'É proibido buzinar, dentro das localidades, pertos dos hospitais, creches, escolas, onde existe aglomeração de pessoas, e onde encontro o sinal de proibição de utilizar sinais sonoros.',
     number: 52,
     type: 'theoretic',
     change: false,
@@ -470,7 +470,7 @@
   {
     important: 0,
     question: 'Como se deve estacionar veículo na via pública?',
-    answer: '\nPara estacionar veículo na via publica, verifico se local é próprio, e se não existe nenhuma sinalização indicando o contrário. Caso não, encosto o mais possível á direita. Se for a descer viro as rodas frente para os passeios e engreno na mudança de retaguarda, e se for a subir engreno na mudança de primeira. Também, se for num local de má visibilidade devemos deixar a luz de presença acesa e acionar o travão de mão antes de sair do veículo.',
+    answer: 'Para estacionar veículo na via publica, verifico se local é próprio, e se não existe nenhuma sinalização indicando o contrário. Caso não, encosto o mais possível á direita. Se for a descer viro as rodas frente para os passeios e engreno na mudança de retaguarda, e se for a subir engreno na mudança de primeira. Também, se for num local de má visibilidade devemos deixar a luz de presença acesa e acionar o travão de mão antes de sair do veículo.',
     number: 53,
     type: 'theoretic',
     change: false,
@@ -479,7 +479,7 @@
   {
     important: 0,
     question: 'O que entendes por velocidade?',
-    answer: '\nVelocidade, é o percurso feito por um móvel numa unidade de tempo.',
+    answer: 'Velocidade, é o percurso feito por um móvel numa unidade de tempo.',
     number: 54,
     type: 'theoretic',
     change: false,
@@ -488,7 +488,7 @@
   {
     important: 0,
     question: 'Como classifica a velocidade?',
-    answer: '\nA velocidade classifica-se em velocidade instantânea, velocidade média e velocidade excessiva.',
+    answer: 'A velocidade classifica-se em velocidade instantânea, velocidade média e velocidade excessiva.',
     number: 55,
     type: 'theoretic',
     change: false,
@@ -497,7 +497,7 @@
   {
     important: 0,
     question: 'O que entendes por velocidade excessiva?',
-    answer: '\nVelocidade excessiva, é uma velocidade em que o condutor não consegue parar num espaço livre e visível a sua frente.',
+    answer: 'Velocidade excessiva, é uma velocidade em que o condutor não consegue parar num espaço livre e visível a sua frente.',
     number: 56,
     type: 'theoretic',
     change: false,
@@ -506,7 +506,7 @@
   {
     important: 0,
     question: 'O que entendes por visibilidade reduzida?',
-    answer: '\nVisibilidade reduzida, é sempre que o condutor não consegue avistar a faixa de rodagem em toda a sua largura, numa extensão de 50 metros.',
+    answer: 'Visibilidade reduzida, é sempre que o condutor não consegue avistar a faixa de rodagem em toda a sua largura, numa extensão de 50 metros.',
     number: 57,
     type: 'theoretic',
     change: false,
@@ -515,7 +515,7 @@
   {
     important: 1,
     question: 'Qual a velocidade máxima para automóveis pesados?',
-    answer: '\nAs velocidades máximas para automóveis de mercadoria cujo o peso não excede 10.000 kg, dentro de uma localidade é de 50 km/h, fora de localidade é de 70 km/h. Quando o seu peso excede 10.000 kg, dentro de uma localidade a velocidade máxima é de 50 km/h e de 60 km/h fora da localidade.\nPara automóveis pesados de passageiro dentro da localidade a velocidade máxima é de 50 km/h, fora da localidade a velocidade máxima é de 70 km/h. exceto nas autoestradas que podem chegar aos 80 ou 90 km/h.\nPara tratores com ou sem reboque, dentro das localidades a velocidade máxima é de 30 km/h, fora das localidades a velocidade máxima é de 40 km/h.',
+    answer: 'As velocidades máximas para automóveis de mercadoria cujo o peso não excede 10.000 kg, dentro de uma localidade é de 50 km/h, fora de localidade é de 70 km/h. Quando o seu peso excede 10.000 kg, dentro de uma localidade a velocidade máxima é de 50 km/h e de 60 km/h fora da localidade.\nPara automóveis pesados de passageiro dentro da localidade a velocidade máxima é de 50 km/h, fora da localidade a velocidade máxima é de 70 km/h. exceto nas autoestradas que podem chegar aos 80 ou 90 km/h.\nPara tratores com ou sem reboque, dentro das localidades a velocidade máxima é de 30 km/h, fora das localidades a velocidade máxima é de 40 km/h.',
     number: 58,
     type: 'theoretic',
     change: false,
@@ -524,7 +524,7 @@
   {
     important: 0,
     question: 'Para que servem os fusíveis?',
-    answer: '\nOs fusíveis, servem para evitar que a instalação elétrica se queime em caso de curto-circuito. Geralmente estão montados numa caixa. Há um fusível para cada curto-circuito.',
+    answer: 'Os fusíveis, servem para evitar que a instalação elétrica se queime em caso de curto-circuito. Geralmente estão montados numa caixa. Há um fusível para cada curto-circuito.',
     number: 59,
     type: 'theoretic',
     change: false,
@@ -533,7 +533,7 @@
   {
     important: 0,
     question: 'Qual é o tipo de lubrificante que se usa para diferencial e caixa de velocidade?',
-    answer: '\nO lubrificante usado para diferencial e caixa de velocidade é valvulina, ou seja, óleo 90 ou 140.',
+    answer: 'O lubrificante usado para diferencial e caixa de velocidade é valvulina, ou seja, óleo 90 ou 140.',
     number: 60,
     type: 'theoretic',
     change: false,
@@ -542,7 +542,7 @@
   {
     important: 1,
     question: 'Que instrumentos indicadores conhecem?',
-    answer: '\nOs instrumentos indicadores são: Liquídometro, Amperímetro, Termómetro, manómetro de óleo, velocímetro, e conta rotação.\nLiquidómetro, serve para indicar nível de combustível existente no depósito.\nTermómetro, serve para indicar a temperatura do motor.\nAmperímetro, serve para indicar carga ou descarga na a bateria feita pelo o dínamo.\nManómetro de óleo, serve para indicar a pressão que a bomba de óleo está a enviar a todos os pontos a lubrificar dentro motor. Nos carros de travão de ar comprimido existe um manómetro de ar, que serve para indicar a pressão de ar existente na botija.\nVelocímetro, serve para indicar a velocidade instantânea.\nConta rotação, que indica a rotação do motor por minuto.',
+    answer: 'Os instrumentos indicadores são: Liquídometro, Amperímetro, Termómetro, manómetro de óleo, velocímetro, e conta rotação.\nLiquidómetro, serve para indicar nível de combustível existente no depósito.\nTermómetro, serve para indicar a temperatura do motor.\nAmperímetro, serve para indicar carga ou descarga na a bateria feita pelo o dínamo.\nManómetro de óleo, serve para indicar a pressão que a bomba de óleo está a enviar a todos os pontos a lubrificar dentro motor. Nos carros de travão de ar comprimido existe um manómetro de ar, que serve para indicar a pressão de ar existente na botija.\nVelocímetro, serve para indicar a velocidade instantânea.\nConta rotação, que indica a rotação do motor por minuto.',
     number: 61,
     type: 'theoretic',
     change: false,
@@ -550,8 +550,8 @@
   },
   {
     important: 0,
-    question: ' Para que serve o liquidómetro?',
-    answer: '\nLiquidómetro, serve para indicar nível de combustível existente no depósito.',
+    question: 'Para que serve o liquidómetro?',
+    answer: 'Liquidómetro, serve para indicar nível de combustível existente no depósito.',
     number: 62,
     type: 'theoretic',
     change: false,
@@ -559,8 +559,8 @@
   },
   {
     important: 0,
-    question: ' Para que serve o amperímetro?',
-    answer: '\nAmperímetro, serve para indicar quando o dínamo faz carga ou descarga sobre a bateria.',
+    question: 'Para que serve o amperímetro?',
+    answer: 'Amperímetro, serve para indicar quando o dínamo faz carga ou descarga sobre a bateria.',
     number: 63,
     type: 'theoretic',
     change: false,
@@ -568,8 +568,8 @@
   },
   {
     important: 0,
-    question: ' Para que serve termómetro?',
-    answer: '\nTermómetro, serve para indicar a temperatura do motor.',
+    question: 'Para que serve termómetro?',
+    answer: 'Termómetro, serve para indicar a temperatura do motor.',
     number: 64,
     type: 'theoretic',
     change: false,
@@ -577,26 +577,26 @@
   },
   {
     important: 0,
-    question: ' Para que serve manómetro de óleo?',
-    answer: '\nManómetro de óleo, serve para indicar a pressão que a bomba de óleo está a enviar a todos os pontos a lubrificar dentro motor. Nos carros de travão de ar comprimido existe um manómetro de ar, que serve para indicar a pressão de ar existente na botija.',
+    question: 'Para que serve manómetro de óleo?',
+    answer: 'Manómetro de óleo, serve para indicar a pressão que a bomba de óleo está a enviar a todos os pontos a lubrificar dentro motor. Nos carros de travão de ar comprimido existe um manómetro de ar, que serve para indicar a pressão de ar existente na botija.',
     number: 65,
     type: 'theoretic',
     change: false,
     converted: true,
   },
   {
-    important: 2,
+    important: 1,
     question: 'Se o motor parar por si só o quê que o condutor deve fazer?',
-    answer: '\nSe o motor para por si só, o condutor deve começar pelo o sistema de alimentação, verificando se há combustível no depósito e ver se chega ao carburador. Se não for o sistema de alimentação, verifica o sistema de inflamação, começando pela bateria, verificando se ela tem corrente e ver se chega as velas. Se não chega deve verificar o distribuidor, começando pelos platinados ver se estão sujos, apertado demais ou se o condensador está queimado. Se a corrente não chega ao distribuidor é porque as bobines estão queimadas.',
+    answer: 'Se o motor para por si só, o condutor deve começar pelo o sistema de alimentação, verificando se há combustível no depósito e ver se chega ao carburador. Se não for o sistema de alimentação, verifica o sistema de inflamação, começando pela bateria, verificando se ela tem corrente e ver se chega as velas. Se não chega deve verificar o distribuidor, começando pelos platinados ver se estão sujos, apertado demais ou se o condensador está queimado. Se a corrente não chega ao distribuidor é porque as bobines estão queimadas.',
     number: 66,
     type: 'theoretic',
     change: false,
     converted: true,
   },
   {
-    important: 2,
+    important: 1,
     question: 'Se o condutor conduzir por muito tempo com pé sobre pedal de embreagem o que pode acontecer?',
-    answer: '\nConduzir por muito tempo com pé sobre pedal de embreagem, obrigará o disco a fazer muito esforço, podendo assim queimar o disco, o carvão como também os rolamentos.',
+    answer: 'Conduzir por muito tempo com pé sobre pedal de embreagem, obrigará o disco a fazer muito esforço, podendo assim queimar o disco, o carvão como também os rolamentos.',
     number: 67,
     type: 'theoretic',
     change: false,
@@ -605,7 +605,7 @@
   {
     important: 0,
     question: 'Quando é que um veículo não automóvel tem prioridade?',
-    answer: '\nUm veículo não automóvel tem prioridade, quando o veículo circula numa via com prioridade ou uma via reservada.',
+    answer: 'Um veículo não automóvel tem prioridade, quando o veículo circula numa via com prioridade ou uma via reservada.',
     number: 68,
     type: 'theoretic',
     change: false,
@@ -614,7 +614,7 @@
   {
     important: 1,
     question: 'Como procede o condutor numa descida perigosa?',
-    answer: '\nNuma descida perigosa, o condutor deve engrenar mudança de força e usar o motor com o travão.',
+    answer: 'Numa descida perigosa, o condutor deve engrenar mudança de força e usar o motor com o travão.',
     number: 69,
     type: 'theoretic',
     change: false,
@@ -623,7 +623,7 @@
   {
     important: 1,
     question: 'Como devemos circular com os veículos nas vias pública?',
-    answer: '\nA circulação nas vias pública, deve ser feita pelo lado direito da faixa de rodagem perto das bermas ou passeios.',
+    answer: 'A circulação nas vias pública, deve ser feita pelo lado direito da faixa de rodagem perto das bermas ou passeios.',
     number: 70,
     type: 'theoretic',
     change: false,
@@ -632,7 +632,7 @@
   {
     important: 0,
     question: 'Qual é a eficiência dos travões do veículo automóvel?',
-    answer: '\nPara obter a eficiência dos travões do veículo automóvel, devo multiplicar a velocidade por velocidade, e dividido por 100 se for com travão do pé, e dividido por 50 se for com travão de mão.',
+    answer: 'Para obter a eficiência dos travões do veículo automóvel, devo multiplicar a velocidade por velocidade, e dividido por 100 se for com travão do pé, e dividido por 50 se for com travão de mão.',
     number: 71,
     type: 'theoretic',
     change: false,
@@ -641,7 +641,7 @@
   {
     important: 0,
     question: 'Como deve preceder o condutor numa descida de forte inclinação?',
-    answer: '\nNuma descida de forte inclinação, o condutor deve engrenar o veículo a uma velocidade igual aquela que seja precisa para subir mesma rampa.',
+    answer: 'Numa descida de forte inclinação, o condutor deve engrenar o veículo a uma velocidade igual aquela que seja precisa para subir mesma rampa.',
     number: 72,
     type: 'theoretic',
     change: false,
@@ -650,7 +650,7 @@
   {
     important: 0,
     question: 'O que entendes por veículo prioritários?',
-    answer: '\nVeículo prioritários, são todos aqueles que partem em missão de urgência ou socorro.',
+    answer: 'Veículo prioritários, são todos aqueles que partem em missão de urgência ou socorro.',
     number: 73,
     type: 'theoretic',
     change: false,
@@ -659,7 +659,7 @@
   {
     important: 0,
     question: 'O que é via?',
-    answer: '\nVia é o cenário onde o trânsito se desenrola.',
+    answer: 'Via é o cenário onde o trânsito se desenrola.',
     number: 74,
     type: 'theoretic',
     change: false,
@@ -668,7 +668,7 @@
   {
     important: 0,
     question: 'O que são vias públicas?',
-    answer: '\nVias publicas, são todas as estradas, ruas e caminhos, onde circulam piões, animais e veículos que se fazem livremente com as prescrições resultantes do código de estrada e com algumas legislações complementares.',
+    answer: 'Vias publicas, são todas as estradas, ruas e caminhos, onde circulam piões, animais e veículos que se fazem livremente com as prescrições resultantes do código de estrada e com algumas legislações complementares.',
     number: 75,
     type: 'theoretic',
     change: false,
@@ -677,7 +677,7 @@
   {
     important: 0,
     question: 'Como classificam as vias públicas?',
-    answer: '\nAs vias publicas classificam em: estradas, autoestradas, ruas e caminhos.',
+    answer: 'As vias publicas classificam em: estradas, autoestradas, ruas e caminhos.',
     number: 76,
     type: 'theoretic',
     change: false,
@@ -686,7 +686,7 @@
   {
     important: 0,
     question: 'O são autoestrada?',
-    answer: '\nAutoestrada, é uma via destinado ao tráfego rápido, com separação de correntes de trânsito, com acesso condicionado, sem cruzamento ao nível nem acesso a propriedades marginais e sinalizada como tal.',
+    answer: 'Autoestrada, é uma via destinado ao tráfego rápido, com separação de correntes de trânsito, com acesso condicionado, sem cruzamento ao nível nem acesso a propriedades marginais e sinalizada como tal.',
     number: 77,
     type: 'theoretic',
     change: false,
@@ -695,7 +695,7 @@
   {
     important: 0,
     question: 'O que não se pode fazer numa autoestrada?',
-    answer: '\nNuma autoestrada o condutor não pode parar, estacionar, marcha trás, fazer inversão de sentido de marcha, transitar a menos de 50 km/h, pisar na faixa separadora de trânsito, ensino de condução, transitar sem luz mesmo em caso de avaria.',
+    answer: 'Numa autoestrada o condutor não pode parar, estacionar, marcha trás, fazer inversão de sentido de marcha, transitar a menos de 50 km/h, pisar na faixa separadora de trânsito, ensino de condução, transitar sem luz mesmo em caso de avaria.',
     number: 78,
     type: 'theoretic',
     change: false,
@@ -704,7 +704,7 @@
   {
     important: 0,
     question: 'Nas autoestradas há cruzamentos?',
-    answer: '\nSim, nas autoestradas, vamos encontrar cruzamento desnivelado através de ponte ou túneis.',
+    answer: 'Sim, nas autoestradas, vamos encontrar cruzamento desnivelado através de ponte ou túneis.',
     number: 79,
     type: 'theoretic',
     change: false,
@@ -713,7 +713,7 @@
   {
     important: 0,
     question: 'O que entendes por estrada?',
-    answer: '\nEstradas, são pequenas via de comunicação terrestre, destinado ao trânsito interurbano.',
+    answer: 'Estradas, são pequenas via de comunicação terrestre, destinado ao trânsito interurbano.',
     number: 80,
     type: 'theoretic',
     change: false,
@@ -722,7 +722,7 @@
   {
     important: 0,
     question: 'O que são ruas?',
-    answer: '\nRuas, são pequenas vias de comunicação terrestre, destinado ao trânsito dentro das localidades.',
+    answer: 'Ruas, são pequenas vias de comunicação terrestre, destinado ao trânsito dentro das localidades.',
     number: 81,
     type: 'theoretic',
     change: false,
@@ -731,7 +731,7 @@
   {
     important: 0,
     question: 'O que entendes por caminhos?',
-    answer: '\nCaminhos, são pequenas vias de comunicação terrestre, destinado ao trânsito nas zonas rurais.',
+    answer: 'Caminhos, são pequenas vias de comunicação terrestre, destinado ao trânsito nas zonas rurais.',
     number: 82,
     type: 'theoretic',
     change: false,
@@ -740,7 +740,7 @@
   {
     important: 0,
     question: 'Como classificam os caminhos?',
-    answer: '\nCaminhos classificam-se em: caminho proposto e caminho ver sinal.',
+    answer: 'Caminhos classificam-se em: caminho proposto e caminho ver sinal.',
     number: 83,
     type: 'theoretic',
     change: false,
@@ -749,7 +749,7 @@
   {
     important: 0,
     question: 'Em que caso se transita pela esquerda?',
-    answer: '\nPodemos transitar pela esquerda quando vamos efetuar uma ultrapassagem ou mudança de direção para esquerda numa via de sentido único.',
+    answer: 'Podemos transitar pela esquerda quando vamos efetuar uma ultrapassagem ou mudança de direção para esquerda numa via de sentido único.',
     number: 84,
     type: 'theoretic',
     change: false,
@@ -758,7 +758,7 @@
   {
     important: 0,
     question: 'Para que lado deve ser contornado as placas ou obstáculos que encontramos no eixo da via?',
-    answer: '\nDevem ser contornados sempre pelo lado direito desde que não haja sinalização em contrário.',
+    answer: 'Devem ser contornados sempre pelo lado direito desde que não haja sinalização em contrário.',
     number: 85,
     type: 'theoretic',
     change: false,
@@ -767,7 +767,7 @@
   {
     important: 0,
     question: 'O que entendes por marcha trás?',
-    answer: '\nMarcha trás é a manobra que se faz circulando de frente para trás.',
+    answer: 'Marcha trás é a manobra que se faz circulando de frente para trás.',
     number: 86,
     type: 'theoretic',
     change: false,
@@ -776,7 +776,7 @@
   {
     important: 0,
     question: 'Como é feita marcha trás?',
-    answer: '\nMarcha trás é feita lentamente num menor trajeto possível.',
+    answer: 'Marcha trás é feita lentamente num menor trajeto possível.',
     number: 87,
     type: 'theoretic',
     change: false,
@@ -785,7 +785,7 @@
   {
     important: 0,
     question: 'Como se classifica marcha trás?',
-    answer: '\nManobras de recurso, manobra auxiliar de recurso numa passagem tem de recuar um dos auxiliares para estacionar.',
+    answer: 'Manobras de recurso, manobra auxiliar de recurso numa passagem tem de recuar um dos auxiliares para estacionar.',
     number: 88,
     type: 'theoretic',
     change: false,
@@ -794,7 +794,7 @@
   {
     important: 0,
     question: 'Onde é proibido fazer marcha trás?',
-    answer: '\nÉ proibido fazer marcha trás, nas curvas, cruzamento e entroncamentos, pontes, túneis, lombas e em todo locais de má visibilidade.',
+    answer: 'É proibido fazer marcha trás, nas curvas, cruzamento e entroncamentos, pontes, túneis, lombas e em todo locais de má visibilidade.',
     number: 89,
     type: 'theoretic',
     change: false,
@@ -803,7 +803,7 @@
   {
     important: 0,
     question: 'Qual é a diferença entre marcha trás e a retaguarda?',
-    answer: '\nA diferença entre marcha trás e retaguarda, é que marcha trás é nome de manobra enquanto a retaguarda é nome de mudança.',
+    answer: 'A diferença entre marcha trás e retaguarda, é que marcha trás é nome de manobra enquanto a retaguarda é nome de mudança.',
     number: 90,
     type: 'theoretic',
     change: false,
@@ -812,7 +812,7 @@
   {
     important: 0,
     question: 'Qual é a distância que deves manter entre si e o veículo que circula a sua frente?',
-    answer: '\nDevo manter uma distância que me permite parar sem o perigo de embater no veículo que circula a minha frente, se o mesmo travar de repente.',
+    answer: 'Devo manter uma distância que me permite parar sem o perigo de embater no veículo que circula a minha frente, se o mesmo travar de repente.',
     number: 91,
     type: 'theoretic',
     change: false,
@@ -821,7 +821,7 @@
   {
     important: 0,
     question: 'O que entendes por manobras perigosas?',
-    answer: '\nManobras perigosas, são todas aquelas que podem causar perigo tanto ao condutor, como para restante dos utentes da via pública.',
+    answer: 'Manobras perigosas, são todas aquelas que podem causar perigo tanto ao condutor, como para restante dos utentes da via pública.',
     number: 92,
     type: 'theoretic',
     change: false,
@@ -830,7 +830,7 @@
   {
     important: 0,
     question: 'O que entendes por ultrapassagem?',
-    answer: '\nUltrapassagem, é passar para frente de um veículo em andamento.',
+    answer: 'Ultrapassagem, é passar para frente de um veículo em andamento.',
     number: 93,
     type: 'theoretic',
     change: false,
@@ -839,7 +839,7 @@
   {
     important: 0,
     question: 'Por que lado é feita a ultrapassagem?',
-    answer: '\nNormalmente a ultrapassagem é feita pelo lado esquerdo, mas também podemos ultrapassar pelo lado direito quando o veículo que circula a nossa frente fizer o sinal de pisca á esquerda e nos deixa a direita livre. Também, podemos ultrapassar um carro elétrico em andamento, desde que não esteja parado para pegar ou largar passageiro, salvo se houver uma placa para refúgio de piões.',
+    answer: 'Normalmente a ultrapassagem é feita pelo lado esquerdo, mas também podemos ultrapassar pelo lado direito quando o veículo que circula a nossa frente fizer o sinal de pisca á esquerda e nos deixa a direita livre. Também, podemos ultrapassar um carro elétrico em andamento, desde que não esteja parado para pegar ou largar passageiro, salvo se houver uma placa para refúgio de piões.',
     number: 94,
     type: 'theoretic',
     change: false,
@@ -847,8 +847,8 @@
   },
   {
     important: 1,
-    question: ' Como procede o condutor para fazer ultrapassagem?',
-    answer: '\nPrimeiramente verifica se o local é próprio, e se não há nenhuma sinalização que me proíba. Depois disso avisa o condutor da frente a sua intenção, se for de dia usa sinal sonoro e se for de noite faz corte de luzes. Em seguida abro o sinal de pisca a esquerda e através do espelho retrovisor verifico na minha retaguarda sem não vem nenhum veículo com a mesma intensão. Caso não, acelero a marcha para esquerda e só retoma a minha direita depois de assegurar que não causo perigo ao veículo já ultrapassado.',
+    question: 'Como procede o condutor para fazer ultrapassagem?',
+    answer: 'Primeiramente verifica se o local é próprio, e se não há nenhuma sinalização que me proíba. Depois disso avisa o condutor da frente a sua intenção, se for de dia usa sinal sonoro e se for de noite faz corte de luzes. Em seguida abro o sinal de pisca a esquerda e através do espelho retrovisor verifico na minha retaguarda sem não vem nenhum veículo com a mesma intensão. Caso não, acelero a marcha para esquerda e só retoma a minha direita depois de assegurar que não causo perigo ao veículo já ultrapassado.',
     number: 95,
     type: 'theoretic',
     change: false,
@@ -857,7 +857,7 @@
   {
     important: 1,
     question: 'Como procede o condutor para fazer uma mudança de direção a esquerda?',
-    answer: '\nPrimeiramente verifica se o local é próprio, e se não há nenhuma sinalização que me proíba. Depois olha no espelho retrovisor se vem algum veículo com intenção de me ultrapassar, caso não abro o sinal de pisca a esquerda e aproximo do eixo da via se for uma via de dois sentidos, ou aproximo o mais possível a esquerda se for uma via de um sentido. Ao chegar no cruzamento ou entroncamento atende as regras de prioridade e faz a sua manobra mais perpendicular da direção que pretende seguir.',
+    answer: 'Primeiramente verifica se o local é próprio, e se não há nenhuma sinalização que me proíba. Depois olha no espelho retrovisor se vem algum veículo com intenção de me ultrapassar, caso não abro o sinal de pisca a esquerda e aproximo do eixo da via se for uma via de dois sentidos, ou aproximo o mais possível a esquerda se for uma via de um sentido. Ao chegar no cruzamento ou entroncamento atende as regras de prioridade e faz a sua manobra mais perpendicular da direção que pretende seguir.',
     number: 96,
     type: 'theoretic',
     change: false,
@@ -866,7 +866,7 @@
   {
     important: 0,
     question: 'O que entendes por prioridade de passagem?',
-    answer: '\nPrioridade de passagem é o direito de passar em primeiro lugar.',
+    answer: 'Prioridade de passagem é o direito de passar em primeiro lugar.',
     number: 97,
     type: 'theoretic',
     change: false,
@@ -875,16 +875,16 @@
   {
     important: 0,
     question: 'Nos cruzamentos e entroncamentos quem tem o direito de passar em primeiro lugar?',
-    answer: '\nNos cruzamentos e entroncamento, tem direito de passar em primeiro lugar todos aqueles que apresentam pela direita, ou os que tiverem a direita livre, com exceção de veículos não automóveis tais com veículo de tração animal, velocípedes, carros de mão e condutores de animais.',
+    answer: 'Nos cruzamentos e entroncamento, tem direito de passar em primeiro lugar todos aqueles que apresentam pela direita, ou os que tiverem a direita livre, com exceção de veículos não automóveis tais com veículo de tração animal, velocípedes, carros de mão e condutores de animais.',
     number: 98,
     type: 'theoretic',
     change: false,
     converted: true,
   },
   {
-    important: 0,
+    important: 1,
     question: 'Em que caso os veículos perdem prioridade mesmo que se apresentam pela direita?',
-    answer: '\nQuando depara com sinal de aproximação de estrada com prioridade, paragem obrigatória, a luz vermelha do sinal semáforos, quando o agente regulador do trânsito manda parar, ou quando pela esquerda apresentar veículos em missão de socorro ou emergência com a marcha devidamente assinalada, tais como ambulância, bombeiro, carro de polícia ou qualquer veículo que vá transportar doente ou feridos, ou também quando deparo com colunas militares ou militarizadas.',
+    answer: 'Quando depara com sinal de aproximação de estrada com prioridade, paragem obrigatória, a luz vermelha do sinal semáforos, quando o agente regulador do trânsito manda parar, ou quando pela esquerda apresentar veículos em missão de socorro ou emergência com a marcha devidamente assinalada, tais como ambulância, bombeiro, carro de polícia ou qualquer veículo que vá transportar doente ou feridos, ou também quando deparo com colunas militares ou militarizadas.',
     number: 99,
     type: 'theoretic',
     change: false,
@@ -893,7 +893,7 @@
   {
     important: 1,
     question: 'Nos cruzamentos e entroncamentos em que caso o veículo tem prioridade mesmo apresentando pelo lado esquerdo?',
-    answer: '\nQuando depara com sinal de via com prioridade, aproximação de estrada sem prioridade, perante luz verde de sinal luminoso, quando o agente regulador de trânsito manda avançar, quando ainda o condutor transporta doentes ou feridos com marcha devidamente assinalada, ou quando pela direita apresentam veículos não automóveis tais como, velocípedes, veículo de tração animal, carros de mão e condutor de animais.',
+    answer: 'Quando depara com sinal de via com prioridade, aproximação de estrada sem prioridade, perante luz verde de sinal luminoso, quando o agente regulador de trânsito manda avançar, quando ainda o condutor transporta doentes ou feridos com marcha devidamente assinalada, ou quando pela direita apresentam veículos não automóveis tais como, velocípedes, veículo de tração animal, carros de mão e condutor de animais.',
     number: 100,
     type: 'theoretic',
     change: false,
@@ -902,7 +902,7 @@
   {
     important: 0,
     question: 'Quais são os documentos que nos habilitam conduzir?',
-    answer: '\nOs documentos que nos habilitam de conduzir são, carta de condução ou licença de condução.',
+    answer: 'Os documentos que nos habilitam de conduzir são, carta de condução ou licença de condução.',
     number: 101,
     type: 'theoretic',
     change: false,
@@ -910,8 +910,8 @@
   },
   {
     important: 0,
-    question: ' Quais são os documentos que devemos ter quando circulamos com os veículos automóveis na via pública?',
-    answer: '\nPara circular com os veículos na via publica, precisamos ter bilhete de identidade, carta de condução, livrete de veículo, registo de propriedade, imposto de circulação e apólice de seguro se tiver.',
+    question: 'Quais são os documentos que devemos ter quando circulamos com os veículos automóveis na via pública?',
+    answer: 'Para circular com os veículos na via publica, precisamos ter bilhete de identidade, carta de condução, livrete de veículo, registo de propriedade, imposto de circulação e apólice de seguro se tiver.',
     number: 102,
     type: 'theoretic',
     change: false,
@@ -920,7 +920,7 @@
   {
     important: 0,
     question: 'Onde é proibido parar e estacionar?',
-    answer: '\nÉ proibido parar e estacionar, dentro das localidades a menos que 5 metros, fora da localidade a menos que 50 metros das curvas, pontes, tuneis, cruzamento ou entroncamentos, passagem de nível, passadeira para piões, locais de má visibilidade, e onde encontrar sinal de proibição de parar ou estacionar.',
+    answer: 'É proibido parar e estacionar, dentro das localidades a menos que 5 metros, fora da localidade a menos que 50 metros das curvas, pontes, tuneis, cruzamento ou entroncamentos, passagem de nível, passadeira para piões, locais de má visibilidade, e onde encontrar sinal de proibição de parar ou estacionar.',
     number: 103,
     type: 'theoretic',
     change: false,
@@ -929,7 +929,7 @@
   {
     important: 0,
     question: 'Quais são acessórios para um veículo automóvel?',
-    answer: '\nOs acessórios de um veículo automóvel são, espelho retrovisor, cinto de segurança, pala para o sol, limpa para-brisas, sinal de pré-sinalização de perigo, chave de roda, macaco de elevação, e pneu suplente.',
+    answer: 'Os acessórios de um veículo automóvel são, espelho retrovisor, cinto de segurança, pala para o sol, limpa para-brisas, sinal de pré-sinalização de perigo, chave de roda, macaco de elevação, e pneu suplente.',
     number: 104,
     type: 'theoretic',
     change: false,
@@ -938,7 +938,7 @@
   {
     important: 0,
     question: 'Quais são os acessórios para um motociclo?',
-    answer: '\nOs acessórios para um motociclo são, capacete, luvas, botas, óculos, joelheiras, e espelho retrovisor lateral.',
+    answer: 'Os acessórios para um motociclo são, capacete, luvas, botas, óculos, joelheiras, e espelho retrovisor lateral.',
     number: 105,
     type: 'theoretic',
     change: false,
@@ -947,7 +947,7 @@
   {
     important: 0,
     question: 'Qual é o limite de peso bruto sobre o solo?',
-    answer: '\nO limite de peso bruto sobre o solo para aro pneumático é de 150 kg por centimetro^2, enquanto que para aro metálico é de 80 kg por centimetro^2.',
+    answer: 'O limite de peso bruto sobre o solo para aro pneumático é de 150 kg por centimetro^2, enquanto que para aro metálico é de 80 kg por centimetro^2.',
     number: 106,
     type: 'theoretic',
     change: false,
@@ -956,7 +956,7 @@
   {
     important: 0,
     question: 'Com a carta de categoria B que veículos posso conduzir?',
-    answer: '\nCom a carta de categoria B, posso conduzir todos os veículos, cujo a lotação não excede 9 lugares incluindo o condutor, e o seu peso bruto não excede 3500 kg. Também, posso conduzir trator agrícola, desde que a sua tara não exceda 3500 kg, e se for com reboque o seu peso bruto não exceda a 6000 kg.',
+    answer: 'Com a carta de categoria B, posso conduzir todos os veículos, cujo a lotação não excede 9 lugares incluindo o condutor, e o seu peso bruto não excede 3500 kg. Também, posso conduzir trator agrícola, desde que a sua tara não exceda 3500 kg, e se for com reboque o seu peso bruto não exceda a 6000 kg.',
     number: 107,
     type: 'theoretic',
     change: false,
@@ -965,7 +965,7 @@
   {
     important: 0,
     question: 'Quais são os cuidados que o condutor deve ter antes de iniciar uma viagem?',
-    answer: '\nAntes de iniciar uma viagem, o condutor deve verificar a pressão do ar nos pneus, água no radiador, nível de óleo no motor, quantidade de combustível no depósito, óleo no travão, chave de roda, macaco de elevação, pneu suplente, e sinal de pré-sinalização de perigo.',
+    answer: 'Antes de iniciar uma viagem, o condutor deve verificar a pressão do ar nos pneus, água no radiador, nível de óleo no motor, quantidade de combustível no depósito, óleo no travão, chave de roda, macaco de elevação, pneu suplente, e sinal de pré-sinalização de perigo.',
     number: 108,
     type: 'theoretic',
     change: false,
@@ -974,7 +974,7 @@
   {
     important: 0,
     question: 'Quais são os fatores integrante na circulação rodoviária?',
-    answer: '\nOs fatores integrantes na circulação rodoviária são, o homem, a via e o veículo.\nO homem é o fator mais importante, e atua como: condutor, passageiro e pião.\nA via cenário onde o trânsito se desenrola.\nO veículo é o elo de ligação entre o condutor e a via.',
+    answer: 'Os fatores integrantes na circulação rodoviária são, o homem, a via e o veículo.\nO homem é o fator mais importante, e atua como: condutor, passageiro e pião.\nA via cenário onde o trânsito se desenrola.\nO veículo é o elo de ligação entre o condutor e a via.',
     number: 109,
     type: 'theoretic',
     change: false,
@@ -983,7 +983,7 @@
   {
     important: 0,
     question: 'Qual dos três fatores integrante na circulação rodoviária é o mais importante?',
-    answer: '\nNa circulação rodoviária, o fator integrante mais importante é o homem.',
+    answer: 'Na circulação rodoviária, o fator integrante mais importante é o homem.',
     number: 110,
     type: 'theoretic',
     change: false,
@@ -992,7 +992,7 @@
   {
     important: 0,
     question: 'Qual é o papel do homem na circulação rodoviária?',
-    answer: '\nNa circulação rodoviária, o homem é um protagonista que atua na via desempenhando fundamentalmente três papéis: como condutor, como passageiro, e como pião.',
+    answer: 'Na circulação rodoviária, o homem é um protagonista que atua na via desempenhando fundamentalmente três papéis: como condutor, como passageiro, e como pião.',
     number: 111,
     type: 'theoretic',
     change: false,
@@ -1001,7 +1001,7 @@
   {
     important: 1,
     question: 'O que entendes por condutor?',
-    answer: '\nCondutor, é um indivíduo responsável pelo comando de ações do veículo nas vias públicas.',
+    answer: 'Condutor, é um indivíduo responsável pelo comando de ações do veículo nas vias públicas.',
     number: 112,
     type: 'theoretic',
     change: false,
@@ -1010,7 +1010,7 @@
   {
     important: 0,
     question: 'O que são peões?',
-    answer: '\nOs peões, são elemento de extrema fragilidade em relação ao veículo que circulam na via pública.',
+    answer: 'Os peões, são elemento de extrema fragilidade em relação ao veículo que circulam na via pública.',
     number: 113,
     type: 'theoretic',
     change: false,
@@ -1019,7 +1019,7 @@
   {
     important: 0,
     question: 'Qual é o papel do veículo na circulação rodoviárias?',
-    answer: '\nO veículo, é o elo de ligação entre o condutor e a via.',
+    answer: 'O veículo, é o elo de ligação entre o condutor e a via.',
     number: 114,
     type: 'theoretic',
     change: false,
@@ -1028,7 +1028,7 @@
   {
     important: 0,
     question: 'O que entendes por passagem de nível?',
-    answer: '\nPassagem de nível, é a interseção da estrada rodoviária e a estrada ferroviária.',
+    answer: 'Passagem de nível, é a interseção da estrada rodoviária e a estrada ferroviária.',
     number: 115,
     type: 'theoretic',
     change: false,
@@ -1037,7 +1037,7 @@
   {
     important: 0,
     question: 'Quais são os sinais que vamos encontrar ao iniciar uma autoestrada?',
-    answer: '\nAo iniciar uma autoestrada, vamos encontrar os sinais de existência de uma autoestrada, sinal de trânsito proibido para piões animais e para todo o veículo que não seja automóvel ou motociclos, sinal de cedência de passagem e o sinal de velocidade mínima obrigatória.',
+    answer: 'Ao iniciar uma autoestrada, vamos encontrar os sinais de existência de uma autoestrada, sinal de trânsito proibido para piões animais e para todo o veículo que não seja automóvel ou motociclos, sinal de cedência de passagem e o sinal de velocidade mínima obrigatória.',
     number: 116,
     type: 'theoretic',
     change: false,
@@ -1046,7 +1046,7 @@
   {
     important: 0,
     question: 'Como estão constituídas as vias públicas?',
-    answer: '\nAs vias publicas estão constituídas por passeios, bermas, e faixa de rodagem.',
+    answer: 'As vias publicas estão constituídas por passeios, bermas, e faixa de rodagem.',
     number: 117,
     type: 'theoretic',
     change: false,
@@ -1055,7 +1055,7 @@
   {
     important: 0,
     question: 'Para que servem os passeios?',
-    answer: '\nPasseio, é uma parte da via pública destinado a trânsito de piões.',
+    answer: 'Passeio, é uma parte da via pública destinado a trânsito de piões.',
     number: 118,
     type: 'theoretic',
     change: false,
@@ -1064,7 +1064,7 @@
   {
     important: 0,
     question: 'Para que serve a faixa de rodagem?',
-    answer: '\nA faixa de rodagem é uma parte de via pública destinado ao trânsito de veículos.',
+    answer: 'A faixa de rodagem é uma parte de via pública destinado ao trânsito de veículos.',
     number: 119,
     type: 'theoretic',
     change: false,
@@ -1072,8 +1072,8 @@
   },
   {
     important: 0,
-    question: ' Por onde entramos e saímos numa autoestrada?',
-    answer: '\nEntramos e saímos numa autoestrada através de ramais do acesso.',
+    question: 'Por onde entramos e saímos numa autoestrada?',
+    answer: 'Entramos e saímos numa autoestrada através de ramais do acesso.',
     number: 120,
     type: 'theoretic',
     change: false,
@@ -1082,7 +1082,7 @@
   {
     important: 0,
     question: 'Em que caso deve o condutor utilizar os sinais óticos?',
-    answer: '\nO condutor deve utilizar os sinais óticos na ausência de indicadores de direção.',
+    answer: 'O condutor deve utilizar os sinais óticos na ausência de indicadores de direção.',
     number: 121,
     type: 'theoretic',
     change: false,
@@ -1091,7 +1091,7 @@
   {
     important: 0,
     question: 'Onde é colocado o sinal de reboque?',
-    answer: '\nO sinal de reboque, é colocado na parte superior do tejadilho do veículo.',
+    answer: 'O sinal de reboque, é colocado na parte superior do tejadilho do veículo.',
     number: 122,
     type: 'theoretic',
     change: false,
@@ -1100,7 +1100,7 @@
   {
     important: 0,
     question: 'Quanto tipo de agente conhece?',
-    answer: '\nConheço dois tipos de agente, que são, regulador de trânsito e fiscalizador de trânsito.',
+    answer: 'Conheço dois tipos de agente, que são, regulador de trânsito e fiscalizador de trânsito.',
     number: 123,
     type: 'theoretic',
     change: false,
@@ -1109,7 +1109,7 @@
   {
     important: 0,
     question: 'Quantas ordens nos dão um agente regulador de trânsito?',
-    answer: '\nOs agentes reguladores de trânsito nos dão duas ordens: parar e avançar.',
+    answer: 'Os agentes reguladores de trânsito nos dão duas ordens: parar e avançar.',
     number: 124,
     type: 'theoretic',
     change: false,
@@ -1118,7 +1118,7 @@
   {
     important: 0,
     question: 'A que distância deve ser colocado o sinal de perigo um do outro?',
-    answer: '\nA distância que deve-se colocar os sinais de perigo um do outro varia entre 150 metros á 300 metros.',
+    answer: 'A distância que deve-se colocar os sinais de perigo um do outro varia entre 150 metros á 300 metros.',
     number: 125,
     type: 'theoretic',
     change: false,
@@ -1127,7 +1127,7 @@
   {
     important: 0,
     question: 'Perante o sinal de existência de um hospital qual é o sinal que entra imediatamente em vigor?',
-    answer: '\nPerante o sinal de existência de um hospital, entra imediatamente em vigor o sinal de proibição de utilizar sinais sonoros.',
+    answer: 'Perante o sinal de existência de um hospital, entra imediatamente em vigor o sinal de proibição de utilizar sinais sonoros.',
     number: 126,
     type: 'theoretic',
     change: false,
@@ -1136,7 +1136,7 @@
   {
     important: 0,
     question: 'O que entende por cruzamento ao nível?',
-    answer: '\nCruzamento ao nível, é a junção de duas ou mais vias rodoviárias que se cruzam ao mesmo nível.',
+    answer: 'Cruzamento ao nível, é a junção de duas ou mais vias rodoviárias que se cruzam ao mesmo nível.',
     number: 127,
     type: 'theoretic',
     change: false,
@@ -1145,7 +1145,7 @@
   {
     important: 0,
     question: 'O que entendes por eixo da via?',
-    answer: '\nEixo da via, é uma linha imaginária ou materializada que divide a faixa de rodagem em duas lados iguais.',
+    answer: 'Eixo da via, é uma linha imaginária ou materializada que divide a faixa de rodagem em duas lados iguais.',
     number: 128,
     type: 'theoretic',
     change: false,
@@ -1153,8 +1153,8 @@
   },
   {
     important: 0,
-    question: ' Em que caso o condutor aproxima o eixo da via?',
-    answer: '\nO condutor aproxima-se do eixo da via, quando se pretende mudar de direção à esquerda numa via de dois sentidos.',
+    question: 'Em que caso o condutor aproxima o eixo da via?',
+    answer: 'O condutor aproxima-se do eixo da via, quando se pretende mudar de direção à esquerda numa via de dois sentidos.',
     number: 129,
     type: 'theoretic',
     change: false,
@@ -1163,7 +1163,7 @@
   {
     important: 0,
     question: 'Quantos tipos de travão conheces?',
-    answer: '\nConheço três tipos de travão, que são, travão hidráulico, travão mecânico e travão de ar comprimido.',
+    answer: 'Conheço três tipos de travão, que são, travão hidráulico, travão mecânico e travão de ar comprimido.',
     number: 130,
     type: 'theoretic',
     change: false,
@@ -1171,8 +1171,8 @@
   },
   {
     important: 0,
-    question: ' Quais são as modalidades de travão que conheces?',
-    answer: '\nAs modalidades de travão são, travão de mão ou estacionamento, travão de pé ou serviço.',
+    question: 'Quais são as modalidades de travão que conheces?',
+    answer: 'As modalidades de travão são, travão de mão ou estacionamento, travão de pé ou serviço.',
     number: 131,
     type: 'theoretic',
     change: false,
@@ -1181,7 +1181,7 @@
   {
     important: 1,
     question: 'Como deve proceder o condutor para retroceder numa autoestrada?',
-    answer: '\nPara retroceder em uma autoestrada, o condutor deve continuar até encontrar um nó de ligação, que lhe permite entrar ou sair numa autoestrada através de ramais de acesso.',
+    answer: 'Para retroceder em uma autoestrada, o condutor deve continuar até encontrar um nó de ligação, que lhe permite entrar ou sair numa autoestrada através de ramais de acesso.',
     number: 132,
     type: 'theoretic',
     change: false,
@@ -1190,7 +1190,7 @@
   {
     important: 0,
     question: 'Quantas matrículas têm um carro?',
-    answer: '\nO carro tem apenas uma matrícula, e duas chapas de matrículas (uma chapa á frente do veículo e outra atrás).',
+    answer: 'O carro tem apenas uma matrícula, e duas chapas de matrículas (uma chapa á frente do veículo e outra atrás).',
     number: 133,
     type: 'theoretic',
     change: false,
@@ -1199,7 +1199,7 @@
   {
     important: 0,
     question: 'Como deve ser feita a circulação de trânsito fora das localidades?',
-    answer: '\nA circulação de trânsito deve ser feita sempre pelo lado direito, só podendo ocupar a faixa mais esquerda, quando pretende mudar de direção para esquerda ou fazer uma ultrapassagem.',
+    answer: 'A circulação de trânsito deve ser feita sempre pelo lado direito, só podendo ocupar a faixa mais esquerda, quando pretende mudar de direção para esquerda ou fazer uma ultrapassagem.',
     number: 134,
     type: 'theoretic',
     change: false,
@@ -1208,7 +1208,7 @@
   {
     important: 0,
     question: 'Porquê que o trânsito de veículo é feito pelo lado direito?',
-    answer: '\nO trânsito de veículo é feito pelo lado direito, para evitar acidentes.',
+    answer: 'O trânsito de veículo é feito pelo lado direito, para evitar acidentes.',
     number: 135,
     type: 'theoretic',
     change: false,
@@ -1217,7 +1217,7 @@
   {
     important: 0,
     question: 'Em que caso pode-se utilizar os passeios?',
-    answer: '\nPode-se utilizar os passeios, apenas quando o mesmo dá acesso a nossa residência.',
+    answer: 'Pode-se utilizar os passeios, apenas quando o mesmo dá acesso a nossa residência.',
     number: 136,
     type: 'theoretic',
     change: false,
@@ -1226,7 +1226,7 @@
   {
     important: 0,
     question: 'Qual é a idade mínima para conduzir?',
-    answer: '\n- Para os motociclos, as idades mínimas são de 18 anos.\n- Para automóveis, ligeiros as idades mínimas são de 18 anos.\n- Para automóveis, pesados as idades mínimas são de 21 anos.\n- Para ciclomotores, as idades mínimas são de 16 anos.',
+    answer: '- Para os motociclos, as idades mínimas são de 18 anos.\n- Para automóveis, ligeiros as idades mínimas são de 18 anos.\n- Para automóveis, pesados as idades mínimas são de 21 anos.\n- Para ciclomotores, as idades mínimas são de 16 anos.',
     number: 137,
     type: 'theoretic',
     change: false,
@@ -1235,7 +1235,7 @@
   {
     important: 0,
     question: 'Quais são as categorias de veículo que conheces?',
-    answer: '\n- Categoria A: motociclos.\n- Categoria B: automóveis ligeiros.\n- Categoria C: automóvel pesado de mercadoria.\n- Categoria D: automóvel pesado de passageiro.\n- Categoria E: Reboque.',
+    answer: '- Categoria A: motociclos.\n- Categoria B: automóveis ligeiros.\n- Categoria C: automóvel pesado de mercadoria.\n- Categoria D: automóvel pesado de passageiro.\n- Categoria E: Reboque.',
     number: 138,
     type: 'theoretic',
     change: false,
@@ -1244,7 +1244,7 @@
   {
     important: 0,
     question: 'O que entendes por tara?',
-    answer: '\nA tara é o peso real do veículo.',
+    answer: 'A tara é o peso real do veículo.',
     number: 139,
     type: 'theoretic',
     change: false,
@@ -1253,7 +1253,7 @@
   {
     important: 0,
     question: 'O que é peso bruto?',
-    answer: '\nPeso bruto é o peso do veículo mais a carga máxima, que um veículo está autorizado a transportar.\nPeso total é o peso de veículo mais o peso da carga a sendo transportado no momento.',
+    answer: 'Peso bruto é o peso do veículo mais a carga máxima, que um veículo está autorizado a transportar.\nPeso total é o peso de veículo mais o peso da carga a sendo transportado no momento.',
     number: 140,
     type: 'theoretic',
     change: false,
@@ -1262,7 +1262,7 @@
   {
     important: 0,
     question: 'Qual é a peça mais estúpida do veículo?',
-    answer: '\nA peça mais estupida do veículo é o condutor.',
+    answer: 'A peça mais estupida do veículo é o condutor.',
     number: 141,
     type: 'theoretic',
     change: false,
@@ -1271,7 +1271,7 @@
   {
     important: 0,
     question: 'Como deve ser feita uma descarga num veículo automóvel?',
-    answer: '\nO condutor deve fazer a descarga num veículo automóvel, num lugar permitido de modo a não criar embaraço no trânsito.',
+    answer: 'O condutor deve fazer a descarga num veículo automóvel, num lugar permitido de modo a não criar embaraço no trânsito.',
     number: 142,
     type: 'theoretic',
     change: false,
@@ -1279,8 +1279,8 @@
   },
   {
     important: 0,
-    question: ' O que são vias equiparadas?',
-    answer: '\nVias equiparadas, são vias semelhantes a uma autoestrada reservadas ao trânsito de automóvel e motociclo.',
+    question: 'O que são vias equiparadas?',
+    answer: 'Vias equiparadas, são vias semelhantes a uma autoestrada reservadas ao trânsito de automóvel e motociclo.',
     number: 143,
     type: 'theoretic',
     change: false,
@@ -1289,7 +1289,7 @@
   {
     important: 0,
     question: 'Porquê que um ciclomotor não pode circular numa autoestrada?',
-    answer: '\nCiclomotor não pode circular numa autoestrada, porque a sua cilindrada é inferior a 50 centímetro cúbico.',
+    answer: 'Ciclomotor não pode circular numa autoestrada, porque a sua cilindrada é inferior a 50 centímetro cúbico.',
     number: 144,
     type: 'theoretic',
     change: false,
@@ -1298,7 +1298,7 @@
   {
     important: 0,
     question: 'O que entendes por acesso condicionado?',
-    answer: '\nAcesso condicionado, são todos acessos permitido aos veículos automóveis, desde que não sejam tratores.',
+    answer: 'Acesso condicionado, são todos acessos permitido aos veículos automóveis, desde que não sejam tratores.',
     number: 145,
     type: 'theoretic',
     change: false,
@@ -1307,7 +1307,7 @@
   {
     important: 0,
     question: 'O que é um reboque?',
-    answer: '\nReboque é um veículo não automóvel destinado a atrelar um veículo automóvel.',
+    answer: 'Reboque é um veículo não automóvel destinado a atrelar um veículo automóvel.',
     number: 146,
     type: 'theoretic',
     change: false,
@@ -1316,7 +1316,7 @@
   {
     important: 0,
     question: 'Quais são as funções da luz de presença?',
-    answer: '\nAs funções da luz de presença, são de marcar a presença e a dimensão do veículo.',
+    answer: 'As funções da luz de presença, são de marcar a presença e a dimensão do veículo.',
     number: 147,
     type: 'theoretic',
     change: false,
@@ -1325,7 +1325,7 @@
   {
     important: 0,
     question: 'O condutor a sair de uma autoestrada vai deparar com que via?',
-    answer: '\nAo sair de uma autoestrada, o condutor irá deparar com uma via de dois sentidos.',
+    answer: 'Ao sair de uma autoestrada, o condutor irá deparar com uma via de dois sentidos.',
     number: 148,
     type: 'theoretic',
     change: false,
@@ -1333,8 +1333,8 @@
   },
   {
     important: 0,
-    question: ' Quantos sinais de cedência de passagem conhecem?',
-    answer: '\nEu conheço 12 sinais de cedência de passagem. 7 em que eu ganho passagem e 5 que eu perco passagem.',
+    question: 'Quantos sinais de cedência de passagem conhecem?',
+    answer: 'Eu conheço 12 sinais de cedência de passagem. 7 em que eu ganho passagem e 5 que eu perco passagem.',
     number: 149,
     type: 'theoretic',
     change: false,
@@ -1343,7 +1343,7 @@
   {
     important: 0,
     question: 'Qual é a função de placa separadora?',
-    answer: '\nA placa separadora, serve para separar a via em duas partes iguais.',
+    answer: 'A placa separadora, serve para separar a via em duas partes iguais.',
     number: 150,
     type: 'theoretic',
     change: false,
@@ -1352,7 +1352,7 @@
   {
     important: 0,
     question: 'Quem deve conduzir os veículos automóveis nas vias públicas?',
-    answer: '\nSó podem conduzir um veículo automóvel na via pública, todos aqueles que estiverem legalmente habilitados para conduzir.',
+    answer: 'Só podem conduzir um veículo automóvel na via pública, todos aqueles que estiverem legalmente habilitados para conduzir.',
     number: 151,
     type: 'theoretic',
     change: false,
@@ -1361,7 +1361,7 @@
   {
     important: 0,
     question: 'Em que caso um veículo está autorizado a transportar explosivos?',
-    answer: '\nPara transportar explosivos, deve pedir duas autorizações, uma da PSP e outra da direção de transporte e portos. Deve possuir dois extintores de incêndio em bom estado de funcionamento. Deve ainda possuir uma bandeira preta que deve ser colocado na parte superior de tejadilho, de noite essa mesma bandeira deve ser substituída por uma faixa preta num dos faróis máximo do lado esquerdo. O condutor não deve fumar nem permitir que outros fumem. <break time="1s"/> Não deve fazer travagens bruscas nem guinadas com a direção. Se for de caixa aberta não deve andar mais de 30 km/h, e se for de caixa fechada não deve andar a mais de 40 km/h. O condutor não deve parar junto das escolas, creches, hospitais, também, não deve parar nas bombas de combustíveis, bocas-de-incêndio, casa de espetáculos, nas fábricas quando está em funcionamento, e outros estabelecimentos semelhante quando sinalizado, e deve possuir também outras autorizações para transitar de noite.',
+    answer: 'Para transportar explosivos, deve pedir duas autorizações, uma da PSP e outra da direção de transporte e portos. Deve possuir dois extintores de incêndio em bom estado de funcionamento. Deve ainda possuir uma bandeira preta que deve ser colocado na parte superior de tejadilho, de noite essa mesma bandeira deve ser substituída por uma faixa preta num dos faróis máximo do lado esquerdo. O condutor não deve fumar nem permitir que outros fumem. <break time="1s"/> Não deve fazer travagens bruscas nem guinadas com a direção. Se for de caixa aberta não deve andar mais de 30 km/h, e se for de caixa fechada não deve andar a mais de 40 km/h. O condutor não deve parar junto das escolas, creches, hospitais, também, não deve parar nas bombas de combustíveis, bocas-de-incêndio, casa de espetáculos, nas fábricas quando está em funcionamento, e outros estabelecimentos semelhante quando sinalizado, e deve possuir também outras autorizações para transitar de noite.',
     number: 152,
     type: 'theoretic',
     change: false,
@@ -1370,7 +1370,7 @@
   {
     important: 0,
     question: 'Como deve proceder o condutor ao cruzar com outro veículo?',
-    answer: '\nAo cruzar com outro veículo, o condutor deve encostar o mais possível a sua direita, e moderar a velocidade. Se for de noite, ele deve mudar de luz máxima para luz média, se o condutor não corresponder, deves mudar de luz média para luz mínima, e parar o veículo automóvel, para não provocar acidente.',
+    answer: 'Ao cruzar com outro veículo, o condutor deve encostar o mais possível a sua direita, e moderar a velocidade. Se for de noite, ele deve mudar de luz máxima para luz média, se o condutor não corresponder, deves mudar de luz média para luz mínima, e parar o veículo automóvel, para não provocar acidente.',
     number: 153,
     type: 'theoretic',
     change: false,
@@ -1379,7 +1379,7 @@
   {
     important: 0,
     question: 'O que é lotação?',
-    answer: '\nLotação, é o número máximo de pessoas que um veículo está autorizado a transportar.',
+    answer: 'Lotação, é o número máximo de pessoas que um veículo está autorizado a transportar.',
     number: 154,
     type: 'theoretic',
     change: false,
@@ -1388,7 +1388,7 @@
   {
     important: 0,
     question: 'Para que serve bafómetro?',
-    answer: '\nBafómetro, serve para indicar a taxa de álcool no sangue (T.A.S) do condutor.',
+    answer: 'Bafómetro, serve para indicar a taxa de álcool no sangue (T.A.S) do condutor.',
     number: 155,
     type: 'theoretic',
     change: false,
@@ -1397,7 +1397,7 @@
   {
     important: 0,
     question: 'Para que serve um parquímetro?',
-    answer: '\nParquímetro, serve para indicar o tempo que um veículo está estacionado, num parque de estacionamento.',
+    answer: 'Parquímetro, serve para indicar o tempo que um veículo está estacionado, num parque de estacionamento.',
     number: 156,
     type: 'theoretic',
     change: false,
@@ -1406,7 +1406,7 @@
   {
     important: 0,
     question: 'Para que serve um tacógrafo?',
-    answer: '\nTacógrafo, serve para registrar o tempo de repouso do condutor ou também indicar a velocidade instantânea.',
+    answer: 'Tacógrafo, serve para registrar o tempo de repouso do condutor ou também indicar a velocidade instantânea.',
     number: 157,
     type: 'theoretic',
     change: false,
@@ -1415,7 +1415,7 @@
   {
     important: 0,
     question: 'Com a carta de pesado de mercadoria que veículo posso conduzir?',
-    answer: '\nCom a carta de pesado de mercadoria posso conduzir todos os automóveis pesados com exceção aos pesados de passageiros e motociclo.',
+    answer: 'Com a carta de pesado de mercadoria posso conduzir todos os automóveis pesados com exceção aos pesados de passageiros e motociclo.',
     number: 2001,
     type: 'theoretic',
     change: false,
@@ -1424,7 +1424,7 @@
   {
     important: 0,
     question: 'Qual a diferença entre paragem e estacionamento?',
-    answer: '\nA diferença entre paragem e estacionamento é que paragem consiste em uma simples imobilização para lagar e receber passageiro ou mercadoria, e o condutor deve estar pronto para retornar a marcha.\nEstacionamento, é uma simples imobilização que não consiste em parar.',
+    answer: 'A diferença entre paragem e estacionamento é que paragem consiste em uma simples imobilização para lagar e receber passageiro ou mercadoria, e o condutor deve estar pronto para retornar a marcha.\nEstacionamento, é uma simples imobilização que não consiste em parar.',
     number: 2002,
     type: 'theoretic',
     change: false,
@@ -1433,7 +1433,7 @@
   {
     important: 1,
     question: 'O que é inversão de marcha?',
-    answer: '\nInversão de marcha, é a manobra que consiste em colocar o veículo no sentido oposto da marcha em que seguia.',
+    answer: 'Inversão de marcha, é a manobra que consiste em colocar o veículo no sentido oposto da marcha em que seguia.',
     number: 2003,
     type: 'theoretic',
     change: false,
@@ -1442,7 +1442,7 @@
   {
     important: 0,
     question: 'O que é cruzamento do veículo?',
-    answer: '\nCruzamento do veículo, é a aproximação de dois veículos em sentidos oposto.',
+    answer: 'Cruzamento do veículo, é a aproximação de dois veículos em sentidos oposto.',
     number: 2004,
     type: 'theoretic',
     change: false,
@@ -1451,7 +1451,7 @@
   {
     important: 0,
     question: 'Qual a idade mínima para transportar crianças nos veículos?',
-    answer: '\nA idade mínima para transportar criança afrente do veículo é de 7 anos, no motociclo é de 12 anos.',
+    answer: 'A idade mínima para transportar criança afrente do veículo é de 7 anos, no motociclo é de 12 anos.',
     number: 2005,
     type: 'theoretic',
     change: false,
@@ -1460,7 +1460,7 @@
   {
     important: 1,
     question: 'O que é trânsito?',
-    answer: '\nTrânsito é a circulação de pessoas, animais e veículos nas vias publica.',
+    answer: 'Trânsito é a circulação de pessoas, animais e veículos nas vias pública.',
     number: 2005.1,
     type: 'theoretic',
     change: false,
@@ -1469,7 +1469,7 @@
   {
     important: 1,
     question: 'O que entendes por código de estrada?',
-    answer: '\nCódigo de estrada, consiste em conjunto de leis, regras, e sinalização que regulam o trânsito nas vias pública.',
+    answer: 'Código de estrada, consiste em conjunto de leis, regras, e sinalização que regulam o trânsito nas vias pública.',
     number: 2006,
     type: 'theoretic',
     change: false,
@@ -1478,7 +1478,7 @@
   {
     important: 0,
     question: 'O que entendes por rodas motoras?',
-    answer: '\nRodas motoras, são aquelas que recebem a força do motor.',
+    answer: 'Rodas motoras, são aquelas que recebem a força do motor.',
     number: 2007,
     type: 'theoretic',
     change: false,
@@ -1487,7 +1487,7 @@
   {
     important: 0,
     question: 'O que é encandeamento?',
-    answer: '\nEncandeamento, consiste em perda momentânea da visão.',
+    answer: 'Encandeamento, consiste em perda momentânea da visão.',
     number: 2009,
     type: 'theoretic',
     change: false,
@@ -1496,7 +1496,7 @@
   {
     important: 0,
     question: 'Qual é a hierarquia dos sinais do trânsito?',
-    answer: '\nNa hierarquia dos sinais do trânsito encontramos.\n1º lugar, agente regulador do trânsito.\n2º lugar, sinalização temporária.\n3º lugar, a sinalização de mensagem variável.\n4º lugar, a sinalização luminosa.\n5º lugar, a sinalização vertical.\n6º lugar, a sinalização de marcas rodoviárias.\n7º lugar, a regra geral do trânsito.',
+    answer: 'Na hierarquia dos sinais do trânsito encontramos.\n1º lugar, agente regulador do trânsito.\n2º lugar, sinalização temporária.\n3º lugar, a sinalização de mensagem variável.\n4º lugar, a sinalização luminosa.\n5º lugar, a sinalização vertical.\n6º lugar, a sinalização de marcas rodoviárias.\n7º lugar, a regra geral do trânsito.',
     number: 2010,
     type: 'theoretic',
     change: false,
@@ -1505,7 +1505,7 @@
   {
     important: 0,
     question: 'Qual é a velocidade máxima para os automóveis pesado de passageiro nas autoestradas?',
-    answer: '\nA velocidade máxima para automóveis pesado de passageiro nas autoestradas é de 90 km por hora.',
+    answer: 'A velocidade máxima para automóveis pesado de passageiro nas autoestradas é de 90 km por hora.',
     number: 2011,
     type: 'theoretic',
     change: false,
@@ -1514,7 +1514,7 @@
   {
     important: 1,
     question: 'Em que caso o condutor deve reduzir a velocidade?',
-    answer: '\nA velocidade deve ser especialmente reduzida dentro das localidades junto das escolas, jardins, creches, hospitais, onde existe aglomeração de pessoas, e todos os locais de má visibilidade tais como, cruzamento, entroncamento, pontes túneis e lombas.',
+    answer: 'A velocidade deve ser especialmente reduzida dentro das localidades junto das escolas, jardins, creches, hospitais, onde existe aglomeração de pessoas, e todos os locais de má visibilidade tais como, cruzamento, entroncamento, pontes túneis e lombas.',
     number: 2012,
     type: 'theoretic',
     change: false,
@@ -1523,7 +1523,7 @@
   {
     important: 0,
     question: 'O que nos diz o sinal de via com prioridade?',
-    answer: '\nO sinal de via com prioridade diz ao condutor, que ele goza de prioridade em todos os sucessivos cruzamento e entroncamento, até encontrar o sinal de fim de via com prioridade.',
+    answer: 'O sinal de via com prioridade diz ao condutor, que ele goza de prioridade em todos os sucessivos cruzamento e entroncamento, até encontrar o sinal de fim de via com prioridade.',
     number: 2013,
     type: 'theoretic',
     change: false,
@@ -1532,7 +1532,7 @@
   {
     important: 2,
     question: 'Perante o sinal aproximação de pavimento escorregadio como deve proceder o condutor?',
-    answer: '\nPerante aproximação do pavimento escorregadio, o condutor deve afrouxar a marcha, transitar com máxima precaução, evitar travagem brusca ou enginadas com direção e em caso de necessidade utilizar correntes de neve nas rodas motoras.',
+    answer: 'Ao avistar o sinal de aproximação de pavimento escorregadio, o condutor deve afrouxar ou abrandar a marcha, conduzir com máxima precaução, evitar travagem brusca ou ignada com direção e em caso de necessidade utilizar correntes de neve nas rodas motoras.',
     number: 2014,
     type: 'theoretic',
     change: false,
@@ -1541,7 +1541,7 @@
   {
     important: 0,
     question: 'Como podem ser as luzes amarelas dos semáforos?',
-    answer: '\nA luzes amarelas dos semáforos podem ser constantes ou intermitentes.',
+    answer: 'A luzes amarelas dos semáforos podem ser constantes ou intermitentes.',
     number: 2015,
     type: 'theoretic',
     change: false,
@@ -1550,7 +1550,7 @@
   {
     important: 0,
     question: 'O que é um entroncamento?',
-    answer: '\nEntroncamento, é a junção ou bifurcação de duas vias no qual uma delas não se prolonga.',
+    answer: 'Entroncamento, é a junção ou bifurcação de duas vias no qual uma delas não se prolonga.',
     number: 2016,
     type: 'theoretic',
     change: false,
@@ -1559,7 +1559,7 @@
   {
     important: 0,
     question: 'Quantos tipos de passagem de nível conhecem?',
-    answer: '\nExistem dois tipos de passagem de nível, com guarda e sem guarda.',
+    answer: 'Existem dois tipos de passagem de nível, com guarda e sem guarda.',
     number: 2017,
     type: 'theoretic',
     change: false,
@@ -1568,7 +1568,7 @@
   {
     important: 1,
     question: 'O que é velocidade instantânea?',
-    answer: '\nVelocidade instantânea, é a variação da velocidade durante o percurso, ou seja, é a velocidade do momento que é medida pelo velocímetro.',
+    answer: 'Velocidade instantânea, é a variação da velocidade durante o percurso, ou seja, é a velocidade do momento que é medida pelo velocímetro.',
     number: 2018,
     type: 'theoretic',
     change: false,
@@ -1577,7 +1577,7 @@
   {
     important: 1,
     question: 'O que entendes por velocidade média?',
-    answer: '\nVelocidade média, é o percurso feito a dividir pelo tempo gasto.',
+    answer: 'Velocidade média, é o percurso feito a dividir pelo tempo gasto.',
     number: 2019,
     type: 'theoretic',
     change: false,
@@ -1586,7 +1586,7 @@
   {
     important: 1,
     question: 'O que entendes por rotunda?',
-    answer: '\nRotundas, são placas formadas por cruzamento ou entroncamento por onde o trânsito se processa no sentido giratório.',
+    answer: 'Rotundas, são placas formadas por cruzamento ou entroncamento por onde o trânsito se processa no sentido giratório.',
     number: 2020,
     type: 'theoretic',
     change: false,
@@ -1595,7 +1595,7 @@
   {
     important: 0,
     question: 'Em que circunstância deve o condutor utilizar os sinais gestuais?',
-    answer: '\nDevem ser utilizados quando o veículo tiver problema nos indicadores de direção e são feitos com o braço do próprio condutor.',
+    answer: 'Devem ser utilizados quando o veículo tiver problema nos indicadores de direção e são feitos com o braço do próprio condutor.',
     number: 2021,
     type: 'theoretic',
     change: false,
@@ -1604,7 +1604,7 @@
   {
     important: 0,
     question: 'Qual é a velocidade máxima e mínima nas autoestradas?',
-    answer: '\nNas autoestradas, a velocidade máxima é de 120 km/h e a velocidade mínima é de 50 km/h.',
+    answer: 'Nas autoestradas, a velocidade máxima é de 120 km/h e a velocidade mínima é de 50 km/h.',
     number: 2022,
     type: 'theoretic',
     change: false,
@@ -1613,7 +1613,7 @@
   {
     important: 0,
     question: 'Quem são os agentes de trânsito?',
-    answer: '\nOs agentes de trânsito, são órgão especializados para regular e fiscalizar o trânsito.',
+    answer: 'Os agentes de trânsito, são órgão especializados para regular e fiscalizar o trânsito.',
     number: 2023,
     type: 'theoretic',
     change: false,
@@ -1622,7 +1622,7 @@
   {
     important: 1,
     question: 'Como classifica as rodas nos veículos?',
-    answer: '\nA roda nos veículos classifica-se em rodas motoras e rodas diretrizes.\nRoda motora, é aquela que recebe a força do motor.\nRoda diretriz, é aquela que recebe a orientação de direção.',
+    answer: 'A roda nos veículos classifica-se em rodas motoras e rodas diretrizes.\nRoda motora, é aquela que recebe a força do motor.\nRoda diretriz, é aquela que recebe a orientação de direção.',
     number: 2024,
     type: 'theoretic',
     change: false,
@@ -1631,7 +1631,7 @@
   {
     important: 0,
     question: 'O que são rodas diretrizes?',
-    answer: '\nRodas diretrizes, são aquelas que recebem a orientação da direção.',
+    answer: 'Rodas diretrizes, são aquelas que recebem a orientação da direção.',
     number: 2025,
     type: 'theoretic',
     change: false,
@@ -1640,7 +1640,7 @@
   {
     important: 1,
     question: 'Em quais sinais indica-nos as velocidades máxima e mínima?',
-    answer: '\nA velocidade mínima obrigatória vem dentro dos sinais de obrigação, enquanto que as velocidades máxima vem dentro dos sinais de proibição ou recomendações.',
+    answer: 'A velocidade mínima obrigatória vem dentro dos sinais de obrigação, enquanto que as velocidades máxima vem dentro dos sinais de proibição ou recomendações.',
     number: 2026,
     type: 'theoretic',
     change: false,
@@ -1649,16 +1649,16 @@
   {
     important: 0,
     question: 'Quais os outros nomes para as luzes?',
-    answer: '\nOs outros nomes para as luzes dos veículos, seriam.\nLuz máxima, pode ser também chamada de luz de estrada ou luz de longo alcance.\nLuz mínima, pode ser também chamada de luz de presença.',
+    answer: 'Os outros nomes para as luzes dos veículos, seriam.\nLuz máxima, pode ser também chamada de luz de estrada ou luz de longo alcance.\nLuz mínima, pode ser também chamada de luz de presença.',
     number: 2027,
     type: 'theoretic',
     change: false,
     converted: true,
   },
   {
-    important: 0,
+    important: 1,
     question: 'Quais são os tipos de visão que conheces?',
-    answer: '\nA visão classifica-se em visão cromática, visão periférica e visão em profundidade. Dentre essas visões a mais importante é visão em profundidade.',
+    answer: 'A visão classifica-se em visão cromática, visão periférica, visão em profundidade, visão em túnel e visão noturna. Dentre essas visões a mais importante é visão em profundidade.',
     number: 2028,
     type: 'theoretic',
     change: false,
@@ -1667,7 +1667,7 @@
   {
     important: 0,
     question: 'O que entendes por visão cromática?',
-    answer: '\nVisão cromática, é a capacidade de distinguir as cores.',
+    answer: 'Visão cromática, é a capacidade de distinguir as cores.',
     number: 2029,
     type: 'theoretic',
     change: false,
@@ -1676,7 +1676,7 @@
   {
     important: 0,
     question: 'O que entendes por visão em profundidades?',
-    answer: '\nVisão em profundidade, é a capacidade de avaliar as distâncias a que estão os objetos.',
+    answer: 'Visão em profundidade, é a capacidade de avaliar as distâncias a que estão os objetos.',
     number: 2030,
     type: 'theoretic',
     change: false,
@@ -1685,7 +1685,7 @@
   {
     important: 0,
     question: 'O que entendes por visão periférica?',
-    answer: '\nVisão periférica, é a propriedade da visão de perceber o que está fora do foco principal de visão, ou seja, é a capacidade de ver o que está ao nosso lado caso estejamos a olhar para frente.',
+    answer: 'Visão periférica, é a propriedade da visão de perceber o que está fora do foco principal de visão, ou seja, é a capacidade de ver o que está ao nosso lado caso estejamos a olhar para frente.',
     number: 2031,
     type: 'theoretic',
     change: false,
@@ -1694,7 +1694,7 @@
   {
     important: 0,
     question: 'Porque motivo o sinal STOP possuí aquele formato distinto?',
-    answer: '\nO formato do sinal de STOP é para torna-lo facilmente conhecido.',
+    answer: 'O formato do sinal de STOP é para torna-lo facilmente conhecido.',
     number: 2032,
     type: 'theoretic',
     change: false,
@@ -1703,7 +1703,7 @@
   {
     important: 0,
     question: 'Qual a diferença entre o sinal de sentido proibido e trânsito proibido?',
-    answer: '\nA diferença entre o sentido proibido e trânsito proibido, é que, sentido proibido permitimos circular no sentido oposto ao sinal, enquanto que trânsito proibido indica a proibição em qualquer sentido naquela via.',
+    answer: 'A diferença entre o sentido proibido e trânsito proibido, é que, sentido proibido permitimos circular no sentido oposto ao sinal, enquanto que trânsito proibido indica a proibição em qualquer sentido naquela via.',
     number: 2033,
     type: 'theoretic',
     change: false,
@@ -1712,7 +1712,7 @@
   {
     important: 0,
     question: 'Quais os sinais não são temporais mesmo com fundo amarelo?',
-    answer: '\nOs sinais não temporais mesmo com fundo amarelo são o sinal de via com prioridade e fim de via com prioridade.',
+    answer: 'Os sinais não temporais mesmo com fundo amarelo são o sinal de via com prioridade e fim de via com prioridade.',
     number: 2034,
     type: 'theoretic',
     change: false,
@@ -1721,16 +1721,16 @@
   {
     important: 2,
     question: 'O que entendes pro um corredor de circulação?',
-    answer: '\nCorredor de circulação, é uma parte de via publica destinada a uma determinada espécie de veículo.',
+    answer: 'Corredor de circulação, é uma parte de via publica destinada a uma determinada espécie de veículo.',
     number: 2035,
     type: 'theoretic',
     change: false,
     converted: true,
   },
   {
-    important: 2,
+    important: 0,
     question: 'Quais as modalidades de condução que conheces?',
-    answer: '\nAs modalidades de condução que conheço são, prática, técnica e teórica.',
+    answer: 'As modalidades de condução que conheço são, prática, técnica e teórica.',
     number: 2036,
     type: 'theoretic',
     change: false,
@@ -1739,7 +1739,7 @@
   {
     important: 0,
     question: 'Porquê a inversão de marcha deve ser executada de forma rápida?',
-    answer: '\nA inversão de marcha deve ser executada de forma rápida por ser uma manobra perigosa e ocupar toda a largura da faixa de rodagem.',
+    answer: 'A inversão de marcha deve ser executada de forma rápida por ser uma manobra perigosa e ocupar toda a largura da faixa de rodagem.',
     number: 2037,
     type: 'theoretic',
     change: false,
@@ -1748,7 +1748,7 @@
   {
     important: 0,
     question: 'Quais são as consequências de um estacionamento abusivo?',
-    answer: '\nUm estacionamento abusivo dá direito ao bloqueio ou remoção de veículo, e exigirá o pagamento de coima para a recuperação do mesmo.',
+    answer: 'Um estacionamento abusivo dá direito ao bloqueio ou remoção de veículo, e exigirá o pagamento de coima para a recuperação do mesmo.',
     number: 2038,
     type: 'theoretic',
     change: false,
@@ -1756,45 +1756,162 @@
   },
   {
     important: 1,
-    question: 'Para que serve a linha contínua dupla?',
-    answer: '\nA linha contínua indica ao condutor para transitar sempre a sua direita, não podendo pisa-la ou transpô-la porque se encontra em local muito perigoso.',
+    question: 'Para que serve a linha contínua dupla ou linha adjacente?',
+    answer: 'A linha contínua dupla ou linha adjacente, indica ao condutor para transitar sempre a sua direita, não podendo pisa-la ou transpô-la porque se encontra em local muito perigoso.',
     number: 2039,
     type: 'theoretic',
     change: false,
     converted: true,
   },
   {
-    important: 0,
+    important: 1,
     question: 'O que entendes por via de trânsito?',
-    answer: '\nVia de trânsito, é zona longitudinal da faixa de rodagem ou parte da via destinada à circulação de uma única fila de veículos.',
+    answer: 'Via de trânsito, é zona longitudinal da faixa de rodagem ou parte da via destinada à circulação de uma única fila de veículos.',
     number: 2049,
     type: 'theoretic',
     change: false,
     converted: true,
   },
   {
-    important: 0,
+    important: 1,
     question: 'O que entendes por bermas?',
-    answer: '\nBermas, é a parte de via publica, não destinada a trânsito de veículos, e que ladeia a via pública.',
+    answer: 'Bermas, é a parte de via publica, não destinada a trânsito de veículos, e que ladeia a via pública.',
     number: 2050,
     type: 'theoretic',
     change: false,
     converted: true,
   },
   {
-    important: 0,
+    important: 1,
     question: 'Qual é a diferença entre vias de aceleração e vais de abrandamento?',
-    answer: '\nA diferença existente entre vias de aceleração e vias de abrandamento, é que vias de aceleração permite entrada a uma autoestrada, enquanto que via de abrandamento permite saída de uma autoestrada.',
+    answer: 'A diferença existente entre vias de aceleração e vias de abrandamento, é que vias de aceleração permite entrada a uma autoestrada, enquanto que via de abrandamento permite saída de uma autoestrada.',
     number: 2051,
     type: 'theoretic',
     change: false,
     converted: true,
   },
   {
-    important: 0,
-    question: 'Por onde devem circular automóvel de mercadorias e veículos longos nas auto-estradas?',
-    answer: '\nNas auto-estradas, tanto os automóveis de mercadoria quanto os automóveis cujo cumprimento é superior a 7 metros só podem circular nas duas primeiras vias mais a direita.',
+    important: 1,
+    question: 'Por onde devem circular automóvel de mercadorias e veículos longos nas autoestradas?',
+    answer: 'Nas autoestradas, tanto os automóveis de mercadoria quanto os automóveis cujo cumprimento é superior a 7 metros só podem circular nas duas primeiras vias mais a direita.',
     number: 2052,
+    type: 'theoretic',
+    change: false,
+    converted: true,
+  },
+  {
+    important: 1,
+    question: 'Quantos tipos de lombas existem?',
+    answer: 'Existe dois tipos de lombas, lombas natural e lombas materializadas.',
+    number: 2053,
+    type: 'theoretic',
+    change: false,
+    converted: true,
+  },
+  {
+    important: 1,
+    question: 'Quais o outro nome que podemos chamar a linha continua dupla?',
+    answer: 'O outro nome que podemos chamar a linha continua dupla seria linha adjacente.',
+    number: 2054,
+    type: 'theoretic',
+    change: false,
+    converted: true,
+  },
+  {
+    important: 1,
+    question: 'O que a linha continua de cor amarela diz ao condutor?',
+    answer: 'A linha continua amarela diz ao condutor que ele está proibido de parar ou estacionar.',
+    number: 2055,
+    type: 'theoretic',
+    change: false,
+    converted: true,
+  },
+  {
+    important: 1,
+    question: 'O que a linha descontinua de cor amarela diz ao condutor?',
+    answer: 'A linha continua de cor amarela, diz ao condutor que ele pode parrar, mas não pode estacionar.',
+    number: 2056,
+    type: 'theoretic',
+    change: false,
+    converted: true,
+  },
+  {
+    important: 1,
+    question: 'Quando o sinal de pré-sinalização de perigo não é obrigatório?',
+    answer: 'O sinal de pré-sinalização de perigo não é obrigatório quando o condutor conseguir remover o veículo dentro da faixa de rodagem ou quando o veículo é visível em uma distância de 100 metros.',
+    number: 2057,
+    type: 'theoretic',
+    change: false,
+    converted: true,
+  },
+  {
+    important: 1,
+    question: 'Qual o nome do líquido que se coloca na bateria líquida?',
+    answer: 'O nome do líquido que se coloca dentro da bateria líquida é água destilada.',
+    number: 2058,
+    type: 'theoretic',
+    change: false,
+    converted: true,
+  },
+  {
+    important: 1,
+    question: 'O que nos diz o sinal de aproximação de descida perigosa com inclinação de 10%?',
+    answer: 'O sinal de aproximação de descida perigosa com inclinação de 10%, indica ao condutor que a cada 100 metros percorrido o veículo desce 10 metros de inclinação.',
+    number: 2059,
+    type: 'theoretic',
+    change: false,
+    converted: true,
+  },
+  {
+    important: 1,
+    question: 'O que entendes por atender a regra de prioridade?',
+    answer: 'Atender a regra de prioridade, significa que o condutor tem de ceder a passagem para todos os veículos que se encontra a sua direita ou os que vão em missão de socorro ou emergência com a marcha devidamente assinalada, com exceção dos veículos não automóveis tais como, veículo de tração animal, velocípede, caros de mão e condutores de animais.',
+    number: 2060,
+    type: 'theoretic',
+    change: false,
+    converted: true,
+  },
+  {
+    important: 1,
+    question: 'O que entendes por visão em túnel?',
+    answer: 'Visão em túnel, consiste na perda do campo visual lateral dentro dos tuneis.',
+    number: 2061,
+    type: 'theoretic',
+    change: false,
+    converted: true,
+  },
+  {
+    important: 1,
+    question: 'O que entendes por visão noturna?',
+    answer: 'Visão noturna, é a qual o condutor conduz com ajuda das luzes do veículo.',
+    number: 2062,
+    type: 'theoretic',
+    change: false,
+    converted: true,
+  },
+  {
+    important: 1,
+    question: 'O que são Lombas Redutoras de Velocidades ou lomba materializada?',
+    answer: 'Lombas Redutoras de Velocidades ou lomba materializada, são secção elevada da faixa de rodagem construída em toda sua largura, com carácter não temporário, com objetivo de obrigar os condutores a praticarem uma velocidade mais reduzida.',
+    number: 2063,
+    type: 'theoretic',
+    change: false,
+    converted: true,
+  },
+  {
+    important: 1,
+    question: 'Quais são os sinais que os veículos nos dão quando tem problema com embreagem?',
+    answer: 'O condutor deve saber tem problema com embreagem, através do cheiro queimado ou também quando a velocidade do veículo não corresponder o barrulho emitido pelo motor.',
+    number: 2064,
+    type: 'theoretic',
+    change: false,
+    converted: true,
+  },
+  {
+    important: 1,
+    question: 'Quando um veículo sede passagem para um navio?',
+    answer: 'Um veículo sede passagem para um navio, perante uma ponte movel suspensa.',
+    number: 2065,
     type: 'theoretic',
     change: false,
     converted: true,

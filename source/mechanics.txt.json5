@@ -146,7 +146,7 @@
   {
     important: 0,
     question: 'De que se compõe uma bobine?',
-    answer: 'A bobine compõe-se de um núcleo de ferro macio, dois rolamentos sendo, um primário e um secundário e três polos sendo dois laterais e um central. Um lateral que recebe a corrente de baixa tensão vindo da bateria e o outro que leva a mesma corrente de baixa tensão à dispositivo de rotura, polo central que leva a corrente de alta tensão ao distribuidor.',
+    answer: 'A bobine compõe-se de um núcleo de ferro macio, dois enrolamentos sendo, um primário e um secundário e três polos, sendo dois laterais e um central. Um lateral que recebe a corrente de baixa tensão vindo da bateria e o outro que leva a mesma corrente de baixa tensão à dispositivo de rotura. O polo central que leva a corrente de alta tensão ao distribuidor.',
     number: 17,
     type: 'mechanics',
     change: false,
@@ -164,7 +164,7 @@
   {
     important: 0,
     question: 'De que se compõe um distribuidor?',
-    answer: 'Um distribuidor, compõe-se da tampa, carvão, sector metálico, rotor, um platinado fixo e um platinado móvel, condensador e excêntrico.',
+    answer: 'Um distribuidor, compõe-se da tampa com carvão, sector metálico, rotor, um platinado fixo e um platinado móvel, condensador e excêntrico.',
     number: 19,
     type: 'mechanics',
     change: false,
@@ -173,7 +173,7 @@
   {
     important: 0,
     question: 'Para que serve o condensador?',
-    answer: 'O condensador, serve para amortecer a corrente e evitar que os palatinados se queimem. Compõe-se de dois enrolamentos de lâmina de chumbo isolado por um papel parafinado.',
+    answer: 'O condensador, serve para amortecer a corrente e evitar que os platinados se queimem. Compõe-se de dois enrolamentos de lâmina de chumbo isolado por um papel parafinado.',
     number: 20,
     type: 'mechanics',
     change: false,
@@ -236,7 +236,7 @@
   {
     important: 0,
     question: 'De que se compõe uma bomba mecânica ou elétrica de combustível?',
-    answer: 'A bomba mecânica ou elétrica de combustível, esta composto por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas sendo uma de entrada e outra de saída de combustível.',
+    answer: 'A bomba mecânica ou elétrica de combustível, está composto por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas sendo uma de entrada e outra de saída de combustível.',
     number: 25,
     type: 'mechanics',
     change: false,
@@ -254,7 +254,7 @@
   {
     important: 0,
     question: 'Em quantas partes está dividida o carburador?',
-    answer: 'O carburador se divide em duas partes sendo;\n- Depósito de nível constante;\n- Câmara de carburação;',
+    answer: 'O carburador está divide em duas partes, que são, Depósito de nível constante e Câmara de carburação.',
     number: 27,
     type: 'mechanics',
     change: false,
@@ -496,20 +496,20 @@
   },
   {
     important: 0,
-    question: 'Para que serve a embraiagem?',
+    question: 'Para que serve a embreagem?',
     answer: 'Serve para ligar e desligar o motor aos órgãos de transmissão',
     number: 54,
     type: 'mechanics',
-    change: false,
+    change: true,
     converted: true,
   },
   {
     important: 0,
-    question: 'De que se compõe uma embraiagem?',
+    question: 'De que se compõe uma embreagem?',
     answer: 'Um prato com mola, um disco metálico forrado em ambos os lados, rolamento ou carvão, garfo ou forquilha.',
     number: 55,
     type: 'mechanics',
-    change: false,
+    change: true,
     converted: true,
   },
   {
@@ -524,10 +524,10 @@
   {
     important: 0,
     question: 'De que se compõe uma caixa de velocidade?',
-    answer: 'A caixa de velocidade esta composta por, veio primário, veio secundário e um intermediário, tantos carretos como de velocidade que  se compõe a mesma, um carreto para marcha trás, rolamentos, casquilhos, roletes, e por vezes sincronizador.',
+    answer: 'A caixa de velocidade esta composta por, veio primário, veio secundário e um intermediário, tantos carretos como de velocidade que se compõe a mesma, um carreto para marcha trás, rolamentos, casquilhos, roletes, e por vezes sincronizador.',
     number: 57,
     type: 'mechanics',
-    change: false,
+    change: true,
     converted: true,
   },
   {
@@ -888,7 +888,7 @@
     number: 97,
     type: 'mechanics',
     change: false,
-    converted: false,
+    converted: true,
   },
   {
     important: 0,
@@ -915,7 +915,7 @@
     number: 100,
     type: 'mechanics',
     change: false,
-    converted: false,
+    converted: true,
   },
   {
     important: 0,
@@ -924,7 +924,7 @@
     number: 101,
     type: 'mechanics',
     change: false,
-    converted: false,
+    converted: true,
   },
   {
     important: 0,
@@ -942,7 +942,7 @@
     number: 103,
     type: 'mechanics',
     change: false,
-    converted: false,
+    converted: true,
   },
   {
     important: 0,
@@ -951,7 +951,7 @@
     number: 104,
     type: 'mechanics',
     change: false,
-    converted: false,
+    converted: true,
   },
   {
     important: 0,
@@ -969,7 +969,7 @@
     number: 106,
     type: 'mechanics',
     change: false,
-    converted: false,
+    converted: true,
   },
   {
     important: 0,
@@ -978,7 +978,7 @@
     number: 107,
     type: 'mechanics',
     change: false,
-    converted: false,
+    converted: true,
   },
   {
     important: 0,
@@ -1023,7 +1023,7 @@
     number: 2001,
     type: 'mechanics',
     change: false,
-    converted: false,
+    converted: true,
   },
   {
     important: 0,
@@ -1032,7 +1032,7 @@
     number: 2002,
     type: 'mechanics',
     change: false,
-    converted: false,
+    converted: true,
   },
   {
     important: 0,
@@ -1041,7 +1041,7 @@
     number: 2003,
     type: 'mechanics',
     change: false,
-    converted: false,
+    converted: true,
   },
   {
     important: 0,
@@ -1050,7 +1050,7 @@
     number: 2004,
     type: 'mechanics',
     change: false,
-    converted: false,
+    converted: true,
   },
   {
     important: 0,
@@ -1059,7 +1059,7 @@
     number: 2005,
     type: 'mechanics',
     change: false,
-    converted: false,
+    converted: true,
   },
   {
     important: 0,
@@ -1068,6 +1068,6 @@
     number: 2006,
     type: 'mechanics',
     change: false,
-    converted: false,
+    converted: true,
   },
 ]
