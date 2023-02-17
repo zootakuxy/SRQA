@@ -10,6 +10,8 @@ export interface Question{
     type:string|"mechanics"|"theoretic",
     change:boolean,
     converted:boolean
+    convertedQuestion:boolean
+    convertedAnswer:boolean
 }
 
 export function readQuestions( qaFile: string, type:string ):Promise<{
@@ -53,6 +55,8 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
                     type: type,
                     change: true,
                     converted: false,
+                    convertedQuestion: false,
+                    convertedAnswer: false
                 }
                 questionsList.push( question );
             } else {
@@ -78,6 +82,8 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
                     || findQuestion.answer.trim() !== value.answer.trim();
 
                 value.converted = !!findQuestion && findQuestion.converted && !value.change;
+                value.convertedQuestion = !!findQuestion && findQuestion.convertedQuestion && !value.change;
+                value.convertedAnswer = !!findQuestion && findQuestion.convertedAnswer && !value.change;
             });
             resolve( {
                 questions: questionsList,

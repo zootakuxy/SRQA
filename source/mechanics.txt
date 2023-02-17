@@ -53,8 +53,11 @@ A bateria divide-se em três partes, que são;
 A bobine compõe-se de um núcleo de ferro macio, dois enrolamentos sendo, um primário e um secundário e três polos, sendo dois laterais e um central. Um lateral que recebe a corrente de baixa tensão vindo da bateria e o outro que leva a mesma corrente de baixa tensão à dispositivo de rotura. O polo central que leva a corrente de alta tensão ao distribuidor.
 
 
+
 18-Para que serve o distribuidor?
 O distribuidor, serve para distribuir corrente de alta tensão as velas.
+// https://mecanicaautomovel.weebly.com/distribuidor.html
+
 19-De que se compõe um distribuidor?
 Um distribuidor, compõe-se da tampa com carvão, sector metálico, rotor, um platinado fixo e um platinado móvel, condensador e excêntrico.
 20-Para que serve o condensador?
@@ -71,7 +74,8 @@ As peças que fazem parte de sistema de alimentação são:
 - Bomba mecânica ou elétrica de combustível.
 - Filtro de combustível.
 - Carburador.
-24-Para que serve depósito de combustível?
+
+ 24-Para que serve depósito de combustível?
 O depósito de combustível, serve para armazenar combustível.
 24.1 - Para que serve a bomba mecânica ou elétrica de combustível?
 Bomba mecânica ou elétrica de combustível, serve para chupar o combustível do depósito e enviar ao carburador.
@@ -86,7 +90,7 @@ Depósito de nível constante, compõe-se por uma agulha e uma boia.
 29-De que se compõe uma câmara de carburação?
 Uma câmara de carburação, compõe-se por gicler máximo, gicler mínimo, parafuso de afinação do ar e borboleta de aceleração.
 30-O carburador assenta ou fica apertada aonde?
-O carburador assenta sobre o coletor de admissão, que serve para admitir mistura gasosa.
+O carburador assenta sobre o coletor de admissão, que serve para admitir a mistura gasosa.
 31-Quantos tipos de coletor conheces?
 Conheço dois tipos de coletor, que são, coletor de admissão e coletor de escape.
 32-Para que serve coletor de admissão?
@@ -115,34 +119,33 @@ As peças que fazem parte de sistema de arrefecimento ou refrigeração são, bo
 43-Para que serve bomba de água?
 A bomba de água, serve para tirar água quente e levar água fria.
 44-De que se compõe uma bomba de água?
-Corpo de bomba, mola, veio com rolamento, turbina e impanque.
+Corpo de bomba, mola, veio com rolamento, turbina e empanque.
 45-Para que serve o ventilador?
-O ventilador serve para arrefecer a água que encontra dentro de radiador.
+O ventilador, serve para arrefecer a água que encontra dentro de radiador.
 46-Quais são as peças que fazem parte de sistema elétrico?
-As peças que fazem parte do sistema elétrico são,
-Dínamo ou Alternador.
-Motor de arranque.
-Conjuntor/Disjuntor ou regulador de voltagem.
+As peças que fazem parte do sistema elétrico são, dínamo ou alternador, motor de arranque e conjuntor/disjuntor ou regulador de voltagem.
 47-O que é um dínamo?
-O dínamo é um gerador de corrente contínua.
+O dínamo, é um gerador de corrente contínua.
 48-Para que serve dínamo?
-Serve para fornecer corrente para carregar a bateria.
+O dínamo, serve para fornecer corrente para carregar a bateria.
 49-De que se compõe um dínamo?
-Corpo induzido, indutor, coletor e escova de carvão.
+Um dínamo esta composto por corpo induzido, indutor, coletor e escova de carvão.
 50 -Para que serve um motor de arranque?
-Serve para pôr o motor em funcionamento na sua fase inicial de trabalho.
+Um motor de arranque, serve para pôr o motor em funcionamento na sua fase inicial de trabalho.
 51-De que se compõe o motor de arranque?
 Corpo induzido, indutor, coletor, escova de cobre e uma união bendix.
-52-Para que serve a união bendix?
+ 52-Para que serve a união bendix?
 Serve para rodar volante do motor.
+
+
 53-Quais são as peças que compõe o sistema de transmissão?
-O sistema de transmissão é composto por: embraiagem, caixa de velocidade, veio de transmissão, e diferencial.
+O sistema de transmissão é composto por: embreagem, caixa de velocidade, veio de transmissão, e diferencial.
 54-Para que serve a embreagem?
-Serve para ligar e desligar o motor aos órgãos de transmissão
+A embreagem, serve para ligar e desligar o motor aos órgãos de transmissão
 55- De que se compõe uma embreagem?
-Um prato com mola, um disco metálico forrado em ambos os lados, rolamento ou carvão, garfo ou forquilha.
+Uma embreagem, esta composta por um prato com mola, um disco metálico forrado em ambos os lados, rolamento ou carvão, garfo ou forquilha.
 56-Para que serve caixa de velocidade?
-A caixa de velocidade serve para variar a velocidade consoante a rotação do motor.
+A caixa de velocidade, serve para variar a velocidade consoante a rotação do motor.
 57-De que se compõe uma caixa de velocidade?
 A caixa de velocidade esta composta por, veio primário, veio secundário e um intermediário, tantos carretos como de velocidade que se compõe a mesma, um carreto para marcha trás, rolamentos, casquilhos, roletes, e por vezes sincronizador.
 58-Para que serve o diferencial?
@@ -150,7 +153,7 @@ Diferencial, serve para transformar o movimento retilíneo em movimento transver
 59- De que se compõe um diferencial?
 Um diferencial está composto por pinhão de ataque, roda de coroa, duas meia concha, cruzetas, dois planetários e dois ou quatro satélites.
 60-Para que serve o veio de transmissão?
-Serve para transmitir o movimento da caixa de velocidade ao diferencial.
+O veio de transmissão, serve para transmitir o movimento da caixa de velocidade ao diferencial.
 61-De que se compõe o veio de transmissão?
 O veio de transmissão está composto por compõe-se de veio propriamente dito, juntas elástica e cardans ou cruzeta.
 62-Para que serve a junta elástica?
@@ -195,31 +198,31 @@ Sincronizador, serve pra suavizar o trabalho na caixa de velocidade.
 81-Para que serve um servo-freio?
 Serve para auxiliar o condutor na travagem, e tornar mais suave o seu trabalho.
 82- Qual a ordem de um motor de 4 cilindros?
-1-3-4-2.
+A ordem do motor de 4 cilindros é 13, 42.
 83-Qual a ordem de um motor de 6 cilindros?
-1-5-3-6-2-4.
+A ordem de um moto de 6 cilindro é de 153, 624.
 84-Qual a ordem de um motor de 8 cilindros?
-1-8-3-6-7-2-5-4.
+A ordem de motor de 8 cilindro é de 18, 367, 254.
 85-Para que servem os fusíveis?
 Os fusíveis servem para evitar que as instalações elétricas se queimem em caso de curto-circuito, geralmente estão montados numa caixa e há um fusível para cada curto-circuito.
-86-De que se compõe um travão  hidráulico?
+86-De que se compõe um travão hidráulico?
 Pedal de travão, bomba central, tubagem da condução do óleo as rodas,  cilindros e maxilas.
 87-De que se compõe um travão mecânico?
-Pedal de travão, tirantes que aciona numas alavancas, excênticos e maxilas.
+Um travão mecânico, esta composto por pedal de travão, tirantes que aciona numas alavancas, excêntricos e maxilas.
 88-De que se compõe um travão de ar comprimido?
-Um compreensor de ar que aspira o ar da atmosfera e envia-a para uma botija, pedal de travão, tirante que acionam um dispositivo de de válvulas que dá passagem ao ar das botijas, tirantes que acionam as alavancas, excêntricos e maxilas.
+Um travão de ar comprimido, esta composto por um compreensor de ar que aspira o ar da atmosfera e envia para uma botija, pedal de travão, tirante que acionam um dispositivo de válvulas que dá passagem ao ar das botijas, tirantes que acionam as alavancas, excêntricos e maxilas.
 89-Que espécie de óleo se usa para um motor?
 Para um motor nós utilizamos óleo 40.
 90-Quais são os cuidados que um condutor deve ter antes de iniciar uma viagem?
 Antes de iniciar uma viagem o condutor deve verificar: a pressão do ar dos pneus, água do radiador, o nível de óleo do motor, a quantidade de combustível no depósito, óleo dos travões, chave de roda, macaco de elevação, pneu suplente e o sinal de pré-sinalização de perigo.
 91-Se o condutor conduz por muito tempo com o pé em cima do pedal de embreagem, o que pode acontecer?
-Obriga o disco de embreagem a fazer muito esforço, podendo assim queimar  tanto o disco como os rolamento ou carvão.
+Obriga o disco de embreagem a fazer muito esforço, podendo assim queimar tanto o disco como os rolamento ou carvão.
 92-Quais são os órgãos móveis de motor?
 Embolo, biela, pistom, cambota, volante.
 93-Quais são os órgãos fixos de motor?
 Tampa de culatra, culatra, junta de culatra, bloco de cilindro e cárter.
-94-Onde engatam os semi-eixos?
-Os semi-eixos engatam em : uma ponta nos cubos das rodas, e outras ponta nos planetários.
+94-Onde engatam os semieixos?
+Os semieixos engatam-se da seguinte forma, uma ponta nos cubos das rodas, e outras ponta nos planetários.
 95-Para que serve o martelo balanceiro?
 Quando bate em cima das válvulas faz abrir e fechar as mesmas com o funcionamento de subir e descer dos êmbolos, para permitir a entrada da mistura gasosa no motor de explosão e no motor diesel permitir a entrada de ar no cilindro.
 96-Quantos tipos de arrefecimentos por água conheces?
@@ -266,7 +269,8 @@ Os cuidados que devemos ter com as baterias são, manter o líquido acima da pla
 As avarias que podemos encontrar na embraiagem são, prato empenado, mola partida, disco metálico gasto, rolamento ou carvão queimado e garfo ou forquilha partida.
 2006-Quais são as peças que fazem parte de sistema de lubrificação?
 As peças que fazem parte do sistema de lubrificação são, bomba de óleo, filtro de óleo e cárter.
+2007-Para que servem as mangas de eixo?
+As mangas do eixo, servem para apoiar os cubos das rodas motrizes e geralmente estão afixados na ponta do eixo de frente.
 
-
-
-
+2008-O que sabes sobre empanques?
+Empanques, são peças mecânicas que têm por finalidade evitar derrames de fluido. Servem para vedar juntas das máquinas.

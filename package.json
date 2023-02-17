@@ -5,6 +5,9 @@
   "main": "index.js",
   "scripts": {
     "tsc-w": "tsc -w",
+    "Q&A": "node index.js",
+    "Questions": "node questions.js",
+    "Answers": "node answers.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
