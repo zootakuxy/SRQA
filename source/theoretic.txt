@@ -165,7 +165,7 @@ Vias publicas, são todas as estradas, ruas e caminhos, onde circulam piões, an
 76-Como classificam as vias públicas?
 As vias publicas classificam em: estradas, autoestradas, ruas e caminhos.
 77-O são autoestrada?
-Autoestrada, é uma via destinado ao tráfego rápido, com separação de correntes de trânsito, com acesso condicionado, sem cruzamento ao nível nem acesso a propriedades marginais e sinalizada como tal.
+Autoestrada, é uma via destinado ao tráfego rápido, com separação de correntes de trânsito, com acesso condicionado, sem cruzamento ao nível.
 78-O que não se pode fazer numa autoestrada?
 Numa autoestrada o condutor não pode parar, estacionar, marcha trás, fazer inversão de sentido de marcha, transitar a menos de 50 km/h, pisar na faixa separadora de trânsito, ensino de condução, transitar sem luz mesmo em caso de avaria.
 79-Nas autoestradas há cruzamentos?
@@ -440,7 +440,7 @@ A linha contínua dupla ou linha adjacente, indica ao condutor para transitar se
 Via de trânsito, é zona longitudinal da faixa de rodagem ou parte da via destinada à circulação de uma única fila de veículos.
 2050-O que entendes por bermas!?
 Bermas, é a parte de via publica, não destinada a trânsito de veículos, e que ladeia a via pública.
-2051-Qual é a diferença entre vias de aceleração e vais de abrandamento!?
+2051-Qual é a diferença entre vias de aceleração e vias de abrandamento!?
 A diferença existente entre vias de aceleração e vias de abrandamento, é que vias de aceleração permite entrada a uma autoestrada, enquanto que via de abrandamento permite saída de uma autoestrada.
 2052-Por onde devem circular automóvel de mercadorias e veículos longos nas autoestradas!?
 Nas autoestradas, tanto os automóveis de mercadoria quanto os automóveis cujo cumprimento é superior a 7 metros só podem circular nas duas primeiras vias mais a direita.
@@ -482,10 +482,12 @@ Uma máquina industrial ou trator agrícola pode ser considerada um veículo lig
 A velocidade mínima que um veículo deve alcançar para ter direito de circular nas autoestradas é de 60km/h, no entanto, a velocidade mínima que se deve transitar na autoestrada é de 50km/h.
 2069-Qual é a placa que pode ser contornada em qualquer um dos lados?
 As placas que podem ser contornadas por qualquer um dos lados, são todas aquelas que têm o formato triangular desde que não estejam devidamente sinalizadas.
-2070-O que entendes por distancia travagem?
-Distancia travagem, é a distância percorrida pelo veículo entre o momento em que o condutor começa a travar e aquele em que o veículo se imobiliza. Essa distância varia não só com a velocidade do veículo como também com o estado dos pneus, a eficácia dos travões e o estado do pavimento.
-2071-O que entendes por distancia de paragem?
-Distancia de paragem, é a distância total percorrida pelo veículo entre o momento em que o condutor vê o obstáculo e aquele em que o veículo se imobiliza. A distância de paragem obtém-se somando a distância de reação com a distância de travagem.
+2070-O que entendes por distância travagem?
+Distância travagem, é a distância percorrida pelo veículo entre o momento em que o condutor começa a travar e aquele em que o veículo se imobiliza. Essa distância varia não só com a velocidade do veículo como também com o estado dos pneus, a eficácia dos travões e o estado do pavimento.
+2071-O que entendes por distância de paragem?
+Distância de paragem, é a distância total percorrida pelo veículo entre o momento em que o condutor vê o obstáculo e aquele em que o veículo se imobiliza. A distância de paragem obtém-se somando a distância de reação com a distância de travagem.
+2071.1-Qual é a diferença entre a distância de paragem e a distância de travagem?
+A diferença existente entre a distância de travagem e a distância de paragem, é que a distância da travagem é o espaço percorrido pelo veículo desde o momento que o condutor começa a travar até o momento que o veículo se imobiliza, enquanto que a distância de paragem é o espaço percorrido desde o momento que o condutor vê o obstáculo até o momento que o veículo se imobiliza.
 2072-O que entendes por segurança ativa?
 É considerado segurança ativa, tudo que tem como objetivo evitar o acidente, por exemplo.
 2073-Quais são os elementos de segurança ativa?
