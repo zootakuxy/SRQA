@@ -50,7 +50,7 @@ export function id3Question( fileDirection:FileDirections, question:Question ){
                 tag.genre = "Q&A";
                 NodeID3.write({ ...tag }, fileDirection.audioFileOf( question, "Q&A" ), ()=>{
                     if( question.important ){
-                        tag.album="🔥🔥🔥";
+                        tag.album="TOP";
                         return NodeID3.write( { ...tag }, fileDirection.audioFileOf( question, "Important" ), () => {
                             console.log( "[id3] create metadata of", question.number)
                             return resolve( "ID3" );

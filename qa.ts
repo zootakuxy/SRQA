@@ -1,12 +1,14 @@
 import * as fs from "fs";
 import * as readline from "readline";
 import * as json5 from "json5";
+import * as Path from "path";
 
 export interface Question{
     important:number,
     question:string,
     answer:string,
     number:number,
+    indexNumber:number
     type:string|"mechanics"|"theoretic",
     change:boolean,
     converted:boolean
@@ -20,6 +22,21 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
 }>{
 
     return new Promise( ( resolve ) => {
+        let baseName = Path.basename( qaFile, ".txt" );
+        let listFile = Path.join( Path.dirname( qaFile ), `${baseName}.list` );
+
+        let list = [];
+
+        if( fs.existsSync( listFile ) ){
+            list = fs.readFileSync( listFile )
+                .toString()
+                .trim()
+                .split( "\n" )
+                .filter( value => value && value.trim().length )
+                .map( value => Number( value.trim() ) )
+            ;
+        }
+
         let iLine = readline.createInterface(fs.createReadStream( qaFile ));
         let questionsList:Question[] = [];
 
@@ -56,7 +73,8 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
                     change: true,
                     converted: false,
                     convertedQuestion: false,
-                    convertedAnswer: false
+                    convertedAnswer: false,
+                    indexNumber: list.indexOf( index )+11
                 }
                 questionsList.push( question );
             } else {

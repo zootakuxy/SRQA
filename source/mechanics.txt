@@ -174,13 +174,27 @@ As bielas servem para fazer ligação da cambota aos pistões.
 69-Em quantas partes se divide as bielas?
 As bielas dividem-se em 3 partes: cabeça com chapéu, corpo e pé.
 70-Para que serve a cabeça com chapéu?
-Cabeça com chapéu é a parte que fica ligada a cambota.
+Cabeça com chapéu é a parte da biela que fica ligada a cambota.
 71-Para que serve o pé da biela?
-Pé é a parte que fica ligado aos pistões através de cavilha ou cavilhão.
+Pé da biela, é a parte da biela que fica ligado aos pistões através de cavilha ou cavilhão.
 72-O que é uma cambota?
-É um veio de aço com diversas manivelas que está apoiada no bronze e apertada por chumaceira, ela recebe o movimento dos pistões através das bielas, na ponta de frente encontramos dente de lobo, que serve para engrenar o engate para o arranque manual, existe ainda um carreto condutor que serve para ligar o carreto conduzido por veio excêntrico e na base vamos encontrar o volante do motor.
-73-O que é um veio excêntrico?
-É um veio de aço com diversos ressaltos que serve para fazer abrir e fechar as válvulas através de tuches, fazendo funcionar a bomba de óleo e a bomba mecânica de combustível.
+A cambota, é um veio de aço com diversas manivelas que está apoiada nos bronzes e apertada por chumaceira. Ela recebe o movimento dos pistões através das bielas. Na ponta de frente encontramos dente de lobo, que serve para engrenar o engate para o arranque manual. Existe ainda um carreto condutor que serve para ligar ao carreto conduzido por veio excêntrico, e na base vamos encontrar o volante do motor.
+
+
+
+ 73-O que é um veio excêntrico?
+Veio excêntrico, é um veio de aço com diversos ressaltos que serve para fazer abrir e fechar as válvulas através de tuches, fazendo funcionar a bomba de óleo e a bomba mecânica de combustível.
+
+
+
+
+
+
+
+
+
+
+
 74-O que entendes por rodas motrizes?
 São aquelas que recebem o esforço do motor.
 75-O que entendes por roda directrizes?
@@ -216,15 +230,16 @@ Para um motor nós utilizamos óleo 40.
 90-Quais são os cuidados que um condutor deve ter antes de iniciar uma viagem?
 Antes de iniciar uma viagem o condutor deve verificar: a pressão do ar dos pneus, água do radiador, o nível de óleo do motor, a quantidade de combustível no depósito, óleo dos travões, chave de roda, macaco de elevação, pneu suplente e o sinal de pré-sinalização de perigo.
 91-Se o condutor conduz por muito tempo com o pé em cima do pedal de embreagem, o que pode acontecer?
-Obriga o disco de embreagem a fazer muito esforço, podendo assim queimar tanto o disco como os rolamento ou carvão.
+Obriga o disco de embreagem a fazer muito esforço, podendo assim queimar tanto o disco como os rolamentos ou carvão.
 92-Quais são os órgãos móveis de motor?
 Embolo, biela, pistom, cambota, volante.
+
 93-Quais são os órgãos fixos de motor?
-Tampa de culatra, culatra, junta de culatra, bloco de cilindro e cárter.
+O órgão fixo do motor são, tampa de culatra, culatra, junta de culatra, bloco de cilindro e cárter.
 94-Onde engatam os semieixos?
 Os semieixos engatam-se da seguinte forma, uma ponta nos cubos das rodas, e outras ponta nos planetários.
 95-Para que serve o martelo balanceiro?
-Quando bate em cima das válvulas faz abrir e fechar as mesmas com o funcionamento de subir e descer dos êmbolos, para permitir a entrada da mistura gasosa no motor de explosão e no motor diesel permitir a entrada de ar no cilindro.
+O martelo balanceiro, serve para bater em cima das válvulas fazendo abrir e fechar as mesmas com o funcionamento de subir e descer dos êmbolos. Isso permitir a entrada da mistura gasosa no motor de explosão e no motor diesel permitir a entrada de ar no cilindro.
 96-Quantos tipos de arrefecimentos por água conheces?
 Conheço dois: por bomba e por termo sifão.
 97-De que se compõe cubos das rodas diretrizes?
@@ -274,3 +289,6 @@ As mangas do eixo, servem para apoiar os cubos das rodas motrizes e geralmente e
 
 2008-O que sabes sobre empanques?
 Empanques, são peças mecânicas que têm por finalidade evitar derrames de fluido. Servem para vedar juntas das máquinas.
+
+
+

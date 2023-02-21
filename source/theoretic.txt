@@ -187,7 +187,7 @@ Marcha trás é a manobra que se faz circulando de frente para trás.
 87-Como é feita marcha trás?
 Marcha trás é feita lentamente num menor trajeto possível.
 88-Como se classifica marcha trás?
-Manobras de recurso, manobra auxiliar de recurso numa passagem tem de recuar um dos auxiliares para estacionar.
+A marcha trás classifica-se em, manobras de recurso, manobra auxiliar de recurso quando, numa passagem estreita um deles tem que recuar para facilitar o outro.
 89-Onde é proibido fazer marcha trás?
 É proibido fazer marcha trás, nas curvas, cruzamento e entroncamentos, pontes, túneis, lombas e em todo locais de má visibilidade.
 90-Qual é a diferença entre marcha trás e a retaguarda?
@@ -340,6 +340,10 @@ Tacógrafo, serve para registrar o tempo de repouso do condutor ou também indic
 
 
 
+
+
+
+
 2001-Com a carta de pesado de mercadoria que veículo posso conduzir?
 Com a carta de pesado de mercadoria posso conduzir todos os automóveis pesados com exceção aos pesados de passageiros e motociclo.
 2002-Qual a diferença entre paragem e estacionamento?
@@ -351,7 +355,7 @@ Inversão de marcha, é a manobra que consiste em colocar o veículo no sentido 
 2004-O que é cruzamento do veículo?
 Cruzamento do veículo, é a aproximação de dois veículos em sentidos oposto.
 2005-Qual a idade mínima para transportar crianças nos veículos?
-A idade mínima para transportar criança afrente do veículo é de 7 anos, no motociclo é de 12 anos.
+A idade mínima para transportar criança afrente do veículo é de 12 anos, no motociclo é de 7 anos.
 2005.1-O que é trânsito!?
 Trânsito é a circulação de pessoas, animais e veículos nas vias pública.
 2006-O que entendes por código de estrada!?
@@ -470,3 +474,28 @@ Lombas Redutoras de Velocidades ou lomba materializada, são secção elevada da
 O condutor deve saber tem problema com embreagem, através do cheiro queimado ou também quando a velocidade do veículo não corresponder o barrulho emitido pelo motor.
 2065-Quando um veículo sede passagem para um navio!?
 Um veículo sede passagem para um navio, perante uma ponte movel suspensa.
+2066-Em que caso os veículos prioritários devem parar?
+Os veículos prioritários nem sempre têm de respeitar as regras de trânsito e os sinais. No entanto não devem ser elementos de perigo na circulação. Devem parar nos STOP, Vermelho, ordens de agentes de autoridade e ceder a passagem a outros veículos que lá circulem à entrada da autoestrada.
+2067-Quando um trator agrícola ou máquina industrial pode ser considerado de automóveis ligeiros?
+Uma máquina industrial ou trator agrícola pode ser considerada um veículo ligeiro se a sua tara não exceder os 3500 kg.
+2068-Qual a velocidade mínima que um automóvel deve atingir para ter direito a circular na autoestrada?
+A velocidade mínima que um veículo deve alcançar para ter direito de circular nas autoestradas é de 60km/h, no entanto, a velocidade mínima que se deve transitar na autoestrada é de 50km/h.
+2069-Qual é a placa que pode ser contornada em qualquer um dos lados?
+As placas que podem ser contornadas por qualquer um dos lados, são todas aquelas que têm o formato triangular desde que não estejam devidamente sinalizadas.
+2070-O que entendes por distancia travagem?
+Distancia travagem, é a distância percorrida pelo veículo entre o momento em que o condutor começa a travar e aquele em que o veículo se imobiliza. Essa distância varia não só com a velocidade do veículo como também com o estado dos pneus, a eficácia dos travões e o estado do pavimento.
+2071-O que entendes por distancia de paragem?
+Distancia de paragem, é a distância total percorrida pelo veículo entre o momento em que o condutor vê o obstáculo e aquele em que o veículo se imobiliza. A distância de paragem obtém-se somando a distância de reação com a distância de travagem.
+2072-O que entendes por segurança ativa?
+É considerado segurança ativa, tudo que tem como objetivo evitar o acidente, por exemplo.
+2073-Quais são os elementos de segurança ativa?
+Os elementos de segurança ativa são pneus, travões, sistema ABS, suspensão, direção, espelhos retrovisores, e pala anti encadeamento.
+2074-O que sabes sobre Sistemas ABS?
+Sistema ABS, significa sistemas de travagem anti bloqueio, ela é usada para garantir que o veículo trave uniformemente nas estradas escorregadias e irregulares, facilitando o trabalho de travagem para os condutores.
+2075-O que entendes por segurança passiva?
+É considerado segurança passiva, todos o que tem objetivo de minimizar os danos e proteger no caso de um acidente.
+2076-Quais são os elementos de segurança passiva?
+Os elementos de segurança passivas são, cinto de segurança, airbag, capacete, e encosto de cabeça.
+
+
+
