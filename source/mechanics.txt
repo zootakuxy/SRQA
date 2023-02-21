@@ -165,9 +165,9 @@ As válvulas servem para fazer os tempos de motor.
 65-De que se compõe uma válvula?
 Compõe-se de cabeça e haste.
 66-Para que servem os pistões?
-Os pistões servem para transformar a energia calorífica em enegia mecânica.
-67-Em quantas partes se divide um pistom?
-Em duas partes: cabeça e saia.
+Os pistões servem para transformar a energia calorífica em energia mecânica.
+67-Em quantas partes se divide um pistão?
+O pistão, divide-se em duas partes, sendo cabeça e saia.
 Nas saias vamos encontrar alguns rasgos que servem para assegurar os segmentos, porém existem dois tipos de segmentos: segmento de óleo e segmento de compreensão, o segmento de óleo é escuro e de ferro fundido e o segmento de compreensão é brilhante e de aço.
 68-Para que servem as bielas?
 As bielas servem para fazer ligação da cambota aos pistões.
@@ -241,7 +241,7 @@ Os semieixos engatam-se da seguinte forma, uma ponta nos cubos das rodas, e outr
 95-Para que serve o martelo balanceiro?
 O martelo balanceiro, serve para bater em cima das válvulas fazendo abrir e fechar as mesmas com o funcionamento de subir e descer dos êmbolos. Isso permitir a entrada da mistura gasosa no motor de explosão e no motor diesel permitir a entrada de ar no cilindro.
 96-Quantos tipos de arrefecimentos por água conheces?
-Conheço dois: por bomba e por termo sifão.
+Conheço dois tipos de arrefecimentos por água, que são, por bomba e por termo sifão.
 97-De que se compõe cubos das rodas diretrizes?
 Um redentor, dois rolamentos, um separado, uma anilha e uma porca. Pertence ao sistema de direção.
 98-Para que serve a bomba de óleo?
