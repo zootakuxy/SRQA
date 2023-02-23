@@ -101,7 +101,7 @@ Coletor de escape, serve para expelir gases queimados.
 A peça que está em cima do carburador é o filtro do ar, que serve para purificar o ar que entra dentro do carburador.
 
 35-Quais são as avarias do carburador?
-As avarias que podemos encontrar no carburado são, Boia furada, agulha a vedar mal, gicleres entupidos, borboleta presa, junta danificada e parafuso de afinação do ar a vedar mal.
+As avarias que podemos encontrar no carburador são, Boia furada, agulha a vedar mal, gicleres entupidos, borboleta presa, junta danificada e parafuso de afinação do ar a vedar mal.
 36- De que peça compõe o motor?
 O motor é composto por seguintes peças, válvula, pistões, bielas, veio excêntrico, cambota, engrenagem de distribuição e bomba de óleo.
 37-Quais são peças que compõe o sistema de injeção?
@@ -115,11 +115,11 @@ Os injetores, serve para pulverizar o gasóleo nas câmaras de combustão.
 41- De que se compõe um injetor?
 Um injetor é composto de corpo de injetor, um bico com agulha e um dispositivo de afinação com um parafuso, uma porca e uma mola.
 42- Quais são as peças que fazem parte de sistema de arrefecimento ou refrigeração?
-As peças que fazem parte de sistema de arrefecimento ou refrigeração são, bomba de água, radiador, ventilador, termostato.
+As peças que fazem parte de sistema de arrefecimento ou refrigeração são, bomba de água, radiador, ventilador e termostato.
 43-Para que serve bomba de água?
 A bomba de água, serve para tirar água quente e levar água fria.
 44-De que se compõe uma bomba de água?
-Corpo de bomba, mola, veio com rolamento, turbina e empanque.
+A bomba de água, está composta por corpo de bomba, mola, veio com rolamento, turbina e empanque.
 45-Para que serve o ventilador?
 O ventilador, serve para arrefecer a água que encontra dentro de radiador.
 46-Quais são as peças que fazem parte de sistema elétrico?
@@ -204,7 +204,7 @@ Servem para apoiar os cubos das rodas motrizes e geralmente estão fixadas na po
 77-Quantos tipos de travão conheces?
 Conheço três tipos de travão: mecânico hidráulico, ar comprimido.
 78-Quantos tipos de arrefecimento conheces?
-Conheço dois tipos: por ar e por água.
+Conheço dois tipos de arrefecimentos, por ar e por água.
 79-Para que serve a vela de ignição?
 Serve para reproduzir as faíscas elétricas que inflamam a mistura gasosa comprimida na câmara de explosão.
 80-Para que serve o sincronizador?
@@ -269,7 +269,7 @@ A diferença é que o dínamo carrega bateria quando o carro está em movimento,
 109-Se o motor parar por si sem motivos justificados, como deve preceder o condutor?
 Deve primeiramente ver o sistema de alimentação, começando pelo depósito de combustível vê se há combustível e vê se o mesmo chega ao carburador. Se não for falta de alimentação verificar o sistema de inflamação, começando pela bateria vê se ela tem corrente e vê se chega as velas, sendo não, deve verificar o distribuidor, começando pelos platinados vê se estão sujos ou apertados demais ou condensador queimado, se a corrente não chega ao distribuidor é porque a bobine está queimada.
 110-Quantos tipos de arrefecimento por ar conheces?
-Conheço dois tipos: por turbina e por lâmina.
+Conheço dois tipos de arrefecimento por ar, que são, por turbina e por lâmina.
 111- Qual é o instrumento que podemos medir o nível do óleo do motor?
 Podemos medir o óleo do motor com vareta gradual.
 2001-Para que serve o êmbolo?

@@ -171,9 +171,9 @@ Numa autoestrada o condutor não pode parar, estacionar, marcha trás, fazer inv
 79-Nas autoestradas há cruzamentos?
 Sim, nas autoestradas, vamos encontrar cruzamento desnivelado através de ponte ou túneis.
 80-O que entendes por estrada?
-Estradas, são pequenas via de comunicação terrestre, destinado ao trânsito interurbano.
+Estradas, são via de comunicação terrestre, destinado ao trânsito interurbano.
 81-O que são ruas?
-Ruas, são pequenas vias de comunicação terrestre, destinado ao trânsito dentro das localidades.
+Ruas, são vias de comunicação terrestre, destinado ao trânsito dentro das localidades.
 82-O que entendes por caminhos?
 Caminhos, são pequenas vias de comunicação terrestre, destinado ao trânsito nas zonas rurais.
 83-Como classificam os caminhos?
@@ -223,7 +223,7 @@ Os acessórios de um veículo automóvel são, espelho retrovisor, cinto de segu
 105-Quais são os acessórios para um motociclo?
 Os acessórios para um motociclo são, capacete, luvas, botas, óculos, joelheiras, e espelho retrovisor lateral.
 106-Qual é o limite de peso bruto sobre o solo?
-O limite de peso bruto sobre o solo para aro pneumático é de 150 kg por centimetro^2, enquanto que para aro metálico é de 80 kg por centimetro^2.
+O limite de peso bruto sobre o solo para aro pneumático é de 150 kg por centimetro^3, enquanto que para aro metálico é de 80 kg por centimetro^3.
 107-Com a carta de categoria B que veículos posso conduzir?
 Com a carta de categoria B, posso conduzir todos os veículos, cujo a lotação não excede 9 lugares incluindo o condutor, e o seu peso bruto não excede 3500 kg. Também, posso conduzir trator agrícola, desde que a sua tara não exceda 3500 kg, e se for com reboque o seu peso bruto não exceda a 6000 kg.
 108-Quais são os cuidados que o condutor deve ter antes de iniciar uma viagem?
@@ -376,7 +376,7 @@ Na hierarquia dos sinais do trânsito encontramos.
 2011-Qual é a velocidade máxima para os automóveis pesado de passageiro nas autoestradas?
 A velocidade máxima para automóveis pesado de passageiro nas autoestradas é de 90 km por hora.
 2012-Em que caso o condutor deve reduzir a velocidade!?
-A velocidade deve ser especialmente reduzida dentro das localidades junto das escolas, jardins, creches, hospitais, onde existe aglomeração de pessoas, e todos os locais de má visibilidade tais como, cruzamento, entroncamento, pontes túneis e lombas.
+A velocidade deve ser especialmente reduzida dentro das localidades junto das escolas, jardins, creches, hospitais, onde existe aglomeração de pessoas, e todos os locais de má visibilidade, tais como, cruzamento, entroncamento, pontes túneis e lombas.
 2013-O que nos diz o sinal de via com prioridade?
 O sinal de via com prioridade diz ao condutor, que ele goza de prioridade em todos os sucessivos cruzamento e entroncamento, até encontrar o sinal de fim de via com prioridade.
 
@@ -487,13 +487,13 @@ Distância de paragem, é a distância total percorrida pelo veículo entre o mo
 2071.1-Qual é a diferença entre a distância de paragem e a distância de travagem?
 A diferença existente entre a distância de travagem e a distância de paragem, é que a distância da travagem é o espaço percorrido pelo veículo desde o momento que o condutor começa a travar até o momento que o veículo se imobiliza, enquanto que a distância de paragem é o espaço percorrido desde o momento que o condutor vê o obstáculo até o momento que o veículo se imobiliza.
 2072-O que entendes por segurança ativa?
-É considerado segurança ativa, tudo que tem como objetivo evitar o acidente, por exemplo.
+É considerado segurança ativa, tudo que tem como objetivo evitar o acidente, tais como, pneus, travões, sistema ABS, suspensão, direção, espelhos retrovisores, e pala anti encadeamento.
 2073-Quais são os elementos de segurança ativa?
 Os elementos de segurança ativa são pneus, travões, sistema ABS, suspensão, direção, espelhos retrovisores, e pala anti encadeamento.
 2074-O que sabes sobre Sistemas ABS?
 Sistema ABS, significa sistemas de travagem anti bloqueio, ela é usada para garantir que o veículo trave uniformemente nas estradas escorregadias e irregulares, facilitando o trabalho de travagem para os condutores.
 2075-O que entendes por segurança passiva?
-É considerado segurança passiva, todos o que tem objetivo de minimizar os danos e proteger no caso de um acidente.
+É considerado segurança passiva, todos o que tem objetivo de minimizar os danos e proteger no caso de um acidente, tais como cinto de segurança, airbag, capacete, e encosto de cabeça.
 2076-Quais são os elementos de segurança passiva?
 Os elementos de segurança passivas são, cinto de segurança, airbag, capacete, e encosto de cabeça.
 2077-O que entendes por acidente?
@@ -522,16 +522,22 @@ A velocidade máxima para todos os veículos na zona de coexistências é de 20 
 2083-Qual a velocidade máxima para os motociclos?
 A velocidade máxima para motociclo simples de cilindrada superior a 50 cm3 dentro da localidade é de 50 km/h, na autoestrada é de 120 km/h, nas vias equiparadas é de 100 km/h e de 90 km/h fora das localidades. Para motociclo com carro lateral, dentro da localidade é de 50km/h, na autoestrada é de 100 km/h, nas vias equiparadas é de 80 km/h e de 70 km/h fora das localidades. Para motociclo de cilindrada não superior a 50 cm3 dentro da localidade é de 40 km/h e 60 km/h fora das localidades.
 Para triciclo dentro da localidade, a velocidade máxima é de 50km/h e 80 km/h fora de localidade, na autoestrada é de 100 km/h e de 90 km/h nas vias equiparadas.
-
-
-
-
-
-
-
-
-
-
+2084-Quando devemos efetuar alternância de luz máxima para luz mínima?
+As situações em que devemos efetuar alternância da luz de máximo para mínimo, é quando cruzamos com pessoas, animais ou veículo, quando circulamos a menos de 100 metros do veículo precedente, ou ainda nas curvas, cruzamento ou entroncamento.
+2085-Quando devemos utilizar as luzes de mínimo ou presença?
+A luz de presença deve ser utilizada sempre que o veículo esteja imobilizado total ou parcialmente dentro da faixa de rodagem.
+2086-Quando devemos utilizar os indicadores de direção?
+As luzes indicadoras de direção, deve ser usada sempre que se pretende efetuar qualquer manobra, assinalando a intenção do condutor?
+2087-Em que momento é acionada as luzes de presença?
+As luzes de presença, são automaticamente acionadas, quando acionamos qualquer luz de frente com exceção dos indicadores de direção.
+2088-O que nos indica a luz de perigo?
+A luz de perigo (quatro piscas acionados em simultâneo), indica que o veículo constitui perigo para o restante de transito. Deve ser utilizado no caso de uma marcha lenta, missão de socorro ou emergência ou avarias.
+2089-O que entendes por infração?
+Infração, são todas as ilicitudes cometidas no código de estrada.
+2090-Quais são os elementos responsável pelas infrações?
+Os elementos responsáveis pelas infrações são, o condutor, que é considerado o maior responsável por maior pelas infrações, os peões, e os passageiros, quando estes não utilizam cinto de segurança ou desce do veículo pelo lado que não é permitido.
+2091-Qual a diferença entre elementos de segurança passivas e ativas?
+A diferença existente entre os elementos de segurança passivas e ativas, é que elementos de segurança ativas, são todos queles que tem como objetivo de evitar o acidente, tais como, pneus, travões, sistema ABS, suspensão, direção, espelho retrovisores, e pala anti encandeamento. Enquanto que elementos de segurança passivas, são todos aqueles que tem como objetivo minimizar os danos e proteger no caso de um acidente, tais como, cinto de segurança, airbag, capacete, e encosto de cabeça.
 
 
 
