@@ -214,13 +214,13 @@ Serve para auxiliar o condutor na travagem, e tornar mais suave o seu trabalho.
 82- Qual a ordem de um motor de 4 cilindros?
 A ordem do motor de 4 cilindros é 13, 42.
 83-Qual a ordem de um motor de 6 cilindros?
-A ordem de um moto de 6 cilindro é de 153, 624.
+A ordem de um motor de 6 cilindro é de 153, 624.
 84-Qual a ordem de um motor de 8 cilindros?
 A ordem de motor de 8 cilindro é de 18, 367, 254.
 85-Para que servem os fusíveis?
 Os fusíveis servem para evitar que as instalações elétricas se queimem em caso de curto-circuito, geralmente estão montados numa caixa e há um fusível para cada curto-circuito.
 86-De que se compõe um travão hidráulico?
-Pedal de travão, bomba central, tubagem da condução do óleo as rodas,  cilindros e maxilas.
+Pedal de travão, bomba central, tubagem da condução do óleo as rodas, cilindros e maxilas.
 87-De que se compõe um travão mecânico?
 Um travão mecânico, esta composto por pedal de travão, tirantes que aciona numas alavancas, excêntricos e maxilas.
 88-De que se compõe um travão de ar comprimido?

@@ -114,7 +114,7 @@ Velocidade, é o percurso feito por um móvel numa unidade de tempo.
 A velocidade classifica-se em velocidade instantânea, velocidade média e velocidade excessiva.
 
 56-O que entendes por velocidade excessiva?
-Velocidade excessiva, é uma velocidade em que o condutor não consegue parar num espaço livre e visível a sua frente.
+Velocidade excessiva, é uma velocidade em que o condutor não consegue parar num espaço livre e visível a sua frente,  ou quando o condutor ultrapassar os limites das velocidades imposto pela sinalização.
 
 57-O que entendes por visibilidade reduzida?
 Visibilidade reduzida, é sempre que o condutor não consegue avistar a faixa de rodagem em toda a sua largura, numa extensão de 50 metros.
@@ -183,11 +183,11 @@ Podemos transitar pela esquerda quando vamos efetuar uma ultrapassagem ou mudan�
 85-Para que lado deve ser contornado as placas ou obstáculos que encontramos no eixo da via?
 Devem ser contornados sempre pelo lado direito desde que não haja sinalização em contrário.
 86-O que entendes por marcha trás?
-Marcha trás é a manobra que se faz circulando de frente para trás.
+Marcha trás é a manobra que se faz circulando de frente para trás, ou seja, permite ao condutor dirigir em sentido oposto da marcha normal.
 87-Como é feita marcha trás?
 Marcha trás é feita lentamente num menor trajeto possível.
 88-Como se classifica marcha trás?
-A marcha trás classifica-se em, manobras de recurso, manobra auxiliar de recurso quando, numa passagem estreita um deles tem que recuar para facilitar o outro.
+A marcha trás classifica-se em manobras de recurso, manobra auxiliar de recurso quando, numa passagem estreita um deles tem que recuar para facilitar o outro.
 89-Onde é proibido fazer marcha trás?
 É proibido fazer marcha trás, nas curvas, cruzamento e entroncamentos, pontes, túneis, lombas e em todo locais de má visibilidade.
 90-Qual é a diferença entre marcha trás e a retaguarda?
@@ -347,8 +347,8 @@ Tacógrafo, serve para registrar o tempo de repouso do condutor ou também indic
 2001-Com a carta de pesado de mercadoria que veículo posso conduzir?
 Com a carta de pesado de mercadoria posso conduzir todos os automóveis pesados com exceção aos pesados de passageiros e motociclo.
 2002-Qual a diferença entre paragem e estacionamento?
-A diferença entre paragem e estacionamento é que paragem consiste em uma simples imobilização para lagar e receber passageiro ou mercadoria, e o condutor deve estar pronto para retornar a marcha.
-Estacionamento, é uma simples imobilização que não consiste em parar.
+A diferença entre paragem e estacionamento é que paragem consiste em uma simples imobilização em menor tempo possível, para lagar e receber passageiro ou mercadoria, e o condutor deve estar pronto para retornar a marcha.
+Já o estacionamento, é uma simples imobilização que não consiste em parar.
 
 2003-O que é inversão de marcha!?
 Inversão de marcha, é a manobra que consiste em colocar o veículo no sentido oposto da marcha em que seguia.
@@ -439,13 +439,11 @@ A linha contínua dupla ou linha adjacente, indica ao condutor para transitar se
 2049-O que entendes por via de trânsito!?
 Via de trânsito, é zona longitudinal da faixa de rodagem ou parte da via destinada à circulação de uma única fila de veículos.
 2050-O que entendes por bermas!?
-Bermas, é a parte de via publica, não destinada a trânsito de veículos, e que ladeia a via pública.
+Bermas, é a parte de via publica, não destinada a trânsito de veículos, e que ladeia a faixa de rodagem.
 2051-Qual é a diferença entre vias de aceleração e vias de abrandamento!?
 A diferença existente entre vias de aceleração e vias de abrandamento, é que vias de aceleração permite entrada a uma autoestrada, enquanto que via de abrandamento permite saída de uma autoestrada.
 2052-Por onde devem circular automóvel de mercadorias e veículos longos nas autoestradas!?
 Nas autoestradas, tanto os automóveis de mercadoria quanto os automóveis cujo cumprimento é superior a 7 metros só podem circular nas duas primeiras vias mais a direita.
-
-
 //Novas perguntas extraídas na aula do dia 13-02-2023
 2053-Quantos tipos de lombas existem!?
 Existe dois tipos de lombas, lombas natural e lombas materializadas.
@@ -498,6 +496,42 @@ Sistema ABS, significa sistemas de travagem anti bloqueio, ela é usada para gar
 É considerado segurança passiva, todos o que tem objetivo de minimizar os danos e proteger no caso de um acidente.
 2076-Quais são os elementos de segurança passiva?
 Os elementos de segurança passivas são, cinto de segurança, airbag, capacete, e encosto de cabeça.
+2077-O que entendes por acidente?
+Acidente, são acontecimento indesejado que acontece nas vias pública, podem ser provocados ou causados.
+2078-Será que o álcool afeta todo mundo da mesma forma?
+Não, o álcool não afeta todos da mesma forma, depende da idade, sexo, peso ou estado físico do indivíduo.
+2079-O que entendes por semirreboque?
+Semirreboque, é um tipo de reboque cuja parte da frente assenta sobre o veículo a motor, distribuindo o peso sobre este.
+2079-Qual a diferença entre reboque e semirreboque?
+A diferença entre reboque e semirreboque, é que reboque é um veículo não automóvel, destinado a atrelar um veículo automóvel, já o semirreboque, é um tipo de reboque em que a sua parte de frente assenta sobre o veículo a motor distribuído seu peso sobre este.
+2078-O que entendes por contraordenação?
+Contraordenação, são todas as violações dos códigos da estrada.
+2079-Quando a taxa do álcool no sangue pode ser considerada de crime?
+A taxa de álcool no sangue é considerada de crime, quando o seu valor ultrapassa aos 0,5g por litro de sangue.
+2080-O que entendes por tempo do repouso do condutor?
+Tempo do repouso de condutor, é o tempo de acordo com o percurso o condutor deve parar para repousar, esse tempo deve ser de 2 á 2 horas.
+2081-O que entendes por localidade?
+Localidade, são vias pública marginada por edificação.
+2082-O que entendes por zona de coexistência?
+Zona de coexistência, são vias dentro da localidade, onde se realiza atividades desportivas.
+2081-O que são veículos não automóveis?
+Veículos não automóveis, são veículos não possui motor, ou se possui, a sua cilindrada é inferior a 50 cm3
+2082-Qual é a velocidade máxima para os veículos na zona de coexistências?
+A velocidade máxima para todos os veículos na zona de coexistências é de 20 km/h.
+
+2083-Qual a velocidade máxima para os motociclos?
+A velocidade máxima para motociclo simples de cilindrada superior a 50 cm3 dentro da localidade é de 50 km/h, na autoestrada é de 120 km/h, nas vias equiparadas é de 100 km/h e de 90 km/h fora das localidades. Para motociclo com carro lateral, dentro da localidade é de 50km/h, na autoestrada é de 100 km/h, nas vias equiparadas é de 80 km/h e de 70 km/h fora das localidades. Para motociclo de cilindrada não superior a 50 cm3 dentro da localidade é de 40 km/h e 60 km/h fora das localidades.
+Para triciclo dentro da localidade, a velocidade máxima é de 50km/h e 80 km/h fora de localidade, na autoestrada é de 100 km/h e de 90 km/h nas vias equiparadas.
+
+
+
+
+
+
+
+
+
+
 
 
 
