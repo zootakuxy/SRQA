@@ -129,7 +129,7 @@ O dínamo, é um gerador de corrente contínua.
 48-Para que serve dínamo?
 O dínamo, serve para fornecer corrente para carregar a bateria.
 49-De que se compõe um dínamo?
-Um dínamo esta composto por corpo induzido, indutor, coletor e escova de carvão.
+Um dínamo está composto por corpo induzido, indutor, coletor e escova de carvão.
 50 -Para que serve um motor de arranque?
 Um motor de arranque, serve para pôr o motor em funcionamento na sua fase inicial de trabalho.
 51-De que se compõe o motor de arranque?
@@ -222,7 +222,7 @@ Os fusíveis servem para evitar que as instalações elétricas se queimem em ca
 86-De que se compõe um travão hidráulico?
 Pedal de travão, bomba central, tubagem da condução do óleo as rodas, cilindros e maxilas.
 87-De que se compõe um travão mecânico?
-Um travão mecânico, esta composto por pedal de travão, tirantes que aciona numas alavancas, excêntricos e maxilas.
+Um travão mecânico, está composto por pedal de travão, tirantes que aciona numas alavancas, excêntricos e maxilas.
 88-De que se compõe um travão de ar comprimido?
 Um travão de ar comprimido, esta composto por um compreensor de ar que aspira o ar da atmosfera e envia para uma botija, pedal de travão, tirante que acionam um dispositivo de válvulas que dá passagem ao ar das botijas, tirantes que acionam as alavancas, excêntricos e maxilas.
 89-Que espécie de óleo se usa para um motor?
@@ -232,14 +232,14 @@ Antes de iniciar uma viagem o condutor deve verificar: a pressão do ar dos pneu
 91-Se o condutor conduz por muito tempo com o pé em cima do pedal de embreagem, o que pode acontecer?
 Obriga o disco de embreagem a fazer muito esforço, podendo assim queimar tanto o disco como os rolamentos ou carvão.
 92-Quais são os órgãos móveis de motor?
-Embolo, biela, pistom, cambota, volante.
+Os órgão móveis de motor são, embolo, biela, pistão, cambota, volante.
 
 93-Quais são os órgãos fixos de motor?
 O órgão fixo do motor são, tampa de culatra, culatra, junta de culatra, bloco de cilindro e cárter.
 94-Onde engatam os semieixos?
 Os semieixos engatam-se da seguinte forma, uma ponta nos cubos das rodas, e outras ponta nos planetários.
 95-Para que serve o martelo balanceiro?
-O martelo balanceiro, serve para bater em cima das válvulas fazendo abrir e fechar as mesmas com o funcionamento de subir e descer dos êmbolos. Isso permitir a entrada da mistura gasosa no motor de explosão e no motor diesel permitir a entrada de ar no cilindro.
+O martelo balanceiro, serve para bater em cima das válvulas fazendo abrir e fechar as mesmas com o funcionamento de subir e descer dos êmbolos. Isso permiti a entrada da mistura gasosa no motor de explosão e no motor diesel permiti a entrada de ar no cilindro.
 96-Quantos tipos de arrefecimentos por água conheces?
 Conheço dois tipos de arrefecimentos por água, que são, por bomba e por termo sifão.
 97-De que se compõe cubos das rodas diretrizes?

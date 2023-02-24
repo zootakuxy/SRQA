@@ -211,7 +211,7 @@ Nos cruzamentos e entroncamento, tem direito de passar em primeiro lugar todos a
 99-Em que caso os veículos perdem prioridade mesmo que se apresentam pela direita!?
 Quando depara com sinal de aproximação de estrada com prioridade, paragem obrigatória, a luz vermelha do sinal semáforos, quando o agente regulador do trânsito manda parar, ou quando pela esquerda apresentar veículos em missão de socorro ou emergência com a marcha devidamente assinalada, tais como ambulância, bombeiro, carro de polícia ou qualquer veículo que vá transportar doente ou feridos, ou também quando deparo com colunas militares ou militarizadas.
 100-Nos cruzamentos e entroncamentos em que caso o veículo tem prioridade mesmo apresentando pelo lado esquerdo!?
-Quando depara com sinal de via com prioridade, aproximação de estrada sem prioridade, perante luz verde de sinal luminoso, quando o agente regulador de trânsito manda avançar, quando ainda o condutor transporta doentes ou feridos com marcha devidamente assinalada, ou quando pela direita apresentam veículos não automóveis tais como, velocípedes, veículo de tração animal, carros de mão e condutor de animais.
+Quando depara com sinal de via com prioridade, aproximação de estrada sem prioridade, perante luz verde de sinal luminoso, quando o agente regulador de trânsito manda avançar, quando ainda o condutor transporta doentes ou feridos com marcha devidamente assinalada, ou quando pela direita apresentam veículos não automóveis tais como, veículo de tração animal, carros de mão e condutor de animais.
 101-Quais são os documentos que nos habilitam conduzir?
 Os documentos que nos habilitam de conduzir são, carta de condução ou licença de condução.
 102- Quais são os documentos que devemos ter quando circulamos com os veículos automóveis na via pública?
@@ -471,9 +471,9 @@ Lombas Redutoras de Velocidades ou lomba materializada, são secção elevada da
 2064-Quais são os sinais que os veículos nos dão quando tem problema com embreagem!?
 O condutor deve saber tem problema com embreagem, através do cheiro queimado ou também quando a velocidade do veículo não corresponder o barrulho emitido pelo motor.
 2065-Quando um veículo sede passagem para um navio!?
-Um veículo sede passagem para um navio, perante uma ponte movel suspensa.
+Um veículo sede passagem para um navio, perante uma ponte móvel suspensa.
 2066-Em que caso os veículos prioritários devem parar?
-Os veículos prioritários nem sempre têm de respeitar as regras de trânsito e os sinais. No entanto não devem ser elementos de perigo na circulação. Devem parar nos STOP, Vermelho, ordens de agentes de autoridade e ceder a passagem a outros veículos que lá circulem à entrada da autoestrada.
+Os veículos prioritários nem sempre têm de respeitar as regras de trânsito e os sinais. No entanto não devem ser elementos de perigo na circulação. Devem parar nos STOP, perante o luz vermelho do semáforo, ordens de agentes de autoridade e ceder a passagem a outros veículos que lá circulem à entrada da autoestrada.
 2067-Quando um trator agrícola ou máquina industrial pode ser considerado de automóveis ligeiros?
 Uma máquina industrial ou trator agrícola pode ser considerada um veículo ligeiro se a sua tara não exceder os 3500 kg.
 2068-Qual a velocidade mínima que um automóvel deve atingir para ter direito a circular na autoestrada?
@@ -523,7 +523,7 @@ A velocidade máxima para todos os veículos na zona de coexistências é de 20 
 A velocidade máxima para motociclo simples de cilindrada superior a 50 cm3 dentro da localidade é de 50 km/h, na autoestrada é de 120 km/h, nas vias equiparadas é de 100 km/h e de 90 km/h fora das localidades. Para motociclo com carro lateral, dentro da localidade é de 50km/h, na autoestrada é de 100 km/h, nas vias equiparadas é de 80 km/h e de 70 km/h fora das localidades. Para motociclo de cilindrada não superior a 50 cm3 dentro da localidade é de 40 km/h e 60 km/h fora das localidades.
 Para triciclo dentro da localidade, a velocidade máxima é de 50km/h e 80 km/h fora de localidade, na autoestrada é de 100 km/h e de 90 km/h nas vias equiparadas.
 2084-Quando devemos efetuar alternância de luz máxima para luz mínima?
-As situações em que devemos efetuar alternância da luz de máximo para mínimo, é quando cruzamos com pessoas, animais ou veículo, quando circulamos a menos de 100 metros do veículo precedente, ou ainda nas curvas, cruzamento ou entroncamento.
+As situações em que devemos efetuar alternância da luz de máximo para mínimo, é quando cruzamos com pessoas, animais ou veículo, ao efetuar uma ultrapassagem, quando circulamos a menos de 100 metros do veículo precedente, ou ainda nas curvas, cruzamento ou entroncamento.
 2085-Quando devemos utilizar as luzes de mínimo ou presença?
 A luz de presença deve ser utilizada sempre que o veículo esteja imobilizado total ou parcialmente dentro da faixa de rodagem.
 2086-Quando devemos utilizar os indicadores de direção?
@@ -531,7 +531,7 @@ As luzes indicadoras de direção, deve ser usada sempre que se pretende efetuar
 2087-Em que momento é acionada as luzes de presença?
 As luzes de presença, são automaticamente acionadas, quando acionamos qualquer luz de frente com exceção dos indicadores de direção.
 2088-O que nos indica a luz de perigo?
-A luz de perigo (quatro piscas acionados em simultâneo), indica que o veículo constitui perigo para o restante de transito. Deve ser utilizado no caso de uma marcha lenta, missão de socorro ou emergência ou avarias.
+A luz de perigo, (quatro piscas acionados em simultâneo), indica que o veículo constitui perigo para o restante de trânsito. Deve ser utilizado no caso de uma marcha lenta, missão de socorro ou emergência ou avarias.
 2089-O que entendes por infração?
 Infração, são todas as ilicitudes cometidas no código de estrada.
 2090-Quais são os elementos responsável pelas infrações?
