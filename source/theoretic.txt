@@ -127,13 +127,13 @@ Os fusíveis, servem para evitar que a instalação elétrica se queime em caso 
 60-Qual é o tipo de lubrificante que se usa para diferencial e caixa de velocidade?
 O lubrificante usado para diferencial e caixa de velocidade é valvulina, ou seja, óleo 90 ou 140.
 61-Que instrumentos indicadores conhecem!?
-Os instrumentos indicadores são: Liquídometro, Amperímetro, Termómetro, manómetro de óleo, velocímetro, e conta rotação.
-Liquidómetro, serve para indicar nível de combustível existente no depósito.
-Termómetro, serve para indicar a temperatura do motor.
-Amperímetro, serve para indicar carga ou descarga na a bateria feita pelo o dínamo.
-Manómetro de óleo, serve para indicar a pressão que a bomba de óleo está a enviar a todos os pontos a lubrificar dentro motor. Nos carros de travão de ar comprimido existe um manómetro de ar, que serve para indicar a pressão de ar existente na botija.
-Velocímetro, serve para indicar a velocidade instantânea.
-Conta rotação, que indica a rotação do motor por minuto.
+Conheço seis instrumentos indicadores que são, liquídometro, termómetro, amperímetro, manómetro de óleo, velocímetro, e conta rotação.
+O liquidómetro, serve para indicar nível de combustível existente no depósito.
+O termómetro, serve para indicar a temperatura do motor.
+O amperímetro, serve para indicar carga ou descarga na a bateria feita pelo o dínamo.
+O manómetro de óleo, serve para indicar a pressão que a bomba de óleo está a enviar a todos os pontos a lubrificar dentro motor. Nos carros de travão de ar comprimido existe um manómetro de ar, que serve para indicar a pressão de ar existente na botija.
+O velocímetro, serve para indicar a velocidade instantânea.
+O conta rotação, que indica a rotação do motor por minuto.
 62- Para que serve o liquidómetro?
 Liquidómetro, serve para indicar nível de combustível existente no depósito.
 63- Para que serve o amperímetro?
@@ -189,11 +189,11 @@ Marcha trás é feita lentamente num menor trajeto possível.
 88-Como se classifica marcha trás?
 A marcha trás classifica-se em manobras de recurso, manobra auxiliar de recurso quando, numa passagem estreita um deles tem que recuar para facilitar o outro.
 89-Onde é proibido fazer marcha trás?
-É proibido fazer marcha trás, nas curvas, cruzamento e entroncamentos, pontes, túneis, lombas e em todo locais de má visibilidade.
+É proibido fazer marcha trás, nas curvas, cruzamento e entroncamentos, pontes, túneis, lombas, autoestrada e em todo locais de má visibilidade.
 90-Qual é a diferença entre marcha trás e a retaguarda?
 A diferença entre marcha trás e retaguarda, é que marcha trás é nome de manobra enquanto a retaguarda é nome de mudança.
 91-Qual é a distância que deves manter entre si e o veículo que circula a sua frente?
-Devo manter uma distância que me permite parar sem o perigo de embater no veículo que circula a minha frente, se o mesmo travar de repente.
+Devo manter uma distância que me permite parar em segurança, sem o perigo de embater no veículo que circula a minha frente, se o mesmo travar de repente.
 92-O que entendes por manobras perigosas?
 Manobras perigosas, são todas aquelas que podem causar perigo tanto ao condutor, como para restante dos utentes da via pública.
 93-O que entendes por ultrapassagem?
@@ -376,7 +376,7 @@ Na hierarquia dos sinais do trânsito encontramos.
 2011-Qual é a velocidade máxima para os automóveis pesado de passageiro nas autoestradas?
 A velocidade máxima para automóveis pesado de passageiro nas autoestradas é de 90 km por hora.
 2012-Em que caso o condutor deve reduzir a velocidade!?
-A velocidade deve ser especialmente reduzida dentro das localidades junto das escolas, jardins, creches, hospitais, onde existe aglomeração de pessoas, e todos os locais de má visibilidade, tais como, cruzamento, entroncamento, pontes túneis e lombas.
+A velocidade deve ser especialmente reduzida dentro das localidades junto das escolas, jardins, creches, hospitais, onde existe aglomeração de pessoas, e todos os locais de má visibilidade, tais como, curvas, cruzamento ou entroncamento, pontes túneis e lombas.
 2013-O que nos diz o sinal de via com prioridade?
 O sinal de via com prioridade diz ao condutor, que ele goza de prioridade em todos os sucessivos cruzamento e entroncamento, até encontrar o sinal de fim de via com prioridade.
 
@@ -393,7 +393,7 @@ Velocidade instantânea, é a variação da velocidade durante o percurso, ou se
 2019-O que entendes por velocidade média!?
 Velocidade média, é o percurso feito a dividir pelo tempo gasto.
 2020-O que entendes por rotunda!?
-Rotundas, são placas formadas por cruzamento ou entroncamento por onde o trânsito se processa no sentido giratório.
+Rotundas, são praças formadas por cruzamento ou entroncamento por onde o trânsito se processa no sentido giratório.
 2021-Em que circunstância deve o condutor utilizar os sinais gestuais?
 Devem ser utilizados quando o veículo tiver problema nos indicadores de direção e são feitos com o braço do próprio condutor.
 2022-Qual é a velocidade máxima e mínima nas autoestradas?
@@ -423,7 +423,7 @@ Visão periférica, é a propriedade da visão de perceber o que está fora do f
 2032-Porque motivo o sinal STOP possuí aquele formato distinto?
 O formato do sinal de STOP é para torna-lo facilmente conhecido.
 2033-Qual a diferença entre o sinal de sentido proibido e trânsito proibido?
-A diferença entre o sentido proibido e trânsito proibido, é que, sentido proibido permitimos circular no sentido oposto ao sinal, enquanto que trânsito proibido indica a proibição em qualquer sentido naquela via.
+A diferença entre o sentido proibido e trânsito proibido, é que, sentido proibido permitimos circular no sentido oposto ao sinal, enquanto que trânsito proibido indica a proibição de trânsito em qualquer sentido naquela via.
 2034-Quais os sinais não são temporais mesmo com fundo amarelo?
 Os sinais não temporais mesmo com fundo amarelo são o sinal de via com prioridade e fim de via com prioridade.
 2035-O que entendes pro um corredor de circulação!!?
@@ -500,12 +500,6 @@ Os elementos de segurança passivas são, cinto de segurança, airbag, capacete,
 Acidente, são acontecimento indesejado que acontece nas vias pública, podem ser provocados ou causados.
 2078-Será que o álcool afeta todo mundo da mesma forma?
 Não, o álcool não afeta todos da mesma forma, depende da idade, sexo, peso ou estado físico do indivíduo.
-2079-O que entendes por semirreboque?
-Semirreboque, é um tipo de reboque cuja parte da frente assenta sobre o veículo a motor, distribuindo o peso sobre este.
-2079-Qual a diferença entre reboque e semirreboque?
-A diferença entre reboque e semirreboque, é que reboque é um veículo não automóvel, destinado a atrelar um veículo automóvel, já o semirreboque, é um tipo de reboque em que a sua parte de frente assenta sobre o veículo a motor distribuído seu peso sobre este.
-2078-O que entendes por contraordenação?
-Contraordenação, são todas as violações dos códigos da estrada.
 2079-Quando a taxa do álcool no sangue pode ser considerada de crime?
 A taxa de álcool no sangue é considerada de crime, quando o seu valor ultrapassa aos 0,5g por litro de sangue.
 2080-O que entendes por tempo do repouso do condutor?
@@ -538,6 +532,15 @@ Infração, são todas as ilicitudes cometidas no código de estrada.
 Os elementos responsáveis pelas infrações são, o condutor, que é considerado o maior responsável por maior pelas infrações, os peões, e os passageiros, quando estes não utilizam cinto de segurança ou desce do veículo pelo lado que não é permitido.
 2091-Qual a diferença entre elementos de segurança passivas e ativas?
 A diferença existente entre os elementos de segurança passivas e ativas, é que elementos de segurança ativas, são todos queles que tem como objetivo de evitar o acidente, tais como, pneus, travões, sistema ABS, suspensão, direção, espelho retrovisores, e pala anti encandeamento. Enquanto que elementos de segurança passivas, são todos aqueles que tem como objetivo minimizar os danos e proteger no caso de um acidente, tais como, cinto de segurança, airbag, capacete, e encosto de cabeça.
+2092-Qual a diferença entre reboque e semirreboque?
+A diferença entre reboque e semirreboque, é que reboque é um veículo não automóvel, destinado a atrelar um veículo automóvel, já o semirreboque, é um tipo de reboque em que a sua parte de frente assenta sobre o veículo a motor distribuído seu peso sobre este.
+2093-O que entendes por semirreboque?
+Semirreboque, é um tipo de reboque cuja parte da frente assenta sobre o veículo a motor, distribuindo o peso sobre este.
+2094-O que entendes por contraordenação?
+Contraordenação, são todas as violações dos códigos da estrada.
+
+
+
 
 
 

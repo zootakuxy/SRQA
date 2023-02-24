@@ -143,11 +143,11 @@ O sistema de transmissão é composto por: embreagem, caixa de velocidade, veio 
 54-Para que serve a embreagem?
 A embreagem, serve para ligar e desligar o motor aos órgãos de transmissão
 55- De que se compõe uma embreagem?
-Uma embreagem, esta composta por um prato com mola, um disco metálico forrado em ambos os lados, rolamento ou carvão, garfo ou forquilha.
+Uma embreagem, está composta por um prato com mola, um disco metálico forrado em ambos os lados, rolamento ou carvão, garfo ou forquilha.
 56-Para que serve caixa de velocidade?
 A caixa de velocidade, serve para variar a velocidade consoante a rotação do motor.
 57-De que se compõe uma caixa de velocidade?
-A caixa de velocidade esta composta por, veio primário, veio secundário e um intermediário, tantos carretos como de velocidade que se compõe a mesma, um carreto para marcha trás, rolamentos, casquilhos, roletes, e por vezes sincronizador.
+A caixa de velocidade está composta por, veio primário, veio secundário e um intermediário, tantos carretos como de velocidade que se compõe a mesma, um carreto para marcha trás, rolamentos, casquilhos, roletes, e por vezes sincronizador.
 58-Para que serve o diferencial?
 Diferencial, serve para transformar o movimento retilíneo em movimento transversal e permitir que a roda de fora nas curvas dê mais volta que as de dentro, evitando desgaste e derrapagem de pneus.
 59- De que se compõe um diferencial?
@@ -155,7 +155,7 @@ Um diferencial está composto por pinhão de ataque, roda de coroa, duas meia co
 60-Para que serve o veio de transmissão?
 O veio de transmissão, serve para transmitir o movimento da caixa de velocidade ao diferencial.
 61-De que se compõe o veio de transmissão?
-O veio de transmissão está composto por compõe-se de veio propriamente dito, juntas elástica e cardans ou cruzeta.
+O veio de transmissão está composto por veio propriamente dito, juntas elástica e cardans ou cruzeta.
 62-Para que serve a junta elástica?
 Serve para aumentar e diminuir o veio de comprimento conforme a regulação do terreno.
 63-Para que serve os cardans?
@@ -163,7 +163,7 @@ Serve para evitar que o veio de transmissão torça ou parta.
 64-Para que servem as válvulas?
 As válvulas servem para fazer os tempos de motor.
 65-De que se compõe uma válvula?
-Compõe-se de cabeça e haste.
+Uma válvula, está composta de cabeça e haste.
 66-Para que servem os pistões?
 Os pistões servem para transformar a energia calorífica em energia mecânica.
 67-Em quantas partes se divide um pistão?
@@ -224,7 +224,7 @@ Pedal de travão, bomba central, tubagem da condução do óleo as rodas, cilind
 87-De que se compõe um travão mecânico?
 Um travão mecânico, está composto por pedal de travão, tirantes que aciona numas alavancas, excêntricos e maxilas.
 88-De que se compõe um travão de ar comprimido?
-Um travão de ar comprimido, esta composto por um compreensor de ar que aspira o ar da atmosfera e envia para uma botija, pedal de travão, tirante que acionam um dispositivo de válvulas que dá passagem ao ar das botijas, tirantes que acionam as alavancas, excêntricos e maxilas.
+Um travão de ar comprimido, está composto por um compreensor de ar que aspira o ar da atmosfera e envia para uma botija, pedal de travão, tirante que acionam um dispositivo de válvulas que dá passagem ao ar das botijas, tirantes que acionam as alavancas, excêntricos e maxilas.
 89-Que espécie de óleo se usa para um motor?
 Para um motor nós utilizamos óleo 40.
 90-Quais são os cuidados que um condutor deve ter antes de iniciar uma viagem?
