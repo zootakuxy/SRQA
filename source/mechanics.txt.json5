@@ -562,7 +562,7 @@
   {
     important: 0,
     question: 'De que se compõe uma embreagem?',
-    answer: 'Uma embreagem, esta composta por um prato com mola, um disco metálico forrado em ambos os lados, rolamento ou carvão, garfo ou forquilha.',
+    answer: 'Uma embreagem, está composta por um prato com mola, um disco metálico forrado em ambos os lados, rolamento ou carvão, garfo ou forquilha.',
     number: 55,
     type: 'mechanics',
     change: false,
@@ -582,7 +582,7 @@
   {
     important: 0,
     question: 'De que se compõe uma caixa de velocidade?',
-    answer: 'A caixa de velocidade esta composta por, veio primário, veio secundário e um intermediário, tantos carretos como de velocidade que se compõe a mesma, um carreto para marcha trás, rolamentos, casquilhos, roletes, e por vezes sincronizador.',
+    answer: 'A caixa de velocidade está composta por, veio primário, veio secundário e um intermediário, tantos carretos como de velocidade que se compõe a mesma, um carreto para marcha trás, rolamentos, casquilhos, roletes, e por vezes sincronizador.',
     number: 57,
     type: 'mechanics',
     change: false,
@@ -622,7 +622,7 @@
   {
     important: 0,
     question: 'De que se compõe o veio de transmissão?',
-    answer: 'O veio de transmissão está composto por compõe-se de veio propriamente dito, juntas elástica e cardans ou cruzeta.',
+    answer: 'O veio de transmissão está composto por veio propriamente dito, juntas elástica e cardans ou cruzeta.',
     number: 61,
     type: 'mechanics',
     change: false,
@@ -662,7 +662,7 @@
   {
     important: 0,
     question: 'De que se compõe uma válvula?',
-    answer: 'Compõe-se de cabeça e haste.',
+    answer: 'Uma válvula, está composta de cabeça e haste.',
     number: 65,
     type: 'mechanics',
     change: false,
@@ -892,7 +892,7 @@
   {
     important: 0,
     question: 'De que se compõe um travão de ar comprimido?',
-    answer: 'Um travão de ar comprimido, esta composto por um compreensor de ar que aspira o ar da atmosfera e envia para uma botija, pedal de travão, tirante que acionam um dispositivo de válvulas que dá passagem ao ar das botijas, tirantes que acionam as alavancas, excêntricos e maxilas.',
+    answer: 'Um travão de ar comprimido, está composto por um compreensor de ar que aspira o ar da atmosfera e envia para uma botija, pedal de travão, tirante que acionam um dispositivo de válvulas que dá passagem ao ar das botijas, tirantes que acionam as alavancas, excêntricos e maxilas.',
     number: 88,
     type: 'mechanics',
     change: false,

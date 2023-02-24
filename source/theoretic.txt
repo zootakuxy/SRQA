@@ -508,8 +508,6 @@ Tempo do repouso de condutor, é o tempo de acordo com o percurso o condutor dev
 Localidade, são vias pública marginada por edificação.
 2082-O que entendes por zona de coexistência?
 Zona de coexistência, são vias dentro da localidade, onde se realiza atividades desportivas.
-2081-O que são veículos não automóveis?
-Veículos não automóveis, são veículos não possui motor, ou se possui, a sua cilindrada é inferior a 50 cm3
 2082-Qual é a velocidade máxima para os veículos na zona de coexistências?
 A velocidade máxima para todos os veículos na zona de coexistências é de 20 km/h.
 
@@ -538,6 +536,9 @@ A diferença entre reboque e semirreboque, é que reboque é um veículo não au
 Semirreboque, é um tipo de reboque cuja parte da frente assenta sobre o veículo a motor, distribuindo o peso sobre este.
 2094-O que entendes por contraordenação?
 Contraordenação, são todas as violações dos códigos da estrada.
+2095-O que são veículos não automóveis?
+Veículos não automóveis, são veículos não possui motor, ou se possui, a sua cilindrada é inferior a 50 cm3
+
 
 
 
