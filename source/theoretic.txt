@@ -114,7 +114,7 @@ Velocidade, é o percurso feito por um móvel numa unidade de tempo.
 A velocidade classifica-se em velocidade instantânea, velocidade média e velocidade excessiva.
 
 56-O que entendes por velocidade excessiva?
-Velocidade excessiva, é uma velocidade em que o condutor não consegue parar num espaço livre e visível a sua frente,  ou quando o condutor ultrapassar os limites das velocidades imposto pela sinalização.
+Velocidade excessiva, é uma velocidade em que o condutor não consegue parar num espaço livre e visível a sua frente, ou quando o condutor ultrapassar os limites das velocidades imposto pela sinalização.
 
 57-O que entendes por visibilidade reduzida?
 Visibilidade reduzida, é sempre que o condutor não consegue avistar a faixa de rodagem em toda a sua largura, numa extensão de 50 metros.
@@ -189,7 +189,7 @@ Marcha trás é feita lentamente num menor trajeto possível.
 88-Como se classifica marcha trás?
 A marcha trás classifica-se em manobras de recurso, manobra auxiliar de recurso quando, numa passagem estreita um deles tem que recuar para facilitar o outro.
 89-Onde é proibido fazer marcha trás?
-É proibido fazer marcha trás, nas curvas, cruzamento e entroncamentos, pontes, túneis, lombas, autoestrada e em todo locais de má visibilidade.
+É proibido fazer marcha trás, nas curvas, rotunda, cruzamento e entroncamentos, pontes, túneis, passagem de nível, lombas, autoestrada, em todo locais de má visibilidade, ou ainda quando se verifica grande intensidade do trânsito.
 90-Qual é a diferença entre marcha trás e a retaguarda?
 A diferença entre marcha trás e retaguarda, é que marcha trás é nome de manobra enquanto a retaguarda é nome de mudança.
 91-Qual é a distância que deves manter entre si e o veículo que circula a sua frente?
@@ -218,8 +218,8 @@ Os documentos que nos habilitam de conduzir são, carta de condução ou licenç
 Para circular com os veículos na via publica, precisamos ter bilhete de identidade, carta de condução, livrete de veículo, registo de propriedade, imposto de circulação e apólice de seguro se tiver.
 103-Onde é proibido parar e estacionar?
 É proibido parar e estacionar, dentro das localidades a menos que 5 metros, fora da localidade a menos que 50 metros das curvas, pontes, tuneis, cruzamento ou entroncamentos, passagem de nível, passadeira para piões, locais de má visibilidade, e onde encontrar sinal de proibição de parar ou estacionar.
-104-Quais são acessórios para um veículo automóvel?
-Os acessórios de um veículo automóvel são, espelho retrovisor, cinto de segurança, pala para o sol, limpa para-brisas, sinal de pré-sinalização de perigo, chave de roda, macaco de elevação, e pneu suplente.
+104-Quais são os acessórios para um veículo automóvel?
+Os acessórios de um veículo automóvel são, espelho retrovisor, cinto de segurança, pala para o sol, limpa para-brisas, sinal de pré-sinalização de perigo, chave de roda, macaco de elevação, pneu suplente e colete refletor.
 105-Quais são os acessórios para um motociclo?
 Os acessórios para um motociclo são, capacete, luvas, botas, óculos, joelheiras, e espelho retrovisor lateral.
 106-Qual é o limite de peso bruto sobre o solo?
@@ -537,8 +537,46 @@ Contraordenação, são todas as violações dos códigos da estrada.
 Veículos não automóveis, são veículos não possui motor, ou se possui, a sua cilindrada é inferior a 50 cm3.
 2096-Qual é a velocidade máxima para os veículos na zona de coexistências?
 A velocidade máxima para todos os veículos na zona de coexistências é de 20 km/h.
+2097-O que entendes por um ilhéu direcional?
+Ilhéu direcional, são zonas restrita da via pública, interdita á circulação de veículo e delimitada por lancil ou marcação apropriada, destinada a orientar o trânsito.
+2098-O que entendes por parque de estacionamento?
+Parque de estacionamento, são locais exclusivamente destinado ao estacionamento de veículo.
+2099-O que é uma pista especial?
+Uma pista especial, é uma via pública ou via de trânsito especialmente destinada, de acordo com sinalização, ao trânsito de peões, de animais ou de certa espécie de veículo.
+2100-Quais são os utilizadores vulneráveis que conheces?
+Os utilizadores vulneráveis que conheço são, peões e velocípedes, em particular, crianças, idosos, grávidas, pessoas com mobilidade reduzidas ou pessoas com deficiência.
+2101-Qual a diferença entre via de trânsito, corredor de circulação e pista especial?
+A diferença entre via de trânsito, corredor de circulação e pista especial, é que, via de trânsito, são zonas longitudinal da faixa de rodagem destinada à circulação de uma única fila de veículos.
+Já corredor de circulação, são vias de trânsito reservada a veículos de certa espécie ou afetos a determinados transportes.
+Enquanto que pista especial, são vias públicas ou vias de trânsito especialmente destinada, de acordo com sinalização, ao trânsito de peões, de animais ou de certa espécie de veículos.
+2102-O que é um triciclo?
+Triciclos, são veículos dotado de três rodas dispostas simetricamente, com motor de propulsão com cilindrada superior a 50 cm3, no caso de motor de combustão interna, ou que por construção, exceda em patamar a velocidade de 45 km/h.
+2103-Como se classifica os quadriciclos?
+Os quadriciclos, classificam em Quadriciclos ligeiros e Quadriciclos pesados.
+2104-O que é um quadriciclo ligeiro?
+Um quadriciclo ligeiro, são veículos de quatro roda, em que a sua velocidade por construção não exceda ao 45km/h, a sua massa sem a baterias para o caso dos elétricos não exceda aos 350kg e a sua cilindrada não exceda aos 50cm3.
+2105-O que é um quadriciclo pesado?
+Um quadriciclo pesado, são veículos de quatro rodas, com motor de potência não superior a 15kW e cuja massa sem carga, excluindo a massa das baterias para caso dos elétricos, não exceda a 400kg ou 550kg, destinado ao transporte de passageiro ou mercadorias.
+2106-O que é um dolly?
+Um dolly, é um dispositivo equipado com um sistema mecânico de engate destinado a converter um semirreboque num reboque.
+2107-Para que serve os painéis retro fletores?
+Painéis retro fletores, servem para assinalar os automóveis ou conjunto de veículos com peso bruto superior a 3500 Kg.
+2108-Como devem ser o relevo dos pneus?
+O relevo dos pneus para ligeiro é de 1.6mm e de 1mm para pesados e motociclos.
 
 
+2109-Quando que o extintor de incendio e obrigatório?
+O extintor de incendio, é obrigatório, nos automóveis pesado de passageiro e quando se transporta explosivos.
+2110-O que entendes por distancia de reação?
+Distância de reação, sé a distância percorrida durante o tempo de reação e depende da velocidade do veículo e do tempo de reação.
+2111-O que entendes por tempo de reação?
+Tempo de reação, é o tempo que decorre entre a perceção da informação e a ação muscular. Esse tempo varia de pessoa para pessoa, idade, doença, distração, fadiga, sonolência, stress, droga, medicamentos, álcool e experiência. Esse tempo nunca diminui, apenas pode aumentar devido aos fatores indicados acima.
+2112-Qual a diferença entre o tempo de reação e a distância de reação?
+A diferença existente entre o tempo de reação e a distância de reação, é que o tempo de reação, é o tempo decorrido entre o momento que o condutor vê o obstáculo e o instante em que começa ação muscular, ou seja o momento que o condutor começa a agir. Já a distância de reação, é a distância percorrida durante o tempo de reação, ou seja, a distancia entre instante da perceção do obstáculo até o instante de reação do condutor, onde essa distância dependendo da velocidade do veículo e do tempo de reação.
+2113-Quando a ultrapassagem é proibida?
+A manobra de ultrapassagem é proibida, nas lombas, locais com visibilidade insuficiente, imediatamente antes e na passagem de nível, imediatamente antes e nos cruzamentos e entroncamento, imediatamente antes e na passagem para peões, nas vias com largura insuficiente, ultrapassar o veículo que esteja a ultrapassar um terceiro quando apenas existe duas faixas de trânsito, perante a existência de linha continua ou linha adjacente.
+2114-Onde é proibido efetuar inversão do sentido de marcha?
+A inversão do sentido de marcha, é proibida, nas lombas, nas curvas, rotundas, cruzamento e entroncamento, nas ponte, túneis e passagem de nível, qualquer lugar com má visibilidade ou de características inapropriadas e sempre que se verificar grandes intensidades de trânsito.
 
 
 
