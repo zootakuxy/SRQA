@@ -119,7 +119,7 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                         });
                     }, "Q&E"(){
                         return new Promise( jobResolve => {
-                            let text = `<break time="1s"/>${_current.question}<break time="10s"/>\n${_current.answer}<break time="5s"/>`;
+                            let text = `<break time="2s"/>${_current.question}<break time="15s"/>\n${_current.answer}<break time="5s"/>`;
                             let audioFile = fdir.audioFileOf( _current, "Q&A" );
                             let rawFile = fdir.rawFileOf( _current, "Q&A" );
                             ttsManager.convert( source.configs.translate.language, voice, text, audioFile, `${workName} ... CREATED Q&E` ).then( rawQA => {

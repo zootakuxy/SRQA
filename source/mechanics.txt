@@ -133,13 +133,13 @@ Um dínamo está composto por corpo induzido, indutor, coletor e escova de carv�
 50 -Para que serve um motor de arranque?
 Um motor de arranque, serve para pôr o motor em funcionamento na sua fase inicial de trabalho.
 51-De que se compõe o motor de arranque?
-Corpo induzido, indutor, coletor, escova de cobre e uma união bendix.
+Um motor de arranque, está composta por corpo induzido, indutor, coletor, escova de cobre e uma união bendix.
  52-Para que serve a união bendix?
 Serve para rodar volante do motor.
 
 
 53-Quais são as peças que compõe o sistema de transmissão?
-O sistema de transmissão é composto por: embreagem, caixa de velocidade, veio de transmissão, e diferencial.
+O sistema de transmissão é composto por embreagem, caixa de velocidade, veio de transmissão, e diferencial.
 54-Para que serve a embreagem?
 A embreagem, serve para ligar e desligar o motor aos órgãos de transmissão
 55- De que se compõe uma embreagem?
@@ -231,8 +231,8 @@ Para um motor nós utilizamos óleo 40.
 Antes de iniciar uma viagem o condutor deve verificar: a pressão do ar dos pneus, água do radiador, o nível de óleo do motor, a quantidade de combustível no depósito, óleo dos travões, chave de roda, macaco de elevação, pneu suplente e o sinal de pré-sinalização de perigo.
 91-Se o condutor conduz por muito tempo com o pé em cima do pedal de embreagem, o que pode acontecer?
 Obriga o disco de embreagem a fazer muito esforço, podendo assim queimar tanto o disco como os rolamentos ou carvão.
-92-Quais são os órgãos móveis de motor?
-Os órgão móveis de motor são, embolo, biela, pistão, cambota, volante.
+92-Quais são os órgãos móveis de motor!?
+Os órgãos móveis de motor são, embolo, biela, pistão, cambota, volante.
 
 93-Quais são os órgãos fixos de motor?
 O órgão fixo do motor são, tampa de culatra, culatra, junta de culatra, bloco de cilindro e cárter.
@@ -263,7 +263,7 @@ Serve para regular a corrente do dínamo a bateria e evitar a que a bateria desc
 106- De que se compõe um Conjuntor/ Disjuntor ou Regulador de voltagem?
 Compõe-se por dois platinados, sendo um fixo e outro móvel, uma mola, um núcleo de ferro macio e dois enrolamentos de fio.
 107- Qual diferença entre o dínamo e o motor de arranque?
-A diferença é que o dínamo é gerador de corrente contínua para carregar a bateria, enquanto que o motor de arranque é um consumidor de corrente na fase inicial de trabalho, o dínamo possui enrolamento de fio mais finos que o motor de arranque; o dínamo possui escova de carvão e o motor de arranque possui escova de cobre e uma união de bendix.
+A diferença existente entre o dínamo e o motor de arranque, é que o dínamo é gerador de corrente contínua para carregar a bateria, enquanto que o motor de arranque é um consumidor de corrente na fase inicial de trabalho. O dínamo possui enrolamento de fio mais finos que o motor de arranque. o dínamo, possui também, escova de carvão, enquanto que o motor de arranque possui escova de cobre e uma união de bendix.
 108-Qual é a diferença entre o dínamo e o alternador?
 A diferença é que o dínamo carrega bateria quando o carro está em movimento, enquanto que o alternador carrega a bateria quando o carro estiver em relantim.
 109-Se o motor parar por si sem motivos justificados, como deve preceder o condutor?
@@ -280,8 +280,8 @@ Conheço dois tipos de cambota, que são, cambota com contrapeso e cambota sem c
 Conheço dois tipos de baterias que são, baterias secas e baterias líquidas.
 2004-Quais são os cuidados que devemos ter com a bateria?
 Os cuidados que devemos ter com as baterias são, manter o líquido acima da placa um centímetro, bornes bem limpos e cabos bem apertados.
-2005-Quais são as avarias da embraiagem?
-As avarias que podemos encontrar na embraiagem são, prato empenado, mola partida, disco metálico gasto, rolamento ou carvão queimado e garfo ou forquilha partida.
+2005-Quais são as avarias da embreagem?
+As avarias que podemos encontrar na embreagem são, prato empenado, mola partida, disco metálico gasto, rolamento ou carvão queimado e garfo ou forquilha partida.
 2006-Quais são as peças que fazem parte de sistema de lubrificação?
 As peças que fazem parte do sistema de lubrificação são, bomba de óleo, filtro de óleo e cárter.
 2007-Para que servem as mangas de eixo?
@@ -289,6 +289,8 @@ As mangas do eixo, servem para apoiar os cubos das rodas motrizes e geralmente e
 
 2008-O que sabes sobre empanques?
 Empanques, são peças mecânicas que têm por finalidade evitar derrames de fluido. Servem para vedar juntas das máquinas.
+2009-Diferencie os órgãos movéis do motor e as peças que compões o motor?
+Os órgãos moveis do motor são, embolo, biela, pistão, cambota e volante. Já as peças que compões o motor são, válvula, pistões, bielas, veio excêntrico, cambota, engrenagem de distribuição e bomba de óleo.
 
 
 
