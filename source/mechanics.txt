@@ -152,14 +152,16 @@ A caixa de velocidade está composta por, veio primário, veio secundário e um 
 Diferencial, serve para transformar o movimento retilíneo em movimento transversal e permitir que a roda de fora nas curvas dê mais volta que as de dentro, evitando desgaste e derrapagem de pneus.
 59- De que se compõe um diferencial?
 Um diferencial está composto por pinhão de ataque, roda de coroa, duas meia concha, cruzetas, dois planetários e dois ou quatro satélites.
+
+
 60-Para que serve o veio de transmissão?
 O veio de transmissão, serve para transmitir o movimento da caixa de velocidade ao diferencial.
 61-De que se compõe o veio de transmissão?
 O veio de transmissão está composto por veio propriamente dito, juntas elástica e cardans ou cruzeta.
 62-Para que serve a junta elástica?
-Serve para aumentar e diminuir o veio de comprimento conforme a regulação do terreno.
-63-Para que serve os cardans?
-Serve para evitar que o veio de transmissão torça ou parta.
+Junta elástica, serve para aumentar e diminuir o veio de comprimento conforme a regulação do terreno.
+63-Para que serve os cardans ou cruzetas?
+Cardans ou cruzetas, serve para evitar que o veio de transmissão torça ou parta.
 64-Para que servem as válvulas?
 As válvulas servem para fazer os tempos de motor.
 65-De que se compõe uma válvula?
@@ -257,11 +259,11 @@ O carreto condutor tem metades dos dentes de um carreto conduzido.
 103-De que se compõe a engrenagem de distribuição do motor?
 Compõe-se por dois carretos, um carreto que está preso a cambota e um conduzido que está ligado ao veio excêntrico.
 104-Para que serve o volante de motor?
-Serve para vencer os pontos mortos do motor. Em sua volta é encontrado o carreto cramalheira, que serve para receber o lançamento do motor de arranque por meio de carreto bendix.
+O volante de motor, serve para vencer os pontos mortos do motor. Em sua volta é encontrado o carreto cramalheira, que serve para receber o lançamento do motor de arranque por meio de carreto bendix.
 105-Para que serve um Conjuntor/ Disjuntor ou Regulador de voltagem?
-Serve para regular a corrente do dínamo a bateria e evitar a que a bateria descarregue sobre o dínamo.
+Um conjuntor/disjuntor ou regulador de voltagem, serve para regular a corrente do dínamo a bateria e evitar a que a bateria descarregue sobre o dínamo.
 106- De que se compõe um Conjuntor/ Disjuntor ou Regulador de voltagem?
-Compõe-se por dois platinados, sendo um fixo e outro móvel, uma mola, um núcleo de ferro macio e dois enrolamentos de fio.
+Um conjuntor/disjuntor ou regulador de voltagem, está composto por dois platinados, sendo um fixo e outro móvel, uma mola, um núcleo de ferro macio e dois enrolamentos de fio.
 107- Qual diferença entre o dínamo e o motor de arranque?
 A diferença existente entre o dínamo e o motor de arranque, é que o dínamo é gerador de corrente contínua para carregar a bateria, enquanto que o motor de arranque é um consumidor de corrente na fase inicial de trabalho. O dínamo possui enrolamento de fio mais finos que o motor de arranque. o dínamo, possui também, escova de carvão, enquanto que o motor de arranque possui escova de cobre e uma união de bendix.
 108-Qual é a diferença entre o dínamo e o alternador?
@@ -291,6 +293,14 @@ As mangas do eixo, servem para apoiar os cubos das rodas motrizes e geralmente e
 Empanques, são peças mecânicas que têm por finalidade evitar derrames de fluido. Servem para vedar juntas das máquinas.
 2009-Diferencie os órgãos movéis do motor e as peças que compões o motor?
 Os órgãos moveis do motor são, embolo, biela, pistão, cambota e volante. Já as peças que compões o motor são, válvula, pistões, bielas, veio excêntrico, cambota, engrenagem de distribuição e bomba de óleo.
+
+2010-Quais são os sistemas que compõem um veículo automóveis?
+Os sistemas que compõem um veículo automóvel são, sistema de inflamação, sistema de alimentação, sistema de injeção, sistema de arrefecimento ou refrigeração, sistema elétrico, sistema de transmissão, sistema de lubrificação, e sistema de inflamação.
+
+
+
+
+
 
 
 

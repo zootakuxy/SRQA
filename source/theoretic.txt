@@ -91,7 +91,7 @@ A linha descontínua indica ao condutor para transitar sempre a sua direita, só
 44-Para que serve a linha mista?
 A linha mista é junção da linha contínua mais a linha descontínua. Ela indica ao condutor, quer para efeito de qualquer manobra, o condutor deve pisar da linha descontínua para a linha contínua.
 45-Para que serve uma raia oblíquas?
-Raia oblíquas, serve para delimitar áreas perigosas existente dentro da faixa de rodagem.
+Raia oblíquas, serve para delimitar áreas perigosas existente dentro da faixa de rodagem. É uma linha que não deve ser pisada nem transposta.
 46-Para que serve a linha transversal contínua?
 Linha transversal contínua, serve para marcar a travessia de piões na zona protegida pelo sinal.
 47-Quais são as cores que assinalam a faixa de rodagem?
@@ -577,6 +577,25 @@ A diferença existente entre o tempo de reação e a distância de reação, é 
 A manobra de ultrapassagem é proibida, nas lombas, locais com visibilidade insuficiente, imediatamente antes e na passagem de nível, imediatamente antes e nos cruzamentos e entroncamento, imediatamente antes e na passagem para peões, nas vias com largura insuficiente, ultrapassar o veículo que esteja a ultrapassar um terceiro quando apenas existe duas faixas de trânsito, perante a existência de linha continua ou linha adjacente.
 2114-Onde é proibido efetuar inversão do sentido de marcha?
 A inversão do sentido de marcha, é proibida, nas lombas, nas curvas, rotundas, cruzamento e entroncamento, nas ponte, túneis e passagem de nível, qualquer lugar com má visibilidade ou de características inapropriadas e sempre que se verificar grandes intensidades de trânsito.
+2115-Qual a diferença entre o trânsito e vias públicas?
+A diferença entre o trânsito e via pública, é que trânsito consistem em circulação de pessoas, animais e veículos nas vias publicas. Já vias públicas, são todas as estradas, ruas e caminhos, onde circulam piões, animais e veículos que se fazem livremente com as prescrições resultantes do código de estrada e com algumas legislações complementares.
+2116-Quais são os tipos de paragem que conheces?
+Os tipos de paragens que conheço são, simples, forçadas e por motivo da própria circulação.
+2117-O que nos indica a linha Zig-Zag?
+A linha Zig-Zag nos indica que podemos parar, mas não podemos estacionar.
+2118-Para que serve a banda cromática?
+Indica ao condutor que deve moderar a velocidade.
+2119-Para que servem as Guias?
+As Guias, encontra-se junto as bermas e servem para delimitar a faixa de rodagem. Indica ao condutor que pode pisá-las, para retirar o seu veículo de faixa de rodagem em cado de avaria ou acidente.
+2120-Para que serve a caixa pintada nos cruzamentos e entroncamento?
+As caixas pintadas nos cruzamentos e entroncamento, indica-nos um cruzamento facilmente congestionável, informando ao condutor para não ficar imobilizado dentro do cruzamento.
+2121-Como procede o condutor para fazer uma mudança de direção a direita?
+Primeiramente verifica se o local é próprio, e se não há nenhuma sinalização que me proíba. Caso não, abro o sinal de pisca a direita e encosto o mais possível a direita. Ao chegar no cruzamento ou entroncamento atendo as regras de prioridade e realiza a manobra no menor trajeto possível.
+2122-Sera que a prioridade de passagem é um direito absoluto?
+Não, a prioridade de passagem não é um direito absoluto, existe algumas circunstâncias que podemos perder a prioridade mesmo estando com direito a ela.
+
+
+
 
 
 
