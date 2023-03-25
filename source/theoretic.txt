@@ -58,7 +58,7 @@ A luz verde, indica-nos passagem livre.
 A luz amarela constante, indica ao condutor se tiver tempo, deve parar com devida segurança antes de atingir a zona protegida pelo sinal, e se o condutor já estiver dentro da zona protegida pelo sinal deve seguir sem hesitação.
 
 30-Para que serve a luz amarela intermitente?
-A luz amarela intermitente, indica ao condutor para atender as regras de prioridade.
+A luz amarela intermitente, indica ao condutor para atender as regras de prioridade na ausência de qualquer outra sinalização.
 Ela só aparece quando o semáforo se encontra temporariamente suspenso, sendo assim alertando o condutor a necessidade de respeitar a regra de prioridade na ausência de qualquer outra sinalização.
 31-Quais são as luzes obrigatória num veículo automóvel?
 As luzes obrigatórias num veículo automóvel são, para frente luz máxima, média, mínima e indicadores de direção. Na retaguarda os mesmos indicadores de direção, luz de presença, luz de travagem e a luz de chapa matrícula que deve ser legível a 20 metros e visível a 150 metros.
@@ -71,7 +71,7 @@ A luz mínima e a luz de presença não projetam, mas é visível a 150 metros.
 35-A que distância projeta uma luz de retaguarda?
 A luz de retaguarda, projeta 10 metros para o solo.
 36-Como devem ser utilizadas as luzes nas estradas e nas cidades?
-Dentro das localidades bem iluminada, os médios. Os máximos nas localidades mal iluminadas e os médios quando se vai cruzar com outro veículo automóvel ou fazer ultrapassagem, nesse caso deve também utilizar os indicadores da direção.
+Dentro das localidades bem iluminada, os médios. Os máximos nas localidades mal iluminadas e os médios quando se vai cruzar com outro veículo automóvel, pessoas e animais ou fazer ultrapassagem, nesse caso deve também utilizar os indicadores da direção.
 37-Como é regulada a velocidade nas estradas e nas cidades?
 A velocidade nas estradas e nas cidades, é regulada olhando a característica do veículo, a intensidade do trânsito, as condições da via, a segurança do condutor e a visibilidade da mesma.
 38-Quais são os sinais verticais que tu conheces?
@@ -118,10 +118,10 @@ Velocidade excessiva, é uma velocidade em que o condutor não consegue parar nu
 
 57-O que entendes por visibilidade reduzida?
 Visibilidade reduzida, é sempre que o condutor não consegue avistar a faixa de rodagem em toda a sua largura, numa extensão de 50 metros.
-58-Qual a velocidade máxima para automóveis pesados?
-As velocidades máximas para automóveis de mercadoria cujo o peso não excede 10.000 kg, dentro de uma localidade é de 50 km/h, fora de localidade é de 70 km/h. Quando o seu peso excede 10.000 kg, dentro de uma localidade a velocidade máxima é de 50 km/h e de 60 km/h fora da localidade.
-Para automóveis pesados de passageiro dentro da localidade a velocidade máxima é de 50 km/h, fora da localidade a velocidade máxima é de 70 km/h. exceto nas autoestradas que podem chegar aos 80 ou 90 km/h.
-Para tratores com ou sem reboque, dentro das localidades a velocidade máxima é de 30 km/h, fora das localidades a velocidade máxima é de 40 km/h.
+//58-Qual a velocidade máxima para automóveis pesados?
+//As velocidades máximas para automóveis de mercadoria cujo o peso não excede 10.000 kg, dentro de uma localidade é de 50 km/h, fora de localidade é de 70 km/h. Quando o seu peso excede 10.000 kg, dentro de uma localidade a velocidade máxima é de 50 km/h e de 60 km/h fora da localidade.
+//Para automóveis pesados de passageiro dentro da localidade a velocidade máxima é de 50 km/h, fora da localidade a velocidade máxima é de 70 km/h. exceto nas autoestradas que podem chegar aos 80 ou 90 km/h.
+//Para tratores com ou sem reboque, dentro das localidades a velocidade máxima é de 30 km/h, fora das localidades a velocidade máxima é de 40 km/h.
 59-Para que servem os fusíveis?
 Os fusíveis, servem para evitar que a instalação elétrica se queime em caso de curto-circuito. Geralmente estão montados numa caixa. Há um fusível para cada circuito elétrico.
 60-Qual é o tipo de lubrificante que se usa para diferencial e caixa de velocidade?
