@@ -642,15 +642,29 @@ Campo visual, é tudo que o condutor consegue ver, olhando para frente, sem faze
 O outro nome que podemos chamar a luz amarela constante do sinal luminoso regulador do trânsito é amarela de transição.
 2140-Em caso de avaria na autoestrada, como deve proceder o condutor?
 Em caso de avaria na autoestrada, primeiramente devo encostar o veículo o mais a direita possível, em seguida vestir o colete refletor, ligar as luzes do perigo quatro piscas acesas em simultâneo, colocar o sinal de pré-sinalização do perigo e ligar para o serviço de reboque.
-2141-Qual a velocidade máxima dos veículos para as diferentes vias?
+2141-Qual a velocidade máxima dos veículos nas diferentes vias?
 A velocidade máxima para os veículos, na zona de coexistência e de 20 km/h, dentro da localidade é de 50 km por hora, fora de localidade é de 90 km/h, nas auto estrada é de 120 km/h e de 100 km/h nas vias reservadas ao automóveis e motociclos.
-2142-Qual a velocidade máxima para motociclo nas vias publicas?
-A velocidade máxima para motociclos dentro de localidade é de 50 km/h e de 90 km/h fora de localidade, nas autoestradas é de 120 km/h e de 100 km/h nas vias reservadas ao automóveis e motociclo. Para motociclo com caro lateral a velocidade máxima é de menos 20 km/h exceto nas localidades.
-2143-Qual a velocidade máxima para ciclomotores nas vias publicas?
+2142-Qual a velocidade máxima para os motociclos?
+A velocidade máxima para motociclos dentro de localidade é de 50 km/h e de 90 km/h fora de localidade, nas autoestradas é de 120 km/h e de 100 km/h nas vias reservadas ao automóveis e motociclo. Para motociclo com caro lateral a velocidade máxima é de menos 20 km/h nos mesmos locais exceto nas localidades.
+2143-Qual a velocidade máxima para os ciclomotores e quadriciclos?
 A velocidade máxima para ciclomotores dentro da localidade é de 40 km/m e de 45 km/h fora de localidade.
-2144-Qual a velocidade máxima para triciclo nas vias publicas?
+2144-Qual a velocidade máxima para os triciclos?
 A velocidade máxima para triciclo dentro da localidade é de 50 km/h e de 80 km/h fora de localidade, nas autoestradas, a velocidade máxima é de 100 km/h e de 90 km/h nas vias reservadas ao automóveis e motociclos.
-2145-Qual a velocidade máxima para automóveis ligeiros nas autoestradas?
-A velocidade máxima para automóveis ligeiros sem reboque dentro da localidade é de 50 km/h e de 90km/h fora da localidade, nas autoestradas, a velocidade máxima é de 120km/h e de 100km/h nas vias reservadas ao automóveis e motociclos.
-Exceto nas localidades, a velocidade máxima para os automóveis ligeiros de mercadoria sem reboque é de menos 10 km/h, para ligeiros de passageiros e misto com reboque é de menos 20km/h e de menos 30 km/h para os ligeiro de mercadoria com reboque.
+2145-Qual a velocidade máxima para automóveis ligeiros de passageiros e misto?
+A velocidade para automóveis ligeiros de passageiro e misto dentro da localidade é de 50km/h e de 70 á 90 km/h fora da localidade, nas autoestradas, a velocidade máxima é de 100 à 120km/h e de 80 à 100km/h nas vias reservadas ao automóveis e motociclos. A variação dessas velocidades depende se for com reboque ou sem reboque respetivamente.
+
+2146-Qual a velocidade máxima para automóveis ligeiros de mercadoria?
+A velocidade máxima para automóveis ligeiros de mercadorias dentro da localidade é de 50 km/h e 70 à 80km/h fora da localidade, nas autoestradas, a velocidade máxima é de 90 à 110km/h e de 80 à 90km/h nas vias reservadas ao automóveis e motociclos.
+2147-Qual a velocidade máxima para automóveis pesado de mercadoria?
+A velocidade máxima para automóveis pesado de mercadoria dentro de localidade é de 40 á 50 km/h e de 70 á 80 km/h fora de localidade, nas autoestradas, a velocidade máxima é de 80 á 90 km/h e de 70 á 80 km/h nas vias reservadas ao automóveis e motociclo. A variação dessas velocidades depende se for com reboque ou sem reboque respetivamente.
+2148-Qual a velocidade máxima para automóveis pesado de passageiro?
+A velocidade para automóveis pesado de passageiros dentro da localidade é de 50 km/h e de 70 á 80 km/h fora da localidade, nas autoestradas, a velocidade máxima é de 90 á 100 km/h e de 90 km/h nas vias reservadas ao automóveis e motociclos. A variação dessas velocidades depende se for com reboque ou sem reboque respetivamente.
+2149-Qual a velocidade máxima para tratores agrícolas ou florestais?
+A velocidade máxima para tratores agrícolas ou florestais dentro de localidade é de 30km/h e de 40km/h fora de localidade.
+2150-Qual a velocidade máxima para máquinas agrícolas, motocultivadores e tratocarros?
+A velocidade máxima para máquina agrícolas motocultivadores e tratocarros é de 20km/h dentro e fora de localidade.
+2151-Qual a velocidade máxima para máquinas industriais sem matrículas?
+A velocidade máxima para máquina industriais sem matrículas dentro e fora de localidade é de 30km/h.
+2152-Qual a velocidade máxima para máquinas industriais com matrículas?
+A velocidade máxima para máquina industrial com matrícula dentro de localidade é de 40km/h e de 70km por hora fora de localidade, nas autoestradas, a velocidade máxima é de 80km/h e de 70km/h nas vias reservadas ao automóveis e motociclos.
 

@@ -1,10 +1,7 @@
 1-O que é motor?
 O motor, é o órgão que transforma a sua energia mecânica em cinética.
 2-Em quantas partes está dividida o motor e quais são?
-O motor divide-se em 3 partes, que são:
-- A Cabeça
-- O Bloco cilindro
-- O Cárter
+O motor divide-se em 3 partes, que são, a cabeça, o bloco cilindro e o cárter.
 3-Para que serve cárter?
 O cárter, serve para armazenar o óleo do motor.
 4-Quantos tipos de cárter conheces?
@@ -15,10 +12,7 @@ Conheço dois tipos de motor, que são.
 - Motor diesel.
 - Motor de explosão.
 6-Quantos tipos de motor diesel conheces?
-Conheço 3 tipos de motor diesel. Que são,
-- De alta compreensão;
-- De média compreensão;
-- De baixa compreensão
+Conheço 3 tipos de motor diesel, que são, de alta compreensão, de média compreensão e de baixa compreensão ou semi-disel.
 7-O que é um motor diesel de alta compreensão?
 Motor diesel de alta compreensão, é um motor que não necessita de qualquer tipo de vela. É um motor que no primeiro tempo admite o ar, no segundo tempo comprime o ar, no terceiro tempo dá-se uma injeção que provoca uma violenta combustão, e no quarto tempo dá se escapamento de gases queimado.
 8-O que é um motor diesel de média compreensão?
@@ -34,11 +28,7 @@ A diferença entre motor de explosão de 4 tempo e motor de explosão de 2 tempo
 12-Qual é a diferença entre o motor diesel e o motor de explosão?
 A diferença existente entre motor diesel e motor de explosão, é que o motor diesel possui sistema de injeção enquanto o motor de explosão possui sistema de inflamação.
 13-Quais são as peças que compõem o sistema de inflamação?
-As peças que compõem o sistema de inflamação são:
-- Bateria;
-- Bobine;
-- Distribuidor;
-- E vela
+As peças que compõem o sistema de inflamação são, bateria, bobine, distribuidor e vela.
 14- Para que serve a bateria?
 A bateria, é um acumulador de energia que serve para fornecer corrente elétrica a todo órgão que dela necessita.
 15-Em quantas partes se divide a bateria?
@@ -207,7 +197,7 @@ Servem para apoiar os cubos das rodas motrizes e geralmente estão fixadas na po
 Conheço três tipos de travão: mecânico hidráulico, ar comprimido.
 78-Quantos tipos de arrefecimento conheces?
 Conheço dois tipos de arrefecimentos, por ar e por água.
-79-Para que serve a vela de ignição?
+79-Para que serve a vela de ignição!?
 Serve para reproduzir as faíscas elétricas que inflamam a mistura gasosa comprimida na câmara de explosão.
 80-Para que serve o sincronizador?
 Sincronizador, serve pra suavizar o trabalho na caixa de velocidade.
@@ -296,6 +286,40 @@ Os órgãos moveis do motor são, embolo, biela, pistão, cambota e volante. Já
 
 2010-Quais são os sistemas que compõem um veículo automóveis?
 Os sistemas que compõem um veículo automóvel são, sistema de inflamação, sistema de alimentação, sistema de injeção, sistema de arrefecimento ou refrigeração, sistema elétrico, sistema de transmissão, sistema de lubrificação, e sistema de inflamação.
+
+2011-Quantas bombas podemos encontrar no veículo?
+As bombas que podemos encontrar nos veículos são, bomba mecânica ou elétrica de combustível, bomba de água, bomba injetora e bomba de óleo. <break time=”1s”/>
+Bomba mecânica ou elétrica de combustível, serve para chupar combustível e deposito e enviar para o carburador. Está composta por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas, sendo uma de entrada e outra de saída de combustível.
+Bomba de água, serve para tirar água quente do motor e levar água fria. Está composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque.
+Bomba injetora, serve para distribuir gasóleo aos injetores. Está composta por corpo de bomba, veio de ressalto e tantos elementos como cilindro compões o motor.
+Bomba de óleo, serve para fazer passar óleo a todos os pontos que necessitam de lubrificação. Está composta por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base.
+2012-Qual a diferença entre o careto condutor e o careto conduzido?
+A diferença entre o careto condutor e o careto conduzido é que o careto condutor tem metade dos dentes de um careto conduzido.
+2013-Reservado?
+2014-Reservado?
+2015-Reservado?
+2016-Reservado?
+2017-Reservado?
+2018-Reservado?
+2019-Reservado?
+2020-Qual o objetivo de sistemas de suspensão?
+O objetivo do sistema de suspensão é de absorver todas as irregularidades do pavimento.
+2021-Quais são as peças que compõem um sistema de suspensão?
+As peças que compõem um sistema de suspensão são, pneus, mola, amortecedor e estabilizador.
+2022-Para que servem os pneus?
+Os pneus, servem para suportar o peso do veículo e o peso da carga a ser transportada.
+2023-Para que servem as molas?
+As molas, servem para suportar o peso do veículo, e absorver as oscilações provenientes das grandes irregularidades nos pavimentos, evitando que estas sejam integralmente transmitidas ao quadro do veículo.
+2024-Para que servem os amortecedores?
+Os amortecedores, servem para reduzir as oscilações das molas, garantindo desta forma uma melhor aderência dos veículos a estrada, nas curvas e nas travagens.
+2025-Para que servem os estabilizadores?
+Os estabilizadores, servem para contrair o efeito da força centrífuga nas curvas quando a carroçaria tende a inclinar.
+2026-Qual o procedimento para efetuar mudanças de rodas?
+Para mudar de rodas, devo estacionar num local plano, o mais possível a minha direita, colocando o sinal de pré-sinalização de perigo, colocar as rodas desapertar as porcas, colocar o macaco de elevação e mudar as rodas.
+
+
+
+
 
 
 

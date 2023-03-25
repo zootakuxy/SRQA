@@ -1,10 +1,22 @@
 import {freetts} from "./api/freetts.com";
-import {text2speechGoogleapis} from "./api/texttospeech.googleapis.com/text2speechGoogleapis";
+
+
+export interface TTLOptions {
+    language:string,
+    voice:string,
+    text:string,
+    audioFileName:string,
+    voiceGender:string|"MALE"|"FEMALE",
+    country:string,
+    voiceType:string
+    label:string,
+    ssml:boolean,
+}
 
 export class TTSManager {
     engines = [ freetts, freetts ];
     conversion = false;
-    convert( language:string, voice:string, text:string, audioFileName:string, label:string ):Promise<string>{
+    convert( opts:TTLOptions  ):Promise<string>{
         if( !this.conversion ) {
             this.conversion = true;
         }
@@ -13,8 +25,8 @@ export class TTSManager {
                 let current = this.engines.shift();
                 if( typeof current !== "function" ) return resolve( null );
                 this.engines.push( current );
-                current( language, voice, text, audioFileName ).then( value => {
-                    if( value ) console.log( `[${  current.name}]`, label, new URL( `file://${ audioFileName }` ).href );
+                current( opts ).then( value => {
+                    if( value ) console.log( `[${  current.name}]`, opts.label, new URL( `file://${ opts.audioFileName }` ).href );
 
                     if( value || !this.engines.length ) return resolve( value );
                     else if( this.engines.length ) {

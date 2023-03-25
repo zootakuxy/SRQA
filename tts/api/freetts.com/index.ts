@@ -1,30 +1,35 @@
-import axios from "axios";
+import axios, {AxiosHeaders} from "axios";
 const fs = require('fs');
-import querystring from "querystring";
 import https from "https";
 import http from "http";
 import * as Path from "path";
+import {TTLOptions} from "../../index";
+import {etc} from "../../../load";
+import {sort} from "fast-sort";
+import * as console from "console";
 
 let engine:typeof https|typeof http;
 
 let urlBase = "https://freetts.com";
-let createAudioUrl = `${urlBase}/Home/PlayAudio`;
-let getAudioUrl = `${urlBase}/audio`;
+let createAudioUrl = `${urlBase}/api/TTS/SynthesizeText`;
 
 if ( urlBase.startsWith("https") ) engine = https
 else engine = http;
 
-export function freetts(language:string, voice:string, text:string, audioFileName:string ):Promise<string>{
-    return new Promise( (resolve ) => {
-        let request = {
-            Language:language,
-            Voice:voice,
-            TextMessage:text,
-            type:0
-        }
 
-        let query = querystring.encode( request );
-        let requestUrl = `${createAudioUrl}?${query}`;
+let tokens:({credit:number, key:string, name?:string})[] = [];
+Object.keys( etc.document.freetts.token ).forEach( (key)=>{
+    let bearer = etc.document.freetts.token[ key ];
+    bearer.credit = bearer.credit || 0;
+    bearer.credit = Number( bearer.credit );
+    tokens.push( bearer );
+});
+
+//Portuguese (Portugal)
+
+export function freetts( opts:TTLOptions ):Promise<string>{
+    return new Promise( (resolve ) => {
+
 
         let _convert = attempts =>{
 
@@ -32,14 +37,42 @@ export function freetts(language:string, voice:string, text:string, audioFileNam
                 return resolve ( null );
             }
 
-            axios.get( requestUrl, { }).then( response => {
+            let useToken = sort(tokens).by([
+                { desc: prop => Number(prop.credit) }
+            ])[0];
+
+            let header:AxiosHeaders = new AxiosHeaders();
+            header.set("Authorization", useToken.key );
+
+            let requestData ={
+                "text":opts.text,
+                "type":0,
+                "ssml":(opts.ssml)?1:0,
+                "isLoginUser":1,
+                "country":opts.country,
+                "voiceType":opts.voiceType,
+                "languageCode": opts.language,
+                "voiceName": opts.voice,
+                "gender":opts.voiceGender
+            }
+
+
+            console.log( "Using  token id ", useToken.name)
+            axios.post( createAudioUrl, requestData, {
+                headers: header
+            }).then( response => {
                 let ok = response.status === 200
                     && !!response.data
+                    && !!response.data.data
                     && typeof response.data === "object"
-                    && response.data.msg === "True"
-                    && response.data.counts > 0
-                    && !!response.data.id
+                    && typeof response.data.data === "object"
+                    && response.data.msg === "Success"
+                    && response.data.data.downloadCount > 0
+                    && typeof response.data.data.audiourl === "string"
+                    && (response.data.data.audiourl as string).startsWith("https://freetts.com/results/")
+                    && (response.data.data.audiourl as string).endsWith(".mp3")
                 ;
+
 
                 if( !ok ){
                     console.log( "response.status", response.status );
@@ -50,15 +83,17 @@ export function freetts(language:string, voice:string, text:string, audioFileNam
                     }, 1000 * ( 5 * Math.random() ));
                 }
 
-                let audioId = response.data.id;
-                let url = `${getAudioUrl}/${audioId}`;
-                fs.mkdirSync( Path.dirname( audioFileName ), { recursive: true } );
-                let stream = fs.createWriteStream( audioFileName );
-                return engine.get( url, request=>{
+                useToken.credit = response.data.data.downloadCount;
+                etc.save();
+
+                let audioUrl = response.data.data.audiourl;
+                fs.mkdirSync( Path.dirname( opts.audioFileName ), { recursive: true } );
+                let stream = fs.createWriteStream( opts.audioFileName );
+                return engine.get( audioUrl, request=>{
                     request.pipe( stream );
                     return request.on( "close", () => {
                         stream.close();
-                        let bitmap = fs.readFileSync( audioFileName );
+                        let bitmap = fs.readFileSync( opts.audioFileName );
                         let base64 = bitmap.toString("base64" );
 
                         setTimeout( ()=>{

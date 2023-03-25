@@ -4,13 +4,20 @@ import * as Path from "path";
 
 //language=file-reference
 let source = Path.join( __dirname, "./source" );
+//language=file-reference
+let etcConfigFile = Path.join( __dirname, "./source/etc/engine.conf" );
 let filter =  new RegExp(`((^)*.${"txt"})$`);
 
 export interface Configs  {
     translate:{
         language:string
-        voice1:string
-        voice2:string
+        country:string,
+        voiceType:string
+        [p:number]:{
+            voiceType:string
+            voiceName:string
+            voiceGender:string
+        }
     }
 }
 
@@ -43,9 +50,31 @@ const sources:Source[] = fs.readdirSync( source )
         }
     });
 
+let etcRaw = fs.readFileSync( etcConfigFile ).toString();
+
+
 export const converterConfigs  = {
     sources: sources,
     language: "pt-PT",
     voice1:"pt-PT-Standard-A",
     voice2: "pt-PT-Standard-B"
 };
+
+
+export const etc  = {
+    document: {} as any,
+    save(){
+        fs.writeFileSync( etcConfigFile, ini.stringify( this.document, {
+            whitespace: true,
+
+        }))
+    }, restore(){
+        this.document = JSON.parse( JSON.stringify(ini.parse( etcRaw )))
+    }
+};
+etc.restore();
+console.log( etc.document.freetts );
+
+export type ETCStructure = typeof etc
+
+

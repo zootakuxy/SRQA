@@ -1,14 +1,19 @@
-import {Source} from "./load";
+import {etc, Source} from "./load";
 import {Question, readQuestions} from "./qa";
 import * as Path from "path";
 import * as fs from "fs";
-import {TTSManager} from "./tts";
+import {TTLOptions, TTSManager} from "./tts";
 import {normalizeDiacritics} from "normalize-text";
 import {id3Question} from "./id3";
+import * as console from "console";
 
 let regexp = /[^a-zA-Z0-9\s\-._&]/g;
 
 let ttsManager = new TTSManager();
+
+export const MAX_TIME_PAUSE = 18;
+export const MIN_TIME_PAUSE = 8;
+export const DIFF_TIME_PAUSE = MAX_TIME_PAUSE - MIN_TIME_PAUSE;
 
 export type FileDirections = {
     audioFileOf( question:Question,  type:"Q&A"|"Question"|"Response"|"Important" ):string
@@ -60,6 +65,7 @@ export type ConvertOptions = {
 }
 export function converter( source:Source, audioFolder:string, rawFolder:string, opts:ConvertOptions ){
 
+
     let fdir = fileDirections( source, audioFolder, rawFolder );
 
     return new Promise( ( resolve ) => {
@@ -68,7 +74,23 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
             fs.rmSync(Path.join( audioFolder, "Important" ), { recursive: true });
 
         readQuestions( source.filename, source.name ).then( readQuestions => {
+            console.log({
+
+            } )
             let questions = [ ...readQuestions.questions ];
+
+
+            let ttlOptions:TTLOptions = {
+                language: source.configs.translate.language,
+                country: source.configs.translate.country,
+                text:"",
+                voice:"",
+                audioFileName:"",
+                voiceGender: "",
+                voiceType:"",
+                label:"",
+                ssml:true
+            }
 
             let _process = ()=>{
                 let _current = questions.shift();
@@ -88,15 +110,24 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                 }
 
                 let isPair = _current.number%2 === 0;
-                let voice = isPair? source.configs.translate.voice2 : source.configs.translate.voice1;
+                let voice = isPair? source.configs.translate[2] : source.configs.translate[1];
 
-                let Jobs:{[p in "Q&E"|"question"|"answer"]:()=>Promise<boolean>} = {
+                let Jobs:{[p in "Q&A"|"question"|"answer"]:()=>Promise<boolean>} = {
                     question: () => {
                         return new Promise( (jobResolve, reject) => {
                             let text = `<break time="1s"/>${_current.question}<break time="5s"/>`;
                             let audioFile = fdir.audioFileOf( _current, "Question" );
                             let rawFile = fdir.rawFileOf( _current, "Question" );
-                            ttsManager.convert( source.configs.translate.language, voice, text, audioFile,  `${ workName } ... CREATED QUESTION` ).then( rawQuestion => {
+
+
+                            ttlOptions.voice = voice.voiceName;
+                            ttlOptions.voiceType = voice.voiceType;
+                            ttlOptions.voiceGender = voice.voiceGender;
+                            ttlOptions.text  = text;
+                            ttlOptions.audioFileName = audioFile;
+                            ttlOptions.language = `${ workName } ... CREATED QUESTION`
+
+                            ttsManager.convert( { ...ttlOptions }   ).then( rawQuestion => {
                                 if( !rawQuestion ) return jobResolve( false );
                                 fs.mkdirSync( Path.dirname( rawFile ), { recursive: true } );
                                 fs.writeFileSync( rawFile, rawQuestion );
@@ -109,7 +140,16 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                             let text = `<break time="1s"/>${_current.answer }<break time="5s"/>`;
                             let audioFile = fdir.audioFileOf( _current, "Response" );
                             let rawFile = fdir.rawFileOf( _current, "Response" );
-                            ttsManager.convert( source.configs.translate.language, voice, text, audioFile, `${workName} ... CREATED ANSWER` ).then( rawAnswer => {
+
+
+                            ttlOptions.voice = voice.voiceName;
+                            ttlOptions.voiceType = voice.voiceType;
+                            ttlOptions.voiceGender = voice.voiceGender;
+                            ttlOptions.text  = text;
+                            ttlOptions.audioFileName = audioFile;
+                            ttlOptions.language = `${ workName } ... CREATED ANSWER`;
+
+                            ttsManager.convert( ttlOptions ).then( rawAnswer => {
                                 if( !rawAnswer ) return jobResolve( false );
                                 fs.mkdirSync( Path.dirname( rawFile ), { recursive: true } );
                                 fs.writeFileSync( rawFile, rawAnswer );
@@ -117,12 +157,27 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                                 jobResolve(true )
                             })
                         });
-                    }, "Q&E"(){
+                    }, "Q&A"(){
                         return new Promise( jobResolve => {
-                            let text = `<break time="2s"/>${_current.question}<break time="15s"/>\n${_current.answer}<break time="5s"/>`;
+
+                            let percent = (_current.questionLength * 1.0 )/readQuestions.maxLength;
+                            let time = (DIFF_TIME_PAUSE*percent)+MIN_TIME_PAUSE;
+                            let seconds = Math.round(time);
+
+                            let text = `<break time="2s"/>${_current.question}<break time="${seconds}s"/>\n${_current.answer}<break time="4s"/>`;
                             let audioFile = fdir.audioFileOf( _current, "Q&A" );
                             let rawFile = fdir.rawFileOf( _current, "Q&A" );
-                            ttsManager.convert( source.configs.translate.language, voice, text, audioFile, `${workName} ... CREATED Q&E` ).then( rawQA => {
+
+                            ttlOptions.voice = voice.voiceName;
+                            ttlOptions.voiceType = voice.voiceType;
+                            ttlOptions.voiceGender = voice.voiceGender;
+                            ttlOptions.text  = text;
+                            ttlOptions.audioFileName = audioFile;
+                            ttlOptions.language = `${ workName } ... CREATED Q&A`;
+
+                            console.log( "use time pause", seconds )
+
+                            ttsManager.convert( ttlOptions ).then( rawQA => {
                                 if( !rawQA ) return jobResolve( false );
                                 fs.mkdirSync( Path.dirname( rawFile ), { recursive: true } );
                                 fs.writeFileSync( rawFile, rawQA );
@@ -136,7 +191,7 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                 let useJobs:(()=>Promise<boolean>)[] = [];
                 if( opts.convertQuestion ) useJobs.push( Jobs["question"]);
                 if( opts.convertAnswer ) useJobs.push( Jobs["answer"]);
-                if( opts.convert ) useJobs.push( Jobs["Q&E"]  );
+                if( opts.convert ) useJobs.push( Jobs["Q&A"]  );
 
                 let _jobGo = ()=>{
                     let _nextJob = useJobs.shift();
@@ -172,7 +227,7 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                         //
                         // audioFile = fdir.audioFileOf( _current, "Q&A" );
                         // rawFile = fdir.rawFileOf( _current, "Q&A" );
-                        // ttsManager.convert( source.configs.translate.language, voice, text, audioFile, `${workName} ... CREATED Q&E` ).then( rawQA => {
+                        // ttsManager.convert( source.configs.translate.language, voice, text, audioFile, `${workName} ... CREATED Q&A` ).then( rawQA => {
                         //     if( !rawQA ) return resolve( false );
                         //     fs.mkdirSync( Path.dirname( rawFile ), { recursive: true } );
                         //     fs.writeFileSync( rawFile, rawQA );
