@@ -265,7 +265,7 @@ Conheço dois tipos de arrefecimento por ar, que são, por turbina e por lâmina
 111- Qual é o instrumento que podemos medir o nível do óleo do motor?
 Podemos medir o óleo do motor com vareta gradual.
 2001-Para que serve o êmbolo?
-O êmbolo, serve para fazer o tempo do motor em combinação com o abrir e fechar das válvulas.
+O êmbolo, é a junção de biela mais o pistão e  serve para fazer o tempo do motor em combinação com o abrir e fechar das válvulas.
 2002-Quantos tipos de cambota conheces e quais são?
 Conheço dois tipos de cambota, que são, cambota com contrapeso e cambota sem contrapeso.
 2003-Quantos tipos de baterias conheces?
@@ -281,20 +281,20 @@ As mangas do eixo, servem para apoiar os cubos das rodas motrizes e geralmente e
 
 2008-O que sabes sobre empanques?
 Empanques, são peças mecânicas que têm por finalidade evitar derrames de fluido. Servem para vedar juntas das máquinas.
-2009-Diferencie os órgãos movéis do motor e as peças que compões o motor?
-Os órgãos moveis do motor são, embolo, biela, pistão, cambota e volante. Já as peças que compões o motor são, válvula, pistões, bielas, veio excêntrico, cambota, engrenagem de distribuição e bomba de óleo.
+2009-Diferencie os órgãos movéis do motor e as peças que compõem o motor?
+Os órgãos moveis do motor são, embolo, biela, pistão, cambota e volante. Já as peças que compõem o motor são, válvula, pistões, bielas, veio excêntrico, cambota, engrenagem de distribuição e bomba de óleo.
 
 2010-Quais são os sistemas que compõem um veículo automóveis?
 Os sistemas que compõem um veículo automóvel são, sistema de inflamação, sistema de alimentação, sistema de injeção, sistema de arrefecimento ou refrigeração, sistema elétrico, sistema de transmissão, sistema de lubrificação, e sistema de inflamação.
 
 2011-Quantas bombas podemos encontrar no veículo?
 As bombas que podemos encontrar nos veículos são, bomba mecânica ou elétrica de combustível, bomba de água, bomba injetora e bomba de óleo. <break time=”1s”/>
-Bomba mecânica ou elétrica de combustível, serve para chupar combustível e deposito e enviar para o carburador. Está composta por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas, sendo uma de entrada e outra de saída de combustível.
+Bomba mecânica ou elétrica de combustível, serve para chupar combustível e depósito e enviar para o carburador. Está composta por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas, sendo uma de entrada e outra de saída de combustível.
 Bomba de água, serve para tirar água quente do motor e levar água fria. Está composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque.
-Bomba injetora, serve para distribuir gasóleo aos injetores. Está composta por corpo de bomba, veio de ressalto e tantos elementos como cilindro compões o motor.
+Bomba injetora, serve para distribuir gasóleo aos injetores. Está composta por corpo de bomba, veio de ressalto e tantos elementos como cilindro compõe o motor.
 Bomba de óleo, serve para fazer passar óleo a todos os pontos que necessitam de lubrificação. Está composta por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base.
 2012-Qual a diferença entre o careto condutor e o careto conduzido?
-A diferença entre o careto condutor e o careto conduzido é que o careto condutor tem metade dos dentes de um careto conduzido, enquanto o careto condutor da uma volta o carreto conduzido dá meia volta. O careto condutor dá o dobro de volta que o carreto conduzido dá.
+A diferença entre o careto condutor e o careto conduzido é que o careto condutor tem metade dos dentes de um careto conduzido. Enquanto o careto condutor da uma volta o carreto conduzido dá meia volta. O careto condutor dá o dobro de volta que o carreto conduzido dá.
 2013-Reservado?
 2014-Reservado?
 2015-Reservado?
@@ -302,6 +302,8 @@ A diferença entre o careto condutor e o careto conduzido é que o careto condut
 2017-Reservado?
 2018-Reservado?
 2019-Reservado?
+
+//Sistema de suspensão
 2020-Qual o objetivo de sistemas de suspensão?
 O objetivo do sistema de suspensão é de absorver todas as irregularidades do pavimento.
 2021-Quais são as peças que compõem um sistema de suspensão?
@@ -328,6 +330,8 @@ Termostato, serve para impedir a passagem de água pelo radiador antes de atingi
 A diferença entre o dínamo e a bobine, é dínamo é um gerador de corrente continua para carregar a bateria e faz parte de sistema elétrico. Enquanto a bobine, transforma a corrente de baixa tensão que vem da bateria em alta tensão que é enviado ao distribuidor e faz parte de sistema de inflamação.
 2032-Quantos tipos de válvulas conheces?
 Existe dois tipos de válvulas, válvula de admissão e válvula de escape.
+2033-Qual a diferença entre o embolo e a biela?
+A diferença entre o embolo e a biela, é que o embolo é a combinação da biela e pistão e serve par fazer o tempo do motor em combinação com o abrir e fechar das válvulas. Enquanto que a biela é um dos
 
 
 
