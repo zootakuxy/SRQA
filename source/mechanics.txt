@@ -210,7 +210,7 @@ A ordem de um motor de 6 cilindro é de 153, 624.
 84-Qual a ordem de um motor de 8 cilindros?
 A ordem de motor de 8 cilindro é de 18, 367, 254.
 85-Para que servem os fusíveis?
-Os fusíveis servem para evitar que as instalações elétricas se queimem em caso de curto-circuito, geralmente estão montados numa caixa e há um fusível para cada curto-circuito.
+Os fusíveis servem para evitar que as instalações elétricas se queimem em caso de curto-circuito, geralmente estão montados numa caixa e há um fusível para cada circuito elétrico.
 86-De que se compõe um travão hidráulico?
 Pedal de travão, bomba central, tubagem da condução do óleo as rodas, cilindros e maxilas.
 87-De que se compõe um travão mecânico?
@@ -224,7 +224,7 @@ Antes de iniciar uma viagem o condutor deve verificar: a pressão do ar dos pneu
 91-Se o condutor conduz por muito tempo com o pé em cima do pedal de embreagem, o que pode acontecer?
 Obriga o disco de embreagem a fazer muito esforço, podendo assim queimar tanto o disco como os rolamentos ou carvão.
 92-Quais são os órgãos móveis de motor!?
-Os órgãos móveis de motor são, embolo, biela, pistão, cambota, volante.
+Os órgãos móveis de motor são, embolo, biela, pistão, cambota e volante do motor.
 
 93-Quais são os órgãos fixos de motor?
 O órgão fixo do motor são, tampa de culatra, culatra, junta de culatra, bloco de cilindro e cárter.
@@ -294,7 +294,7 @@ Bomba de água, serve para tirar água quente do motor e levar água fria. Está
 Bomba injetora, serve para distribuir gasóleo aos injetores. Está composta por corpo de bomba, veio de ressalto e tantos elementos como cilindro compões o motor.
 Bomba de óleo, serve para fazer passar óleo a todos os pontos que necessitam de lubrificação. Está composta por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base.
 2012-Qual a diferença entre o careto condutor e o careto conduzido?
-A diferença entre o careto condutor e o careto conduzido é que o careto condutor tem metade dos dentes de um careto conduzido.
+A diferença entre o careto condutor e o careto conduzido é que o careto condutor tem metade dos dentes de um careto conduzido, enquanto o careto condutor da uma volta o carreto conduzido dá meia volta. O careto condutor dá o dobro de volta que o carreto conduzido dá.
 2013-Reservado?
 2014-Reservado?
 2015-Reservado?
@@ -316,12 +316,18 @@ Os amortecedores, servem para reduzir as oscilações das molas, garantindo dest
 Os estabilizadores, servem para contrair o efeito da força centrífuga nas curvas quando a carroçaria tende a inclinar.
 2026-Qual o procedimento para efetuar mudanças de rodas?
 Para mudar de rodas, devo estacionar num local plano, o mais possível a minha direita, colocando o sinal de pré-sinalização de perigo, colocar as rodas desapertar as porcas, colocar o macaco de elevação e mudar as rodas.
-
-
-
-
-
-
+2027-Para que serve as velas?
+A vela serve para saltar faísca de alta tensão na camara de carburação.
+2028-Em quantas partes esta dividida as velas?
+A vela esta dividida em polo positivo, polo negativo isolado por uma união de porcelana.
+2029-Quantos tipos de velas existem?
+Existe 2 tipos de velas, que são, vela de admissão e vela de ignição.
+2030-Para que serve o termostato?
+Termostato, serve para impedir a passagem de água pelo radiador antes de atingir a temperatura ideal.
+2031-Qual a diferença entre a bobine e o dínamo ou alternador?
+A diferença entre o dínamo e a bobine, é dínamo é um gerador de corrente continua para carregar a bateria e faz parte de sistema elétrico. Enquanto a bobine, transforma a corrente de baixa tensão que vem da bateria em alta tensão que é enviado ao distribuidor e faz parte de sistema de inflamação.
+2032-Quantos tipos de válvulas conheces?
+Existe dois tipos de válvulas, válvula de admissão e válvula de escape.
 
 
 

@@ -197,10 +197,10 @@ Devo manter uma distância que me permite parar em segurança, sem o perigo de e
 92-O que entendes por manobras perigosas?
 Manobras perigosas, são todas aquelas que podem causar perigo tanto ao condutor, como para restante dos utentes da via pública.
 93-O que entendes por ultrapassagem?
-Ultrapassagem, é a manobrar que consiste em passar para frente de um veículo em andamento.
+Ultrapassagem, é a manobra que consiste em passar para frente de um veículo em andamento.
 94-Por que lado é feita a ultrapassagem?
 Normalmente a ultrapassagem é feita pelo lado esquerdo, mas também podemos ultrapassar pelo lado direito quando o veículo que circula a nossa frente fizer o sinal de pisca á esquerda e nos deixa a direita livre. Também, podemos ultrapassar um carro elétrico em andamento, desde que não esteja parado para pegar ou largar passageiro, salvo se houver uma placa para refúgio de piões.
-95- Como procede o condutor para fazer ultrapassagem?
+95-Como procede o condutor para fazer ultrapassagem?
 Primeiramente verifica se o local é próprio, e se não há nenhuma sinalização que me proíba. Depois disso avisa o condutor da frente a sua intenção, se for de dia usa sinal sonoro e se for de noite faz corte de luzes. Em seguida abro o sinal de pisca a esquerda e através do espelho retrovisor verifico na minha retaguarda sem não vem nenhum veículo com a mesma intensão. Caso não, acelero a marcha para esquerda e só retoma a minha direita depois de assegurar que não causo perigo ao veículo já ultrapassado.
 96-Como procede o condutor para fazer uma mudança de direção a esquerda?
 Primeiramente verifica se o local é próprio, e se não há nenhuma sinalização que me proíba. Depois olha no espelho retrovisor se vem algum veículo com intenção de me ultrapassar, caso não abro o sinal de pisca a esquerda e aproximo do eixo da via se for uma via de dois sentidos, ou aproximo o mais possível a esquerda se for uma via de um sentido. Ao chegar no cruzamento ou entroncamento atende as regras de prioridade e faz a sua manobra mais perpendicular da direção que pretende seguir.
@@ -302,8 +302,8 @@ A tara é o peso do veículo vazio.
 140-O que é peso bruto?
 Peso bruto é o peso do veículo mais a carga máxima, que um veículo está autorizado a transportar.
 Peso total é o peso de veículo mais o peso da carga a sendo transportado no momento.
-141-Qual é a peça mais estúpida do veículo?
-A peça mais estupida do veículo é o condutor.
+//141-Qual é a peça mais estúpida do veículo?
+//A peça mais estupida do veículo é o condutor.
 142-Como deve ser feita uma descarga num veículo automóvel?
 O condutor deve fazer a descarga num veículo automóvel, num lugar permitido de modo a não criar embaraço no trânsito.
 143- O que são vias equiparadas?
@@ -475,12 +475,12 @@ Os veículos prioritários nem sempre têm de respeitar as regras de trânsito e
 2067-Quando um trator agrícola ou máquina industrial pode ser considerado de automóveis ligeiros?
 Uma máquina industrial ou trator agrícola pode ser considerada um veículo ligeiro se a sua tara não exceder os 3500 kg.
 2068-Qual a velocidade mínima que um automóvel deve atingir para ter direito a circular na autoestrada?
-A velocidade mínima que um veículo deve alcançar para ter direito de circular nas autoestradas é de 60km/h, no entanto, a velocidade mínima que se deve transitar na autoestrada é de 50km/h.
+Apesar da velocidade mínima para se transitar em uma autoestrada ser de 50km/h, para transitar em uma autoestrada o veículo deve atingir velocidade em patamar superior a 60km/h para ter direito a circular em uma autoestrada.
 2069-Qual é a placa que pode ser contornada em qualquer um dos lados?
 As placas que podem ser contornadas por qualquer um dos lados, são todas aquelas que têm o formato triangular desde que não estejam devidamente sinalizadas.
 2070-O que entendes por distância travagem?
 Distância travagem, é a distância percorrida pelo veículo entre o momento em que o condutor começa a travar e aquele em que o veículo se imobiliza. Essa distância varia não só com a velocidade do veículo como também com o estado dos pneus, a eficácia dos travões e o estado do pavimento.
-2070.1-Quais são os fatores que influência na distância de travagem?
+2070.1-Quais são os fatores que influenciam na distância de travagem?
 Os fatores que influenciam a distância de travagem, são, velocidade do veículo, estado dos pneus, a eficácia dos travões, e o estado de pavimento
 
 2071-O que entendes por distância de paragem?
@@ -488,7 +488,7 @@ Distância de paragem, é a distância total percorrida pelo veículo entre o mo
 2071.1-Qual é a diferença entre a distância de paragem e a distância de travagem?
 A diferença existente entre a distância de travagem e a distância de paragem, é que a distância da travagem é o espaço percorrido pelo veículo desde o momento que o condutor começa a travar até o momento que o veículo se imobiliza, enquanto que a distância de paragem é o espaço percorrido desde o momento que o condutor vê o obstáculo até o momento que o veículo se imobiliza.
 2071.2-Como se obtém a distância de paragem?
-A distância de paragem, é obtida somando a distância de travagem e a distância de reação.
+A distância de paragem, é obtida somando a distância de travagem com a distância de reação.
 2072-O que entendes por segurança ativa?
 É considerado segurança ativa, tudo que tem como objetivo evitar o acidente, tais como, pneus, travões, sistema ABS, suspensão, direção, espelhos retrovisores, e pala anti encadeamento.
 2073-Quais são os elementos de segurança ativa?
@@ -500,7 +500,7 @@ Sistema ABS, significa sistemas de travagem anti bloqueio, ela é usada para gar
 2076-Quais são os elementos de segurança passiva?
 Os elementos de segurança passivas são, cinto de segurança, airbag, capacete, e encosto de cabeça.
 2077-O que entendes por acidente?
-Acidente, são acontecimento indesejado que acontece nas vias pública, podem ser provocados ou causados.
+Acidente, são acontecimento indesejado que ocorrem nas vias pública, e podem ser provocados ou causados.
 2078-Será que o álcool afeta todo mundo da mesma forma?
 Não, o álcool não afeta todos da mesma forma, depende da idade, sexo, peso ou estado físico do indivíduo.
 2079-Quando a taxa do álcool no sangue pode ser considerada de crime?
@@ -531,7 +531,7 @@ Os elementos responsáveis pelas infrações são, o condutor, que é considerad
 2091-Qual a diferença entre elementos de segurança passivas e ativas?
 A diferença existente entre os elementos de segurança passivas e ativas, é que elementos de segurança ativas, são todos queles que tem como objetivo de evitar o acidente, tais como, pneus, travões, sistema ABS, suspensão, direção, espelho retrovisores, e pala anti encandeamento. Enquanto que elementos de segurança passivas, são todos aqueles que tem como objetivo minimizar os danos e proteger no caso de um acidente, tais como, cinto de segurança, airbag, capacete, e encosto de cabeça.
 2092-Qual a diferença entre reboque e semirreboque?
-A diferença entre reboque e semirreboque, é que reboque é um veículo não automóvel, destinado a atrelar um veículo automóvel, já o semirreboque, é um tipo de reboque em que a sua parte de frente assenta sobre o veículo a motor distribuído seu peso sobre este.
+A diferença entre reboque e semirreboque, é que reboque é um veículo não automóvel, destinado a atrelar um veículo automóvel, já o semirreboque, é um tipo de reboque em que a sua parte de frente assenta sobre o veículo a motor distribuindo seu peso sobre este.
 2093-O que entendes por semirreboque?
 Semirreboque, é um tipo de reboque cuja parte da frente assenta sobre o veículo a motor, distribuindo o peso sobre este.
 2094-O que entendes por contraordenação?
@@ -565,17 +565,15 @@ Um dolly, é um dispositivo equipado com um sistema mecânico de engate destinad
 2107-Para que serve os painéis retro fletores!?
 Painéis retro fletores, servem para assinalar os automóveis ou conjunto de veículos com peso bruto superior a 3500 Kg.
 2108-Como devem ser o relevo dos pneus!?
-O relevo dos pneus para ligeiro é de 1.6mm e de 1mm para pesados e motociclos.
-
-
+O relevo dos pneus para ligeiro é de 1,6mm, para pesados e motociclos é de 1mm.
 2109-Quando que o extintor de incêndio e obrigatório!?
 O extintor de incêndio, é obrigatório, nos automóveis pesado de passageiro e quando se transporta explosivos.
 2110-O que entendes por distância de reação!?
 Distância de reação, sé a distância percorrida durante o tempo de reação e depende da velocidade do veículo e do tempo de reação.
 2111-O que entendes por tempo de reação!?
-Tempo de reação, é o tempo que decorre entre a perceção da informação e o exato instante que o condutor atua. Esse tempo varia de pessoa para pessoa, idade, doença, distração, fadiga, sonolência, stress, droga, medicamentos, álcool e experiência. Esse tempo nunca diminui, apenas pode aumentar devido aos fatores indicados anteriormente.
+Tempo de reação, é o tempo que decorre entre o momento que o condutor vê o obstáculo e o momento que o condutor começa a agir. Esse tempo varia de pessoa para pessoa, idade, doença, distração, fadiga, sonolência, stress, droga, medicamentos, álcool e experiência. Esse tempo nunca diminui, apenas pode aumentar devido aos fatores indicados anteriormente.
 2112-Qual a diferença entre o tempo de reação e a distância de reação!?
-A diferença existente entre o tempo de reação e a distância de reação, é que o tempo de reação, é o tempo decorrido entre o momento que o condutor vê o obstáculo e o instante em que começa a atuar. Já a distância de reação, é a distância percorrida durante o tempo de reação, ou seja, a distância entre instante da perceção do obstáculo até o instante de reação do condutor, onde essa distância dependendo da velocidade do veículo e do tempo de reação.
+A diferença existente entre o tempo de reação e a distância de reação, é que o tempo de reação, é o tempo decorrido entre o momento que o condutor vê o obstáculo e o instante em que começa a atuar. Já a distância de reação, é a distância percorrida durante o tempo de reação, ou seja, a distância entre instante da perceção do obstáculo até o instante de reação do condutor, onde essa distância depende da velocidade do veículo e do tempo de reação.
 2113-Quando a ultrapassagem é proibida!?
 A manobra de ultrapassagem é proibida, nos locais com visibilidade insuficiente tais como lombas, curvas, passagem de nível, nos cruzamentos e entroncamento, na passagem para peões, nas vias com largura insuficiente, ultrapassar o veículo que esteja a ultrapassar um terceiro quando apenas existe duas faixas de trânsito, ou quando houver qualquer sinalização que me proíba.
 2114-Onde é proibido efetuar inversão do sentido de marcha!?
@@ -643,13 +641,13 @@ O outro nome que podemos chamar a luz amarela constante do sinal luminoso regula
 2140-Em caso de avaria na autoestrada, como deve proceder o condutor?
 Em caso de avaria na autoestrada, primeiramente devo encostar o veículo o mais a direita possível, em seguida vestir o colete refletor, ligar as luzes do perigo quatro piscas acesas em simultâneo, colocar o sinal de pré-sinalização do perigo e ligar para o serviço de reboque.
 2141-Qual a velocidade máxima dos veículos nas diferentes vias?
-A velocidade máxima para os veículos, na zona de coexistência e de 20 km/h, dentro da localidade é de 50 km por hora, fora de localidade é de 90 km/h, nas auto estrada é de 120 km/h e de 100 km/h nas vias reservadas ao automóveis e motociclos.
+A velocidade máxima para os veículos, na zona de coexistência e de 20 km/h, dentro da localidade é de 50k/h, fora de localidade é de 90 km/h, nas auto estrada é de 120 km/h e de 100 km/h nas vias reservadas ao automóveis e motociclos.
 2142-Qual a velocidade máxima para os motociclos?
-A velocidade máxima para motociclos dentro de localidade é de 50 km/h e de 90 km/h fora de localidade, nas autoestradas é de 120 km/h e de 100 km/h nas vias reservadas ao automóveis e motociclo. Para motociclo com caro lateral a velocidade máxima é de menos 20 km/h nos mesmos locais exceto nas localidades.
+A velocidade máxima para motociclos dentro de localidade é de 50 km/h e de 90km/h fora de localidade, nas autoestradas é de 120km/h e de 100km/h nas vias reservadas ao automóveis e motociclo. Para motociclo com caro lateral a velocidade máxima é de menos 20km/h nos mesmos locais exceto nas localidades.
 2143-Qual a velocidade máxima para os ciclomotores e quadriciclos?
-A velocidade máxima para ciclomotores dentro da localidade é de 40 km/m e de 45 km/h fora de localidade.
+A velocidade máxima para ciclomotores dentro da localidade é de 40km/h e de 45km/h fora de localidade.
 2144-Qual a velocidade máxima para os triciclos?
-A velocidade máxima para triciclo dentro da localidade é de 50 km/h e de 80 km/h fora de localidade, nas autoestradas, a velocidade máxima é de 100 km/h e de 90 km/h nas vias reservadas ao automóveis e motociclos.
+A velocidade máxima para triciclo dentro da localidade é de 50 km/h e de 80km/h fora de localidade, nas autoestradas, a velocidade máxima é de 100 km/h e de 90 km/h nas vias reservadas ao automóveis e motociclos.
 2145-Qual a velocidade máxima para automóveis ligeiros de passageiros e misto?
 A velocidade para automóveis ligeiros de passageiro e misto dentro da localidade é de 50km/h e de 70 á 90 km/h fora da localidade, nas autoestradas, a velocidade máxima é de 100 à 120km/h e de 80 à 100km/h nas vias reservadas ao automóveis e motociclos. A variação dessas velocidades depende se for com reboque ou sem reboque respetivamente.
 

@@ -7,29 +7,30 @@ export interface Question{
     important:number,
     question:string,
     answer:string,
-    questionLength:number,
-    answerLength:number,
+
     number:number,
     indexNumber:number
     type:string|"mechanics"|"theoretic",
     change:boolean,
     converted:boolean
     convertedQuestion:boolean
-    convertedAnswer:boolean
+    convertedAnswer:boolean,
+    questionLength:number,
+    answerLength:number,
 }
 
 export function readQuestions( qaFile: string, type:string ):Promise<{
     save(),
     questions:Question[],
-    minLength:number,
-    maxLength:number
+    minAnswerLength:number,
+    maxAnswerLength:number
 }>{
 
     return new Promise( ( resolve ) => {
         let baseName = Path.basename( qaFile, ".txt" );
         let listFile = Path.join( Path.dirname( qaFile ), `${baseName}.list` );
         let minLength = -1;
-        let maxLength = -1;
+        let maxAnswerLength = -1;
 
         let list = [];
 
@@ -109,16 +110,16 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
 
             questionsList.forEach( value => {
                 let length = value.answer.length;
-                if( minLength === -1 || maxLength === -1 ) {
+                if( minLength === -1 || maxAnswerLength === -1 ) {
                     minLength = length;
-                    maxLength = length;
+                    maxAnswerLength = length;
                 }
                 value.question = value.question.trim();
                 value.answer = value.answer.trim();
                 value.answerLength = length;
 
                 if( length < minLength ) minLength = length;
-                if( length > maxLength ) maxLength = length;
+                if( length > maxAnswerLength ) maxAnswerLength = length;
 
                 let findQuestion = last.find( value1 => value1.number === value.number );
                 value.change = !findQuestion
@@ -131,8 +132,8 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
             });
             resolve( {
                 questions: questionsList,
-                minLength,
-                maxLength,
+                minAnswerLength: minLength,
+                maxAnswerLength: maxAnswerLength,
                 save() {
                     fs.writeFileSync( qaFile+".json5", json5.stringify( questionsList, {
                         space: "  "

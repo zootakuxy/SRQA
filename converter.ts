@@ -11,8 +11,8 @@ let regexp = /[^a-zA-Z0-9\s\-._&]/g;
 
 let ttsManager = new TTSManager();
 
-export const MAX_TIME_PAUSE = 18;
-export const MIN_TIME_PAUSE = 8;
+export const MAX_TIME_PAUSE = 20;
+export const MIN_TIME_PAUSE = 5;
 export const DIFF_TIME_PAUSE = MAX_TIME_PAUSE - MIN_TIME_PAUSE;
 
 export type FileDirections = {
@@ -74,9 +74,6 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
             fs.rmSync(Path.join( audioFolder, "Important" ), { recursive: true });
 
         readQuestions( source.filename, source.name ).then( readQuestions => {
-            console.log({
-
-            } )
             let questions = [ ...readQuestions.questions ];
 
 
@@ -102,7 +99,7 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                     || ( !fs.existsSync( fdir.audioFileOf( _current, "Q&A" )) && opts.convert )
                 ;
 
-                let workName = `Convert question ${ _current.number } from ${ source.name } `;
+                let workName = `Convert question ${ _current.number } from ${ source.name } | ${ _current.question }`;
                 console.log( workName, "..." );
                 if( !convert ){
                     console.log( workName, "... skip!" );
@@ -115,7 +112,7 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                 let Jobs:{[p in "Q&A"|"question"|"answer"]:()=>Promise<boolean>} = {
                     question: () => {
                         return new Promise( (jobResolve, reject) => {
-                            let text = `<break time="1s"/>${_current.question}<break time="5s"/>`;
+                            let text = `<break time="1s"/>${ _current.question }<break time="5s"/>`;
                             let audioFile = fdir.audioFileOf( _current, "Question" );
                             let rawFile = fdir.rawFileOf( _current, "Question" );
 
@@ -160,7 +157,7 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                     }, "Q&A"(){
                         return new Promise( jobResolve => {
 
-                            let percent = (_current.questionLength * 1.0 )/readQuestions.maxLength;
+                            let percent = (_current.answerLength * 1.0 )/readQuestions.maxAnswerLength;
                             let time = (DIFF_TIME_PAUSE*percent)+MIN_TIME_PAUSE;
                             let seconds = Math.round(time);
 

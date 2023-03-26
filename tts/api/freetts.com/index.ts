@@ -57,7 +57,7 @@ export function freetts( opts:TTLOptions ):Promise<string>{
             }
 
 
-            console.log( "Using  token id ", useToken.name)
+            console.log( "Using  token id", useToken.name, "with credit of", useToken.credit, "characters.")
             axios.post( createAudioUrl, requestData, {
                 headers: header
             }).then( response => {
