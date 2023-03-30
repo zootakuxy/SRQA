@@ -161,7 +161,7 @@ Veículo prioritários, são todos aqueles que partem em missão de urgência ou
 74-O que é via?
 Via é o cenário onde o trânsito se desenrola.
 75-O que são vias públicas?
-Vias publicas, são todas as estradas, ruas e caminhos, onde circulam piões, animais e veículos que se fazem livremente com as prescrições resultantes do código de estrada e com algumas legislações complementares.
+Vias públicas, são todas as estradas, autoestrada, ruas por onde circulam piões, animais e veículos que se fazem livremente com as prescrições resultantes do código de estrada e com algumas legislações complementares.
 76-Como classificam as vias públicas?
 As vias publicas classificam em: estradas, autoestradas, ruas e caminhos.
 77-O são autoestrada?
@@ -171,11 +171,11 @@ Numa autoestrada o condutor não pode parar, estacionar, marcha trás, fazer inv
 79-Nas autoestradas há cruzamentos?
 Sim, nas autoestradas, vamos encontrar cruzamento desnivelado através de ponte ou túneis.
 80-O que entendes por estrada?
-Estradas, são via de comunicação terrestre, destinado ao trânsito interurbano.
+Estradas, são via de comunicação terrestre, que dão acesso as zonas interurbanas.
 81-O que são ruas?
-Ruas, são vias de comunicação terrestre, destinado ao trânsito dentro das localidades.
+Ruas, são vias de comunicação terrestre, que dão acesso as zonas urbanas.
 82-O que entendes por caminhos?
-Caminhos, são pequenas vias de comunicação terrestre, destinado ao trânsito nas zonas rurais.
+Caminhos, são pequenas vias de comunicação terrestre, que dão acesso as zonas rurais.
 83-Como classificam os caminhos?
 Caminhos classificam-se em: caminho proposto e caminho ver sinal.
 84-Em que caso se transita pela esquerda?
@@ -183,7 +183,7 @@ Podemos transitar pela esquerda quando vamos efetuar uma ultrapassagem ou mudan�
 85-Para que lado deve ser contornado as placas ou obstáculos que encontramos no eixo da via?
 Devem ser contornados sempre pelo lado direito desde que não haja sinalização em contrário.
 86-O que entendes por marcha trás?
-Marcha trás é a manobra que permite dirigir em sentido contrário da marcha normal.
+Marcha trás é a manobra que consiste em por o veículo a circular no sentido contrário da marcha normal.
 87-Como é feita marcha trás?
 Marcha trás é feita lentamente num menor trajeto possível.
 88-Como se classifica marcha trás?
@@ -531,9 +531,9 @@ Os elementos responsáveis pelas infrações são, o condutor, que é considerad
 2091-Qual a diferença entre elementos de segurança passivas e ativas?
 A diferença existente entre os elementos de segurança passivas e ativas, é que elementos de segurança ativas, são todos queles que tem como objetivo de evitar o acidente, tais como, pneus, travões, sistema ABS, suspensão, direção, espelho retrovisores, e pala anti encandeamento. Enquanto que elementos de segurança passivas, são todos aqueles que tem como objetivo minimizar os danos e proteger no caso de um acidente, tais como, cinto de segurança, airbag, capacete, e encosto de cabeça.
 2092-Qual a diferença entre reboque e semirreboque?
-A diferença entre reboque e semirreboque, é que reboque é um veículo não automóvel, destinado a atrelar um veículo automóvel, já o semirreboque, é um tipo de reboque em que a sua parte de frente assenta sobre o veículo a motor distribuindo seu peso sobre este.
+A diferença entre reboque e semirreboque, é que reboque é um veículo não automóvel, destinado a atrelar um veículo automóvel, já o semirreboque, é um tipo de reboque em que a sua parte de frente assenta sobre o veículo a motor distribuindo seu peso sobre este e as suas quatro rodas trava, quando o condutor aciona o travão.
 2093-O que entendes por semirreboque?
-Semirreboque, é um tipo de reboque cuja parte da frente assenta sobre o veículo a motor, distribuindo o peso sobre este.
+Semirreboque, é um tipo de reboque cuja parte da frente assenta sobre o veículo a motor, distribuindo o peso sobre este e as suas quatro rodas trava, quando o condutor aciona o travão.
 2094-O que entendes por contraordenação?
 Contraordenação, são todas as violações dos códigos da estrada.
 2095-O que são veículos não automóveis?
@@ -579,7 +579,7 @@ A manobra de ultrapassagem é proibida, nos locais com visibilidade insuficiente
 2114-Onde é proibido efetuar inversão do sentido de marcha!?
 A inversão do sentido de marcha, é proibida, nas lombas, nas curvas, rotundas, cruzamento e entroncamento, nas ponte, túneis e passagem de nível, qualquer lugar com má visibilidade ou de características inapropriadas, nas vias de sentidos único, autoestrada e sempre que se verificar grandes intensidades de trânsito.
 2115-Qual a diferença entre o trânsito e vias públicas!?
-A diferença entre o trânsito e via pública, é que trânsito consistem em circulação de pessoas, animais e veículos nas vias publicas. Já vias públicas, são todas as estradas, ruas e caminhos, onde circulam piões, animais e veículos que se fazem livremente com as prescrições resultantes do código de estrada e com algumas legislações complementares.
+A diferença entre o trânsito e via pública, é que trânsito consistem em circulação de pessoas, animais e veículos nas vias publicas. Já vias públicas, são todas as estradas, ruas e caminhos, aberta ao trânsito.
 2116-Quais são os tipos de paragem que conheces!?
 Os tipos de paragens que conheço são, normal, forçadas e por motivo da própria circulação.
 Normal, é quando precisamos parar para pegar ou largar passageiros e mercadoria. Forçada, é por motivo de avarias nos veículos. Por motivo da própria circulação, quando houver congestionamento.
@@ -603,8 +603,8 @@ O outro nome que podemos chamar o sinal de aproximação de pista de aviação �
 Velocidade moderada, é quando o condutor consegue parar num espaço livre e visível a sua frente.
 2126-A que distância deve ser visível o sinal de reboque?
 O sinal de reboque deve ser visível numa distância de 100 metros.
-2127-Qual é o peso bruto distribuído por cada passageiro?
-O peso bruto distribuído por cada passageiro é de 75kg.
+2127-Quando se trata de peso bruto, quantos quilos são atribuídos ao condutor?
+Quando se trata de peso bruto, é atribuído ao condutor 75kg.
 2128-Qual o nível de infração por pisar na linha contínua?
 Pisar na linha contínua é uma infração muito grave.
 2129-Qual o valor de eficiência, quando usamos o travão de pé!?
@@ -641,7 +641,7 @@ O outro nome que podemos chamar a luz amarela constante do sinal luminoso regula
 2140-Em caso de avaria na autoestrada, como deve proceder o condutor?
 Em caso de avaria na autoestrada, primeiramente devo encostar o veículo o mais a direita possível, em seguida vestir o colete refletor, ligar as luzes do perigo quatro piscas acesas em simultâneo, colocar o sinal de pré-sinalização do perigo e ligar para o serviço de reboque.
 2141-Qual a velocidade máxima dos veículos nas diferentes vias?
-A velocidade máxima para os veículos, na zona de coexistência e de 20 km/h, dentro da localidade é de 50k/h, fora de localidade é de 90 km/h, nas auto estrada é de 120 km/h e de 100 km/h nas vias reservadas ao automóveis e motociclos.
+A velocidade máxima para os veículos, na zona de coexistência e de 20 km/h, dentro da localidade é de 50km/h, fora de localidade é de 90 km/h, nas auto estrada é de 120 km/h e de 100 km/h nas vias reservadas ao automóveis e motociclos.
 2142-Qual a velocidade máxima para os motociclos?
 A velocidade máxima para motociclos dentro de localidade é de 50 km/h e de 90km/h fora de localidade, nas autoestradas é de 120km/h e de 100km/h nas vias reservadas ao automóveis e motociclo. Para motociclo com caro lateral a velocidade máxima é de menos 20km/h nos mesmos locais exceto nas localidades.
 2143-Qual a velocidade máxima para os ciclomotores e quadriciclos?
@@ -665,4 +665,18 @@ A velocidade máxima para máquina agrícolas motocultivadores e tratocarros é 
 A velocidade máxima para máquina industriais sem matrículas dentro e fora de localidade é de 30km/h.
 2152-Qual a velocidade máxima para máquinas industriais com matrículas?
 A velocidade máxima para máquina industrial com matrícula dentro de localidade é de 40km/h e de 70km por hora fora de localidade, nas autoestradas, a velocidade máxima é de 80km/h e de 70km/h nas vias reservadas ao automóveis e motociclos.
-
+2153-Qual deve ser o reboque que pode atrelar o veículo ligeiro?
+O veículo ligeiro só pode atrelar reboque cujo peso bruto não excede a 750KG.
+2154-O que nos indica a luz amarela na parte superior do tejadilho do veículo?
+Os veículos com a luz amarela na parte superior de tejadilho indica-nos que é um veículo de marcha lenta.
+2155-De exemplos de carga que não possa ser demolido?
+Alguns exemplos de carga que não possa ser demolido são, contentor, máquinas industriais, tronco de árvore.
+2156-O que entendes por bifurcação?
+ Bifurcação, no contexto rodoviário, é a junção de duas vias que tomam destino diferente e que não tem fim.
+2157-O que entendes por condutor provisórios?
+Condutor provisórios, são todos aqueles que receberam a sua licença de condução em menos de 3 anos.
+No contexto de álcool, esses condutores não podem conduzir com influência de álcool, ou seja, não devem apresentar uma taxa de álcool superior a 2g por litro de sangue enquanto conduzem.
+2158-O que o condutor deve fazer se o veículo tiver avarias mecânica na passagem de nível?
+Se o veículo tiver avarias mecânica na passagem de nível, o condutor deve tentar retirar o seu veículo o mais rápido se possível, caso não, deve abandonar o veículo e ligar para os serviços ferroviário informando a situação.
+2159-O que entendes por ponto de embreagem?
+Ponto de embreagem, consiste na imobilização dos veículos nas inclinações sem o auxílio dos travões.

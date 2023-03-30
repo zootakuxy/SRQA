@@ -11,8 +11,9 @@ let regexp = /[^a-zA-Z0-9\s\-._&]/g;
 
 let ttsManager = new TTSManager();
 
-export const MAX_TIME_PAUSE = 20;
-export const MIN_TIME_PAUSE = 5;
+export const MAX_TIME_PAUSE = 25;
+export const MIN_TIME_PAUSE = 8;
+export const END_TIME_PAUSE  = 5;
 export const DIFF_TIME_PAUSE = MAX_TIME_PAUSE - MIN_TIME_PAUSE;
 
 export type FileDirections = {
@@ -161,7 +162,7 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                             let time = (DIFF_TIME_PAUSE*percent)+MIN_TIME_PAUSE;
                             let seconds = Math.round(time);
 
-                            let text = `<break time="2s"/>${_current.question}<break time="${seconds}s"/>\n${_current.answer}<break time="4s"/>`;
+                            let text = `<break time="2s"/>${_current.question}<break time="${seconds}s"/>\n${_current.answer}<break time="${END_TIME_PAUSE}s"/>`;
                             let audioFile = fdir.audioFileOf( _current, "Q&A" );
                             let rawFile = fdir.rawFileOf( _current, "Q&A" );
 
