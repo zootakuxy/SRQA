@@ -37,9 +37,13 @@ export function freetts( opts:TTLOptions ):Promise<string>{
                 return resolve ( null );
             }
 
-            let useToken = sort(tokens).by([
+            let useToken = sort(tokens.filter( value => {
+                return value.credit > opts.text.length
+            })).by([
                 { desc: prop => Number(prop.credit) }
             ])[0];
+
+            if( !useToken ) return resolve( null );
 
             let header:AxiosHeaders = new AxiosHeaders();
             header.set("Authorization", useToken.key );
