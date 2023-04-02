@@ -18,10 +18,11 @@ else engine = http;
 
 
 let tokens:({credit:number, key:string, name?:string})[] = [];
-Object.keys( etc.document.freetts.token ).forEach( (key)=>{
+Object.keys( etc.document.freetts.token ).forEach( (key,  index)=>{
     let bearer = etc.document.freetts.token[ key ];
-    bearer.credit = bearer.credit || 0;
     bearer.credit = Number( bearer.credit );
+    bearer.name = bearer.name || `token-${ index+1 }`;
+    if( !Number.isSafeInteger( bearer.credit ) ) bearer.credit = 9999;
     tokens.push( bearer );
 });
 

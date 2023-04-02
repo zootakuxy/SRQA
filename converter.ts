@@ -93,12 +93,19 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
             let _process = ()=>{
                 let _current = questions.shift();
                 if( !_current ) return resolve( source );
+
+                if( _current.change || ( !fs.existsSync( fdir.audioFileOf( _current, "Q&A" )) && opts.convert ) ) _current.converted = false;
+                if( _current.change || ( !fs.existsSync( fdir.audioFileOf( _current, "Question" )) && opts.convertQuestion ) ) _current.convertedQuestion = false;
+                if( _current.change || ( !fs.existsSync( fdir.audioFileOf( _current, "Response" )) && opts.convertAnswer ) ) _current.convertedAnswer = false;
+
+                readQuestions.save();
+
                 let convert = _current.change
                     || !_current.converted
-                    || ( !fs.existsSync( fdir.audioFileOf( _current, "Question" )) && opts.convertQuestion )
-                    || ( !fs.existsSync( fdir.audioFileOf( _current, "Response" )) && opts.convertAnswer )
-                    || ( !fs.existsSync( fdir.audioFileOf( _current, "Q&A" )) && opts.convert )
+                    || !_current.convertedAnswer
+                    || !_current.convertedQuestion
                 ;
+
 
                 let workName = `Convert question ${ _current.number } from ${ source.name } | ${ _current.question }`;
                 console.log( workName, "..." );
@@ -113,10 +120,9 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                 let Jobs:{[p in "Q&A"|"question"|"answer"]:()=>Promise<boolean>} = {
                     question: () => {
                         return new Promise( (jobResolve, reject) => {
-                            let text = `<break time="1s"/>${ _current.question }<break time="5s"/>`;
+                            let text = `<break time="1s"/>${ _current.question }`;
                             let audioFile = fdir.audioFileOf( _current, "Question" );
                             let rawFile = fdir.rawFileOf( _current, "Question" );
-
 
                             ttlOptions.voice = voice.voiceName;
                             ttlOptions.voiceType = voice.voiceType;
@@ -135,7 +141,7 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                         })
                     }, answer: () => {
                         return new Promise( (jobResolve, reject) => {
-                            let text = `<break time="1s"/>${_current.answer }<break time="5s"/>`;
+                            let text = `<break time="1s"/>${ _current.answer }`;
                             let audioFile = fdir.audioFileOf( _current, "Response" );
                             let rawFile = fdir.rawFileOf( _current, "Response" );
 
@@ -187,9 +193,9 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                 }
 
                 let useJobs:(()=>Promise<boolean>)[] = [];
-                if( opts.convertQuestion ) useJobs.push( Jobs["question"]);
-                if( opts.convertAnswer ) useJobs.push( Jobs["answer"]);
-                if( opts.convert ) useJobs.push( Jobs["Q&A"]  );
+                if( opts.convertQuestion && !_current.convertedQuestion ) useJobs.push( Jobs["question"]);
+                if( opts.convertAnswer && !_current.convertedAnswer ) useJobs.push( Jobs["answer"]);
+                if( opts.convert && !_current.converted ) useJobs.push( Jobs["Q&A"]  );
 
                 let _jobGo = ()=>{
                     let _nextJob = useJobs.shift();
@@ -204,39 +210,6 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                     });
                 };
                 _jobGo();
-
-                // text = `<break time="1s"/>${_current.question}<break time="15s"/>`;
-                // audioFile = fdir.audioFileOf( _current, "Question" );
-                // rawFile = fdir.rawFileOf( _current, "Question" );
-                // ttsManager.convert( source.configs.translate.language, voice, _current.question, audioFile,  `${ workName } ... CREATED QUESTION` ).then( rawQuestion => {
-                //     if( !rawQuestion ) return resolve( false );
-                //
-                //     fs.mkdirSync( Path.dirname( rawFile ), { recursive: true } );
-                //     fs.writeFileSync( rawFile, rawQuestion );
-                //
-                //     audioFile = fdir.audioFileOf( _current, "Response" );
-                //     rawFile = fdir.rawFileOf( _current, "Response" );
-                //     ttsManager.convert( source.configs.translate.language, voice, _current.answer, audioFile, `${workName} ... CREATED ANSWER` ).then( rawAnswer => {
-                //         if( !rawAnswer ) return resolve( false );
-                //         fs.mkdirSync( Path.dirname( rawFile ), { recursive: true } );
-                //         fs.writeFileSync( rawFile, rawAnswer );
-
-                        // text = `<break time="1s"/>${_current.question}<break time="10s"/>\n${_current.answer}<break time="5s"/>`;
-                        //
-                        // audioFile = fdir.audioFileOf( _current, "Q&A" );
-                        // rawFile = fdir.rawFileOf( _current, "Q&A" );
-                        // ttsManager.convert( source.configs.translate.language, voice, text, audioFile, `${workName} ... CREATED Q&A` ).then( rawQA => {
-                        //     if( !rawQA ) return resolve( false );
-                        //     fs.mkdirSync( Path.dirname( rawFile ), { recursive: true } );
-                        //     fs.writeFileSync( rawFile, rawQA );
-                        //     _current.converted = true;
-                        //     readQuestions.save();
-                        //
-                        //
-                        //     next( _current );
-                        // })
-                    // })
-                // });
             };
 
             let next = ( _preview:Question )=>{

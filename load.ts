@@ -73,7 +73,7 @@ export const etc  = {
     }
 };
 etc.restore();
-console.log( etc.document.freetts );
+// console.log( etc.document.freetts );
 
 export type ETCStructure = typeof etc
 

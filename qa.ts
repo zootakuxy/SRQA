@@ -17,6 +17,8 @@ export interface Question{
     convertedAnswer:boolean,
     questionLength:number,
     answerLength:number,
+    answerWords:number,
+    questionsWords:number
 }
 
 export function readQuestions( qaFile: string, type:string ):Promise<{
@@ -84,7 +86,9 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
                     convertedAnswer: false,
                     indexNumber: list.indexOf( index )+11,
                     questionLength: questionName.length,
-                    answerLength: 0
+                    answerLength: 0,
+                    questionsWords: 0,
+                    answerWords: 0
                 }
                 questionsList.push( question );
             } else {
@@ -117,6 +121,8 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
                 value.question = value.question.trim();
                 value.answer = value.answer.trim();
                 value.answerLength = length;
+                value.questionsWords = value.question.split(" " ).length;
+                value.answerWords = value.answer.split(" " ).length;
 
                 if( length < minLength ) minLength = length;
                 if( length > maxAnswerLength ) maxAnswerLength = length;
