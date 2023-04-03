@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "tsc-w": "tsc -w",
+    "Listen": "node listen.js",
     "Q|A|Q&A": "node launcher/all.js",
     "Q&A": "node launcher/Q&A.js",
     "QandA": "node launcher/QandA.js",

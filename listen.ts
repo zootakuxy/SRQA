@@ -47,17 +47,22 @@ export type PlaylistOptions = {
 
 
 class PlayList {
-    private playlist:QuestionPlay[];
-    private replay:boolean;
-    private replayAll:boolean;
-    private random:boolean;
+    private readonly _playlist:QuestionPlay[];
+    replay:boolean;
+    replayAll:boolean;
+    random:boolean;
 
 
     constructor( playlist:QuestionPlay[], opts:PlaylistOptions ) {
-        this.playlist = playlist;
+        this._playlist = playlist;
         this.replay = opts?.replay;
         this.replayAll = opts?.replayAll;
         this.random = opts?.random;
+    }
+
+
+    get playlist(): QuestionPlay[] {
+        return this._playlist;
     }
 
     run( filename:string ):Promise<boolean>{
@@ -73,7 +78,7 @@ class PlayList {
 
     public play(){
 
-        let list = [ ...this.playlist ];
+        let list = [ ...this._playlist ];
         if( this.random ) list = this.shuffle( list );
         let first = list.shift();
 
@@ -95,7 +100,7 @@ class PlayList {
                     if( !value )  return _playNext();
                     this.run( question.fdir.audioFileOf( question, "Response" ) ).then( value => setTimeout( ()=>{
                         _playNext()
-                    }, 2*1000) );
+                    }, 1.5*1000) );
                 }, ( waitSecond )*1000)
             })
             setTimeout( () =>{

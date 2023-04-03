@@ -462,7 +462,7 @@ Atender a regra de prioridade, significa que o condutor tem de ceder a passagem 
 2061-O que entendes por visão em túnel?
 Visão em túnel, consiste na perda do campo visual lateral dentro dos tuneis.
 2062-O que entendes por visão noturna?
-Visão noturna, é a qual o condutor conduz com ajuda das luzes do veículo.
+Visão noturna, é a qual o condutor conduz com o auxílio das luzes do veículo.
 2063-O que são Lombas Redutoras de Velocidades ou lomba materializada?
 Lombas Redutoras de Velocidades ou lomba materializada, são secção elevada da faixa de rodagem construída em toda sua largura, com carácter não temporário, com objetivo de obrigar os condutores a praticarem uma velocidade mais reduzida.
 
@@ -531,9 +531,9 @@ Os elementos responsáveis pelas infrações são, o condutor, que é considerad
 2091-Qual a diferença entre elementos de segurança passivas e ativas?
 A diferença existente entre os elementos de segurança passivas e ativas, é que elementos de segurança ativas, são todos queles que tem como objetivo de evitar o acidente, tais como, pneus, travões, sistema ABS, suspensão, direção, espelho retrovisores, e pala anti encandeamento. Enquanto que elementos de segurança passivas, são todos aqueles que tem como objetivo minimizar os danos e proteger no caso de um acidente, tais como, cinto de segurança, airbag, capacete, e encosto de cabeça.
 2092-Qual a diferença entre reboque e semirreboque?
-A diferença entre reboque e semirreboque, é que reboque é um veículo não automóvel, destinado a atrelar um veículo automóvel, já o semirreboque, é um tipo de reboque em que a sua parte de frente assenta sobre o veículo a motor distribuindo seu peso sobre este e as suas quatro rodas trava, quando o condutor aciona o travão.
+A diferença entre reboque e semirreboque, é que reboque é um veículo não automóvel, destinado a atrelar um veículo automóvel, já o semirreboque, é um tipo de reboque em que a sua parte de frente assenta sobre o veículo a motor distribuindo seu peso sobre este, também, as suas quatro rodas travam, quando o condutor aciona o travão.
 2093-O que entendes por semirreboque?
-Semirreboque, é um tipo de reboque cuja parte da frente assenta sobre o veículo a motor, distribuindo o peso sobre este e as suas quatro rodas trava, quando o condutor aciona o travão.
+Semirreboque, é um tipo de reboque cuja parte da frente assenta sobre o veículo a motor, distribuindo o peso sobre este, também, as suas quatro rodas travam, quando o condutor aciona o travão.
 2094-O que entendes por contraordenação?
 Contraordenação, são todas as violações dos códigos da estrada.
 2095-O que são veículos não automóveis?
@@ -643,20 +643,37 @@ Em caso de avaria na autoestrada, primeiramente devo encostar o veículo o mais 
 2141-Qual a velocidade máxima dos veículos nas diferentes vias?
 A velocidade máxima para os veículos, na zona de coexistência e de 20 km/h, dentro da localidade é de 50km/h, fora de localidade é de 90 km/h, nas auto estrada é de 120 km/h e de 100 km/h nas vias reservadas ao automóveis e motociclos.
 2142-Qual a velocidade máxima para os motociclos?
-A velocidade máxima para motociclos dentro de localidade é de 50 km/h e de 90km/h fora de localidade, nas autoestradas é de 120km/h e de 100km/h nas vias reservadas ao automóveis e motociclo. Para motociclo com caro lateral a velocidade máxima é de menos 20km/h nos mesmos locais exceto nas localidades.
+A velocidade máxima para motociclos dentro de localidade é de 50 km/h e de 90km/h fora de localidade, nas autoestradas é de 120km/h e de 100km/h nas vias reservadas ao automóveis e motociclo.
+2142.1-Qual a velocidade máxima para os motociclos com caro lateral?
+A velocidade máxima para motociclo com carro lateral, dentro da localidade é de 50km/h e de 70km/h fora da localidade, nas auto estrada é de 100km/h e de 80km/h nas vias reservada ao automóveis e motociclo. A sua velocidade exceto nas localidades, é de menos 20km/h nos mesmos locais quando circula sem carro lateral.
+2142.1-Qual a velocidade máxima de cilindrada não superior a 50cm3?
+A velocidade máxima para motociclo de cilindrada não superior o 50cm3, dentro de localidade é de 40km/h e de 60km/h fora de localidade.
+
 2143-Qual a velocidade máxima para os ciclomotores e quadriciclos?
 A velocidade máxima para ciclomotores dentro da localidade é de 40km/h e de 45km/h fora de localidade.
 2144-Qual a velocidade máxima para os triciclos?
 A velocidade máxima para triciclo dentro da localidade é de 50 km/h e de 80km/h fora de localidade, nas autoestradas, a velocidade máxima é de 100 km/h e de 90 km/h nas vias reservadas ao automóveis e motociclos.
 2145-Qual a velocidade máxima para automóveis ligeiros de passageiros e misto?
-A velocidade para automóveis ligeiros de passageiro e misto dentro da localidade é de 50km/h e de 70 á 90 km/h fora da localidade, nas autoestradas, a velocidade máxima é de 100 à 120km/h e de 80 à 100km/h nas vias reservadas ao automóveis e motociclos. A variação dessas velocidades depende se for com reboque ou sem reboque respetivamente.
+A velocidade para automóveis ligeiros de passageiro e misto dentro da localidade é de 50km/h e de 90km/h fora da localidade, nas autoestradas, a velocidade máxima é de 120km/h e de 100km/h nas vias reservadas ao automóveis e motociclos.
+2145.1-Qual a velocidade máxima para automóveis ligeiros de passageiros e misto com reboque?
+A velocidade para automóveis ligeiros de passageiro e misto dentro da localidade é de 50km/h e de 70km/h fora da localidade, nas autoestradas, a velocidade máxima é de 100km/h e de 80km/h nas vias reservadas ao automóveis e motociclos.
 
 2146-Qual a velocidade máxima para automóveis ligeiros de mercadoria?
-A velocidade máxima para automóveis ligeiros de mercadorias dentro da localidade é de 50 km/h e 70 à 80km/h fora da localidade, nas autoestradas, a velocidade máxima é de 90 à 110km/h e de 80 à 90km/h nas vias reservadas ao automóveis e motociclos.
+A velocidade máxima para automóveis ligeiros de mercadorias dentro da localidade é de 50 km/h e de 80km/h fora da localidade, nas autoestradas, a velocidade máxima é de 110km/h e de 90km/h nas vias reservadas ao automóveis e motociclos.
+2146.1-Qual a velocidade máxima para automóveis ligeiros de mercadoria com reboque?
+A velocidade máxima para automóveis ligeiros de mercadorias dentro da localidade é de 50 km/h e de 70km/h fora da localidade, nas autoestradas, a velocidade máxima é de 100km/h e de 80km/h nas vias reservadas ao automóveis e motociclos.
+
 2147-Qual a velocidade máxima para automóveis pesado de mercadoria?
-A velocidade máxima para automóveis pesado de mercadoria dentro de localidade é de 40 á 50 km/h e de 70 á 80 km/h fora de localidade, nas autoestradas, a velocidade máxima é de 80 á 90 km/h e de 70 á 80 km/h nas vias reservadas ao automóveis e motociclo. A variação dessas velocidades depende se for com reboque ou sem reboque respetivamente.
+A velocidade máxima para automóveis pesado de mercadoria dentro de localidade é de 50 km/h e de 80km/h fora de localidade, nas autoestradas, a velocidade máxima é de 90 km/h e de 80 km/h nas vias reservadas ao automóveis e motociclo.
+
+2147.1-Qual a velocidade máxima para automóveis pesado de mercadoria com reboque?
+A velocidade máxima para automóveis pesado de mercadoria dentro de localidade é de 40km/h e de 70km/h fora de localidade, nas autoestradas, a velocidade máxima é de 80km/h e de 70km/h nas vias reservadas ao automóveis e motociclo.
+
 2148-Qual a velocidade máxima para automóveis pesado de passageiro?
-A velocidade para automóveis pesado de passageiros dentro da localidade é de 50 km/h e de 70 á 80 km/h fora da localidade, nas autoestradas, a velocidade máxima é de 90 á 100 km/h e de 90 km/h nas vias reservadas ao automóveis e motociclos. A variação dessas velocidades depende se for com reboque ou sem reboque respetivamente.
+A velocidade para automóveis pesado de passageiros dentro da localidade é de 50 km/h e de 80 km/h fora da localidade, nas autoestradas, a velocidade máxima é de 100 km/h e de 90 km/h nas vias reservadas ao automóveis e motociclos.
+2148.1-Qual a velocidade máxima para automóveis pesado de passageiro com reboque?
+A velocidade para automóveis pesado de passageiros dentro da localidade é de 50km/h e de 70km/h fora da localidade, nas autoestradas e nas vias reservadas ao automóveis e motociclo, a velocidade máxima é de 90km/h.
+
 2149-Qual a velocidade máxima para tratores agrícolas ou florestais?
 A velocidade máxima para tratores agrícolas ou florestais dentro de localidade é de 30km/h e de 40km/h fora de localidade.
 2150-Qual a velocidade máxima para máquinas agrícolas, motocultivadores e tratocarros?
@@ -666,7 +683,7 @@ A velocidade máxima para máquina industriais sem matrículas dentro e fora de 
 2152-Qual a velocidade máxima para máquinas industriais com matrículas?
 A velocidade máxima para máquina industrial com matrícula dentro de localidade é de 40km/h e de 70km por hora fora de localidade, nas autoestradas, a velocidade máxima é de 80km/h e de 70km/h nas vias reservadas ao automóveis e motociclos.
 2153-Qual deve ser o reboque que pode atrelar o veículo ligeiro?
-O veículo ligeiro só pode atrelar reboque cujo peso bruto não excede a 750KG.
+O veículo ligeiro só pode atrelar reboque cujo peso bruto não excede a 750kg.
 2154-O que nos indica a luz amarela na parte superior do tejadilho do veículo?
 Os veículos com a luz amarela na parte superior de tejadilho indica-nos que é um veículo de marcha lenta.
 2155-De exemplos de carga que não possa ser demolido?
