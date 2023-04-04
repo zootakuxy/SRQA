@@ -1,11 +1,14 @@
-import {etc, Source} from "./load";
-import {Question, readQuestions} from "./qa";
+import {etc, Source} from "../load";
+import {Question, readQuestions} from "../qa";
 import * as Path from "path";
 import * as fs from "fs";
-import {TTLOptions, TTSManager} from "./tts";
+import {TTLOptions, TTSManager} from "../tts";
 import {normalizeDiacritics} from "normalize-text";
-import {id3Question} from "./id3";
+import {id3Question} from "../util/id3";
 import * as console from "console";
+import {decompose} from "../util/decompose";
+import {timePause} from "../player";
+import {breakTimeAudios} from "./break-time";
 
 let regexp = /[^a-zA-Z0-9\s\-._&]/g;
 
@@ -17,12 +20,12 @@ export const END_TIME_PAUSE  = 5;
 export const DIFF_TIME_PAUSE = MAX_TIME_PAUSE - MIN_TIME_PAUSE;
 
 export type FileDirections = {
-    audioFileOf( question:Question,  type:"Q&A"|"Question"|"Response"|"Important" ):string
-    rawFileOf( question:Question,  type:"Q&A"|"Question"|"Response"|"Important" ):string
+    audioFileOf( question:Question,  type:"Q&A"|"Q+A"|"Question"|"Answer"|"Important" ):string
+    rawFileOf( question:Question,  type:"Q&A"|"Q+A"|"Question"|"Answer"|"Important" ):string
 }
 export function fileDirections( source:Source, audioFolder, rawFolder ):FileDirections{
     return {
-        audioFileOf( question:Question,  type:"Q&A"|"Question"|"Response"|"Important" ){
+        audioFileOf( question:Question,  type:"Q&A"|"Q+A"|"Question"|"Answer"|"Important" ){
             let fileName = `${type} - ${( question.number+"").padStart(3, "0") } - ${ question.question }.mp3`;
             if( type === "Important"){
                 fileName = `${ question.type } - ${type}_${question.important} - ${( question.number+"").padStart(3, "0") } - ${ question.question }.mp3`;
@@ -33,8 +36,9 @@ export function fileDirections( source:Source, audioFolder, rawFolder ):FileDire
 
             let LabelType:{[p in typeof type]:string} = {
                 "Q&A": "Q&A",
+                "Q+A": "Q+A",
                 Question: "Question",
-                Response: "Answerer",
+                Answer: "Answer",
                 Important: "Q&A"
             }
 
@@ -43,14 +47,15 @@ export function fileDirections( source:Source, audioFolder, rawFolder ):FileDire
             } else audioFile = Path.join( audioFolder, type, `${LabelType[type]} - ${ source.name }`, fileName );
             return audioFile;
         },
-        rawFileOf ( question:Question,  type:"Q&A"|"Question"|"Response"|"Important" ){
+        rawFileOf ( question:Question,  type:"Q&A"|"Q+A"|"Question"|"Answer"|"Important" ){
             let fileName = `${type} - ${( question.number+"").padStart(3, "0") } - ${ question.question }.raw`;
             fileName = fileName.replace( regexp, "" );
             let rawFile;
             let LabelType:{[p in typeof type]:string} = {
                 "Q&A": "Q&A",
+                "Q+A": "Q+A",
                 Question: "Question",
-                Response: "Answerer",
+                Answer: "Answer",
                 Important: "Q&A"
             }
             rawFile = Path.join( rawFolder, type, `${LabelType[type]} - ${ source.name }`, fileName );
@@ -64,7 +69,7 @@ export type ConvertOptions = {
     convertQuestion?:boolean,
     convertAnswer?:boolean
 }
-export function converter( source:Source, audioFolder:string, rawFolder:string, opts:ConvertOptions ){
+export function conversionCore(source:Source, audioFolder:string, rawFolder:string, opts:ConvertOptions ){
 
 
     let fdir = fileDirections( source, audioFolder, rawFolder );
@@ -96,7 +101,7 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
 
                 if( _current.change || ( !fs.existsSync( fdir.audioFileOf( _current, "Q&A" )) && opts.convert ) ) _current.converted = false;
                 if( _current.change || ( !fs.existsSync( fdir.audioFileOf( _current, "Question" )) && opts.convertQuestion ) ) _current.convertedQuestion = false;
-                if( _current.change || ( !fs.existsSync( fdir.audioFileOf( _current, "Response" )) && opts.convertAnswer ) ) _current.convertedAnswer = false;
+                if( _current.change || ( !fs.existsSync( fdir.audioFileOf( _current, "Answer" )) && opts.convertAnswer ) ) _current.convertedAnswer = false;
 
                 readQuestions.save();
 
@@ -105,7 +110,6 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                     || !_current.convertedAnswer
                     || !_current.convertedQuestion
                 ;
-
 
                 let workName = `Convert question ${ _current.number } from ${ source.name } | ${ _current.question }`;
                 console.log( workName, "..." );
@@ -117,9 +121,9 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                 let isPair = _current.number%2 === 0;
                 let voice = isPair? source.configs.translate[2] : source.configs.translate[1];
 
-                let Jobs:{[p in "Q&A"|"question"|"answer"]:()=>Promise<boolean>} = {
+                let Jobs:{[p in "Q&A"|"question"|"answer"|"Q+A"]:()=>Promise<boolean>} = {
                     question: () => {
-                        return new Promise( (jobResolve, reject) => {
+                        return new Promise( ( jobResolve ) => {
                             let text = `<break time="1s"/>${ _current.question }`;
                             let audioFile = fdir.audioFileOf( _current, "Question" );
                             let rawFile = fdir.rawFileOf( _current, "Question" );
@@ -142,8 +146,8 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                     }, answer: () => {
                         return new Promise( (jobResolve, reject) => {
                             let text = `<break time="1s"/>${ _current.answer }`;
-                            let audioFile = fdir.audioFileOf( _current, "Response" );
-                            let rawFile = fdir.rawFileOf( _current, "Response" );
+                            let audioFile = fdir.audioFileOf( _current, "Answer" );
+                            let rawFile = fdir.rawFileOf( _current, "Answer" );
 
 
                             ttlOptions.voice = voice.voiceName;
@@ -161,10 +165,24 @@ export function converter( source:Source, audioFolder:string, rawFolder:string, 
                                 jobResolve(true )
                             })
                         });
+                    }, "Q+A"(){
+                        return new Promise( jobResolve => {
+                            let audios:string[] = [
+                                fdir.audioFileOf( _current, "Question" ),
+                                ... breakTimeAudios( timePause( _current.answerLength ) ),
+                                fdir.audioFileOf( _current, "Answer" ),
+                                ...breakTimeAudios( 2 )
+                            ];
+
+                            let audioFile = fdir.audioFileOf( _current, "Q+A" );
+
+
+
+                        });
                     }, "Q&A"(){
                         return new Promise( jobResolve => {
 
-                            let percent = (_current.answerLength * 1.0 )/readQuestions.maxAnswerLength;
+                            let percent = ( _current.answerLength * 1.0 )/readQuestions.maxAnswerLength;
                             let time = (DIFF_TIME_PAUSE*percent)+MIN_TIME_PAUSE;
                             let seconds = Math.round(time);
 

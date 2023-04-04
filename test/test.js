@@ -39,9 +39,58 @@
 // });
 
 
+var audioconcat = require('audioconcat')
+const Path = require("path");
+const fs = require("fs");
 
-const sound = require("sound-play");
-const path = require("path");
 //language=file-reference
-const filePath = path.join(__dirname, "../audios/001.mp3");
-sound.play(filePath, 0.1)
+var songs = [
+    // Path.join( __dirname, "../source/break_time_01_second.mp3" ),
+    Path.join( __dirname, "../source/ola.mp3" ),
+    // Path.join( __dirname, "../source/break_time_01_second.mp3" ),
+    Path.join( __dirname, "../source/ola.mp3" ),
+    // Path.join( __dirname, "../source/break_time_01_second.mp3" ),
+    Path.join( __dirname, "../source/ola.mp3" ),
+    // Path.join( __dirname, "../source/break_time_01_second.mp3" ),
+    Path.join( __dirname, "../source/ola.mp3" ),
+    // Path.join( __dirname, "../source/break_time_01_second.mp3" ),
+    // Path.join( __dirname, "../source/break_time_0_1_second.mp3" ),
+    // Path.join( __dirname, "../source/break_time_0_1_second.mp3" ),
+    // Path.join( __dirname, "../source/break_time_0_1_second.mp3" ),
+    // Path.join( __dirname, "../source/break_time_0_1_second.mp3" ),
+    // Path.join( __dirname, "../source/break_time_0_1_second.mp3" ),
+    // Path.join( __dirname, "../source/break_time_0_1_second.mp3" ),
+    // Path.join( __dirname, "../source/break_time_0_1_second.mp3" ),
+    // Path.join( __dirname, "../source/break_time_0_1_second.mp3" ),
+    // Path.join( __dirname, "../source/break_time_0_1_second.mp3" ),
+    // Path.join( __dirname, "../source/break_time_0_1_second.mp3" ),
+    // Path.join( __dirname, "../source/ola.mp3" ),
+]
+// var wavconcat = require('wav-concat')
+//
+// var ffmpeg = require('fluent-ffmpeg');
+// var command = ffmpeg();
+//
+//
+// //language=file-reference
+// console.log(  process.cwd(), Path.relative( process.cwd(), Path.join( __dirname, "../source/break_time_01_second.mp3" ) ))
+// console.log( ffmpeg() )
+// ffmpeg()
+//     .input(( Path.join( __dirname, "../source/ola.mp3" ) ))
+//     .mergeToFile(( Path.join( __dirname, "../source/ola2.mp3" ) ))
+
+
+//language=file-reference
+let write = fs.createWriteStream( Path.join(__dirname, "../source/all.mp3")  );
+
+let procede = ( ) =>{
+    if( !songs.length ) return;
+    let stream = fs.createReadStream( songs.shift() );
+    stream.pipe(write, {end: false});
+    stream.on( "close", ()=>{
+        procede();
+    });
+}
+
+procede();
+

@@ -1,6 +1,6 @@
 import NodeID3, { Tags } from "node-id3";
-import {Question} from "./qa";
-import {FileDirections} from "./converter";
+import {Question} from "../qa";
+import {FileDirections} from "../convert/core";
 import * as Path from "path";
 export function id3Question( fileDirection:FileDirections, question:Question ){
     return new Promise((resolve ) => {
@@ -17,8 +17,8 @@ export function id3Question( fileDirection:FileDirections, question:Question ){
 
         //language=file-reference
         let Image:{[p in typeof type]:string} = {
-            mechanics: Path.join( __dirname, "source/assets/mechanic.jpg" ),
-            theoretic: Path.join( __dirname, "source/assets/security.jpg" )
+            mechanics: Path.join( __dirname, "../../source/assets/mechanic.jpg" ),
+            theoretic: Path.join( __dirname, "../../source/assets/security.jpg" )
         };
 
         let typeChar  = type[ 0 ].toUpperCase();

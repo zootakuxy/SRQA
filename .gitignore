@@ -7,5 +7,5 @@ node_modules
 /**/*.js.map
 !/test/*.js
 !/test/**/*.js
-/audios
-/audios-raw
+/dist/audios
+/dist/audios-raw

@@ -3,9 +3,9 @@ import * as fs from "fs";
 import * as Path from "path";
 
 //language=file-reference
-let source = Path.join( __dirname, "./source" );
+let source = Path.join( __dirname, "../source" );
 //language=file-reference
-let etcConfigFile = Path.join( __dirname, "./source/etc/engine.conf" );
+let etcConfigFile = Path.join( __dirname, "../source/etc/engine.conf" );
 let filter =  new RegExp(`((^)*.${"txt"})$`);
 
 export interface Configs  {

@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "tsc-w": "tsc -w",
-    "Listen": "node listen.js",
-    "Q|A|Q&A": "node launcher/all.js",
-    "Q&A": "node launcher/Q&A.js",
-    "QandA": "node launcher/QandA.js",
-    "Questions": "node launcher/questions.js",
-    "Answers": "node launcher/answers.js",
+    "Listen": "node src/launcher/listen.js",
+    "Q|A|Q&A": "node src/launcher/all.js",
+    "Q&A": "node src/launcher/Q&A.js",
+    "QandA": "node src/launcher/QandA.js",
+    "Questions": "node src/launcher/questions.js",
+    "Answers": "node src/launcher/answers.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -21,8 +21,10 @@
     "audio-context": "^1.0.3",
     "audio-loader": "^1.0.3",
     "audio-play": "^2.3.1",
+    "audioconcat": "^0.1.4",
     "axios": "^1.3.2",
     "fast-sort": "^3.2.1",
+    "fluent-ffmpeg": "^2.1.2",
     "ini": "^3.0.1",
     "json5": "^2.2.3",
     "node-id3": "^0.2.5",
@@ -30,6 +32,7 @@
     "sound-play": "^1.1.0",
     "source-map-support": "^0.5.21",
     "speak-tts": "^2.0.8",
+    "wav-concat": "^1.0.3",
     "wav-file-info": "^0.0.10"
   }
 }

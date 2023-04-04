@@ -1,7 +1,7 @@
 require("source-map-support").install();
 
-import {play} from "../play";
+import {convert} from "../convert";
 
-play({ convertAnswer: true }).then( value => {
+convert({ convertAnswer: true }).then(value => {
     console.log( "Answer finalized!" );
 });
