@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "tsc-w": "tsc -w",
-    "Listen": "node src/launcher/listen.js",
-    "Q|A|Q&A": "node src/launcher/all.js",
-    "Q&A": "node src/launcher/Q&A.js",
-    "QandA": "node src/launcher/QandA.js",
-    "Questions": "node src/launcher/questions.js",
-    "Answers": "node src/launcher/answers.js",
+    "Listen": "node src-core/launcher/listen.js",
+    "Q|A|Q&A": "node src-core/launcher/all.js",
+    "Q&A": "node src-core/launcher/Q&A.js",
+    "QandA": "node src-core/launcher/QandA.js",
+    "Questions": "node src-core/launcher/questions.js",
+    "Answers": "node src-core/launcher/answers.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

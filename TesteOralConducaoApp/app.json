@@ -1,0 +1,57 @@
+{
+  "expo": {
+    "name": "TesteOralConducaoApp",
+    "description": "Example app for React Native Paper: https://callstack.github.io/react-native-paper/",
+    "slug": "teste-oral-conducao-app",
+    "privacy": "public",
+    "version": "3.4.0",
+    "entryPoint": "App.js",
+    "orientation": "default",
+    "primaryColor": "#6200EE",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/images/paper-icon.png",
+    "packagerOpts": {
+      "config": "./metro.config.js",
+      "projectRoots": ""
+    },
+    "platforms": [
+      "android",
+      "ios",
+      "web"
+    ],
+    "owner": "zootakuxy",
+    "ios": {
+      "bundleIdentifier": "com.callstack.reactnativepaperexample",
+      "buildNumber": "15.0.0"
+    },
+    "android": {
+      "package": "com.callstack.reactnativepaperexample",
+      "versionCode": 18,
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ],
+      "icon": "./assets/images/paper-icon.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/android-icon.png",
+        "backgroundColor": "#6200EE"
+      }
+    },
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "backgroundColor": "#6200EE",
+      "resizeMode": "cover"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ba8f5139-58fe-48f0-b2f2-2d675b6eb2d4"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ba8f5139-58fe-48f0-b2f2-2d675b6eb2d4"
+    }
+  }
+}

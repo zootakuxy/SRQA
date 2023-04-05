@@ -81,16 +81,5 @@ var songs = [
 
 
 //language=file-reference
-let write = fs.createWriteStream( Path.join(__dirname, "../source/all.mp3")  );
 
-let procede = ( ) =>{
-    if( !songs.length ) return;
-    let stream = fs.createReadStream( songs.shift() );
-    stream.pipe(write, {end: false});
-    stream.on( "close", ()=>{
-        procede();
-    });
-}
-
-procede();
 
