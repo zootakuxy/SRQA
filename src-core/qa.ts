@@ -12,7 +12,6 @@ export interface Question{
     indexNumber:number
     type:string|"mechanics"|"theoretic",
     change:boolean,
-    converted:boolean
     convertedQuestion:boolean
     convertedAnswer:boolean,
     "convertedQ+A":boolean,
@@ -82,7 +81,6 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
                     number: index,
                     type: type,
                     change: true,
-                    converted: false,
                     convertedQuestion: false,
                     convertedAnswer: false,
                     "convertedQ+A": false,
@@ -134,7 +132,7 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
                     || findQuestion.question.trim() !== value.question.trim()
                     || findQuestion.answer.trim() !== value.answer.trim();
 
-                value.converted = !!findQuestion && findQuestion.converted && !value.change;
+                value["convertedQ+A"] = !!findQuestion && findQuestion["convertedQ+A"] && !value.change;
                 value.convertedQuestion = !!findQuestion && findQuestion.convertedQuestion && !value.change;
                 value.convertedAnswer = !!findQuestion && findQuestion.convertedAnswer && !value.change;
             });

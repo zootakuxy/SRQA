@@ -79,7 +79,7 @@ export class Playlist {
                         if( !value )  return _playNext( null );
                         this.player.playFile( question.fdir.audioFileOf( question, "Answer" ) ).then(value => setTimeout( ()=>{
                             _playNext( question );
-                        }, 1.5*1000) );
+                        }, 3*1000) );
                     }, ( waitSecond )*1000)
                 })
                 setTimeout( () =>{

@@ -7,7 +7,7 @@
     "tsc-w": "tsc -w",
     "Listen": "node src-core/launcher/listen.js",
     "Q|A|Q&A": "node src-core/launcher/all.js",
-    "Q&A": "node src-core/launcher/Q&A.js",
+    "Q+A": "node src-core/launcher/Q+A.js",
     "QandA": "node src-core/launcher/QandA.js",
     "Questions": "node src-core/launcher/questions.js",
     "Answers": "node src-core/launcher/answers.js",

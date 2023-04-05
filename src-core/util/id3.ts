@@ -33,7 +33,6 @@ export function id3Question( fileDirection:FileDirections, question:Question ){
             copyrightUrl: "https://github.com/zootakuxy",
             copyright: "@zootakuxy",
             publisher: "https://texttospeech.googleapis.com",
-            //language=file-reference
             image: Image[type],
             comment: {
                 language: "pt-PT",
@@ -42,7 +41,6 @@ export function id3Question( fileDirection:FileDirections, question:Question ){
         }
 
         let audiosType: AudioType[] = [
-            "Q&A",
             "Q+A",
             "Question",
             "Answer"
