@@ -5,7 +5,11 @@ export type PlaylistOptions =  {
     playlist: QuestionPlay[],
     name: string
 }
-
+export type QuestionPlayed = {
+    number:number,
+    question:string,
+    repeat?:number
+}
 export type PlaylistStatus = {
     played:QuestionPlay[]
 }

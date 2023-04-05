@@ -359,7 +359,7 @@
   {
     important: 0,
     question: 'Para que serve dispositivo de rotura?',
-    answer: 'Dispositivo de rotura, serve para saltar faísca de alta tensão para as velas.',
+    answer: 'Dispositivo de rotura, serve para fazer saltar faísca de alta tensão para as velas.',
     number: 21,
     type: 'mechanics',
     change: false,
@@ -369,9 +369,9 @@
     'convertedQ+A': true,
     indexNumber: 10,
     questionLength: 37,
-    answerLength: 78,
+    answerLength: 84,
     questionsWords: 6,
-    answerWords: 13,
+    answerWords: 14,
   },
   {
     important: 0,
@@ -2246,7 +2246,7 @@
   {
     important: 0,
     question: 'Para que serve as velas?',
-    answer: 'A vela serve para saltar faísca de alta tensão na camara de carburação.',
+    answer: 'A vela serve para saltar faísca de alta tensão na câmara de carburação.',
     number: 2027,
     type: 'mechanics',
     change: false,
