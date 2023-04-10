@@ -332,6 +332,9 @@ A diferença entre o dínamo e a bobine, é dínamo é um gerador de corrente co
 Existe dois tipos de válvulas, válvula de admissão e válvula de escape.
 2033-Qual a diferença entre o embolo e a biela?
 A diferença entre o embolo e a biela, é que o embolo é a combinação da biela e pistão e serve par fazer o tempo do motor em combinação com o abrir e fechar das válvulas. Enquanto que a biela é uma das componentes do embolo, e serve para fazer ligação de cambota ao pistão.
+2034-Qual o procedimento para efetuar verificação do óleo no motor?
+Para se verificar o nível de óleo no motor, primeiramente deve-se imobilizar o veículo num local plano e seguro, desligar o motor e esperar que o mesmo se arrefeça. A seguir faz-se a verificação do nível de óleo através de vareta gradual ou sonda, onde a mesma deve ser colocado em forma vertical para se conseguir verificar com precisão o nível de óleo no motor.
+
 
 
 

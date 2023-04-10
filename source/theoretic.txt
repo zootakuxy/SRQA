@@ -223,9 +223,9 @@ Os acessórios de um veículo automóvel são, espelho retrovisor, cinto de segu
 105-Quais são os acessórios para um motociclo?
 Os acessórios para um motociclo são, capacete, luvas, botas, óculos, joelheiras, e espelho retrovisor lateral.
 106-Qual é o limite de peso bruto sobre o solo?
-O limite de peso bruto sobre o solo para aro pneumático é de 150 kg por centimetro^3, enquanto que para aro metálico é de 80 kg por centimetro^3.
+O limite de peso bruto sobre o solo para aro pneumático é de 150kg por centimetro^2, enquanto que para aro metálico é de 80kg por centimetro^2.
 107-Com a carta de categoria B que veículos posso conduzir?
-Com a carta de categoria B, posso conduzir todos os veículos, cujo a lotação não excede 9 lugares incluindo o condutor, e o seu peso bruto não excede 3500 kg. Também, posso conduzir trator agrícola, desde que a sua tara não exceda 3500 kg, e se for com reboque o seu peso bruto não exceda a 6000 kg.
+Com a carta de categoria B, posso conduzir todos os veículos, cujo a lotação não excede 9 lugares incluindo o condutor, e o seu peso bruto não excede 3500 kg. Também, posso conduzir trator agrícola, desde que a sua tara não exceda 3500 kg, seu peso bruto não exceda a 6000 kg.
 108-Quais são os cuidados que o condutor deve ter antes de iniciar uma viagem?
 Antes de iniciar uma viagem, o condutor deve verificar a pressão do ar nos pneus, água no radiador, nível de óleo no motor, quantidade de combustível no depósito, óleo no travão, chave de roda, macaco de elevação, pneu suplente, e sinal de pré-sinalização de perigo.
 109-Quais são os fatores integrante na circulação rodoviária?
@@ -336,13 +336,6 @@ Bafómetro, serve para indicar a taxa de álcool no sangue (T.A.S) do condutor.
 Parquímetro, serve para indicar o tempo que um veículo está estacionado, num parque de estacionamento.
 157-Para que serve um tacógrafo?
 Tacógrafo, serve para registrar o tempo de repouso do condutor ou também indicar a velocidade instantânea.
-
-
-
-
-
-
-
 2001-Com a carta de categoria C ou pesado de mercadoria que veículo posso conduzir?
 Com a carta de pesado de mercadoria posso conduzir todos os automóveis pesados com exceção aos pesados de passageiros e motociclo.
 2002-Qual a diferença entre paragem e estacionamento?
@@ -417,7 +410,7 @@ Visão cromática, é a capacidade de distinguir as cores.
 2030-O que entendes por visão em profundidades?
 Visão em profundidade, é a capacidade de avistar os objetos em longa distância.
 2031-O que entendes por visão periférica?
-Visão periférica, é a propriedade da visão de perceber o que está fora do foco principal de visão, ou seja, é a capacidade de ver o que está ao nosso lado caso estejamos a olhar para frente.
+Visão periférica, é a propriedade da visão de ver as zonas lateral sem fazer movimento com a cabeça.
 2032-Porque motivo o sinal STOP possuí aquele formato distinto?
 O formato do sinal de STOP é para torna-lo facilmente conhecido.
 2033-Qual a diferença entre o sinal de sentido proibido e trânsito proibido?
@@ -697,3 +690,7 @@ No contexto de álcool, esses condutores não podem conduzir com influência de 
 Se o veículo tiver avarias mecânica na passagem de nível, o condutor deve tentar retirar o seu veículo o mais rápido se possível, caso não, deve abandonar o veículo e ligar para os serviços ferroviário informando a situação.
 2159-O que entendes por ponto de embreagem?
 Ponto de embreagem, consiste na imobilização dos veículos nas inclinações sem o auxílio dos travões.
+2160-O que acontece se um condutor focar demais em algo?
+Se o condutor focar demais em algo, a visão fica mais nítida no objeto e mais difusa nas zonas periféricas.
+2161-Quando é que um pião entrar na faixa de rodagem?
+Um pião entrar faixa de rodagem, quando o mesmo pretende atravessar a via pública.
