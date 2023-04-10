@@ -33,6 +33,7 @@
     "source-map-support": "^0.5.21",
     "speak-tts": "^2.0.8",
     "wav-concat": "^1.0.3",
-    "wav-file-info": "^0.0.10"
+    "wav-file-info": "^0.0.10",
+    "yarg": "^1.0.8"
   }
 }

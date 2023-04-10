@@ -80,11 +80,13 @@ export class Playlist {
                         this.player.playFile( question.fdir.audioFileOf( question, "Answer" ) ).then(value => setTimeout( ()=>{
                             _playNext( question );
                         }, 3*1000) );
-                    }, ( waitSecond )*1000)
+                    }, ( waitSecond )*1000);
+
+                    setTimeout( () =>{
+                        console.log( question.answer );
+                    }, ( waitSecond/2)*1000 );
                 })
-                setTimeout( () =>{
-                    console.log( question.answer );
-                }, ( waitSecond/2)*1000 );
+
             }
             next( first );
         })

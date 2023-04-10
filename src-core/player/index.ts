@@ -78,6 +78,7 @@ export class Player {
             }
             let filePlay = Path.join( this.dirname, "current-audio.mp3" );
             fs.copyFileSync( filename, filePlay );
+            if( !filePlay.startsWith(`"`) && !filePlay.endsWith(`"`) ) filePlay = `${filePlay}`
             sound.play( filePlay, 1 ).then( value => {
                 return resolve( true );
             });

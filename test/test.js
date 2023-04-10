@@ -42,6 +42,7 @@
 var audioconcat = require('audioconcat')
 const Path = require("path");
 const fs = require("fs");
+const sound = require("sound-play");
 
 //language=file-reference
 var songs = [
@@ -81,5 +82,9 @@ var songs = [
 
 
 //language=file-reference
-
-
+// sound.play( Path.join(__dirname,   "../dist/audios/Q+A/Q&A - mechanics/QA - 003 - Para que serve carter.mp3").split("/").map( value => {
+//     value = value.replace(/[ ]\g/, `" "`)
+//     return value
+// })).then( value => {
+//     console.log( value );
+// })

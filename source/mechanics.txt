@@ -320,8 +320,8 @@ Os estabilizadores, servem para contrair o efeito da força centrífuga nas curv
 Para mudar de rodas, devo estacionar num local plano, o mais possível a minha direita, colocando o sinal de pré-sinalização de perigo, colocar as rodas desapertar as porcas, colocar o macaco de elevação e mudar as rodas.
 2027-Para que serve as velas?
 A vela serve para saltar faísca de alta tensão na câmara de carburação.
-2028-Em quantas partes esta dividida as velas?
-A vela esta dividida em polo positivo, polo negativo isolado por uma união de porcelana.
+2028-Em quantas partes está dividida as velas?
+A vela está dividida em polo positivo, polo negativo isolado por uma união de porcelana.
 2029-Quantos tipos de velas existem?
 Existe 2 tipos de velas, que são, vela de admissão e vela de ignição.
 2030-Para que serve o termóstato?
