@@ -38,9 +38,9 @@ const fun = args as Func;
 
 
 
-export type  Function  = {
-    [ f in keyof typeof fun ]?:<T = typeof fun[f]["args"], R = { [k in keyof T]: typeof Types[T[k]]}>( args:R)=>Promise<boolean>
-};
+// export type  Function  = {
+//     [ f in keyof typeof fun ]?:<T = typeof fun[f]["args"], R = { [k in keyof T]: typeof Types[T[k]]}>( args:R)=>Promise<boolean>
+// };
 
 
 let funct:Function;

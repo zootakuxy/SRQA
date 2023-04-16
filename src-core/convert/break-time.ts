@@ -20,3 +20,7 @@ export function breakTimeAudios(time:number ):string[]{
        return breakTime.pieces[ value];
     });
 }
+
+export function timePause( charLength:number){
+    return 4+( ( charLength * 75 / 1000 )/ 3 );
+}

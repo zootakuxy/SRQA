@@ -6,9 +6,7 @@ import {TTLOptions, TTSManager} from "../tts";
 import {normalizeDiacritics} from "normalize-text";
 import {id3Question} from "../util/id3";
 import * as console from "console";
-import {decompose} from "../util/decompose";
-import {timePause} from "../player";
-import {breakTimeAudios} from "./break-time";
+import {breakTimeAudios, timePause} from "./break-time";
 import {fileJoin} from "../util/file-join";
 
 let regexp = /[^a-zA-Z0-9\s\-._&]/g;

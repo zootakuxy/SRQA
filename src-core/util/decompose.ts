@@ -14,8 +14,3 @@ export function decompose( value:number, choose:number[] ):number[]{
 
     return decomposed;
 }
-
-if( require.main.filename === __filename ){
-    console.log( decompose( 18.7, [ 5, 2, 1, 0.5, 0.1 ] ) )
-}
-//

@@ -20,9 +20,7 @@ export interface PlayerOptions {
     dirname:string
 }
 
-export function timePause( charLength:number){
-    return 1+( ( charLength * 60 / 1000 )/ 3 );
-}
+
 
 export class Player {
 

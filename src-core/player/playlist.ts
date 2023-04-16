@@ -1,5 +1,6 @@
 
-import {Player, PlayOptions, QuestionPlay, timePause} from "./index";
+import {Player, PlayOptions, QuestionPlay } from "./index";
+import {timePause} from "../convert/break-time";
 
 export type PlaylistOptions =  {
     playlist: QuestionPlay[],
