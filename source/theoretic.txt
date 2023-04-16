@@ -352,8 +352,6 @@ A idade mínima para transportar criança afrente do veículo é de 12 anos, no 
 Trânsito é a circulação de pessoas, animais e veículos nas vias pública.
 2006-O que entendes por código de estrada?
 Código de estrada, consiste em conjunto de leis, regras, e sinalização que regulam o trânsito nas vias pública.
-2007-O que entendes por rodas motoras?
-Rodas motoras, são aquelas que recebem a força do motor.
 2009-O que é encandeamento?
 Encandeamento, consiste em perda momentânea da visão.
 2010-Qual é a hierarquia dos sinais do trânsito?
@@ -365,9 +363,9 @@ Na hierarquia dos sinais do trânsito encontramos.
 5º lugar, a sinalização de marcas rodoviárias.
 6º lugar, a regra geral do trânsito.
 2011-Qual é a velocidade máxima para os automóveis pesado de passageiro nas autoestradas?
-A velocidade máxima para automóveis pesado de passageiro nas autoestradas é de 90 km por hora.
+A velocidade máxima para automóveis pesado de passageiro nas autoestradas é de 100 km/h, com reboque é de 90 km/h.
 2012-Em que caso o condutor deve reduzir a velocidade?
-A velocidade deve ser especialmente reduzida dentro das localidades junto das escolas, jardins, creches, hospitais, onde existe aglomeração de pessoas, e todos os locais de má visibilidade, tais como, curvas, cruzamento ou entroncamento, pontes túneis e lombas.
+A velocidade deve ser especialmente reduzida dentro das localidades junto das escolas, jardins, creches, hospitais, onde existe aglomeração de pessoas, e todos os locais de má visibilidade, tais como, curvas, cruzamento ou entroncamento, pontes, túneis e lombas.
 2013-O que nos diz o sinal de via com prioridade?
 O sinal de via com prioridade diz ao condutor, que ele goza de prioridade em todos os sucessivos cruzamento e entroncamento, até encontrar o sinal de fim de via com prioridade.
 
@@ -459,8 +457,6 @@ Visão noturna, é a qual o condutor conduz com o auxílio das luzes do veículo
 2063-O que são Lombas Redutoras de Velocidades ou lomba materializada?
 Lombas Redutoras de Velocidades ou lomba materializada, são secção elevada da faixa de rodagem construída em toda sua largura, com carácter não temporário, com objetivo de obrigar os condutores a praticarem uma velocidade mais reduzida.
 
-2064-Quais são os sinais que os veículos nos dão quando tem problema com embreagem?
-O condutor deve saber tem problema com embreagem, através do cheiro queimado ou também quando a velocidade do veículo não corresponder a rotação emitida pelo motor.
 2065-Quando um veículo sede passagem para um navio?
 Um veículo sede a passagem para um navio, perante uma ponte móvel suspensa.
 2066-Em que caso os veículos prioritários devem parar?
@@ -694,3 +690,8 @@ Ponto de embreagem, consiste na imobilização dos veículos nas inclinações s
 Se o condutor focar demais em algo, a visão fica mais nítida no objeto e mais difusa nas zonas periféricas.
 2161-Quando é que um pião entrar na faixa de rodagem?
 Um pião entrar faixa de rodagem, quando o mesmo pretende atravessar a via pública.
+
+2162-Quando que um velocípede pode transportar mais de 2 pessoas?
+Um velocípede pode transportar mais de 2 pessoas, desde que desponha mais de 2 lugares.
+2163-Qual a diferença entre a luz mínima e a luz de presença?
+A diferença entre a luz mínima e a luz de presença, é que a luz mínima fica a frete de veículo e pode ser de cor branco ou amarela, já a luz de presença fica na retaguarda do veículo e é de cor vermelha. As duas luzes, não se projetam, só é visível á 150m e servem para marcar a presença e a dimensão do veículo.

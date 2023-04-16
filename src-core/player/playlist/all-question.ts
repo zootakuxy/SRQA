@@ -1,13 +1,15 @@
-import {converterConfigs} from "../../load";
+import {AUDIO_FOLDER, converterConfigs, RAW_FOLDER} from "../../load";
 import {readQuestions} from "../../qa";
 import {fileDirections} from "../../convert/core";
 import Path from "path";
 import {QuestionPlay} from "../index";
 
 export type LoadQuestionsOptions = {
-    sourceName:string[]
+    sourceName?:string[]
 }
-export function loadQuestionPlayList( filter:LoadQuestionsOptions ):Promise<QuestionPlay[]>{
+
+
+export function loadQuestion( filter?:LoadQuestionsOptions ):Promise<QuestionPlay[]>{
     return new Promise( resolve => {
         let questions:QuestionPlay[] = [];
 
@@ -25,7 +27,7 @@ export function loadQuestionPlayList( filter:LoadQuestionsOptions ):Promise<Ques
                 questions.push( ...readQuestionList.questions.map( question => ({
                     ...question,
                     //language=file-reference
-                    fdir: fileDirections( source, Path.join( __dirname, "../../../dist/audios" ), Path.join( __dirname, "../../../dist/audios-raw" ) )
+                    fdir: fileDirections( source, AUDIO_FOLDER, RAW_FOLDER )
                 })));
                 next();
             });

@@ -8,6 +8,12 @@ let source = Path.join( __dirname, "../source" );
 let etcConfigFile = Path.join( __dirname, "../source/etc/engine.conf" );
 let filter =  new RegExp(`((^)*.${"txt"})$`);
 
+//language=file-reference
+export const AUDIO_FOLDER = Path.join( __dirname, "../dist/audios" );
+//language=file-reference
+export const RAW_FOLDER = Path.join( __dirname, "../dist/audios-raw" );
+
+
 export interface Configs  {
     translate:{
         language:string

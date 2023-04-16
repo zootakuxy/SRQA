@@ -307,15 +307,17 @@ A diferença entre o careto condutor e o careto conduzido é que o careto condut
 2020-Qual o objetivo de sistemas de suspensão?
 O objetivo do sistema de suspensão é de absorver todas as irregularidades do pavimento.
 2021-Quais são as peças que compõem um sistema de suspensão?
-As peças que compõem um sistema de suspensão são, pneus, mola, amortecedor e estabilizador.
+As peças que compõem um sistema de suspensão são, pneus ou rodas, mola, amortecedor e barras estabilizadores.
 2022-Para que servem os pneus?
-Os pneus, servem para suportar o peso do veículo e o peso da carga a ser transportada.
+Os pneus ou rodas, servem para diminuir e absorver as pequenas irregularidades do pavimento.
 2023-Para que servem as molas?
 As molas, servem para suportar o peso do veículo, e absorver as oscilações provenientes das grandes irregularidades nos pavimentos, evitando que estas sejam integralmente transmitidas ao quadro do veículo.
+2023.1-Quantos tipos de molas existe?
+Existem dois tipos de molas, que são mola espiral e lamina.
 2024-Para que servem os amortecedores?
-Os amortecedores, servem para reduzir as oscilações das molas, garantindo desta forma uma melhor aderência dos veículos a estrada, nas curvas e nas travagens.
-2025-Para que servem os estabilizadores?
-Os estabilizadores, servem para contrair o efeito da força centrífuga nas curvas quando a carroçaria tende a inclinar.
+Os amortecedores, servem para reduzir o número e a amplitude das oscilações das molas, garantindo desta forma uma melhor aderência dos veículos a estrada, nas curvas e nas travagens.
+2025-Para que servem as barras estabilizadores?
+As barras estabilizadores, servem para contrair o efeito da força centrífuga nas curvas quando a carroçaria tende a inclinar.
 2026-Qual o procedimento para efetuar mudanças de rodas?
 Para mudar de rodas, devo estacionar num local plano, o mais possível a minha direita, colocando o sinal de pré-sinalização de perigo, colocar as rodas desapertar as porcas, colocar o macaco de elevação e mudar as rodas.
 2027-Para que serve as velas?
@@ -333,7 +335,19 @@ Existe dois tipos de válvulas, válvula de admissão e válvula de escape.
 2033-Qual a diferença entre o embolo e a biela?
 A diferença entre o embolo e a biela, é que o embolo é a combinação da biela e pistão e serve par fazer o tempo do motor em combinação com o abrir e fechar das válvulas. Enquanto que a biela é uma das componentes do embolo, e serve para fazer ligação de cambota ao pistão.
 2034-Qual o procedimento para efetuar verificação do óleo no motor?
-Para se verificar o nível de óleo no motor, primeiramente deve-se imobilizar o veículo num local plano e seguro, desligar o motor e esperar que o mesmo se arrefeça. A seguir faz-se a verificação do nível de óleo através de vareta gradual ou sonda, onde a mesma deve ser colocado em forma vertical para se conseguir verificar com precisão o nível de óleo no motor.
+Para se verificar o nível de óleo no motor, primeiramente deve-se imobilizar o veículo num local plano e seguro, desligar o motor e esperar que o mesmo se arrefeça. A seguir faz-se a verificação do nível de óleo através de vareta gradual ou sonda, onde a mesma deve ser colocada em forma vertical para se conseguir verificar com precisão o nível de óleo no motor.
+
+
+//Sistema de transmissão
+2038-Onde fica as mudanças?
+As mudanças, ficam na caixa de velocidade.
+2039-Para que serve as mudanças?
+As mudanças, serve para obter o melhor balanceamento entre a força e velocidade conforme a necessidade do veículo no momento.
+
+
+2040-Quais são os sinais que os veículos nos dão quando tem problema com embreagem?
+O condutor deve saber tem problema com embreagem, através do cheiro queimado ou também quando a velocidade do veículo não corresponder ao número de rotação do motor por minuto.
+
 
 
 

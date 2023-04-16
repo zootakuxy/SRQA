@@ -1,12 +1,12 @@
 import {Player} from "../player";
-import {loadQuestionPlayList} from "../player/playlist/all-question";
+import {loadQuestion} from "../player/playlist/all-question";
 import Path from "path";
 
 let player = new Player({
     //language=file-reference
     dirname: Path.join( __dirname, "../../dist/player")
 });
-loadQuestionPlayList( {
+loadQuestion( {
     sourceName: [
         "mechanics",
         // "theoretic",
