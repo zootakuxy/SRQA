@@ -21,7 +21,7 @@ export interface PlayerOptions {
 }
 
 export function timePause( charLength:number){
-    return 1.5+( ( charLength * 60 / 1000 )/ 2 );
+    return 1+( ( charLength * 60 / 1000 )/ 3 );
 }
 
 export class Player {
@@ -78,7 +78,8 @@ export class Player {
             }
             let filePlay = Path.join( this.dirname, "current-audio.mp3" );
             fs.copyFileSync( filename, filePlay );
-            if( !filePlay.startsWith(`"`) && !filePlay.endsWith(`"`) ) filePlay = `${filePlay}`
+            filePlay = filename;
+            if( !filePlay.startsWith(`"`) && !filePlay.endsWith(`"`) ) filePlay = `"${filePlay}"`
             sound.play( filePlay, 1 ).then( value => {
                 return resolve( true );
             });

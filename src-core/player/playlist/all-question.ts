@@ -4,10 +4,16 @@ import {fileDirections} from "../../convert/core";
 import Path from "path";
 import {QuestionPlay} from "../index";
 
-export function loadAllQuestionPlaylist(  ):Promise<QuestionPlay[]>{
+export type LoadQuestionsOptions = {
+    sourceName:string[]
+}
+export function loadQuestionPlayList( filter:LoadQuestionsOptions ):Promise<QuestionPlay[]>{
     return new Promise( resolve => {
         let questions:QuestionPlay[] = [];
-        let _sources = [ ...converterConfigs.sources ];
+
+        let _sources = converterConfigs.sources.filter( value => {
+            return ((Array.isArray(filter?.sourceName )  && filter?.sourceName.includes( value.name )) || !filter?.sourceName);
+        });
 
         let next =()=>{
             let source = _sources.shift();

@@ -1669,7 +1669,7 @@
     answer: 'O limite de peso bruto sobre o solo para aro pneumático é de 150kg por centimetro^2, enquanto que para aro metálico é de 80kg por centimetro^2.',
     number: 106,
     type: 'theoretic',
-    change: true,
+    change: false,
     convertedQuestion: true,
     convertedAnswer: true,
     'convertedQ+A': true,
