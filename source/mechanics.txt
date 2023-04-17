@@ -95,7 +95,7 @@ As avarias que podemos encontrar no carburador são, Boia furada, agulha a vedar
 36- De que peça compõe o motor?
 O motor é composto por seguintes peças, válvula, pistões, bielas, veio excêntrico, cambota, engrenagem de distribuição e bomba de óleo.
 37-Quais são peças que compõe o sistema de injeção?
-O sistema de injeção é composto por bomba injetora, injetores, bomba mecânica ou elétrica de combustível e filtro.
+O sistema de injeção é composto por bomba injetora, injetores, bomba mecânica ou elétrica de combustível e filtro de gasóleo.
 38-Para que serve uma bomba injetora?
 Bomba injetora, é um órgão que serve para distribuir gasóleo aos injetores.
 39-De que se compõe uma bomba injetora?
@@ -319,7 +319,7 @@ Os amortecedores, servem para reduzir o número e a amplitude das oscilações d
 2025-Para que servem as barras estabilizadores?
 As barras estabilizadores, servem para contrair o efeito da força centrífuga nas curvas quando a carroçaria tende a inclinar.
 2026-Qual o procedimento para efetuar mudanças de rodas?
-Para mudar de rodas, devo estacionar num local plano, o mais possível a minha direita, colocando o sinal de pré-sinalização de perigo, colocar as rodas desapertar as porcas, colocar o macaco de elevação e mudar as rodas.
+Para mudar de rodas, devo estacionar num local plano e seguro, o mais possível a minha direita, colocando o sinal de pré-sinalização de perigo, colocar as rodas desapertar as porcas, colocar o macaco de elevação e mudar as rodas.
 2027-Para que serve as velas?
 A vela serve para saltar faísca de alta tensão na câmara de carburação.
 2028-Em quantas partes está dividida as velas?

@@ -7,7 +7,7 @@ import {normalizeDiacritics} from "normalize-text";
 import {id3Question} from "../util/id3";
 import * as console from "console";
 import {breakTimeAudios, timePause} from "./break-time";
-import {fileJoin} from "../util/file-join";
+import {audioJoin, fixJoinedAudio} from "../util/file-join";
 
 let regexp = /[^a-zA-Z0-9\s\-._&]/g;
 
@@ -174,13 +174,16 @@ export function conversionCore(source:Source, audioFolder:string, rawFolder:stri
                             ];
 
                             let audioFile = fdir.audioFileOf( _current, "Q+A" );
-                            fileJoin( {
+                            audioJoin( {
                                 files: audios,
-                                join: audioFile
+                                concatFile: audioFile
                             }).then( error => {
                                 if( error ) return jobResolve( false );
                                 _current["convertedQ+A"] = true;
-                                jobResolve( true );
+
+                                fixJoinedAudio( audioFile ).then( value => {
+                                    jobResolve( true );
+                                })
                             })
                         });
                     }, /*"Q&A"(){

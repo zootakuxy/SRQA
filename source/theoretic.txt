@@ -634,7 +634,7 @@ A velocidade máxima para os veículos, na zona de coexistência e de 20 km/h, d
 2142-Qual a velocidade máxima para os motociclos?
 A velocidade máxima para motociclos dentro de localidade é de 50 km/h e de 90km/h fora de localidade, nas autoestradas é de 120km/h e de 100km/h nas vias reservadas ao automóveis e motociclo.
 2142.1-Qual a velocidade máxima para os motociclos com caro lateral?
-A velocidade máxima para motociclo com carro lateral, dentro da localidade é de 50km/h e de 70km/h fora da localidade, nas auto estrada é de 100km/h e de 80km/h nas vias reservada ao automóveis e motociclo. A sua velocidade exceto nas localidades, é de menos 20km/h nos mesmos locais quando circula sem carro lateral.
+A velocidade máxima para motociclo com carro lateral, dentro da localidade é de 50km/h e de 70km/h fora da localidade, nas auto estrada é de 100km/h e de 80km/h nas vias reservada ao automóveis e motociclo.
 2142.2-Qual a velocidade máxima de cilindrada não superior a 50cm3?
 A velocidade máxima para motociclo de cilindrada não superior o 50cm3, dentro de localidade é de 40km/h e de 60km/h fora de localidade.
 

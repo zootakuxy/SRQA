@@ -16,11 +16,14 @@ const breakTime = {
 }
 
 export function breakTimeAudios(time:number ):string[]{
-    return decompose(time, breakTime.times ).map( value => {
-       return breakTime.pieces[ value];
+    // console.log( files )
+    return  decompose(time, breakTime.times).map(value => {
+        return breakTime.pieces[value];
     });
+    // return []
 }
 
 export function timePause( charLength:number){
-    return 4+( ( charLength * 75 / 1000 )/ 3 );
+    let times =  4+( ( charLength * 75 / 1000 )/ 3 );
+    return Math.ceil( times );
 }
