@@ -174,6 +174,7 @@ export function conversionCore(source:Source, audioFolder:string, rawFolder:stri
                             ];
 
                             let audioFile = fdir.audioFileOf( _current, "Q+A" );
+                            if( fs.existsSync( audioFile ) ) fs.unlinkSync( audioFile );
                             audioJoin( {
                                 files: audios,
                                 concatFile: audioFile
