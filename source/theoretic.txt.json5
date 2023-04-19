@@ -4546,7 +4546,7 @@
   {
     important: 0,
     question: 'Qual a velocidade máxima para os motociclos com caro lateral?',
-    answer: 'A velocidade máxima para motociclo com carro lateral, dentro da localidade é de 50km/h e de 70km/h fora da localidade, nas auto estrada é de 100km/h e de 80km/h nas vias reservada ao automóveis e motociclo. A sua velocidade exceto nas localidades, é de menos 20km/h nos mesmos locais quando circula sem carro lateral.',
+    answer: 'A velocidade máxima para motociclo com carro lateral, dentro da localidade é de 50km/h e de 70km/h fora da localidade, nas auto estrada é de 100km/h e de 80km/h nas vias reservada ao automóveis e motociclo.',
     number: 2142.1,
     type: 'theoretic',
     change: false,
@@ -4555,9 +4555,9 @@
     'convertedQ+A': true,
     indexNumber: 10,
     questionLength: 61,
-    answerLength: 318,
+    answerLength: 207,
     questionsWords: 10,
-    answerWords: 54,
+    answerWords: 36,
   },
   {
     important: 0,

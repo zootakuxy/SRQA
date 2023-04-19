@@ -399,7 +399,7 @@ Rodas diretrizes, são aquelas que recebem a orientação da direção.
 A velocidade mínima obrigatória vem dentro dos sinais de obrigação, enquanto que as velocidades máxima vem dentro dos sinais de proibição ou recomendações.
 2027-Quais os outros nomes para as luzes?
 Os outros nomes para as luzes dos veículos, seriam.
-Luz máxima, pode ser também chamada de luz de estrada ou luz de longo alcance.
+Luz máxima, pode ser também chamada de luz de estrada, luz de longo alcance ou luz de profundidade.
 Luz mínima, pode ser também chamada de luz de presença.
 2028-Quais são os tipos de visão que conheces?
 A visão classifica-se em visão cromática, visão periférica, visão em profundidade, visão em túnel e visão noturna. Dentre essas visões a mais importante é visão em profundidade.
@@ -560,9 +560,9 @@ O extintor de incêndio, é obrigatório, nos automóveis pesado de passageiro e
 2110-O que entendes por distância de reação!?
 Distância de reação, sé a distância percorrida durante o tempo de reação e depende da velocidade do veículo e do tempo de reação.
 2111-O que entendes por tempo de reação!?
-Tempo de reação, é o tempo que decorre entre o momento que o condutor vê o obstáculo e o momento que o condutor começa a agir. Esse tempo varia de pessoa para pessoa, idade, doença, distração, fadiga, sonolência, stress, droga, medicamentos, álcool e experiência. Esse tempo nunca diminui, apenas pode aumentar devido aos fatores indicados anteriormente.
+Tempo de reação, é o tempo que decorre entre o momento que o condutor vê o obstáculo e o momento que o condutor começa a agir. Esse tempo varia de pessoa para pessoa, idade, doença, distração, fadiga, sonolência, stress, droga, medicamentos, álcool e experiência. Esse tempo, deve ser no máximo de 1 segundo e nunca diminui, porem, pode apenas aumentar devido aos fatores indicados anteriormente. A única coisa que diminui é a nossa capacidade física.
 2112-Qual a diferença entre o tempo de reação e a distância de reação!?
-A diferença existente entre o tempo de reação e a distância de reação, é que o tempo de reação, é o tempo decorrido entre o momento que o condutor vê o obstáculo e o instante em que começa a atuar. Já a distância de reação, é a distância percorrida durante o tempo de reação, ou seja, a distância entre instante da perceção do obstáculo até o instante de reação do condutor, onde essa distância depende da velocidade do veículo e do tempo de reação.
+A diferença existente entre o tempo de reação e a distância de reação, é que o tempo de reação, é o tempo que leva para o condutor começar a agir. Já a distância de reação, é a distância percorrida durante o tempo de reação, ou seja, a distância entre instante da perceção do obstáculo até o instante de reação do condutor, onde essa distância depende da velocidade do veículo e do tempo de reação.
 2113-Quando a ultrapassagem é proibida!?
 A manobra de ultrapassagem é proibida, nos locais com visibilidade insuficiente tais como lombas, curvas, cruzamentos ou entroncamento, passagem de nível, na passagem para peões, nas vias com largura insuficiente, ultrapassar o veículo que esteja a ultrapassar um terceiro quando apenas existe duas faixas de trânsito, ou quando houver qualquer sinalização que me proíba.
 2114-Onde é proibido efetuar inversão do sentido de marcha!?
@@ -695,3 +695,19 @@ Um pião entrar faixa de rodagem, quando o mesmo pretende atravessar a via públ
 Um velocípede pode transportar mais de 2 pessoas, desde que desponha mais de 2 lugares.
 2163-Qual a diferença entre a luz mínima e a luz de presença?
 A diferença entre a luz mínima e a luz de presença, é que a luz mínima fica a frete de veículo e pode ser de cor branco ou amarela, já a luz de presença fica na retaguarda do veículo e é de cor vermelha. As duas luzes, não se projetam, só é visível á 150m e servem para marcar a presença e a dimensão do veículo.
+2164-Qual é a função de condução?
+A função de informação, consiste na recolha de informação. No decorrer da condução, deve-se olhar de tal modo a explorar todo o campo visual no menor tempo possível.
+2165-Qual o objetivo da condução?
+O objetivo da condução, é de tornar a circulação mais rápida e tudo mais fácil.
+2166-Quando é que um condutor conduz sobre a influência de álcool?
+Um condutor conduz sobre a influência de álcool, quando apresenta uma taxa de álcool igual ou superior a 0.5g à 0.7g de álcool por litor de sangue.
+
+2167-Qual o nível de infração por conduzir sobre influência de álcool?
+Para 0.5g à 0.7g de álcool por litro de sangue, é uma infração grave.
+Para 0.8g à 1g de álcool por litro de sangue, é uma infração muito grave.
+Quando for superior ao 1g por litro de sangue, é uma infração considerada de crime.
+2168-O que entendes por taxa de alcoolemia?
+Taxa de alcoolemia, é a taxa de álcool presente no sangue.
+
+
+

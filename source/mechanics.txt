@@ -26,7 +26,7 @@ Conheço dois tipos de motor de explosão, que são;
 11-Qual é a diferença entre motor de explosão de 4 tempos e motor de explosão de 2 tempos?
 A diferença entre motor de explosão de 4 tempo e motor de explosão de 2 tempo, é que um motor de explosão de 4 tempos possui válvulas enquanto que um motor de explosão de 2 tempos não possui válvulas, mas existem umas janelas nas camisas dos cilindros que fazem as mesmas vezes das válvulas.
 12-Qual é a diferença entre o motor diesel e o motor de explosão?
-A diferença existente entre motor diesel e motor de explosão, é que o motor diesel possui sistema de injeção enquanto o motor de explosão possui sistema de inflamação.
+A diferença existente entre motor diesel e motor de explosão, é que o motor diesel possui sistema de injeção e trabalha utilizando gasóleo enquanto o motor de explosão possui sistema de inflamação e trabalha utilizando gasolina.
 13-Quais são as peças que compõem o sistema de inflamação?
 As peças que compõem o sistema de inflamação são, bateria, bobine, distribuidor e vela.
 14- Para que serve a bateria?
