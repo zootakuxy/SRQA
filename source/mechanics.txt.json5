@@ -2194,7 +2194,7 @@
   {
     important: 0,
     question: 'Qual a diferença entre a bobine e o dínamo ou alternador?',
-    answer: 'A diferença entre o dínamo e a bobine, é dínamo é um gerador de corrente continua para carregar a bateria e faz parte de sistema elétrico. Enquanto a bobine, transforma a corrente de baixa tensão que vem da bateria em alta tensão que é enviado ao distribuidor e faz parte de sistema de inflamação.',
+    answer: 'A diferença entre o dínamo e a bobine, é que dínamo é um gerador de corrente contínua para carregar a bateria e faz parte de sistema elétrico. Enquanto a bobine, transforma a corrente de baixa tensão que vem da bateria em alta tensão que é enviado ao distribuidor e faz parte de sistema de inflamação.',
     number: 2031,
     type: 'mechanics',
     change: false,
@@ -2203,9 +2203,9 @@
     'convertedQ+A': true,
     indexNumber: 10,
     questionLength: 57,
-    answerLength: 298,
+    answerLength: 302,
     questionsWords: 11,
-    answerWords: 54,
+    answerWords: 55,
   },
   {
     important: 0,

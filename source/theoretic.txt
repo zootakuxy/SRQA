@@ -189,7 +189,8 @@ Marcha trás é feita lentamente num menor trajeto possível.
 88-Como se classifica marcha trás?
 A marcha trás classifica-se em manobras de recurso, manobra auxiliar de recurso, quando, numa passagem estreita um deles tem que recuar para facilitar o outro.
 89-Onde é proibido fazer marcha trás?
-É proibido fazer marcha trás, nas curvas, rotunda, cruzamento e entroncamentos, pontes, túneis, passagem de nível, lombas, autoestrada, em todo locais de má visibilidade, ou ainda quando se verifica grande intensidade do trânsito.
+É proibido fazer marcha trás, nas curvas, cruzamento e entroncamentos, pontes, túneis, lombas, e em todo locais de má visibilidade.
+Também, não se deve fazer marcha traz nas, rotunda, autoestrada, passagem de nível, ou ainda quando se verifica grande intensidade do trânsito.
 90-Qual é a diferença entre marcha trás e a retaguarda?
 A diferença entre marcha trás e retaguarda, é que marcha trás é nome de manobra enquanto a retaguarda é nome de mudança.
 91-Qual é a distância que deves manter entre si e o veículo que circula a sua frente?
@@ -566,7 +567,7 @@ A diferença existente entre o tempo de reação e a distância de reação, é 
 2113-Quando a ultrapassagem é proibida!?
 A manobra de ultrapassagem é proibida, nos locais com visibilidade insuficiente tais como lombas, curvas, cruzamentos ou entroncamento, passagem de nível, na passagem para peões, nas vias com largura insuficiente, ultrapassar o veículo que esteja a ultrapassar um terceiro quando apenas existe duas faixas de trânsito, ou quando houver qualquer sinalização que me proíba.
 2114-Onde é proibido efetuar inversão do sentido de marcha!?
-A inversão do sentido de marcha, é proibida, nas lombas, nas curvas, rotundas, cruzamento e entroncamento, nas ponte, túneis e passagem de nível, qualquer lugar com má visibilidade ou de características inapropriadas, nas vias de sentidos único, autoestrada e sempre que se verificar grandes intensidades de trânsito.
+A inversão do sentido de marcha, é proibida, nas curvas, cruzamento e entroncamento, rotundas, nas ponte, túneis, lombas e passagem de nível, qualquer lugar com má visibilidade ou de características inapropriadas, nas vias de sentidos único, autoestrada e sempre que se verificar grandes intensidades de trânsito.
 2115-Qual a diferença entre o trânsito e vias públicas!?
 A diferença entre o trânsito e via pública, é que trânsito consistem em circulação de pessoas, animais e veículos nas vias publicas. Já vias públicas, são todas as estradas, ruas e caminhos, aberta ao trânsito.
 2116-Quais são os tipos de paragem que conheces!?
@@ -694,7 +695,7 @@ Um pião entrar faixa de rodagem, quando o mesmo pretende atravessar a via públ
 2162-Quando que um velocípede pode transportar mais de 2 pessoas?
 Um velocípede pode transportar mais de 2 pessoas, desde que desponha mais de 2 lugares.
 2163-Qual a diferença entre a luz mínima e a luz de presença?
-A diferença entre a luz mínima e a luz de presença, é que a luz mínima fica a frete de veículo e pode ser de cor branco ou amarela, já a luz de presença fica na retaguarda do veículo e é de cor vermelha. As duas luzes, não se projetam, só é visível á 150m e servem para marcar a presença e a dimensão do veículo.
+A diferença entre a luz mínima e a luz de presença, é que a luz mínima fica a frente de veículo e pode ser de cor branco ou amarela, já a luz de presença fica na retaguarda do veículo e é de cor vermelha. As duas luzes, não se projetam, só é visível á 150m e servem para marcar a presença e a dimensão do veículo.
 2164-Qual é a função de condução?
 A função de informação, consiste na recolha de informação. No decorrer da condução, deve-se olhar de tal modo a explorar todo o campo visual no menor tempo possível.
 2165-Qual o objetivo da condução?
