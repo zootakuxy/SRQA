@@ -93,7 +93,7 @@ A peça que está em cima do carburador é o filtro do ar, que serve para purifi
 35-Quais são as avarias do carburador?
 As avarias que podemos encontrar no carburador são, Boia furada, agulha a vedar mal, gicleres entupidos, borboleta presa, junta danificada e parafuso de afinação do ar a vedar mal.
 36- De que peça compõe o motor?
-O motor é composto por seguintes peças, válvula, pistões, bielas, veio excêntrico, cambota, engrenagem de distribuição e bomba de óleo.
+O motor é composto por 6 peças, que são, válvula, pistões, bielas, veio excêntrico, cambota, engrenagem de distribuição e bomba de óleo.
 37-Quais são peças que compõe o sistema de injeção?
 O sistema de injeção é composto por bomba injetora, injetores, bomba mecânica ou elétrica de combustível e filtro de gasóleo.
 38-Para que serve uma bomba injetora?
@@ -107,7 +107,7 @@ Um injetor é composto de corpo de injetor, um bico com agulha e um dispositivo 
 42- Quais são as peças que fazem parte de sistema de arrefecimento ou refrigeração?
 As peças que fazem parte de sistema de arrefecimento ou refrigeração são, bomba de água, radiador, ventilador e termóstato.
 43-Para que serve bomba de água?
-A bomba de água, serve para tirar água quente e levar água fria.
+A bomba de água, serve para tirar água quente do motor e levar a água fria.
 44-De que se compõe uma bomba de água?
 A bomba de água, está composta por corpo de bomba, mola, veio com rolamento, turbina e empanque.
 45-Para que serve o ventilador?
@@ -212,7 +212,7 @@ A ordem de motor de 8 cilindro é de 18|36|72|54, sendo 1|8|3|6|7|2|5|4;
 85-Para que servem os fusíveis?
 Os fusíveis servem para evitar que as instalações elétricas se queimem em caso de curto-circuito, geralmente estão montados numa caixa e há um fusível para cada circuito elétrico.
 86-De que se compõe um travão hidráulico?
-Pedal de travão, bomba central, tubagem da condução do óleo as rodas, cilindros e maxilas.
+Um travão hidráulico esta composto por pedal de travão, bomba central, tubagem da condução do óleo as rodas, cilindros e maxilas.
 87-De que se compõe um travão mecânico?
 Um travão mecânico, está composto por pedal de travão, tirantes que aciona numas alavancas, excêntricos e maxilas.
 88-De que se compõe um travão de ar comprimido?
@@ -235,7 +235,7 @@ O martelo balanceiro, serve para bater em cima das válvulas fazendo abrir e fec
 96-Quantos tipos de arrefecimentos por água conheces?
 Conheço dois tipos de arrefecimentos por água, que são, por bomba e por termo sifão.
 97-De que se compõe cubos das rodas diretrizes?
-Um redentor, dois rolamentos, um separado, uma anilha e uma porca. Pertence ao sistema de direção.
+Os cubos das rodas diretrizes, esta composta por um redentor, dois rolamentos, um separador, uma anilha e uma porca. Pertence ao sistema de direção.
 98-Para que serve a bomba de óleo?
 Serve para fazer passar óleo por todos os pontos que necessitam de lubrificação dentro do motor.
 99-De que se compõe a bomba de óleo?
@@ -259,13 +259,13 @@ A diferença existente entre o dínamo e o motor de arranque, é que o dínamo �
 108-Qual é a diferença entre o dínamo e o alternador?
 A diferença é que o dínamo carrega bateria quando o carro está em movimento, enquanto que o alternador carrega a bateria quando o carro estiver em relantim.
 109-Se o motor parar por si sem motivos justificados, como deve preceder o condutor?
-Deve primeiramente ver o sistema de alimentação, começando pelo depósito de combustível vê se há combustível e vê se o mesmo chega ao carburador. Se não for falta de alimentação verificar o sistema de inflamação, começando pela bateria vê se ela tem corrente e vê se chega as velas, sendo não, deve verificar o distribuidor, começando pelos platinados vê se estão sujos ou apertados demais ou condensador queimado, se a corrente não chega ao distribuidor é porque a bobine está queimada.
+Deve primeiramente ver o sistema de alimentação, começando pelo depósito de combustível vê se há combustível e vê se o mesmo chega ao carburador. Se não for falta de alimentação deve verificar o sistema de inflamação, começando pela bateria vê se ela tem corrente e vê se chega as velas, sendo não, deve verificar o distribuidor, começando pelos platinados vê se estão sujos ou apertados demais, ou se o condensador está queimado. Se a corrente não chega ao distribuidor é porque a bobine está queimada.
 110-Quantos tipos de arrefecimento por ar conheces?
 Conheço dois tipos de arrefecimento por ar, que são, por turbina e por lâmina.
 111- Qual é o instrumento que podemos medir o nível do óleo do motor?
-Podemos medir o óleo do motor com vareta gradual.
+Podemos medir o óleo do motor com vareta gradual ou sonda.
 2001-Para que serve o êmbolo?
-O êmbolo, é a junção de biela mais o pistão e  serve para fazer o tempo do motor em combinação com o abrir e fechar das válvulas.
+O êmbolo, é a junção de biela mais o pistão e serve para fazer o tempo do motor em combinação com o abrir e fechar das válvulas.
 2002-Quantos tipos de cambota conheces e quais são?
 Conheço dois tipos de cambota, que são, cambota com contrapeso e cambota sem contrapeso.
 2003-Quantos tipos de baterias conheces?
@@ -281,14 +281,17 @@ As mangas do eixo, servem para apoiar os cubos das rodas motrizes e geralmente e
 
 2008-O que sabes sobre empanques?
 Empanques, são peças mecânicas que têm por finalidade evitar derrames de fluido. Servem para vedar juntas das máquinas.
-2009-Diferencie os órgãos movéis do motor e as peças que compõem o motor?
+2009-Diferencie os órgãos móveis do motor e as peças que compõem o motor?
 Os órgãos móveis do motor são, embolo, biela, pistão, cambota e volante. Já as peças que compõem o motor são, válvula, pistões, bielas, veio excêntrico, cambota, engrenagem de distribuição e bomba de óleo.
 
 2010-Quais são os sistemas que compõem um veículo automóveis?
-Os sistemas que compõem um veículo automóvel são, sistema de inflamação, sistema de alimentação, sistema de injeção, sistema de arrefecimento ou refrigeração, sistema elétrico, sistema de transmissão, sistema de lubrificação, e sistema de inflamação.
+Conheço 10 sistemas que fazem parte de um veículo automóveis, que são:
+Sistema de inflamação, sistema de alimentação; sistema de injeção,
+sistema de arrefecimento ou refrigeração, Sistema elétrico, sistema de transmissão,
+sistema de lubrificação, sistema de inflamação, sistema de suspensão e sistema de direção.
 
 2011-Quantas bombas podemos encontrar no veículo?
-As bombas que podemos encontrar nos veículos são, bomba mecânica ou elétrica de combustível, bomba de água, bomba injetora e bomba de óleo. <break time=”1s”/>
+Num veículo, podemos encontrar 4 bombas que são, bomba mecânica ou elétrica de combustível, bomba de água, bomba injetora e bomba de óleo. <break time=”1s”/>
 Bomba mecânica ou elétrica de combustível, serve para chupar combustível e depósito e enviar para o carburador. Está composta por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas, sendo uma de entrada e outra de saída de combustível.
 Bomba de água, serve para tirar água quente do motor e levar água fria. Está composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque.
 Bomba injetora, serve para distribuir gasóleo aos injetores. Está composta por corpo de bomba, veio de ressalto e tantos elementos como cilindro compõe o motor.
@@ -309,17 +312,19 @@ O objetivo do sistema de suspensão é de absorver todas as irregularidades do p
 2021-Quais são as peças que compõem um sistema de suspensão?
 As peças que compõem um sistema de suspensão são, pneus ou rodas, mola, amortecedor e barras estabilizadores.
 2022-Para que servem os pneus?
-Os pneus ou rodas, servem para diminuir e absorver as pequenas irregularidades do pavimento.
+Os pneus ou rodas, servem para diminuir e absorver as pequenas irregularidades do pavimento, ou seja, tem como a função suportar o peso do veículo mais as cargas sendo transportadas.
+2022.1-Qual a espessura máxima dos pneus?
+A espessura máxima para automóvel ligeiro é de 1.6mm e de 1mm para automóvel pesados e motociclos.
 2023-Para que servem as molas?
-As molas, servem para suportar o peso do veículo, e absorver as oscilações provenientes das grandes irregularidades nos pavimentos, evitando que estas sejam integralmente transmitidas ao quadro do veículo.
+Servem para suportar o peso do veículo, e absorver as oscilações provenientes das grandes irregularidades nos pavimentos, evitando que estas sejam integralmente transmitidas ao quadro do veículo, ou seja, servem para contrariar as oscilações dos amortecedores.
 2023.1-Quantos tipos de molas existe?
 Existem dois tipos de molas, que são mola espiral e lamina.
 2024-Para que servem os amortecedores?
-Os amortecedores, servem para reduzir o número e a amplitude das oscilações das molas, garantindo desta forma uma melhor aderência dos veículos a estrada, nas curvas e nas travagens.
+Os amortecedores, servem para reduzir o número e a amplitude das oscilações das molas, garantindo desta forma uma melhor aderência dos veículos a estrada, nas curvas e nas travagens, ou seja, servem para contraria por sua vez a oscilação das molas.
 2025-Para que servem as barras estabilizadores?
-As barras estabilizadores, servem para contrair o efeito da força centrífuga nas curvas quando a carroçaria tende a inclinar.
+As barras estabilizadores, servem para contrair o efeito da força centrífuga nas curvas quando a carroçaria tende a inclinar, ou seja, servem para estabelecer o veículo principalmente quando descrevem uma curva.
 2026-Qual o procedimento para efetuar mudanças de rodas?
-Para mudar de rodas, devo estacionar num local plano e seguro, o mais possível a minha direita, colocando o sinal de pré-sinalização de perigo, colocar as rodas desapertar as porcas, colocar o macaco de elevação e mudar as rodas.
+Para mudar de rodas, devo estacionar num local plano e seguro, o mais possível a minha direita, colocando o sinal de pré-sinalização de perigo, colocar as rodas, desapertar as porcas, colocar o macaco de elevação e mudar as rodas.
 2027-Para que serve as velas?
 A vela serve para saltar faísca de alta tensão na câmara de carburação.
 2028-Em quantas partes está dividida as velas?
@@ -329,13 +334,13 @@ Existe 2 tipos de velas, que são, vela de admissão e vela de ignição.
 2030-Para que serve o termóstato?
 Termóstato, serve para impedir a passagem de água pelo radiador antes de atingir a temperatura ideal.
 2031-Qual a diferença entre a bobine e o dínamo ou alternador?
-A diferença entre o dínamo e a bobine, é que dínamo é um gerador de corrente contínua para carregar a bateria e faz parte de sistema elétrico. Enquanto a bobine, transforma a corrente de baixa tensão que vem da bateria em alta tensão que é enviado ao distribuidor e faz parte de sistema de inflamação.
+A diferença entre o dínamo e a bobine, é que dínamo é um gerador de corrente contínua para carregar a bateria, enquanto o caro está em movimento e faz parte de sistema elétrico. Já  a bobine, por sua vez, transforma a corrente de baixa tensão que vem da bateria em alta tensão que é enviado ao distribuidor e faz parte de sistema de inflamação.
 2032-Quantos tipos de válvulas conheces?
 Existe dois tipos de válvulas, válvula de admissão e válvula de escape.
 2033-Qual a diferença entre o embolo e a biela?
 A diferença entre o embolo e a biela, é que o embolo é a combinação da biela e pistão e serve par fazer o tempo do motor em combinação com o abrir e fechar das válvulas. Enquanto que a biela é uma das componentes do embolo, e serve para fazer ligação de cambota ao pistão.
 2034-Qual o procedimento para efetuar verificação do óleo no motor?
-Para se verificar o nível de óleo no motor, primeiramente deve-se imobilizar o veículo num local plano e seguro, desligar o motor e esperar que o mesmo se arrefeça. A seguir faz-se a verificação do nível de óleo através de vareta gradual ou sonda, onde a mesma deve ser colocada em forma vertical para se conseguir verificar com precisão o nível de óleo no motor.
+Para se verificar o nível de óleo no motor, primeiramente deve-se imobilizar o veículo num local plano e seguro, desligar o motor e esperar que o mesmo se arrefeça. A seguir faz-se a verificação do nível de óleo através de vareta gradual ou sonda, onde a mesma deve ser colocada na posição vertical para se conseguir verificar com precisão o nível de óleo no motor.
 
 
 //Sistema de transmissão
@@ -347,3 +352,7 @@ As mudanças, serve para obter o melhor balanceamento entre a força e velocidad
 
 2040-Quais são os sinais que os veículos nos dão quando tem problema com embreagem?
 O condutor deve saber tem problema com embreagem, através do cheiro queimado ou também quando a velocidade do veículo não corresponder ao número de rotação do motor por minuto.
+
+
+
+

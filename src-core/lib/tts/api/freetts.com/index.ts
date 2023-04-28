@@ -4,7 +4,7 @@ import https from "https";
 import http from "http";
 import * as Path from "path";
 import {TTLOptions} from "../../index";
-import {etc} from "../../../load";
+import {etc} from "../../../../load";
 import {sort} from "fast-sort";
 import * as console from "console";
 
@@ -78,6 +78,9 @@ export function freetts( opts:TTLOptions ):Promise<string>{
                     && (response.data.data.audiourl as string).endsWith(".mp3")
                 ;
 
+                useToken.credit = response.data.data.downloadCount;
+                if( !useToken.credit ) useToken.credit = 0;
+                etc.save();
 
                 if( !ok ){
                     console.log( "response.status", response.status );
@@ -87,9 +90,6 @@ export function freetts( opts:TTLOptions ):Promise<string>{
                         _convert( attempts );
                     }, 1000 * ( 5 * Math.random() ));
                 }
-
-                useToken.credit = response.data.data.downloadCount;
-                etc.save();
 
                 let audioUrl = response.data.data.audiourl;
                 fs.mkdirSync( Path.dirname( opts.audioFileName ), { recursive: true } );

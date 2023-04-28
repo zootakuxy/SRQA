@@ -2,7 +2,7 @@ import {etc, Source} from "../load";
 import {Question, readQuestions} from "../qa";
 import * as Path from "path";
 import * as fs from "fs";
-import {TTLOptions, TTSManager} from "../tts";
+import {TTLOptions, TTSManager} from "../lib/tts";
 import {normalizeDiacritics} from "normalize-text";
 import {id3Question} from "../util/id3";
 import * as console from "console";
