@@ -575,7 +575,7 @@ Ou ainda quando existir qualquer sinalização que proíba a manobra.
 
 2114-Onde é proibido efetuar inversão do sentido de marcha!?
 A inversão do sentido de marcha, é proibida;
-Nas lobas.
+Nas lombas.
 Nas curvas, rotunda, cruzamento e entroncamentos com visibilidade insuficiente.
 Nas pontes, tuneis, e passagem de nível.
 Autoestrada e vias reservadas a automóveis e motociclo.
@@ -650,34 +650,34 @@ A velocidade máxima para os veículos, na zona de coexistência e de 20 km/h, d
 2142-Qual a velocidade máxima para os motociclos?
 A velocidade máxima para motociclos dentro de localidade é de 50 km/h e de 90km/h fora de localidade, nas autoestradas é de 120km/h e de 100km/h nas vias reservadas ao automóveis e motociclo.
 2142.1-Qual a velocidade máxima para os motociclos com caro lateral?
-A velocidade máxima para motociclo com carro lateral, dentro da localidade é de 50km/h e de 70km/h fora da localidade, nas auto estrada é de 100km/h e de 80km/h nas vias reservada ao automóveis e motociclo.
+A velocidade máxima para motociclo com carro lateral, é de 50, 70, 100, 80, onde, dentro da localidade é de 50km/h e de 70km/h fora da localidade, nas auto estrada é de 100km/h e de 80km/h nas vias reservada ao automóveis e motociclo.
 2142.2-Qual a velocidade máxima de cilindrada não superior a 50cm3?
 A velocidade máxima para motociclo de cilindrada não superior o 50cm3, dentro de localidade é de 40km/h e de 60km/h fora de localidade.
 
 2143-Qual a velocidade máxima para os ciclomotores e quadriciclos?
 A velocidade máxima para ciclomotores dentro da localidade é de 40km/h e de 45km/h fora de localidade.
 2144-Qual a velocidade máxima para os triciclos?
-A velocidade máxima para triciclo dentro da localidade é de 50 km/h e de 80km/h fora de localidade, nas autoestradas, a velocidade máxima é de 100 km/h e de 90 km/h nas vias reservadas ao automóveis e motociclos.
+A velocidade máxima para triciclo, é de 50, 80, 100, 90, onde, dentro da localidade é de 50 km/h e de 80km/h fora de localidade, nas autoestradas, a velocidade máxima é de 100 km/h e de 90 km/h nas vias reservadas ao automóveis e motociclos.
 2145-Qual a velocidade máxima para automóveis ligeiros de passageiros e misto?
 A velocidade para automóveis ligeiros de passageiro e misto dentro da localidade é de 50km/h e de 90km/h fora da localidade, nas autoestradas, a velocidade máxima é de 120km/h e de 100km/h nas vias reservadas ao automóveis e motociclos.
 2145.1-Qual a velocidade máxima para automóveis ligeiros de passageiros e misto com reboque?
-A velocidade para automóveis ligeiros de passageiro e misto dentro da localidade é de 50km/h e de 70km/h fora da localidade, nas autoestradas, a velocidade máxima é de 100km/h e de 80km/h nas vias reservadas ao automóveis e motociclos.
+A velocidade para automóveis ligeiros de passageiro e misto, é de 50, 70, 100, 80, onde, dentro da localidade é de 50km/h e de 70km/h fora da localidade, nas autoestradas, a velocidade máxima é de 100km/h e de 80km/h nas vias reservadas ao automóveis e motociclos.
 
 2146-Qual a velocidade máxima para automóveis ligeiros de mercadoria?
-A velocidade máxima para automóveis ligeiros de mercadorias dentro da localidade é de 50 km/h e de 80km/h fora da localidade, nas autoestradas, a velocidade máxima é de 110km/h e de 90km/h nas vias reservadas ao automóveis e motociclos.
+A velocidade máxima para automóveis ligeiros de mercadorias, é de 50, 80, 110, 90, onde, dentro da localidade é de 50 km/h e de 80km/h fora da localidade, nas autoestradas, a velocidade máxima é de 110km/h e de 90km/h nas vias reservadas ao automóveis e motociclos.
 2146.1-Qual a velocidade máxima para automóveis ligeiros de mercadoria com reboque?
-A velocidade máxima para automóveis ligeiros de mercadorias dentro da localidade é de 50 km/h e de 70km/h fora da localidade, nas autoestradas, a velocidade máxima é de 100km/h e de 80km/h nas vias reservadas ao automóveis e motociclos.
+A velocidade máxima para automóveis ligeiros de mercadorias, é de 50, 70, 100, 80, onde, dentro da localidade é de 50 km/h e de 70km/h fora da localidade, nas autoestradas, a velocidade máxima é de 100km/h e de 80km/h nas vias reservadas ao automóveis e motociclos.
 
 2147-Qual a velocidade máxima para automóveis pesado de mercadoria?
-A velocidade máxima para automóveis pesado de mercadoria dentro de localidade é de 50 km/h e de 80km/h fora de localidade, nas autoestradas, a velocidade máxima é de 90 km/h e de 80 km/h nas vias reservadas ao automóveis e motociclo.
+A velocidade máxima para automóveis pesado de mercadoria, é de 50, 80, 90, 80, onde dentro de localidade é de 50 km/h e de 80km/h fora de localidade, nas autoestradas, a velocidade máxima é de 90 km/h e de 80 km/h nas vias reservadas ao automóveis e motociclo.
 
 2147.1-Qual a velocidade máxima para automóveis pesado de mercadoria com reboque?
-A velocidade máxima para automóveis pesado de mercadoria dentro de localidade é de 40km/h e de 70km/h fora de localidade, nas autoestradas, a velocidade máxima é de 80km/h e de 70km/h nas vias reservadas ao automóveis e motociclo.
+A velocidade máxima para automóveis pesado de mercadoria, é de 40, 70, 80, 70, onde, dentro de localidade é de 40km/h e de 70km/h fora de localidade, nas autoestradas, a velocidade máxima é de 80km/h e de 70km/h nas vias reservadas ao automóveis e motociclo.
 
 2148-Qual a velocidade máxima para automóveis pesado de passageiro?
-A velocidade para automóveis pesado de passageiros dentro da localidade é de 50 km/h e de 80 km/h fora da localidade, nas autoestradas, a velocidade máxima é de 100 km/h e de 90 km/h nas vias reservadas ao automóveis e motociclos.
+A velocidade para automóveis pesado de passageiros, é de 50, 80, 100, 90, onde, dentro da localidade é de 50 km/h e de 80 km/h fora da localidade, nas autoestradas, a velocidade máxima é de 100 km/h e de 90 km/h nas vias reservadas ao automóveis e motociclos.
 2148.1-Qual a velocidade máxima para automóveis pesado de passageiro com reboque?
-A velocidade para automóveis pesado de passageiros dentro da localidade é de 50km/h e de 70km/h fora da localidade, nas autoestradas e nas vias reservadas ao automóveis e motociclo, a velocidade máxima é de 90km/h.
+A velocidade para automóveis pesado de passageiros, é de 50, 70, 90, 90, dentro da localidade é de 50km/h e de 70km/h fora da localidade, nas autoestradas e nas vias reservadas ao automóveis e motociclo, a velocidade máxima é de 90km/h.
 
 2149-Qual a velocidade máxima para tratores agrícolas ou florestais?
 A velocidade máxima para tratores agrícolas ou florestais dentro de localidade é de 30km/h e de 40km/h fora de localidade.
@@ -686,7 +686,7 @@ A velocidade máxima para máquina agrícolas motocultivadores e tratocarros é 
 2151-Qual a velocidade máxima para máquinas industriais sem matrículas?
 A velocidade máxima para máquina industriais sem matrículas dentro e fora de localidade é de 30km/h.
 2152-Qual a velocidade máxima para máquinas industriais com matrículas?
-A velocidade máxima para máquina industrial com matrícula dentro de localidade é de 40km/h e de 70km por hora fora de localidade, nas autoestradas, a velocidade máxima é de 80km/h e de 70km/h nas vias reservadas ao automóveis e motociclos.
+A velocidade máxima para máquina industrial com matrícula, é de 40, 70, 80, 70, onde, dentro de localidade é de 40km/h e de 70km por hora fora de localidade, nas autoestradas, a velocidade máxima é de 80km/h e de 70km/h nas vias reservadas ao automóveis e motociclos.
 2153-Qual deve ser o reboque que pode atrelar o veículo ligeiro?
 O veículo ligeiro só pode atrelar reboque cujo peso bruto não excede a 750kg.
 2154-O que nos indica a luz amarela na parte superior do tejadilho do veículo?
@@ -712,7 +712,7 @@ Um velocípede pode transportar mais de 2 pessoas, desde que desponha mais de 2 
 2163-Qual a diferença entre a luz mínima e a luz de presença?
 A diferença entre a luz mínima e a luz de presença, é que a luz mínima fica a frente de veículo e pode ser de cor branco ou amarela, já a luz de presença fica na retaguarda do veículo e é de cor vermelha. As duas luzes, não se projetam, só é visível á 150m e servem para marcar a presença e a dimensão do veículo.
 2164-Qual é a função de condução?
-A função de informação, consiste na recolha de informação. No decorrer da condução, deve-se olhar de tal modo a explorar todo o campo visual no menor tempo possível.
+A função de condução, consiste na recolha de informação. No decorrer da condução, deve-se olhar de tal modo a explorar todo o campo visual no menor tempo possível.
 2165-Qual o objetivo da condução?
 O objetivo da condução, é de tornar a circulação mais rápida e tudo mais fácil.
 2166-Quando é que um condutor conduz sobre a influência de álcool?
@@ -724,6 +724,3 @@ Para 0.8g à 1g de álcool por litro de sangue, é uma infração muito grave.
 Quando for superior ao 1g por litro de sangue, é uma infração considerada de crime.
 2168-O que entendes por taxa de alcoolemia?
 Taxa de alcoolemia, é a taxa de álcool presente no sangue.
-
-
-
