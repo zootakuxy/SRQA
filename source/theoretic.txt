@@ -13,7 +13,7 @@ Os veículos automóveis ligeiros classificam em: ligeiro de passageiro, mercado
 7-O que são veículos automóveis pesados?
 Veículos automóveis pesados, são veículo cuja a lotação, excede 9 lugares incluindo condutor, e o seu peso bruto excede 3500 kg.
 8-Como classificam os veículos automóveis pesados?
-Os veículos automóveis pesados classificam em pesado de passageiros e pesado de mercadorias.
+Os veículos automóveis pesados classificam em pesado de passageiros e pesado de mercadorias e misto.
 9-O que são motociclos?
 Motociclo, são veículo munido de motor de cilindrada superior a 50 cm3, que não podemos considerar automóveis ligeiros.
 10-Como classificam os motociclos?
@@ -81,7 +81,7 @@ Os sinais de prescrição absoluta, indica-nos uma proibição e uma obrigação
 40-Que sinais gráficos conheces?
 Os sinais gráficos que conheço são, sinais gráficos verticais, e marcado no pavimento.
 41-Quais são os sinais marcado no pavimento que conheces?
-Os sinais marcados no pavimento que conheço são, linha contínua, linha descontínua, linha mista, linha transversal contínua, banda em zebra, setas de orientação e raias oblíquas.
+Os 7 sinais marcados no pavimento que conheço são, linha contínua, linha descontínua, linha mista, linha transversal contínua, banda em zebra, setas de orientação e raias oblíquas.
 42-Para que serve a linha contínua?
 A linha contínua indica ao condutor para transitar sempre a sua direita, não podendo pisa-la ou transpô-la porque se encontra em local perigoso.
 
@@ -326,7 +326,7 @@ A placa separadora, serve para separar a via em duas partes iguais.
 151-Quem deve conduzir os veículos automóveis nas vias públicas?
 Só podem conduzir um veículo automóvel na via pública, todos aqueles que estiverem legalmente habilitados para conduzir.
 152-Em que caso um veículo está autorizado a transportar explosivos?
-Para transportar explosivos, deve pedir duas autorizações, uma da PSP e outra da direção de transporte e portos. Deve possuir dois extintores de incêndio em bom estado de funcionamento. Deve ainda possuir uma bandeira preta que deve ser colocado na parte superior de tejadilho, de noite essa mesma bandeira deve ser substituída por uma faixa preta num dos faróis máximo do lado esquerdo. O condutor não deve fumar nem permitir que outros fumem. <break time="1s"/> Não deve fazer travagens bruscas nem guinadas com a direção. O condutor não deve parar junto das escolas, creches, hospitais, também, não deve parar nas bombas de combustíveis, bocas-de-incêndio, casa de espetáculos, nas fábricas quando está em funcionamento, e outros estabelecimentos semelhante quando sinalizado. Se for de caixa aberta não deve andar mais de 30 km/h, e se for de caixa fechada não deve andar a mais de 40 km/h. E para circular a noite deve possuir também outras autorizações.
+Para transportar explosivos, deve pedir duas autorizações, uma da PSP e outra da direção de transporte terrestre. Deve possuir dois extintores de incêndio em bom estado de funcionamento. Deve ainda possuir uma bandeira que deve ser colocado na parte superior de tejadilho, de noite essa mesma bandeira deve ser substituída por uma faixa preta num dos faróis máximo do lado esquerdo. O condutor não deve fumar nem permitir que outros fumem. <break time="1s"/> Não deve fazer travagens bruscas nem guinadas com a direção. O condutor não deve parar junto das escolas, creches, hospitais, também, não deve parar nas bombas de combustíveis, bocas-de-incêndio, casa de espetáculos, nas fábricas quando está em funcionamento, e outros estabelecimentos semelhante quando sinalizado. Se for de caixa aberta não deve andar mais de 30 km/h, e se for de caixa fechada não deve andar a mais de 40 km/h. E para circular a noite deve possuir também outras autorizações.
 153-Como deve proceder o condutor ao cruzar com outro veículo?
 Ao cruzar com outro veículo, o condutor deve encostar o mais possível a sua direita, e moderar a velocidade. Se for de noite, ele deve mudar de luz máxima para luz média, se o condutor não corresponder, deves mudar de luz média para luz mínima, e parar o veículo automóvel, para não provocar acidente.
 154-O que é lotação?
@@ -565,9 +565,24 @@ Tempo de reação, é o tempo que decorre entre o momento que o condutor vê o o
 2112-Qual a diferença entre o tempo de reação e a distância de reação!?
 A diferença existente entre o tempo de reação e a distância de reação, é que o tempo de reação, é o tempo que leva para o condutor começar a agir. Já a distância de reação, é a distância percorrida durante o tempo de reação, ou seja, a distância entre instante da perceção do obstáculo até o instante de reação do condutor, onde essa distância depende da velocidade do veículo e do tempo de reação.
 2113-Quando a ultrapassagem é proibida!?
-A manobra de ultrapassagem é proibida, nos locais com visibilidade insuficiente tais como lombas, curvas, cruzamentos ou entroncamento, passagem de nível, na passagem para peões, nas vias com largura insuficiente, ultrapassar o veículo que esteja a ultrapassar um terceiro quando apenas existe duas faixas de trânsito, ou quando houver qualquer sinalização que me proíba.
+A manobra de ultrapassagem é proibida,
+Nas lombas.
+Nos locais com visibilidade insuficiente.
+Imediatamente antes de passagem de nível, passagem para peões, cruzamentos e entroncamentos.
+Vias com larguras insuficientes.
+Ultrapassar um veículo que esteja a ultrapassar um terceiro.
+Ou ainda quando existir qualquer sinalização que proíba a manobra.
+
 2114-Onde é proibido efetuar inversão do sentido de marcha!?
-A inversão do sentido de marcha, é proibida, nas curvas, cruzamento e entroncamento, rotundas, nas ponte, túneis, lombas e passagem de nível, qualquer lugar com má visibilidade ou de características inapropriadas, nas vias de sentidos único, autoestrada e sempre que se verificar grandes intensidades de trânsito.
+A inversão do sentido de marcha, é proibida;
+Nas lobas.
+Nas curvas, rotunda, cruzamento e entroncamentos com visibilidade insuficiente.
+Nas pontes, tuneis, e passagem de nível.
+Autoestrada e vias reservadas a automóveis e motociclo.
+Lugares de visibilidades insuficientes ou de características inapropriadas.
+Sempre que se verifica grandes intensidades de trânsito.
+Ou ainda quando existir qualquer sinalização que proíba a manobra.
+
 2115-Qual a diferença entre o trânsito e vias públicas!?
 A diferença entre o trânsito e via pública, é que trânsito consistem em circulação de pessoas, animais e veículos nas vias publicas. Já vias públicas, são todas as estradas, ruas e caminhos, aberta ao trânsito.
 2116-Quais são os tipos de paragem que conheces!?
@@ -689,8 +704,8 @@ Se o veículo tiver avarias mecânica na passagem de nível, o condutor deve ten
 Ponto de embreagem, consiste na imobilização dos veículos nas inclinações sem o auxílio dos travões.
 2160-O que acontece se um condutor focar demais em algo?
 Se o condutor focar demais em algo, a visão fica mais nítida no objeto e mais difusa nas zonas periféricas.
-2161-Quando é que um pião entrar na faixa de rodagem?
-Um pião entrar faixa de rodagem, quando o mesmo pretende atravessar a via pública.
+2161-Quando é que um pião entra na faixa de rodagem?
+Um pião entra faixa de rodagem, quando o mesmo pretende atravessar a via pública.
 
 2162-Quando que um velocípede pode transportar mais de 2 pessoas?
 Um velocípede pode transportar mais de 2 pessoas, desde que desponha mais de 2 lugares.
