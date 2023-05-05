@@ -1,5 +1,6 @@
 1-O que é motor?
 O motor, é o órgão que transforma a sua energia mecânica em cinética.
+#tag: Mecânica|Definições|Motor #path: /motor
 2-Em quantas partes está dividida o motor e quais são?
 O motor divide-se em 3 partes, que são, a cabeça, o bloco cilindro e o cárter.
 3-Para que serve cárter?
@@ -93,7 +94,7 @@ A peça que está em cima do carburador é o filtro do ar, que serve para purifi
 35-Quais são as avarias do carburador?
 As avarias que podemos encontrar no carburador são, Boia furada, agulha a vedar mal, gicleres entupidos, borboleta presa, junta danificada e parafuso de afinação do ar a vedar mal.
 36- De que peça compõe o motor?
-O motor é composto por 6 peças, que são, válvula, pistões, bielas, veio excêntrico, cambota, engrenagem de distribuição e bomba de óleo.
+O motor é composto por 7 peças, que são, válvula, pistões, bielas, veio excêntrico, cambota, engrenagem de distribuição e bomba de óleo.
 37-Quais são peças que compõe o sistema de injeção?
 O sistema de injeção é composto por bomba injetora, injetores, bomba mecânica ou elétrica de combustível e filtro de gasóleo.
 38-Para que serve uma bomba injetora?
@@ -212,7 +213,7 @@ A ordem de motor de 8 cilindro é de 18|36|72|54, sendo 1|8|3|6|7|2|5|4;
 85-Para que servem os fusíveis?
 Os fusíveis servem para evitar que as instalações elétricas se queimem em caso de curto-circuito, geralmente estão montados numa caixa e há um fusível para cada circuito elétrico.
 86-De que se compõe um travão hidráulico?
-Um travão hidráulico esta composto por pedal de travão, bomba central, tubagem da condução do óleo as rodas, cilindros e maxilas.
+Um travão hidráulico está composto por pedal de travão, bomba central, tubagem da condução do óleo as rodas, cilindros e maxilas.
 87-De que se compõe um travão mecânico?
 Um travão mecânico, está composto por pedal de travão, tirantes que aciona numas alavancas, excêntricos e maxilas.
 88-De que se compõe um travão de ar comprimido?

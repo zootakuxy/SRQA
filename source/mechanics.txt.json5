@@ -14,6 +14,14 @@
     answerLength: 70,
     questionsWords: 4,
     answerWords: 13,
+    metadata: {
+      tags: [
+        'mecânica',
+        'definições',
+        'motor',
+      ],
+      path: '/motor',
+    },
   },
   {
     important: 0,
@@ -594,7 +602,7 @@
   {
     important: 0,
     question: 'De que peça compõe o motor?',
-    answer: 'O motor é composto por 6 peças, que são, válvula, pistões, bielas, veio excêntrico, cambota, engrenagem de distribuição e bomba de óleo.',
+    answer: 'O motor é composto por 7 peças, que são, válvula, pistões, bielas, veio excêntrico, cambota, engrenagem de distribuição e bomba de óleo.',
     number: 36,
     type: 'mechanics',
     change: false,
@@ -1394,7 +1402,7 @@
   {
     important: 0,
     question: 'De que se compõe um travão hidráulico?',
-    answer: 'Um travão hidráulico esta composto por pedal de travão, bomba central, tubagem da condução do óleo as rodas, cilindros e maxilas.',
+    answer: 'Um travão hidráulico está composto por pedal de travão, bomba central, tubagem da condução do óleo as rodas, cilindros e maxilas.',
     number: 86,
     type: 'mechanics',
     change: false,

@@ -1,7 +1,10 @@
 1-O que são veículos?
 Veículos, são objetos produzido pela arte mecânica, com ou sem motor, destinado a transportar pessoas ou mercadorias.
+#tag: Veículo #path:/veiculo #tag: Definição
+
 2-Como classificam os veículos?
 Os veículos classificam em veículo automóveis e não automóveis.
+#tag: Veículo #path: Veículo #tag: Classificação
 3-O que são veículos automóveis?
 Veículos automóveis, são veículo munido de motor de cilindrada superior a 50 cm3, que se movem pelos seus próprios meios com auxílio do condutor.
 4-Como classificam os veículos automóveis?
@@ -494,7 +497,7 @@ Acidente, são acontecimento indesejado que ocorrem nas vias pública, e podem s
 2078-Será que o álcool afeta todo mundo da mesma forma?
 Não, o álcool não afeta todos da mesma forma, depende da idade, sexo, peso ou estado físico do indivíduo.
 2079-Quando a taxa do álcool no sangue pode ser considerada de crime?
-A taxa de álcool no sangue é considerada de crime, quando o seu valor ultrapassa aos 0,5g por litro de sangue.
+A taxa de álcool no sangue é considerada de crime, quando o seu valor for igual ou superior á 1.2g de álcool por litro de sangue.
 2080-O que entendes por tempo do repouso do condutor?
 Tempo do repouso de condutor, é o tempo de acordo com o percurso o condutor deve parar para repousar, esse tempo deve ser de 2 á 2 horas.
 2081-O que entendes por localidade?
@@ -504,7 +507,7 @@ Zona de coexistência, são zona da via pública especialmente concebida para ut
 // 2083-Qual a velocidade máxima para os motociclos?
 // A velocidade máxima para motociclo simples de cilindrada superior a 50 cm3 dentro da localidade é de 50 km/h, na autoestrada é de 120 km/h, nas vias equiparadas é de 100 km/h e de 90 km/h fora das localidades. Para motociclo com carro lateral, dentro da localidade é de 50km/h, na autoestrada é de 100 km/h, nas vias equiparadas é de 80 km/h e de 70 km/h fora das localidades. Para motociclo de cilindrada não superior a 50 cm3 dentro da localidade é de 40 km/h e 60 km/h fora das localidades.
 // Para triciclo dentro da localidade, a velocidade máxima é de 50km/h e 80 km/h fora de localidade, na autoestrada é de 100 km/h e de 90 km/h nas vias equiparadas.
-2084-Quando devemos efetuar alternância de luz máxima para luz mínima!?
+2084-Quando devemos efetuar alternância de luz máxima para luz média!?
 As situações em que devemos efetuar alternância da luz de máximo para mínimo, é quando cruzamos com pessoas, animais ou veículo, ao efetuar uma ultrapassagem, quando circulamos a menos de 100 metros do veículo precedente, ou ainda nas curvas, cruzamento ou entroncamento.
 2085-Quando devemos utilizar as luzes de mínimo ou presença?
 A luz de presença deve ser utilizada sempre que o veículo esteja imobilizado total ou parcialmente dentro da faixa de rodagem.
@@ -687,7 +690,7 @@ A velocidade máxima para máquina agrícolas motocultivadores e tratocarros é 
 A velocidade máxima para máquina industriais sem matrículas dentro e fora de localidade é de 30km/h.
 2152-Qual a velocidade máxima para máquinas industriais com matrículas?
 A velocidade máxima para máquina industrial com matrícula, é de 40, 70, 80, 70, onde, dentro de localidade é de 40km/h e de 70km por hora fora de localidade, nas autoestradas, a velocidade máxima é de 80km/h e de 70km/h nas vias reservadas ao automóveis e motociclos.
-2153-Qual deve ser o reboque que pode atrelar o veículo ligeiro?
+2153-Qual deve ser o reboque que pode ser atrelado a um veículo ligeiro?
 O veículo ligeiro só pode atrelar reboque cujo peso bruto não excede a 750kg.
 2154-O que nos indica a luz amarela na parte superior do tejadilho do veículo?
 Os veículos com a luz amarela na parte superior de tejadilho indica-nos que é um veículo de marcha lenta.
@@ -724,3 +727,6 @@ Para 0.8g à 1g de álcool por litro de sangue, é uma infração muito grave.
 Quando for superior ao 1g por litro de sangue, é uma infração considerada de crime.
 2168-O que entendes por taxa de alcoolemia?
 Taxa de alcoolemia, é a taxa de álcool presente no sangue.
+
+
+

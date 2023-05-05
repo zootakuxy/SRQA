@@ -8,6 +8,8 @@ import {id3Question} from "../util/id3";
 import * as console from "console";
 import {breakTimeAudios, timePause} from "./break-time";
 import {audioJoin, fixJoinedAudio} from "../util/file-join";
+import * as path from "path";
+import {raw} from "express";
 
 let regexp = /[^a-zA-Z0-9\s\-._&]/g;
 
@@ -19,19 +21,24 @@ export const END_TIME_PAUSE  = 5;
 export const DIFF_TIME_PAUSE = MAX_TIME_PAUSE - MIN_TIME_PAUSE;
 
 export type AudioType = "Q+A"|"Question"|"Answer"|"Important";
+export type AudioTags = "path" | "tags";
 
 export type FileDirections = {
-    audioFileOf( question:Question,  type:AudioType ):string
+    audioFileOf( question:Question,  type:AudioType|AudioTags, tag?:string ):string
     rawFileOf( question:Question,  type:AudioType ):string
 }
 export function fileDirections( source:Source, audioFolder, rawFolder ):FileDirections{
     return {
-        audioFileOf( question:Question,  type:AudioType ){
+        audioFileOf( question:Question,  type:AudioType|AudioTags, tagValue ){
             let fileName = `${type} - ${( question.number+"").padStart(3, "0") } - ${ question.question }.mp3`;
-            if( type === "Important"){
-                fileName = `${ question.type } - ${type}_${question.important} - ${( question.number+"").padStart(3, "0") } - ${ question.question }.mp3`;
-            }
+            if( type === "Important") fileName = `${ question.type } - ${type}_${question.important} - ${( question.number+"").padStart(3, "0") } - ${ question.question }.mp3`;
+            if( type === "tags" ) fileName = `${ question.type } - ${tagValue} - ${( question.number+"" ).padStart( 3, "0" ) } - ${ question.question }.mp3`;
+            if( type === "path" ) fileName = `${ question.type } - ${( question.number+"" ).padStart( 3, "0" ) } - ${ question.question }.mp3`;
+
+
             fileName = normalizeDiacritics( fileName );
+
+            if( type === "tags" || type === "path" && tagValue && tagValue.length) tagValue = normalizeDiacritics( tagValue );
             fileName = fileName.replace( regexp, "" );
             let audioFile;
 
@@ -39,12 +46,16 @@ export function fileDirections( source:Source, audioFolder, rawFolder ):FileDire
                 "Q+A": "Q&A",
                 Question: "Question",
                 Answer: "Answer",
-                Important: "Q&A"
+                Important: "Q&A",
+                tags: `Q&A - ${ tagValue }`,
+                "path": "Q&A"
             }
 
             if( type === "Important" ){
                 audioFile = Path.join( audioFolder, type, `Important-${question.important}`, fileName );
-            } else audioFile = Path.join( audioFolder, type, `${LabelType[type]} - ${ source.name }`, fileName );
+            } else if( [ "tags", "path" ].includes( type ) ) audioFile = Path.join( audioFolder, type, tagValue, fileName )
+            else audioFile = Path.join( audioFolder, type, `${LabelType[type]} - ${ source.name }`, fileName );
+            fs.mkdirSync( Path.dirname( audioFile ), { recursive: true } );
             return audioFile;
         },
         rawFileOf ( question:Question,  type:AudioType ){
@@ -58,6 +69,7 @@ export function fileDirections( source:Source, audioFolder, rawFolder ):FileDire
                 Important: "Q&A"
             }
             rawFile = Path.join( rawFolder, type, `${LabelType[type]} - ${ source.name }`, fileName );
+            fs.mkdirSync( Path.dirname( rawFile ), { recursive: true } );
             return rawFile;
         }
     }
@@ -77,6 +89,12 @@ export function conversionCore(source:Source, audioFolder:string, rawFolder:stri
 
         if( fs.existsSync(Path.join( audioFolder, "Important" ) ) )
             fs.rmSync(Path.join( audioFolder, "Important" ), { recursive: true });
+
+        if( fs.existsSync( Path.join( audioFolder, "path" ) ) )
+            fs.rmSync( Path.join( audioFolder, "path" ), { recursive: true } );
+
+        if( fs.existsSync( Path.join( audioFolder, "tags" ) ) )
+            fs.rmSync( path.join( audioFolder, "tags" ), { recursive: true });
 
         readQuestions( source.filename, source.name ).then( readQuestions => {
             let questions = [ ...readQuestions.questions ];
@@ -112,15 +130,11 @@ export function conversionCore(source:Source, audioFolder:string, rawFolder:stri
 
                 let workName = `Convert question ${ _current.number } from ${ source.name } | ${ _current.question }`;
                 console.log( workName, "..." );
-                if( !convert ){
-                    console.log( workName, "... skip!" );
-                    return next( _current );
-                }
 
                 let isPair = _current.number%2 === 0;
                 let voice = isPair? source.configs.translate[2] : source.configs.translate[1];
 
-                let Jobs:{[p in "Q&A"|"question"|"answer"|"Q+A"]?:()=>Promise<boolean>} = {
+                let Jobs:{[p in "Q&A"|"question"|"answer"|"Q+A"|AudioTags]?:()=>Promise<boolean>} = {
                     question: () => {
                         return new Promise( ( jobResolve ) => {
                             let text = `${ _current.question }`;
@@ -187,7 +201,29 @@ export function conversionCore(source:Source, audioFolder:string, rawFolder:stri
                                 })
                             })
                         });
-                    }, /*"Q&A"(){
+                    }, "tags"(){
+                        return new Promise( (jobResolve) => {
+                            if( _current?.metadata?.tags?.length ){
+                                let audioSource = fdir.audioFileOf( _current, "Q+A" );
+                                _current.metadata.tags.forEach( tagVal => {
+                                    let destine = fdir.audioFileOf( _current, "tags", tagVal );
+                                    fs.cpSync( audioSource, destine );
+                                });
+                            }
+
+                            jobResolve( true );
+                        })
+                    }, path(){
+                        return new Promise( jobResolve => {if( _current?.metadata?.path ){
+                                let audioSource = fdir.audioFileOf( _current, "Q+A" );
+                                let destine = fdir.audioFileOf( _current, "path", _current.metadata.path );
+                                fs.cpSync( audioSource, destine );
+                            }
+                            jobResolve( true );
+                        })
+                    }
+
+                    /*"Q&A"(){
                         // return new Promise( jobResolve => {
                         //
                         //     let percent = ( _current.answerLength * 1.0 )/readQuestions.maxAnswerLength;
@@ -220,9 +256,12 @@ export function conversionCore(source:Source, audioFolder:string, rawFolder:stri
 
 
                 let useJobs:(()=>Promise<boolean>)[] = [];
-                if( opts.convertQuestion && !_current.convertedQuestion ) useJobs.push( Jobs["question"]);
-                if( opts.convertAnswer && !_current.convertedAnswer ) useJobs.push( Jobs["answer"]);
+                if( opts.convertQuestion && !_current.convertedQuestion ) useJobs.push( Jobs.question);
+                if( opts.convertAnswer && !_current.convertedAnswer ) useJobs.push( Jobs.answer);
                 if( opts["convertQ+A"] && !_current["convertedQ+A"] ) useJobs.push( Jobs["Q+A"]  );
+                useJobs.push( Jobs.tags );
+                useJobs.push( Jobs.path );
+
 
                 let _jobGo = ()=>{
                     let _nextJob = useJobs.shift();

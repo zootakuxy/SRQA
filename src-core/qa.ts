@@ -7,7 +7,6 @@ export interface Question{
     important:number,
     question:string,
     answer:string,
-
     number:number,
     indexNumber:number
     type:string|"mechanics"|"theoretic",
@@ -18,7 +17,12 @@ export interface Question{
     questionLength:number,
     answerLength:number,
     answerWords:number,
-    questionsWords:number
+    questionsWords:number,
+    metadata?:{
+        [ k : string ]: any
+        path?:string,
+        tags?:string[],
+    }
 }
 
 export function readQuestions( qaFile: string, type:string ):Promise<{
@@ -53,7 +57,38 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
             line = line.trim();
             if( line.length < 1 ) return;
 
-            if( line.startsWith("//") || line.startsWith("#") ) return;
+            let question:Question  = questionsList[ questionsList.length-1 ];
+
+            if( line.startsWith("//")  ) return;
+            if( line.startsWith("#") ){
+                let metadataList = line.split("#")
+                    .filter( meta => !!meta && meta.length > 0 )
+                    .map(  meta => meta.split(":").map( next => next?.trim?.() ) )
+                    .filter( meta => !!meta && meta.length === 2 && meta[0].length && meta[ 1 ].length )
+                    .map( meta => ({ key: meta[ 0 ], value: meta[ 1 ] }));
+
+                if( !question.metadata ) question.metadata = {};
+                metadataList.forEach( ( pair )=>{
+                    if( [ "path", "paths" ].includes( pair.key.toLowerCase() ) ) pair.key = "path";
+                    if( [ "tag", "tags" ].includes( pair.key.toLowerCase() ) ) pair.key = "tag";
+                    if( pair.key === "tag" ) {
+                        question.metadata.tags = question.metadata.tags || [ ];
+                        question.metadata.tags.push(
+                            ... pair.value.toLowerCase()
+                                .split(/[|;,]/)
+                                .map( value => value.trim() )
+                                .filter( value => !!value?.length )
+                        );
+                        return;
+                    }
+                    if( pair.key === "path" ) {
+                        question.metadata.path = pair.value.toLowerCase();
+                        return;
+                    }
+                    question.metadata[ pair.key ] = pair.value;
+                });
+                return;
+            }
 
             let index = Number( line.split(/[-–]/)[ 0 ] );
             let endAsQuestion = line.endsWith("?");
@@ -74,7 +109,7 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
 
                 parts.shift();
                 let questionName = parts.join( "-");
-                let question:Question = {
+                question = {
                     important: important.length-1,
                     question: questionName,
                     answer: "",
@@ -92,7 +127,6 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
                 }
                 questionsList.push( question );
             } else {
-                let question = questionsList[ questionsList.length-1 ];
                 if( !question ) return;
                 question.answer+="\n"+line;
             }
@@ -136,6 +170,7 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
                 value.convertedQuestion = !!findQuestion && findQuestion.convertedQuestion && !value.change;
                 value.convertedAnswer = !!findQuestion && findQuestion.convertedAnswer && !value.change;
             });
+
             resolve( {
                 questions: questionsList,
                 minAnswerLength: minLength,
