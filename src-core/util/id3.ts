@@ -17,8 +17,8 @@ export function id3Question( fileDirection:FileDirections, question:Question ){
 
         //language=file-reference
         let Image: { [p in typeof type]: string } = {
-            mechanics: Path.join(__dirname, "../../source/assets/mechanic.jpg"),
-            theoretic: Path.join(__dirname, "../../source/assets/security.jpg")
+            mechanics: Path.join(__dirname, "../../source/assets/zootakuxy-mechanic.png"),
+            theoretic: Path.join(__dirname, "../../source/assets/zootakuxy-theoretic.png")
         };
 
         let typeChar = type[0].toUpperCase();
