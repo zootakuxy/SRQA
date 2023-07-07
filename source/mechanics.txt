@@ -39,12 +39,8 @@ A bateria divide-se em três partes, que são;
 - Bornes
 16-Para que serve a bobine?
  A bobine, serve para transformar a corrente de baixa tensão em alta tensão.
-
 17-De que se compõe uma bobine?
 A bobine compõe-se de um núcleo de ferro macio, dois enrolamentos sendo, um primário e um secundário e três polos, sendo dois laterais e um central. Um lateral que recebe a corrente de baixa tensão vindo da bateria e o outro que leva a mesma corrente de baixa tensão à dispositivo de rotura. O polo central que leva a corrente de alta tensão ao distribuidor.
-
-
-
 18-Para que serve o distribuidor?
 O distribuidor, serve para distribuir corrente de alta tensão as velas.
 // https://mecanicaautomovel.weebly.com/distribuidor.html
@@ -71,7 +67,7 @@ O depósito de combustível, serve para armazenar combustível.
 24.1 - Para que serve a bomba mecânica ou elétrica de combustível?
 Bomba mecânica ou elétrica de combustível, serve para chupar o combustível do depósito e enviar ao carburador.
 25-De que se compõe uma bomba mecânica ou elétrica de combustível?
-A bomba mecânica ou elétrica de combustível, está composto por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas sendo uma de entrada e outra de saída de combustível.
+A bomba mecânica ou elétrica de combustível, está composto por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas sendo uma de entrada e outra de saída de combustível. Repetindo, a bomba mecânica ou elétrica de combustível, está composta por, corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas, sendo uma de entrada e outra de saída de combustível
 26-Para que serve carburador?
 O carburador, serve para transformar o combustível líquido numa mistura inflamável por ação de corrente de alta tensão.
 27-Em quantas partes está dividida o carburador?
@@ -90,7 +86,6 @@ Coletor de admissão, serve para admitir a mistura gasosa.
 Coletor de escape, serve para expelir gases queimados.
 34-Qual é a peça que está em cima do carburador?
 A peça que está em cima do carburador é o filtro do ar, que serve para purificar o ar que entra dentro do carburador.
-
 35-Quais são as avarias do carburador?
 As avarias que podemos encontrar no carburador são, Boia furada, agulha a vedar mal, gicleres entupidos, borboleta presa, junta danificada e parafuso de afinação do ar a vedar mal.
 36- De que peça compõe o motor?
@@ -100,7 +95,7 @@ O sistema de injeção é composto por bomba injetora, injetores, bomba mecânic
 38-Para que serve uma bomba injetora?
 Bomba injetora, é um órgão que serve para distribuir gasóleo aos injetores.
 39-De que se compõe uma bomba injetora?
-Uma bomba injetora é composta por corpo da bomba, veio de ressalto e tantos elementos como cilindro compõe o motor.
+Uma bomba injetora é composta por corpo da bomba, veio de ressalto e tantos elementos como cilindro compõe o motor. Repetindo, a bomba injetora, está composta pelo corpo de bomba, veio de ressaltos e tantos elementos como cilindro compõe o motor.
 40-Para que servem os injetores?
 Os injetores, serve para pulverizar o gasóleo nas câmaras de combustão.
 41- De que se compõe um injetor?
@@ -110,7 +105,7 @@ As peças que fazem parte de sistema de arrefecimento ou refrigeração são, bo
 43-Para que serve bomba de água?
 A bomba de água, serve para tirar água quente do motor e levar a água fria.
 44-De que se compõe uma bomba de água?
-A bomba de água, está composta por corpo de bomba, mola, veio com rolamento, turbina e empanque.
+A bomba de água, está composta por corpo de bomba, mola, veio com rolamento, turbina e empanque. Repetindo, a bomba de água, esta composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque.
 45-Para que serve o ventilador?
 O ventilador, serve para arrefecer a água que encontra dentro de radiador.
 46-Quais são as peças que fazem parte de sistema elétrico?
@@ -127,8 +122,6 @@ Um motor de arranque, serve para pôr o motor em funcionamento na sua fase inici
 Um motor de arranque, está composta por corpo induzido, indutor, coletor, escova de cobre e uma união bendix.
  52-Para que serve a união bendix?
 Serve para rodar volante do motor.
-
-
 53-Quais são as peças que compõe o sistema de transmissão?
 O sistema de transmissão é composto por embreagem, caixa de velocidade, veio de transmissão, e diferencial.
 54-Para que serve a embreagem?
@@ -177,17 +170,6 @@ A cambota, é um veio de aço com diversas manivelas que está apoiada nos bronz
 
  73-O que é um veio excêntrico?
 Veio excêntrico, é um veio de aço com diversos ressaltos que serve para fazer abrir e fechar as válvulas através de tuches, fazendo funcionar a bomba de óleo e a bomba mecânica de combustível.
-
-
-
-
-
-
-
-
-
-
-
 74-O que entendes por rodas motrizes?
 São aquelas que recebem o esforço do motor.
 75-O que entendes por roda directrizes?
@@ -205,11 +187,11 @@ Sincronizador, serve pra suavizar o trabalho na caixa de velocidade.
 81-Para que serve um servo-freio?
 Serve para auxiliar o condutor na travagem, e tornar mais suave o seu trabalho.
 82- Qual a ordem de um motor de 4 cilindros?
-A ordem do motor de 4 cilindros é 13|42, sendo 1|3|4|2
+A ordem do motor de 4 cilindros é 13|42, sendo 1 3, 4 2, de novo, 1 3, 4 2.
 83-Qual a ordem de um motor de 6 cilindros?
-A ordem de um motor de 6 cilindro é de 15|36|24, sendo 1|5|3|6|2|4;
+A ordem de um motor de 6 cilindro é de 15|36|24, sendo 1 5, 3 6, 2 4, de novo, 1 5, 3 6, 2 4.
 84-Qual a ordem de um motor de 8 cilindros?
-A ordem de motor de 8 cilindro é de 18|36|72|54, sendo 1|8|3|6|7|2|5|4;
+A ordem de motor de 8 cilindro é de 18|36|72|54, sendo 1 8, 3 6, 7 2, 5 4, de novo, 1 8, 3 6, 7 2, 5 4.
 85-Para que servem os fusíveis?
 Os fusíveis servem para evitar que as instalações elétricas se queimem em caso de curto-circuito, geralmente estão montados numa caixa e há um fusível para cada circuito elétrico.
 86-De que se compõe um travão hidráulico?
@@ -240,7 +222,7 @@ Os cubos das rodas diretrizes, esta composta por um redentor, dois rolamentos, u
 98-Para que serve a bomba de óleo?
 Serve para fazer passar óleo por todos os pontos que necessitam de lubrificação dentro do motor.
 99-De que se compõe a bomba de óleo?
-Compõe-se por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base.
+Compõe-se por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base. Repetindo, a bomba de óleo, está composto por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base.
 100-Quais são as possíveis avarias da bomba de óleo?
 Bomba danificada, veio partido, carretos presos e filtro com impureza.
 101-Como podemos descobrir a avaria na bomba de óleo?
@@ -279,7 +261,6 @@ As avarias que podemos encontrar na embreagem são, prato empenado, mola partida
 As peças que fazem parte do sistema de lubrificação são, bomba de óleo, filtro de óleo e cárter.
 2007-Para que servem as mangas de eixo?
 As mangas do eixo, servem para apoiar os cubos das rodas motrizes e geralmente estão afixados na ponta do eixo de frente.
-
 2008-O que sabes sobre empanques?
 Empanques, são peças mecânicas que têm por finalidade evitar derrames de fluido. Servem para vedar juntas das máquinas.
 2009-Diferencie os órgãos móveis do motor e as peças que compõem o motor?
@@ -290,13 +271,12 @@ Conheço 10 sistemas que fazem parte de um veículo automóveis, que são:
 Sistema de inflamação, sistema de alimentação; sistema de injeção,
 sistema de arrefecimento ou refrigeração, Sistema elétrico, sistema de transmissão,
 sistema de lubrificação, sistema de inflamação, sistema de suspensão e sistema de direção.
-
 2011-Quantas bombas podemos encontrar no veículo?
 Num veículo, podemos encontrar 4 bombas que são, bomba mecânica ou elétrica de combustível, bomba de água, bomba injetora e bomba de óleo. <break time=”1s”/>
-Bomba mecânica ou elétrica de combustível, serve para chupar combustível e depósito e enviar para o carburador. Está composta por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas, sendo uma de entrada e outra de saída de combustível.
-Bomba de água, serve para tirar água quente do motor e levar água fria. Está composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque.
-Bomba injetora, serve para distribuir gasóleo aos injetores. Está composta por corpo de bomba, veio de ressalto e tantos elementos como cilindro compõe o motor.
-Bomba de óleo, serve para fazer passar óleo a todos os pontos que necessitam de lubrificação. Está composta por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base.
+Bomba mecânica ou elétrica de combustível, serve para chupar combustível e depósito e enviar para o carburador. A bomba mecânica ou elétrica de combustível, está composta por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas, sendo uma de entrada e outra de saída de combustível.
+Bomba de água, serve para tirar água quente do motor e levar água fria. A bomba de água, está composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque.
+Bomba injetora, serve para distribuir gasóleo aos injetores. A bomba injetora, está composta por corpo de bomba, veio de ressalto e tantos elementos como cilindro compõe o motor.
+Bomba de óleo, serve para fazer passar óleo a todos os pontos que necessitam de lubrificação. A bomba de óleo, está composta por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base.
 2012-Qual a diferença entre o careto condutor e o careto conduzido?
 A diferença entre o careto condutor e o careto conduzido é que o careto condutor tem metade dos dentes de um careto conduzido. Enquanto o careto condutor da uma volta o carreto conduzido dá meia volta. O careto condutor dá o dobro de volta que o carreto conduzido dá.
 2013-Reservado?
@@ -306,54 +286,56 @@ A diferença entre o careto condutor e o careto conduzido é que o careto condut
 2017-Reservado?
 2018-Reservado?
 2019-Reservado?
-
 //Sistema de suspensão
 2020-Qual o objetivo de sistemas de suspensão?
 O objetivo do sistema de suspensão é de absorver todas as irregularidades do pavimento.
 2021-Quais são as peças que compõem um sistema de suspensão?
-As peças que compõem um sistema de suspensão são, pneus ou rodas, mola, amortecedor e barras estabilizadores.
+As peças que compõem um sistema de suspensão são, pneus, mola, amortecedor e barras estabilizadores.
 2022-Para que servem os pneus?
-Os pneus ou rodas, servem para diminuir e absorver as pequenas irregularidades do pavimento, ou seja, tem como a função suportar o peso do veículo mais as cargas sendo transportadas.
+Os pneus, tem como a função suportar o peso do veículo mais as cargas sendo transportadas.
+//Os pneus ou rodas, servem para diminuir e absorver as pequenas irregularidades do pavimento.
 2022.1-Qual a espessura máxima dos pneus?
 A espessura máxima para automóvel ligeiro é de 1.6mm e de 1mm para automóvel pesados e motociclos.
 2023-Para que servem as molas?
-Servem para suportar o peso do veículo, e absorver as oscilações provenientes das grandes irregularidades nos pavimentos, evitando que estas sejam integralmente transmitidas ao quadro do veículo, ou seja, servem para contrariar as oscilações dos amortecedores.
+As molas, servem para contrariar as oscilações dos amortecedores.
+//Servem para suportar o peso do veículo, e absorver as oscilações provenientes das grandes irregularidades nos pavimentos, evitando que estas sejam integralmente transmitidas ao quadro do veículo.
 2023.1-Quantos tipos de molas existe?
 Existem dois tipos de molas, que são mola espiral e lamina.
 2024-Para que servem os amortecedores?
-Os amortecedores, servem para reduzir o número e a amplitude das oscilações das molas, garantindo desta forma uma melhor aderência dos veículos a estrada, nas curvas e nas travagens, ou seja, servem para contraria por sua vez a oscilação das molas.
+Os amortecedores, servem para contraria por sua vez a oscilação das molas.
+// Os amortecedores, servem para reduzir o número e a amplitude das oscilações das molas, garantindo desta forma uma melhor aderência dos veículos a estrada, nas curvas e nas travagens, ou seja.
 2025-Para que servem as barras estabilizadores?
-As barras estabilizadores, servem para contrair o efeito da força centrífuga nas curvas quando a carroçaria tende a inclinar, ou seja, servem para estabelecer o veículo principalmente quando descrevem uma curva.
+As barras estabilizadores, servem para estabelecer o veículo principalmente quando descrevem uma curva.
+// As barras estabilizadores, servem para contrair o efeito da força centrífuga nas curvas quando a carroçaria tende a inclinar.
 2026-Qual o procedimento para efetuar mudanças de rodas?
-Para mudar de rodas, devo estacionar num local plano e seguro, o mais possível a minha direita, colocando o sinal de pré-sinalização de perigo, colocar as rodas, desapertar as porcas, colocar o macaco de elevação e mudar as rodas.
+Para mudar de rodas, devo estacionar num local plano e seguro, o mais possível a minha direita, colocando o sinal de pré-sinalização de perigo, desapertar as porcas, colocar o macaco de elevação e mudar as rodas.
 2027-Para que serve as velas?
 A vela serve para saltar faísca de alta tensão na câmara de carburação.
 2028-Em quantas partes está dividida as velas?
 A vela está dividida em polo positivo, polo negativo isolado por uma união de porcelana.
 2029-Quantos tipos de velas existem?
 Existe 2 tipos de velas, que são, vela de admissão e vela de ignição.
-2030-Para que serve o termóstato?
-Termóstato, serve para impedir a passagem de água pelo radiador antes de atingir a temperatura ideal.
+2041-Para que serve o termostato?
+O termostato, serve para manter a temperatura do motor, e evitar que a água passe pelo radiador antes do motor atingir a temperatura ideal.
 2031-Qual a diferença entre a bobine e o dínamo ou alternador?
-A diferença entre o dínamo e a bobine, é que dínamo é um gerador de corrente contínua para carregar a bateria, enquanto o caro está em movimento e faz parte de sistema elétrico. Já  a bobine, por sua vez, transforma a corrente de baixa tensão que vem da bateria em alta tensão que é enviado ao distribuidor e faz parte de sistema de inflamação.
+A diferença entre o dínamo e a bobine, é que dínamo é um gerador de corrente contínua para carregar a bateria, enquanto o caro está em movimento e faz parte de sistema elétrico. Já a bobine, por sua vez, transforma a corrente de baixa tensão que vem da bateria em alta tensão que é enviado ao distribuidor e faz parte de sistema de inflamação.
 2032-Quantos tipos de válvulas conheces?
 Existe dois tipos de válvulas, válvula de admissão e válvula de escape.
 2033-Qual a diferença entre o embolo e a biela?
 A diferença entre o embolo e a biela, é que o embolo é a combinação da biela e pistão e serve par fazer o tempo do motor em combinação com o abrir e fechar das válvulas. Enquanto que a biela é uma das componentes do embolo, e serve para fazer ligação de cambota ao pistão.
 2034-Qual o procedimento para efetuar verificação do óleo no motor?
 Para se verificar o nível de óleo no motor, primeiramente deve-se imobilizar o veículo num local plano e seguro, desligar o motor e esperar que o mesmo se arrefeça. A seguir faz-se a verificação do nível de óleo através de vareta gradual ou sonda, onde a mesma deve ser colocada na posição vertical para se conseguir verificar com precisão o nível de óleo no motor.
-
-
 //Sistema de transmissão
 2038-Onde fica as mudanças?
 As mudanças, ficam na caixa de velocidade.
 2039-Para que serve as mudanças?
 As mudanças, serve para obter o melhor balanceamento entre a força e velocidade conforme a necessidade do veículo no momento.
-
-
 2040-Quais são os sinais que os veículos nos dão quando tem problema com embreagem?
 O condutor deve saber tem problema com embreagem, através do cheiro queimado ou também quando a velocidade do veículo não corresponder ao número de rotação do motor por minuto.
-
-
-
-
+2043-Qual o objetivo do sistema de transmissão?
+O objetivo do sistema de transmissão, é de permitir que o veículo entre em locomoção ou desloque.
+2042-Como está composto o veículo?
+O veículo, está dividido em três partes que são, quadro ou chassi, carroçaria, sistemas.
+Quadro ou chassi, suporta toda a estrutura do veículo. Ela é a estrutura interna.
+Carroçaria, é a estrutura externa do veículo.
+Sistemas, que está composto por vários sistemas, dentre eles o mais importante é o motor, a direção e a transmissão.

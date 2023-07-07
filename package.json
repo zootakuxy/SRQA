@@ -11,6 +11,7 @@
     "QandA": "node src-core/launcher/QandA.js",
     "Questions": "node src-core/launcher/questions.js",
     "Answers": "node src-core/launcher/answers.js",
+    "2Share": "node src-core/launcher/2share.js",
     "clean": "node src-core/clean.js",
     "Server": "node server",
     "test": "echo \"Error: no test specified\" && exit 1"
