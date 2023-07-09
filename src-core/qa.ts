@@ -8,6 +8,7 @@ export interface Question{
     question:string,
     answer:string,
     number:number,
+    order:number,
     indexNumber:number
     type:string|"mechanics"|"theoretic",
     change:boolean,
@@ -123,7 +124,8 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
                     questionLength: questionName.length,
                     answerLength: 0,
                     questionsWords: 0,
-                    answerWords: 0
+                    answerWords: 0,
+                    order: 0
                 }
                 questionsList.push( question );
             } else {
@@ -139,12 +141,18 @@ export function readQuestions( qaFile: string, type:string ):Promise<{
                 last = json5.parse( fs.readFileSync(qaFile+".json5").toString("utf-8" ) );
             }
 
+
+            let order = 1;
+
             questionsList = questionsList.filter( value =>
                 !!value.question.trim().length
                 && !!value.answer.trim().length
                 && value.number !== null
                 && value.number !== undefined
-            )
+            ).map( value => {
+                value.order = order ++;
+                return value;
+            })
 
             questionsList.forEach( value => {
                 let length = value.answer.length;

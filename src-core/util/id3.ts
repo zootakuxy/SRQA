@@ -9,10 +9,6 @@ export function id3Question( fileDirection:FileDirections, question:Question ){
             mechanics: "Mecanica",
             theoretic: "Teorica"
         };
-        let Track: { [p in typeof type]: number } = {
-            mechanics: 1,
-            theoretic: 2
-        };
         //language=file-reference
 
         //language=file-reference
@@ -22,12 +18,12 @@ export function id3Question( fileDirection:FileDirections, question:Question ){
         };
 
         let typeChar = type[0].toUpperCase();
-        let title = `${typeChar}${(question.number + "").padStart(3, "0")} ${question.question}`;
+        let title = `${question.order} ${typeChar}${(question.number + "").padStart(3, "0")} ${question.question}`;
         console.log(title);
         let tag: Tags = {
             title: title,
             artist: "Daniel Costa",
-            trackNumber: `${question.number}/${Track[type]}`,
+            trackNumber: `${question.order}`,
             album: `Trânsito Aulas ${Label[type]}`,
             language: "pt-PT",
             copyrightUrl: "https://github.com/zootakuxy",
@@ -51,7 +47,7 @@ export function id3Question( fileDirection:FileDirections, question:Question ){
             if( !type ) {
                 return resolve( "ID3" );
             }
-            tag.genre = type;
+            tag.genre = [type, ...(question.metadata?.tags||[])].join(";");
             NodeID3.write({ ...tag }, fileDirection.audioFileOf( question, type ), ()=>{
                 if( question.important && type === "Q+A" ){
                     tag.album="TOP";

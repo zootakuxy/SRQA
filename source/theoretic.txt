@@ -273,9 +273,11 @@ Eixo da via, é uma linha imaginária ou materializada que divide a faixa de rod
 129- Em que caso o condutor aproxima o eixo da via?
 O condutor aproxima-se do eixo da via, quando se pretende mudar de direção à esquerda numa via de dois sentidos.
 130-Quantos tipos de travão conheces?
-Conheço três tipos de travão, que são, travão hidráulico, travão mecânico e travão de ar comprimido.
+Conheço 3 tipos de travão, que são, travão hidráulico, travão mecânico e travão de ar comprimido.
 131- Quais são as modalidades de travão que conheces?
 As modalidades de travão são, travão de mão ou estacionamento, travão de pé ou serviço.
+131.1 – Qual a diferença entre os tipos e as modalidades de travão?
+A diferença entre o tipo e a modalidade de travão é que o tipo de travão são 3, sendo mecânico, hidráulico e de ar comprimido. Enquanto que a modalidade de travão são duas que são de mão ou estacionamento e de pé ou serviço.
 132-Como deve proceder o condutor para retroceder numa autoestrada?
 Para retroceder em uma autoestrada, o condutor deve continuar até encontrar um nó de ligação, que lhe permite entrar ou sair numa autoestrada através de ramais de acesso.
 133-Quantas matrículas têm um carro?
@@ -729,8 +731,6 @@ Quando for superior ao 1.2g por litro de sangue, é uma infração considerada d
 Taxa de alcoolemia, é a taxa de álcool presente no sangue.
 2169-Qual o significado da sigla I.P.D.E?
 A sigla I.P.D.E significa, identificar, prever, decidir e executar.
-2169-Quais as infrações são consideradas de Graves nas autoestradas?
-As infrações consideradas de graves nas autoestradas são, automóvel pesado transitar na via de trânsito mais a esquerda ou ainda para sem motivos justificados.
 2170-Qual o outro nome que podemos chamar o sinal de aproximação de curvas a direita e contracurva?
 O outro nome que podemos chamar aproximação de curva a direita e contracurva, seria, aproximação de sucessão de curvas sendo a primeira voltado para o lado direito.
 2171-Quando é que um condutor pode transitar fora de mão?
@@ -769,6 +769,9 @@ A condução sobre a influência de álcool, leva o condutor ao estado de eufori
 Para efeito de qualquer manobra o condutor deve pisar da linha descontinua para a linha continua.
 2189-Antes de iniciar qualquer manobra, qual é a primeira coisa que o condutor deve fazer?
 Antes de iniciar qualquer manobra a primeira coisa que o condutor deve fazer é verificar se o local e próprio e se não existe nenhuma sinalização que proíba a manobra.
+2190-Quais as infrações são consideradas de Graves nas autoestradas?
+As infrações consideradas de graves nas autoestradas são, automóvel pesado transitar na via de trânsito mais a esquerda ou ainda para sem motivos justificados.
+
 
 
 
