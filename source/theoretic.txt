@@ -276,7 +276,7 @@ O condutor aproxima-se do eixo da via, quando se pretende mudar de direção à 
 Conheço 3 tipos de travão, que são, travão hidráulico, travão mecânico e travão de ar comprimido.
 131- Quais são as modalidades de travão que conheces?
 As modalidades de travão são, travão de mão ou estacionamento, travão de pé ou serviço.
-131.1 – Qual a diferença entre os tipos e as modalidades de travão?
+131.1-Qual a diferença entre os tipos e as modalidades de travão?
 A diferença entre o tipo e a modalidade de travão é que o tipo de travão são 3, sendo mecânico, hidráulico e de ar comprimido. Enquanto que a modalidade de travão são duas que são de mão ou estacionamento e de pé ou serviço.
 132-Como deve proceder o condutor para retroceder numa autoestrada?
 Para retroceder em uma autoestrada, o condutor deve continuar até encontrar um nó de ligação, que lhe permite entrar ou sair numa autoestrada através de ramais de acesso.
@@ -757,8 +757,6 @@ Curvas, são trocos de via que alteram uma reta.
 É considerado estacionamento abusivo, quando o veículo esteja imobilizado dentro de parque de estacionamento por mais de 30 dias, nas faixas de rodagem por mais de 48 horas e se for reboque ou semirreboque, por mais de 72 horas.
 2184-Qual a diferença entre estacionamento proibido e estacionamento abusivo?
 A diferença entre estacionamento proibido e estacionamento abusivo, é que estacionamento proibido, é quando imobilizamos os veículos nos lugares onde encontramos sinalizações que proíbe o estacionamento, já o estacionamento abusivo, é quando excedemos o tempo permitido para estacionar.
-2184-Quas são os estados físico e psicológicos que a condução pode levar o condutor?
-A condução em uma autoestrada, leva o condutor ao estado de fadiga, por causa de monotonia da própria circulação, já a condução dentro de localidade leva o condutor ao estado de fadiga, devido a natureza do próprio pavimento, enquanto que, condução sobre a influência de álcool leva ao estado de euforia.
 2185-Condução sobre na autoestrada leva o condutor a que estado?
 Condução na autoestrada, leva o condutor a um estado de sonolência, por causa da monotonia da própria circulação.
 2186-Condução dentro das localidades leva o condutor a que estado?
@@ -771,9 +769,5 @@ Para efeito de qualquer manobra o condutor deve pisar da linha descontinua para 
 Antes de iniciar qualquer manobra a primeira coisa que o condutor deve fazer é verificar se o local e próprio e se não existe nenhuma sinalização que proíba a manobra.
 2190-Quais as infrações são consideradas de Graves nas autoestradas?
 As infrações consideradas de graves nas autoestradas são, automóvel pesado transitar na via de trânsito mais a esquerda ou ainda para sem motivos justificados.
-
-
-
-
-
-
+2191-Quas são os estados físico e psicológicos que a condução pode levar o condutor?
+A condução em uma autoestrada, leva o condutor ao estado de fadiga, por causa de monotonia da própria circulação, já a condução dentro de localidade leva o condutor ao estado de fadiga, devido a natureza do próprio pavimento, enquanto que, condução sobre a influência de álcool leva ao estado de euforia.
