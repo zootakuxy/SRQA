@@ -67,7 +67,7 @@ O depósito de combustível, serve para armazenar combustível.
 24.1 - Para que serve a bomba mecânica ou elétrica de combustível?
 Bomba mecânica ou elétrica de combustível, serve para chupar o combustível do depósito e enviar ao carburador.
 25-De que se compõe uma bomba mecânica ou elétrica de combustível?
-A bomba mecânica ou elétrica de combustível, está composto por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas sendo uma de entrada e outra de saída de combustível. Repetindo, a bomba mecânica ou elétrica de combustível, está composta por, corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas, sendo uma de entrada e outra de saída de combustível
+A bomba mecânica ou elétrica de combustível, está composto por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas sendo uma de entrada e outra de saída de combustível. Repetindo, a bomba mecânica ou elétrica de combustível, está composta por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas, sendo uma de entrada e outra de saída de combustível, de novo, a bomba mecânica ou elétrica de combustível, está composta por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas, sendo uma de entrada e outra de saída de combustível.
 26-Para que serve carburador?
 O carburador, serve para transformar o combustível líquido numa mistura inflamável por ação de corrente de alta tensão.
 27-Em quantas partes está dividida o carburador?
@@ -95,7 +95,7 @@ O sistema de injeção é composto por bomba injetora, injetores, bomba mecânic
 38-Para que serve uma bomba injetora?
 Bomba injetora, é um órgão que serve para distribuir gasóleo aos injetores.
 39-De que se compõe uma bomba injetora?
-Uma bomba injetora é composta por corpo da bomba, veio de ressalto e tantos elementos como cilindro compõe o motor. Repetindo, a bomba injetora, está composta pelo corpo de bomba, veio de ressaltos e tantos elementos como cilindro compõe o motor.
+Uma bomba injetora é composta por corpo da bomba, veio de ressalto e tantos elementos como cilindro compõe o motor. Repetindo, a bomba injetora, está composta pelo corpo de bomba, veio de ressaltos e tantos elementos como cilindro compõe o motor, de novo, a bomba injetora, está composta pelo corpo de bomba, veio de ressaltos e tantos elementos como cilindro compõe o motor.
 40-Para que servem os injetores?
 Os injetores, serve para pulverizar o gasóleo nas câmaras de combustão.
 41- De que se compõe um injetor?
@@ -105,7 +105,7 @@ As peças que fazem parte de sistema de arrefecimento ou refrigeração são, bo
 43-Para que serve bomba de água?
 A bomba de água, serve para tirar água quente do motor e levar a água fria.
 44-De que se compõe uma bomba de água?
-A bomba de água, está composta por corpo de bomba, mola, veio com rolamento, turbina e empanque. Repetindo, a bomba de água, esta composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque.
+A bomba de água, está composta por corpo de bomba, mola, veio com rolamento, turbina e empanque. Repetindo, a bomba de água, esta composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque, de novo, a bomba de água, esta composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque.
 45-Para que serve o ventilador?
 O ventilador, serve para arrefecer a água que encontra dentro de radiador.
 46-Quais são as peças que fazem parte de sistema elétrico?
@@ -222,7 +222,7 @@ Os cubos das rodas diretrizes, esta composta por um redentor, dois rolamentos, u
 98-Para que serve a bomba de óleo?
 Serve para fazer passar óleo por todos os pontos que necessitam de lubrificação dentro do motor.
 99-De que se compõe a bomba de óleo?
-Compõe-se por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base. Repetindo, a bomba de óleo, está composto por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base.
+Compõe-se por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base. Repetindo, a bomba de óleo, está composto por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base, de novo, a bomba de óleo, está composto por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base.
 100-Quais são as possíveis avarias da bomba de óleo?
 Bomba danificada, veio partido, carretos presos e filtro com impureza.
 101-Como podemos descobrir a avaria na bomba de óleo?
@@ -273,12 +273,12 @@ sistema de arrefecimento ou refrigeração, Sistema elétrico, sistema de transm
 sistema de lubrificação, sistema de inflamação, sistema de suspensão e sistema de direção.
 2011-Quantas bombas podemos encontrar no veículo?
 Num veículo, podemos encontrar 4 bombas que são, bomba mecânica ou elétrica de combustível, bomba de água, bomba injetora e bomba de óleo. <break time=”1s”/>
-Bomba mecânica ou elétrica de combustível, serve para chupar combustível e depósito e enviar para o carburador. A bomba mecânica ou elétrica de combustível, está composta por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas, sendo uma de entrada e outra de saída de combustível.
-Bomba de água, serve para tirar água quente do motor e levar água fria. A bomba de água, está composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque.
-Bomba injetora, serve para distribuir gasóleo aos injetores. A bomba injetora, está composta por corpo de bomba, veio de ressalto e tantos elementos como cilindro compõe o motor.
-Bomba de óleo, serve para fazer passar óleo a todos os pontos que necessitam de lubrificação. A bomba de óleo, está composta por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base.
+Bomba mecânica ou elétrica de combustível, serve para chupar combustível e depósito e enviar para o carburador. A bomba mecânica ou elétrica de combustível, está composta por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas, sendo uma de entrada e outra de saída de combustível, repetindo, a bomba mecânica ou elétrica de combustível, está composta por corpo de bomba, haste, mola, diafragma, alavanca e duas válvulas, sendo uma de entrada e outra de saída de combustível.
+Bomba de água, serve para tirar água quente do motor e levar água fria. A bomba de água, está composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque, repetindo, a bomba de água, está composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque.
+Bomba injetora, serve para distribuir gasóleo aos injetores. A bomba injetora, está composta por corpo de bomba, veio de ressalto e tantos elementos como cilindro compõe o motor, repetindo, a bomba injetora, está composta por corpo de bomba, veio de ressalto e tantos elementos como cilindro compõe o motor.
+Bomba de óleo, serve para fazer passar óleo a todos os pontos que necessitam de lubrificação. A bomba de óleo, está composta por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base, repetindo, a bomba de óleo, está composta por corpo de bomba, um veio com carreto sem fim e dois carretos internos na base.
 2012-Qual a diferença entre o careto condutor e o careto conduzido?
-A diferença entre o careto condutor e o careto conduzido é que o careto condutor tem metade dos dentes de um careto conduzido. Enquanto o careto condutor da uma volta o carreto conduzido dá meia volta. O careto condutor dá o dobro de volta que o carreto conduzido dá.
+A diferença entre o careto condutor e o careto conduzido é que o careto condutor tem metade dos dentes de um careto conduzido. Enquanto o careto condutor da uma volta o carreto conduzido dá meia volta.
 2013-Reservado?
 2014-Reservado?
 2015-Reservado?
