@@ -47,7 +47,7 @@ export function id3Question( fileDirection:FileDirections, question:Question ){
             if( !type ) {
                 return resolve( "ID3" );
             }
-            tag.genre = [type, ...(question.metadata?.tags||[])].join(";");
+            tag.genre = type;
             NodeID3.write({ ...tag }, fileDirection.audioFileOf( question, type ), ()=>{
                 if( question.important && type === "Q+A" ){
                     tag.album="TOP";
