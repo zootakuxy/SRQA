@@ -12,7 +12,8 @@ export type QuestionPlayed = {
     repeat?:number
 }
 export type PlaylistStatus = {
-    played:QuestionPlay[]
+    played:QuestionPlay[],
+    playlist:QuestionPlay[]
 }
 
 
@@ -54,7 +55,10 @@ export class Playlist {
 
             console.log( "Playing", list.length, "questions of", this._playlist.length );
             if( opts.random ) list = this.shuffle( list );
+            this.status.playlist = JSON.parse( JSON.stringify( list ));
+            this.player.saveStatus( this );
             let first = list.shift();
+
 
             let next = ( question:QuestionPlay )=>{
 

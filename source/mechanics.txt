@@ -105,7 +105,7 @@ As peças que fazem parte de sistema de arrefecimento ou refrigeração são, bo
 43-Para que serve bomba de água?
 A bomba de água, serve para tirar água quente do motor e levar a água fria.
 44-De que se compõe uma bomba de água?
-A bomba de água, está composta por corpo de bomba, mola, veio com rolamento, turbina e empanque. Repetindo, a bomba de água, esta composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque, de novo, a bomba de água, esta composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque.
+A bomba de água, está composta por corpo de bomba, mola, veio com rolamento, turbina e empanque. Repetindo, a bomba de água, esta composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque. De novo, a bomba de água, esta composta pelo corpo de bomba, mola, veio com rolamento, turbina e empanque.
 45-Para que serve o ventilador?
 O ventilador, serve para arrefecer a água que encontra dentro de radiador.
 46-Quais são as peças que fazem parte de sistema elétrico?
@@ -136,8 +136,6 @@ A caixa de velocidade está composta por, veio primário, veio secundário e um 
 Diferencial, serve para transformar o movimento retilíneo em movimento transversal e permitir que a roda de fora nas curvas dê mais volta que as de dentro, evitando desgaste e derrapagem de pneus.
 59- De que se compõe um diferencial?
 Um diferencial está composto por pinhão de ataque, roda de coroa, duas meia concha, cruzetas, dois planetários e dois ou quatro satélites.
-
-
 60-Para que serve o veio de transmissão?
 O veio de transmissão, serve para transmitir o movimento da caixa de velocidade ao diferencial.
 61-De que se compõe o veio de transmissão?
@@ -166,8 +164,6 @@ Pé da biela, é a parte da biela que fica ligado aos pistões através de cavil
 72-O que é uma cambota?
 A cambota, é um veio de aço com diversas manivelas que está apoiada nos bronzes e apertada por chumaceira. Ela recebe o movimento dos pistões através das bielas. Na ponta de frente encontramos dente de lobo, que serve para engrenar o engate para o arranque manual. Existe ainda um carreto condutor que serve para ligar ao carreto conduzido por veio excêntrico, e na base vamos encontrar o volante do motor.
 
-
-
  73-O que é um veio excêntrico?
 Veio excêntrico, é um veio de aço com diversos ressaltos que serve para fazer abrir e fechar as válvulas através de tuches, fazendo funcionar a bomba de óleo e a bomba mecânica de combustível.
 74-O que entendes por rodas motrizes?
@@ -184,7 +180,7 @@ Conheço dois tipos de arrefecimentos, por ar e por água.
 Serve para reproduzir as faíscas elétricas que inflamam a mistura gasosa comprimida na câmara de explosão.
 80-Para que serve o sincronizador?
 Sincronizador, serve pra suavizar o trabalho na caixa de velocidade.
-81-Para que serve um servo-freio?
+81-Para que serve um servo-f.reio?
 Serve para auxiliar o condutor na travagem, e tornar mais suave o seu trabalho.
 82- Qual a ordem de um motor de 4 cilindros?
 A ordem do motor de 4 cilindros é 13|42, sendo 1 3, 4 2, de novo, 1 3, 4 2.
@@ -339,3 +335,21 @@ O veículo, está dividido em três partes que são, quadro ou chassi, carroçar
 Quadro ou chassi, suporta toda a estrutura do veículo. Ela é a estrutura interna.
 Carroçaria, é a estrutura externa do veículo.
 Sistemas, que está composto por vários sistemas, dentre eles o mais importante é o motor, a direção e a transmissão.
+2043-Quais são os tipos de combustível que conhece?
+Conheço dois tipos de combustíveis, combustível ativo que é gasolina e combustível passivo que é gasóleo.
+2044-Qual o órgão responsável por todo o funcionamento do veículo?
+O órgão responsável por todo o funcionamento do veículo é o motor.
+2045-Quantos tipos de sistema de direção conheces?
+Conheço dois tipos de sistemas de direção, sistema de direção hidráulico.
+A direção hidráulica, é o mesmo que direção assistida, esse sistema de direção aumenta o conforto do condutor, por isso pode acabar contribuindo em aumento de sonolência na condução.
+A direção mecânica, diminui o conforto do condutor e pode aumentar a fadiga durante a condução.
+2046-Quantos tipos de caixas de velocidade existe?
+Existem dois tipos de caixa de velocidade, manual e automática.
+2047-Quais são as componentes que fazem parte de sistema de direção?
+As componentes que fazem parte dos sistemas de direção são, volante, roda motora e roda diretrizes?
+2048-Para que serve o volante?
+O volante, serve para controlar a trajetória do veículo.
+2049-Quantos volantes podemos encontrar em um veículo?
+Nuns veículos, podemos encontrar dois volantes, que são, volante do motor e volante do condutor.
+2050-Quantos tipos de pneus existem?
+Existem dois tipos de pneus, pneu antecâmara que também é conhecido como o tu-plex e pneu com câmara.

@@ -109,8 +109,10 @@ Em caso de acidente, o condutor deve primeiramente socorrer os feridos o mais r�
 Para estacionar veículo na via publica, verifico primeiramente se local é próprio, e se não existe nenhuma sinalização indicando o contrário. Caso não, encosto o mais possível á direita. Se for a descer viro as rodas frente para os passeios e engreno na mudança de retaguarda, e se for a subir engreno na mudança de primeira. Também, se for num local de má visibilidade devemos deixar a luz de presença acesa. E antes de sair do veículo, devo acionar o travão de mão.
 54-O que entendes por velocidade?
 Velocidade, é o percurso feito por um móvel numa unidade de tempo.
+#Velocidade #Definição
 55-Como classifica a velocidade?
 A velocidade classifica-se em velocidade instantânea, velocidade média e velocidade excessiva.
+#Velocidade #Classificação
 56-O que entendes por velocidade excessiva?
 Velocidade excessiva, é uma velocidade em que o condutor não consegue parar num espaço livre e visível a sua frente, ou quando o condutor ultrapassar os limites das velocidades imposto pela sinalização.
 57-O que entendes por visibilidade reduzida?
@@ -216,6 +218,7 @@ Os documentos que nos habilitam de conduzir são, carta de condução ou licenç
 Para circular com os veículos na via publica, precisamos ter bilhete de identidade, carta de condução, livrete de veículo, registo de propriedade, imposto de circulação e apólice de seguro se tiver.
 103-Onde é proibido parar e estacionar?
 É proibido parar e estacionar, dentro das localidades a menos que 5 metros, fora da localidade a menos que 50 metros das curvas, pontes, tuneis, cruzamento ou entroncamentos, passagem de nível, passadeira para piões, locais de má visibilidade, e onde encontrar sinal de proibição de parar ou estacionar.
+#Proibição
 104-Quais são os acessórios para um veículo automóvel?
 Os acessórios de um veículo automóvel são, espelho retrovisor, cinto de segurança, pala para o sol, limpa para-brisas, sinal de pré-sinalização de perigo, chave de roda, macaco de elevação, pneu suplente e colete refletor.
 105-Quais são os acessórios para um motociclo?
@@ -287,7 +290,7 @@ A circulação de trânsito deve ser feita sempre pelo lado direito, só podendo
 135-Porquê que o trânsito de veículo é feito pelo lado direito?
 O trânsito de veículo é feito pelo lado direito, para evitar acidentes.
 136-Em que caso pode-se utilizar os passeios?
-Pode-se utilizar os passeios, apenas quando o mesmo dá acesso a propriedade privada ou para facilitar a passagem de veículos prioritários em vias estreitas.
+Pode-se utilizar os passeios, apenas quando o mesmo dá acesso a sua residência assim o exigir, ou para facilitar os veículos em missão de socorro com a marcha devidamente assinalada.
 137-Qual é a idade mínima para conduzir?
 - Para ciclomotores, as idades mínimas são de 16 anos.
 - Para os motociclos e ligeiros, as idades mínimas são de 18 anos.
@@ -368,7 +371,7 @@ Na hierarquia dos sinais do trânsito encontramos.
 5º lugar, a sinalização de marcas rodoviárias.
 6º lugar, a regra geral do trânsito.
 2011-Qual é a velocidade máxima para os automóveis pesado de passageiro nas autoestradas?
-A velocidade máxima para automóveis pesado de passageiro nas autoestradas é de 100 km/h, com reboque é de 90 km/h.
+A velocidade máxima para automóveis pesado de passageiro nas autoestradas é de 90 km/h.
 2012-Em que caso o condutor deve reduzir a velocidade?
 A velocidade deve ser especialmente reduzida dentro das localidades junto das escolas, jardins, creches, hospitais, onde existe aglomeração de pessoas, e todos os locais de má visibilidade, tais como, curvas, cruzamento ou entroncamento, pontes, túneis e lombas.
 2013-O que nos diz o sinal de via com prioridade?
@@ -568,7 +571,8 @@ O extintor de incêndio, é obrigatório, nos automóveis pesado de passageiro e
 2110-O que entendes por distância de reação!?
 Distância de reação, sé a distância percorrida durante o tempo de reação e depende da velocidade do veículo e do tempo de reação.
 2111-O que entendes por tempo de reação!?
-Tempo de reação, é o tempo que decorre entre o momento que o condutor vê o obstáculo e o momento que o condutor começa a agir. Esse tempo varia de pessoa para pessoa, idade, doença, distração, fadiga, sonolência, stress, droga, medicamentos, álcool e experiência. Esse tempo, deve ser no máximo de 1 segundo e nunca diminui, porem, pode apenas aumentar devido aos fatores indicados anteriormente. A única coisa que diminui é a nossa capacidade física.
+O tempo de reação é o tempo necessário para o condutor Identificar, Prever, Decidir e Executar (IPDE), ou seja, é o tempo decorrido desde o momento em que o condutor vê o obstáculo até o momento que o condutor começa a agir.
+Esse tempo varia de pessoa para pessoa, idade, doença, distração, fadiga, sonolência, stress, droga, medicamentos, álcool e experiência. Esse tempo, deve ser no máximo de 1 segundo e nunca diminui, porem, pode apenas aumentar devido aos fatores indicados anteriormente. A única coisa que diminui é a nossa capacidade física.
 2112-Qual a diferença entre o tempo de reação e a distância de reação!?
 A diferença existente entre o tempo de reação e a distância de reação, é que o tempo de reação, é o tempo que leva para o condutor começar a agir. Já a distância de reação, é a distância percorrida durante o tempo de reação, ou seja, a distância entre instante da perceção do obstáculo até o instante de reação do condutor, onde essa distância depende da velocidade do veículo e do tempo de reação.
 2113-Quando a ultrapassagem é proibida!?
@@ -579,6 +583,7 @@ Imediatamente antes de passagem de nível, passagem para peões, cruzamentos e e
 Vias com larguras insuficientes.
 Ultrapassar um veículo que esteja a ultrapassar um terceiro.
 Ou ainda quando existir qualquer sinalização que proíba a manobra.
+#Proibição
 
 2114-Onde é proibido efetuar inversão do sentido de marcha!?
 A inversão do sentido de marcha, é proibida;
@@ -589,6 +594,7 @@ Autoestrada e vias de sentidos únicos.
 Lugares de visibilidades insuficientes ou de características inapropriadas.
 Sempre que se verifica grandes intensidades de trânsito.
 Ou ainda quando existir qualquer sinalização que proíba a manobra.
+#Proibição
 2115-Qual a diferença entre o trânsito e vias públicas!?
 A diferença entre o trânsito e via pública, é que trânsito consistem em circulação de pessoas, animais e veículos nas vias publicas. Já vias públicas, são todas as estradas, ruas e caminhos, aberta ao trânsito.
 2116-Quais são os tipos de paragem que conheces!?
@@ -643,6 +649,7 @@ A luz amarela do sinal luminoso regulador do trânsito significa ser prudente.
 O sinal de pré-sinalização do perigo é obrigatório para todos os veículos automóveis.
 2136-O que nos indica o sinal de proibição de ultrapassar?
 O sinal de proibição de ultrapassar, indica que todos os veículos estão proibidos de ultrapassar.
+#Proibição
 2137-O que entendes por condução defensiva?
 Condução defensiva, é conduzir de modo a garantir a minha segurança e ao dos demais utentes da via pública.
 2138-O que entendes por campo visual?
@@ -757,6 +764,7 @@ Curvas, são trocos de via que alteram uma reta.
 É considerado estacionamento abusivo, quando o veículo esteja imobilizado dentro de parque de estacionamento por mais de 30 dias, nas faixas de rodagem por mais de 48 horas e se for reboque ou semirreboque, por mais de 72 horas.
 2184-Qual a diferença entre estacionamento proibido e estacionamento abusivo?
 A diferença entre estacionamento proibido e estacionamento abusivo, é que estacionamento proibido, é quando imobilizamos os veículos nos lugares onde encontramos sinalizações que proíbe o estacionamento, já o estacionamento abusivo, é quando excedemos o tempo permitido para estacionar.
+#Proibição
 2185-Condução sobre na autoestrada leva o condutor a que estado?
 Condução na autoestrada, leva o condutor a um estado de sonolência, por causa da monotonia da própria circulação.
 2186-Condução dentro das localidades leva o condutor a que estado?
@@ -771,3 +779,19 @@ Antes de iniciar qualquer manobra a primeira coisa que o condutor deve fazer é 
 As infrações consideradas de graves nas autoestradas são, automóvel pesado transitar na via de trânsito mais a esquerda ou ainda para sem motivos justificados.
 2191-Quas são os estados físico e psicológicos que a condução pode levar o condutor?
 A condução em uma autoestrada, leva o condutor ao estado de fadiga, por causa de monotonia da própria circulação, já a condução dentro de localidade leva o condutor ao estado de fadiga, devido a natureza do próprio pavimento, enquanto que, condução sobre a influência de álcool leva ao estado de euforia.
+2192-O que acontece se o travão atuar de forma desigual nas rodas?
+Se o travão atuar de forma desigual nas rodas, o veículo perde a estabilidade e muda de trajetória.
+2193-Quais as consequências de pressão de ar incorreta nos pneus?
+Quando a pressão do ar for exagerada nos pneus fara desgastar a zona central do mesmo, entretanto, quando a pressão do ar não for o suficiente, fara sobreaquecer o pneu.
+2194-O que entendes por manobra de mudança de direção?
+A manobra de mudança de direção, é a manobra que permite alterar a trajetória do veículo para o lado esquerdo ou direito.
+2195-O que entendes por escapatória?
+Escapatória, é um local na auto estrada exclusivamente destinado para imobilização forçada dos veículos que tiverem avarias mecânicas nos travões.
+2196-Porque que não podemos considerar o motociclo de automóveis ligeiros?
+Não podemos considerar os motociclos de automóveis ligeiros, porque a sua lotação, mesmo com carro lateral não excede 3 lugares.
+2197-Por que lado podemos efetuar a manobra de ultrapassagem na autoestrada?
+A manobra de ultrapassagem na autoestrada, deve ser sempre feito pelo lado esquerdo.
+2198-Qual dos travões é mais eficaz na travagem e porque?
+O travão mais eficaz na travagem é o travão de pé ou serviço, isso porque ele atua sobre as quatros rodas do veículo em simultâneo. Enquanto, o travão de mão ou estacionamento atua apenas nas rodas traseiras.
+2199-Qual a velocidade máxima para automóveis com reboque fora de localidade?
+A velocidade máxima para todos os automóveis com reboque fora de localidade é de 70 km/h.

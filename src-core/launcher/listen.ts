@@ -9,13 +9,23 @@ let player = new Player({
 loadQuestion( {
     sourceName: [
         "mechanics",
-        // "theoretic",
+        "theoretic",
     ]
 }).then(soundList => {
+    console.log( soundList.map( value => value.question).join("\n"));
     player.addPlayList( "loadAllQuestionPlaylist", soundList );
+    console.log( "adaadad")
     player.play({
         replay: false,
         replayAll: true,
-        random: true
+        random: true,
+        theme: true,
+        //language=file-reference
+        themeFile: Path.join( __dirname, "../../source/assets/themes/Ivan-Torrent-Icarus-_feat.-Julie-Elven_.mp3" ),
+        themeVolume: 7,
+        themeVolumeScale: 100
+    }).then( value => {
+
     })
-} );
+});
+

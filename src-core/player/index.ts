@@ -11,9 +11,13 @@ import {Playlist, PlaylistStatus} from "./playlist";
 export type QuestionPlay = Question & { fdir:  FileDirections }
 
 export interface PlayOptions {
+    theme:boolean,
     replay:boolean,
     replayAll:boolean,
-    random:boolean
+    random:boolean,
+    themeFile: string,
+    themeVolume:number,
+    themeVolumeScale: number
 }
 
 export interface PlayerOptions {
@@ -44,7 +48,7 @@ export class Player {
             let raw = fs.readFileSync(filename ).toString();
             status = JSON.parse( raw );
         } else {
-            status = { played:[] }
+            status = { played:[], playlist:[] }
         }
         playList.onAttach( this, status );
         return playList;
@@ -61,24 +65,65 @@ export class Player {
     }
 
     play( opts:PlayOptions ){
-        let _playlist = [ ...this.playlist ];
-        let next = ()=>{
-            let _next = _playlist.shift();
-            return _next.play( opts );
+        let withTheme = false;
+        if( opts.theme && opts.themeFile &&  fs.existsSync( opts.themeFile )){
+            withTheme  =true;
+            let playThem = ()=>{
+                return new Promise( resolve => {
+                    console.log( "Playing theme...")
+                    let scale = opts.themeVolumeScale || 100;
+                    let volume = opts.themeVolume || 5;
+                    let scaleVolume = volume/scale;
+                    this.playIn( opts.themeFile, `current-theme${Path.extname( opts.themeFile )}`, scaleVolume )
+                        .then( value => {
+                            console.log( { value })
+                            playThem().then( value1 => {
+
+                            });
+                        }).catch( reason => {
+                        console.log( reason )
+                    })
+                })
+            }
+            playThem().then( value => {
+
+            })
         }
-        return next();
+
+
+        let _playlist = [ ...this.playlist ];
+
+        return new Promise((resolve, reject) => {
+            let next = ()=>{
+                let _next = _playlist.shift();
+                return _next.play( opts );
+            }
+            if( withTheme ){
+                setTimeout( ()=>{
+                    next().then( value => resolve( value ));
+                }, 1000 );
+            } else next().then( value => resolve( value ))
+        })
+
     }
     playFile( filename:string ):Promise<boolean>{
+        return this.playIn( filename, "current-audio.mp3", 1 );
+    }
+
+    private playIn( filename:string, inName:string, volume:number ):Promise<boolean>{
         return new Promise( resolve => {
+
             if( !fs.existsSync( filename ) ) {
                 console.log( "file not found", filename );
                 return resolve( false );
             }
-            let filePlay = Path.join( this.dirname, "current-audio.mp3" );
+            let filePlay = Path.join( this.dirname, inName);
+            console.log( { filename, inName, volume,filePlay });
+            if( !fs.existsSync( Path.dirname(filePlay))) fs.mkdirSync( Path.dirname( filePlay ));
             fs.copyFileSync( filename, filePlay );
             filePlay = filename;
             if( !filePlay.startsWith(`"`) && !filePlay.endsWith(`"`) ) filePlay = `"${filePlay}"`
-            sound.play( filePlay, 1 ).then( value => {
+            sound.play( filePlay, volume ).then( value => {
                 return resolve( true );
             });
         });
